@@ -1,0 +1,223 @@
+{
+    "result": {
+        "id": "UzpfSTE2NTU5MTcwMzUwNjI5Nzg6Vks6MTY1NTkxNzAzNTA2Mjk3OA==",
+        "post_id": "1655917035062978",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1655917035062978/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "THỦ ĐOẠN MỚI: DÙNG A.I TẠO CHÂN DUNG, QUA MẶT SINH TRẮC HỌC NGÂN HÀNG \n\nPhát hiện hàng triệu đối tượng đánh bạc, rửa tiền trên cả nước…..liên quan đến 1 đường dây do người Đài Loan, Trung Quốc cầm đầu. Đáng nói, thủ đoạn rửa tiền của đường dây này lần đầu tiên xuất hiện tại Việt Nam. Đó là tạo clip A.I của chủ tài khoản, qua mặt hệ thống sinh trắc học của ngân hàng. Từ đó chuyển tiền đến hàng nghìn tài khoản để công an khó xác định dòng tiền bất hợp pháp. \nNhóm 14 đối tượng…. mỗi tháng rửa khoảng 200 tỷ đồng. Trong 6 tháng đã rửa hơn 1.000 tỷ đồng. Cơ quan điều tra đã phong tỏa hơn 500 tài khoản ngân hàng.\n\n#thoisuvtv #vtv",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "AI phát triển, thì tộ:i phạm cũng vậy 👀"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Mọi người nhớ cảnh giác: "
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "+  ⛓ Bật xác thực 2 bước cho tất cả tài khoản quan trọng"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "+ 🪪 Không đưa công khai thông tin cá nhân lên mạng"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "+ 📱 Báo công an ngay khi có dấu hiệu bị lừ:a đảo"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fbaio_share",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fbaio_share",
+                            "__isNode": "Hashtag",
+                            "id": "8771715079560378"
+                        },
+                        "length": 12,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fbaio_share"
+            }
+        ],
+        "hashtags": [
+            "#thoisuvtv",
+            "#vtv"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 7,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 6,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1748584545000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1655917035062978",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1037280791824118",
+            "original_content_owner_id": "100066266210991",
+            "story_location": 9,
+            "story_attachment_style": "messenger_generic_template",
+            "ent_attachement_type": "FBShortsShareAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1037280791824118",
+                        "sharedMediaID": "1655917035062978",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1748584545,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1655917035062978"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=LZ4YD__PP56Sdc6cXocZlw&_nc_ss=7a3a8&oh=00_Af2_PO2ivUUeeFszGMm8a2upL4WjjZDIkuHkRfi2kuhrYg&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

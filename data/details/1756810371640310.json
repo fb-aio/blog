@@ -1,0 +1,223 @@
+{
+    "result": {
+        "id": "UzpfSTE3NTY4MTAzNzE2NDAzMTA6Vks6MTc1NjgxMDM3MTY0MDMxMA==",
+        "post_id": "1756810371640310",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1756810371640310/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "3004591179712462",
+                "url": "https://www.facebook.com/photo/?fbid=3004591179712462&set=gm.1756810371640310&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/560784270_3004591183045795_9038969925092638060_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=IR-uokBM43MQ7kNvwF-V2JP&_nc_oc=AdpSWoh-RTXZPheIXoyM1krjyowX-fSMu3gmeCDjyfMGsj7IMNMNBC0-Psr1CLwkvko&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=P1Jt4hSdsZe7GXoFEtR_hg&_nc_ss=7a3a8&oh=00_Af0d3kjVTchJOAoZ2Co-BdM9T9KLRz6SC90HysUUqOpG_g&oe=69E75EFB",
+                "height": 2400,
+                "width": 1080,
+                "accessibility_caption": "Không có mô tả ảnh.",
+                "accent_color": "FF262729",
+                "real_width": 1080,
+                "real_height": 2400
+            },
+            "video": null
+        },
+        "text": "Vâng, tạo group giả mạo Thông tin chính phủ luôn 🥶\nMấy ông muốn uống trà đá dữ vậy sao  🤨\n\nLinh nhóm dưới còm 😑\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 50,
+                        "offset": 0
+                    }
+                ],
+                "text": "Vâng, tạo group giả mạo Thông tin chính phủ luôn 🥶"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Mấy ông muốn uống trà đá dữ vậy sao  🤨"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Linh nhóm dưới còm 😑"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fbaio_share",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fbaio_share",
+                            "__isNode": "Hashtag",
+                            "id": "8771715079560378"
+                        },
+                        "length": 12,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fbaio_share"
+            }
+        ],
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 7,
+            "total_count": 12,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 21,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 15,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 6,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1760237239000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1756810371640310",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "3004591179712462",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1760237239,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1756810371640310"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=P1Jt4hSdsZe7GXoFEtR_hg&_nc_ss=7a3a8&oh=00_Af166ejjKFhSUt-WbEX3wl3zvDTsWtbTSs6nPu5aTOHS3g&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

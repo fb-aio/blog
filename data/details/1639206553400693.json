@@ -1,0 +1,213 @@
+{
+    "result": {
+        "id": "UzpfSTE2MzkyMDY1NTM0MDA2OTM6Vks6MTYzOTIwNjU1MzQwMDY5Mw==",
+        "post_id": "1639206553400693",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1639206553400693/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Quá chuẩn 😎\n\nNói thật tới giờ mình vẫn chưa học để lấy tấm bằng ngoại ngữ nào 😌 (ngoại trừ bằng B để ra trường)\n\nMặc dù làm ngành IT phải xem tiếng anh mỗi ngày 🥴\n\nMấy kiến thức chứng chỉ cao của ielts, toeic thấy nó cứ cao siêu thế nào, nhiều khi giao tiếp thường ngày không dùng tới luôn ấy 🤪\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 14,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 13,
+                    "name": "Thích"
+                },
+                {
+                    "id": "613557422527858",
+                    "count": 1,
+                    "name": "Thương thương"
+                }
+            ]
+        },
+        "shares": 2,
+        "created_time": 1746364261000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1639206553400693",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1137757788389000",
+            "original_content_owner_id": "100064643681682",
+            "page_id": "912918568785331",
+            "story_location": 9,
+            "attached_story_type": "EntStatusCreationStory",
+            "page_insights": {
+                "100064643681682": {
+                    "page_id": "100064643681682",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100064643681682",
+                        "page_id_type": "page",
+                        "actor_id": "100064643681682",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1746353691,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1137757788389000"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1639206553400693",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100064643681682",
+                            "post_id": "1137757788389000",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1137757788389000",
+                        "sharedMediaID": "1639206553400693",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1746364261,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1639206553400693"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=izSWuA7PtSd7IzoXGLGMnw&_nc_ss=7a3a8&oh=00_Af1NFR6ZevZiFhljmAiyia4QpU750eMGwBSbmPPSNCEuBg&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA2NDY0MzY4MTY4MjoxMTM3NzU3Nzg4Mzg5MDAwOjExMzc3NTc3ODgzODkwMDA=",
+            "post_id": "1137757788389000",
+            "url": "https://www.facebook.com/thongtinchinhphu/posts/pfbid02c6zPpjKJX5CxanS1TDStedjjQYDemPpywrPX48xJn5EW9fQ8kgEBWJzrMCAH8P5Bl",
+            "media": {
+                "subAttachments": [],
+                "photo": null,
+                "video": null
+            },
+            "text": "🌐 Việc học ngoại ngữ cần được trả về đúng giá trị cốt lõi – đó là khả năng sử dụng ngôn ngữ để giao tiếp, học tập, làm việc và sống trọn vẹn trong một thế giới đang thay đổi từng ngày. \n\nNếu chỉ chạy theo điểm số và TẤM CHỨNG CHỈ, chúng ta đang dạy học sinh cách ghi nhớ để thi, thay vì cách lắng nghe và thấu hiểu người khác.\n\nDù được thiết kế nhằm giảm bớt áp lực thi cử, nhưng chính sách miễn thi tốt nghiệp đối với môn ngoại ngữ lại đang bị một bộ phận phụ huynh và học sinh hiểu sai, khiến việc luyện chứng chỉ trở thành một áp lực mới. \n\n---\n💙 Ngoại ngữ không phải là một cuộc đua, càng không nên trở thành gánh nặng. \n\nNó là cánh cửa mở ra thế giới-nhưng cánh cửa ấy chỉ thực sự có ý nghĩa khi người học bước qua bằng năng lực thực chất và đam mê, chứ không phải bằng một tờ giấy xác nhận.",
+            "text_format": {
+                "preset_id": "2032408867140667",
+                "background_color": "FF00ADFC",
+                "background_image": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.10873-6/386062029_2032408880473999_636544308513039999_n.jpg?stp=dst-jpg_p235x350_tt6&_nc_cat=1&ccb=1-7&_nc_sid=4bb800&_nc_ohc=D95_YlPWdjwQ7kNvwHPED01&_nc_oc=Ado2HyhXJ6hJ5M00ZMEOqKJc3CLYzexRCfEns9-7guq1pKdjqPn_F1Na8yIAbnW5MiU&_nc_zt=14&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=izSWuA7PtSd7IzoXGLGMnw&_nc_ss=7a3a8&oh=00_Af3tkBg0H--L9iTEAiFkCNL30zlIQ4xSVsFy3d_a1Fus4g&oe=69E73E6D",
+                "portrait_background_image": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.10873-6/386062029_2032408880473999_636544308513039999_n.jpg?stp=dst-jpg_p235x350_tt6&_nc_cat=1&ccb=1-7&_nc_sid=4bb800&_nc_ohc=D95_YlPWdjwQ7kNvwHPED01&_nc_oc=Ado2HyhXJ6hJ5M00ZMEOqKJc3CLYzexRCfEns9-7guq1pKdjqPn_F1Na8yIAbnW5MiU&_nc_zt=14&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=izSWuA7PtSd7IzoXGLGMnw&_nc_ss=7a3a8&oh=00_Af3tkBg0H--L9iTEAiFkCNL30zlIQ4xSVsFy3d_a1Fus4g&oe=69E73E6D",
+                "color": "FF074C72",
+                "font_weight": "BOLD",
+                "font_style": "NORMAL",
+                "text_align": "CENTER"
+            },
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Thông tin Chính phủ",
+                    "id": "100064643681682",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/thongtinchinhphu",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1746353691000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

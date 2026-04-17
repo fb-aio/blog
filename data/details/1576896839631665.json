@@ -1,0 +1,120 @@
+{
+    "result": {
+        "id": "UzpfSTE1NzY4OTY4Mzk2MzE2NjU6Vks6MTU3Njg5NjgzOTYzMTY2NQ==",
+        "post_id": "1576896839631665",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1576896839631665/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2757603667744549",
+                "url": "https://youtube.com/watch?v=clJCDHml2cA",
+                "uri": "https://external.fsgn2-9.fna.fbcdn.net/emg1/v/t13/6551241332417075077?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FclJCDHml2cA%2Fmaxresdefault.jpg&fb_obo=1&utld=ytimg.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p1000x522_q75_tt6&_nc_gid=_mexU8DA9AbNYJZhQgR3cg&_nc_oc=AdoDHoxAEqCjbNxMF7ctpSqXVr8VG17TrY3L-6d8Xf8x_JpSYbE0RSrlhRSiq-6uDj4&ccb=13-1&oh=06_Q3--AdBuCRAB1wu93EIO4-kx1UdMPqWWtDkuqiA0B_ZsDtlK&oe=69E390D5&_nc_sid=c97757",
+                "height": 522,
+                "width": 1000,
+                "accessibility_caption": "I built a DeepSeek R1 powered VS Code extension…"
+            },
+            "video": null
+        },
+        "text": "Chỉ cần 7p bạn sẽ học được:\n\n+ Cách viết extension cho Vscode 👌\n+ Cách chạy DeepSeek local 👀\n+ Cách tích hợp DeepSeek local vào extension vscode \n\n=> Tạo ra AI hỗ trợ lập trình cho bản thân mà không tốn 1 xu (20$) nào 🤖",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 39,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 28,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 8,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "613557422527858",
+                    "count": 3,
+                    "name": "Thương thương"
+                }
+            ]
+        },
+        "shares": 20,
+        "created_time": 1738561908000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1576896839631665",
+            "content_owner_id_new": "100004848287494",
+            "story_location": 9,
+            "story_attachment_style": "share",
+            "ent_attachement_type": "ExternalShareAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1576896839631665",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1738561908,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1576896839631665"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "url_id": "9520049504684461",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=_mexU8DA9AbNYJZhQgR3cg&_nc_ss=7a3a8&oh=00_Af0jSVgR7x60g3eJb32dkPn5Sy6taNt5Yhy6zU9CubK6pw&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

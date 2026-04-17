@@ -1,0 +1,203 @@
+{
+    "result": {
+        "id": "UzpfSTE2MDI3MzA3NTAzODE2MDc6Vks6MTYwMjczMDc1MDM4MTYwNw==",
+        "post_id": "1602730750381607",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1602730750381607/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": {
+                "id": "1822718521844041",
+                "url": "https://www.facebook.com/9999.hoangtran/videos/1822718521844041/?idorvanity=1154059318582088",
+                "thumbnail": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t15.5256-10/484349413_1349725356227134_2276963840197417277_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=50ce42&_nc_ohc=-6MISgUG8awQ7kNvwHGZF25&_nc_oc=AdqOJSfZjj1Zr6iEeuJIcI7Y4BxsD9QYLpFIJXmvUthv-H_s5niraMVCqtDNPWZCAc4&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=3K2_2nROvMUnR-43AYo_FQ&_nc_ss=7a3a8&oh=00_Af2oTtjZBJM_g6Rgo06NtjLbPRnsSlTSv8FKfFGesu_qhw&oe=69E77578",
+                "duration": 8532,
+                "width": 696,
+                "height": 976,
+                "original_width": 696,
+                "original_height": 976,
+                "publish_time": 0,
+                "audio_availability": "UNAVAILABLE",
+                "is_live_streaming": false,
+                "is_spherical": false,
+                "is_looping": true,
+                "loop_count": 10,
+                "source": {
+                    "variants": []
+                },
+                "sprite": {
+                    "uris": [],
+                    "thumbnail_width": 0,
+                    "thumbnail_height": 0,
+                    "num_images_per_row": 10,
+                    "max_number_of_images_per_sprite": 100,
+                    "time_interval_between_image": 1
+                }
+            }
+        },
+        "text": "# CHÍNH THỨC: Thế hệ **iPhone Gaming** mới vừa được trình làng 🤯\n\nCái iphone này xịn nhưng lạ lắm 👀\n\nLinh m:ua dứoi còm 🤖\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 13,
+                        "offset": 19
+                    }
+                ],
+                "text": "CHÍNH THỨC: Thế hệ iPhone Gaming mới vừa được trình làng 🤯"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fbaio_share",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fbaio_share",
+                            "__isNode": "Hashtag",
+                            "id": "8771715079560378"
+                        },
+                        "length": 12,
+                        "offset": 57
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "Cái iphone này xịn nhưng lạ lắm 👀\n\nLinh m:ua dứoi còm 🤖\n\n#fbaio_share"
+            }
+        ],
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 1,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 3,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 2,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 1,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1741930878000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1602730750381607",
+            "content_owner_id_new": "100004848287494",
+            "story_location": 9,
+            "story_attachment_style": "fb_shorts_creation",
+            "video_id": "1822718521844041",
+            "ent_attachement_type": "FBShortsStoryAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1741930878,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1602730750381607"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=3K2_2nROvMUnR-43AYo_FQ&_nc_ss=7a3a8&oh=00_Af3Ax7LnCxK1FtKjs-0Kjv5zC8Ys54dgW-MQdEV3kUrtaw&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

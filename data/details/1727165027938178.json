@@ -1,0 +1,249 @@
+{
+    "result": {
+        "id": "UzpfSTE3MjcxNjUwMjc5MzgxNzg6Vks6MTcyNzE2NTAyNzkzODE3OA==",
+        "post_id": "1727165027938178",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1727165027938178/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "￼✅ Bước 1: Tải ảnh của bạn lên chatgpt hoặc google gemini \n\n✅ Bước 2: Dán câu lệnh: \n> Create a 1/7 scale commercialized figurine of the characters in the picture, in a realistic style, in a real environment. The figurine is placed on a computer desk. The figurine has a round transparent acrylic base, with no text on the base. The content on the computer screen is a 3D modeling process of this figurine. Next to the computer screen is a toy packaging box, designed in a style reminiscent of high-quality collectible figures, printed with original artwork. The packaging features two-dimensional flat illustrations.\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "￼✅ Bước 1: Tải ảnh của bạn lên chatgpt hoặc google gemini \n"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "✅ Bước 2: Dán câu lệnh: "
+            },
+            {
+                "__typename": "ComposedBlockquoteBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                "block_type": "BLOCKQUOTE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Create a 1/7 scale commercialized figurine of the characters in the picture, in a realistic style, in a real environment. The figurine is placed on a computer desk. The figurine has a round transparent acrylic base, with no text on the base. The content on the computer screen is a 3D modeling process of this figurine. Next to the computer screen is a toy packaging box, designed in a style reminiscent of high-quality collectible figures, printed with original artwork. The packaging features two-dimensional flat illustrations."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fbaio_share",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fbaio_share",
+                            "__isNode": "Hashtag",
+                            "id": "8771715079560378"
+                        },
+                        "length": 12,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fbaio_share"
+            }
+        ],
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 3,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 15,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 10,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 3,
+                    "name": "Haha"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 2,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1757063773000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1727165027938178",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "2966823546822559",
+            "original_content_owner_id": "100004848287494",
+            "photo_id": "2966823110155936",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "2966823546822559",
+                        "sharedMediaID": "1727165027938178",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1757063773,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1727165027938178"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=ufzDl8bkS-ab6lhdk5gjpw&_nc_ss=7a3a8&oh=00_Af1zU8cLwRB4Bou0WpNwLVeqTAcL4vzPU4uHXHN4wYd1HA&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDAwNDg0ODI4NzQ5NDoyOTY2ODIzNTQ2ODIyNTU5OjI5NjY4MjM1NDY4MjI1NTk=",
+            "post_id": "2966823546822559",
+            "url": "https://www.facebook.com/9999.hoangtran/posts/pfbid0FpUGLcTQdLZCjaWYAjdbHGstNyXThyxZbQLjrHyzerqfubTk69ZA6khCCqVBV6oKl",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "2966823110155936",
+                    "url": "https://www.facebook.com/photo/?fbid=2966823110155936&set=a.283939495110991",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/542758057_2966823116822602_6191768343881961434_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=dlL4lL6uFskQ7kNvwG8XC_O&_nc_oc=AdpE3pD1dF0LeoXytgKeGbj0zjCPtkkKnS5YSvrAv4CWDlWqROEZYF8IqK5mIYFyzeQ&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=ufzDl8bkS-ab6lhdk5gjpw&_nc_ss=7a3a8&oh=00_Af32ZSEnl2FqWRGxVJeFk741bjAu9HPFyV8nqiTAhGMxdg&oe=69E78EB3",
+                    "height": 1024,
+                    "width": 747,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FFC6C0B4",
+                    "real_width": 747,
+                    "real_height": 1024
+                },
+                "video": null
+            },
+            "text": "🌟🫶🤯 Ảo ma caneda thật đấy 🤣",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Hoang Tran",
+                    "id": "100004848287494",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/9999.hoangtran",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1757062345000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

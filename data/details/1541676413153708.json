@@ -1,0 +1,132 @@
+{
+    "result": {
+        "id": "UzpfSTE1NDE2NzY0MTMxNTM3MDg6Vks6MTU0MTY3NjQxMzE1MzcwOA==",
+        "post_id": "1541676413153708",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1541676413153708/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2715454785292771",
+                "url": "https://www.facebook.com/photo/?fbid=2715454785292771&set=gm.1541676413153708&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/504496621_2879183025586612_6698263107910562820_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=UJfo6HlWgGoQ7kNvwFomtb3&_nc_oc=Adq96JKAp5_1Q-8sFgf8weFZBAWBk0_Nqa0pn-HrVLscYABFOoNJRNXevg4JhEcZRUM&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=rRD4UsY3a0keDVt2tj8u_w&_nc_ss=7a3a8&oh=00_Af2Z9O-1TWwGDWfKQ2h0aiCKpceyHDEzAJr5cIf7MEZSHA&oe=69E76C09",
+                "height": 540,
+                "width": 895,
+                "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                "accent_color": "FF212830",
+                "real_width": 895,
+                "real_height": 540
+            },
+            "video": null
+        },
+        "text": "Bạn mệt mỏi phải đi rải CV tìm việc làm? 🫥\nCon AI này sẽ giúp bạn tự động hoá việc đó 🤣\n\nMình cũng chưa biết cách dùng lắm đâu nhưng mà 23k stars thì chắc là xịn 👀\n\nhttps://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2dpdGh1Yi5jb20vQUlIYXdrLUZPU1MvQXV0b1xiSm9ic1xiQXBwbGllclxiQUlcYkFnZW50Ojo6OjoxNTQxNjc2NDEzMTUzNzA4",
+                "name": "https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent",
+                "url": "https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent",
+                "length": 57,
+                "offset": 165
+            }
+        ],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 3,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 19,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 19,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 6,
+        "created_time": 1733759616000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1541676413153708",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2715454785292771",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1733759616,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1541676413153708"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=rRD4UsY3a0keDVt2tj8u_w&_nc_ss=7a3a8&oh=00_Af0LB1Nv-sffa0MK41tCbv6e7eQxf6AbVf4EJP4ku8FXzw&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

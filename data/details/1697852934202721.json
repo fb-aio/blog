@@ -1,0 +1,216 @@
+{
+    "result": {
+        "id": "UzpfSTE2OTc4NTI5MzQyMDI3MjE6Vks6MTY5Nzg1MjkzNDIwMjcyMQ==",
+        "post_id": "1697852934202721",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1697852934202721/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Anh em có ai thử chưa 🐧\n\nNhiều AI quá 🤧",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 2,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 8,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 7,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 1,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 6,
+        "created_time": 1753706352000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1697852934202721",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1916616962459200",
+            "original_content_owner_id": "61560199654592",
+            "photo_id": "122180778566339988",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntGroupMallPostCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1916616962459200",
+                        "sharedMediaID": "1697852934202721",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1753706352,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1697852934202721"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                },
+                "1569314343856132": {
+                    "page_id": "1569314343856132",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "1569314343856132",
+                        "page_id_type": "group",
+                        "actor_id": "61560199654592",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntGroupMallPostCreationStory",
+                        "post_context": {
+                            "object_fbtype": 657,
+                            "publish_time": 1753698880,
+                            "story_name": "EntGroupMallPostCreationStory",
+                            "story_fbid": [
+                                "1916616962459200"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1697852934202721",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=kupLj1nMcTzIFs1hSx4yeA&_nc_ss=7a3a8&oh=00_Af3Xtu5kR2gJ6bOHlaYlNjkri4lKlP2rvYBtLg0tFdW8gQ&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTYxNTYwMTk5NjU0NTkyOlZLOjE5MTY2MTY5NjI0NTkyMDA=",
+            "post_id": "1916616962459200",
+            "url": "https://www.facebook.com/groups/indiehackervn/permalink/1916616962459200/",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "122180778566339988",
+                    "url": "https://www.facebook.com/photo/?fbid=122180778566339988&set=gm.1916616962459200&idorvanity=1569314343856132",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/524991491_122180778572339988_1924788703524191674_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=RmzqeUH6hmcQ7kNvwHdgiSX&_nc_oc=Ado4TsCc3nBCDiKy8k19Q_P8DdWTlZBDU1mwDmDB1cCu7Pn2JUiAKmi9yLU92fbemrs&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=kupLj1nMcTzIFs1hSx4yeA&_nc_ss=7a3a8&oh=00_Af1sE-paFojsFRcdckjkcp_BVLhurPlZ8EknWz5yHGdSuw&oe=69E7613F",
+                    "height": 800,
+                    "width": 800,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FF07314D",
+                    "real_width": 800,
+                    "real_height": 800
+                },
+                "video": null
+            },
+            "text": "Chắc mọi người đều quen với Claude code rồi, cái này nó cũng kiểu vậy á, từ ông lớn Atlassian. \n\n#bip #buildinpublic #share \nMình thật sự bất ngờ với lượng free token: 5 triệu free token / NGÀY.\n(Mình xài thực tế thấy đang để Daily là 20M lận á, nhưng họ đã có thông báo giảm còn 5M)\nTrải nghiệm của mình là:\n\n1. Chạy nhanh và thông minh (nhanh hơn Claude Code, thông minh gần bằng)\n2. Thực hiện task phân tích, planing đủ xịn\n3. Ăn đứt Cursor pro :3\nAnyways, có free (mà xịn) thì bào thôi, link trong comment",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [
+                "#bip",
+                "#buildinpublic",
+                "#share"
+            ],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "id": "61560199654592",
+                    "name": "Tony",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/tony.40047"
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1753700435000,
+            "privacy_scope": "Nhóm công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": "Group",
+                "id": "1569314343856132",
+                "url": "https://www.facebook.com/groups/indiehackervn/",
+                "name": "Build in Public VN",
+                "avatar": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/509443918_10233522779463937_6884554539542802636_n.jpg?stp=c264.0.432.432a_cp0_dst-jpg_s110x80_tt6&_nc_cat=105&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=r-o0j_4vFg8Q7kNvwFWCL7w&_nc_oc=Adp3ViSm7ls1qMq1BvHexKPU3npmJS1SGQo5NKqYjZ9ooeIusCuQFyVUShpqYksjogk&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=kupLj1nMcTzIFs1hSx4yeA&_nc_ss=7a3a8&oh=00_Af20aF7W_C4OVa-kzbGFo9_kwQItlKCfdEtxlvjtjMKV4g&oe=69E784DE"
+            },
+            "attached_post": null
+        }
+    }
+}

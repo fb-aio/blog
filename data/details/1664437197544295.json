@@ -1,0 +1,398 @@
+{
+    "result": {
+        "id": "UzpfSTE2NjQ0MzcxOTc1NDQyOTU6Vks6MTY2NDQzNzE5NzU0NDI5NQ==",
+        "post_id": "1664437197544295",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1664437197544295/",
+        "media": {
+            "mediaset_token": "pcb.1664437197544295",
+            "subAttachments": [
+                {
+                    "id": "2884720378366210",
+                    "url": "https://www.facebook.com/photo.php?fbid=2884720378366210&set=gm.1664437200877628&type=3",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/506280816_2884720381699543_7321273189900993651_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=Mjjju0p4ec8Q7kNvwEo4eZw&_nc_oc=AdrkCxV7XgJS8b22Cx1N7EZheQifbHOjK6_CMl4iTZ-Wn-1j55cWSgGdMfzEKmR6Hw0&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=8UB-LEgp4eKmJeEgUshxFg&_nc_ss=7a3a8&oh=00_Af3HJTSsY1z9JQBbEdKWvPebKIcBFkPFksjWlqGH6i6PiA&oe=69E72A62",
+                    "height": 890,
+                    "width": 815,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 815,
+                    "real_height": 890
+                },
+                {
+                    "id": "2884728391698742",
+                    "url": "https://www.facebook.com/photo.php?fbid=2884728391698742&set=gm.1664437207544294&type=3",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/506351265_2884728395032075_2972092105896113071_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=cFL1J8C5-7IQ7kNvwEF74KQ&_nc_oc=Adr6zyy9f6WLPpKf7UF0xyjWLaJwR7x3nXmFb9KpZ8x3ZX1RJe7tW-kfnexE1A6ezaA&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=8UB-LEgp4eKmJeEgUshxFg&_nc_ss=7a3a8&oh=00_Af3vrwkqjGn0L1lord0DD0cmLMuB5eEnXLXlL7sZt0j3tQ&oe=69E73DC6",
+                    "height": 569,
+                    "width": 779,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 779,
+                    "real_height": 569
+                },
+                {
+                    "id": "2884730168365231",
+                    "url": "https://www.facebook.com/photo.php?fbid=2884730168365231&set=gm.1664437204210961&type=3",
+                    "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/506400765_2884730171698564_1151065929881901237_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=35nCHcJwvS8Q7kNvwHHKKDa&_nc_oc=AdqKnRKAKQTLd7qyx0ZmP7VaCrQ7atpvoBBirlff3XIFrvWeYHzPvLqiuZe09sALNxc&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=8UB-LEgp4eKmJeEgUshxFg&_nc_ss=7a3a8&oh=00_Af1sU9Ux824qVZ94kUflmqgcB4GoEW7cxuVzPex4LQrkpA&oe=69E711AC",
+                    "height": 720,
+                    "width": 605,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 605,
+                    "real_height": 720
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# ChatGPT hướng dẫn mình tạo server trong 1 buổi sáng 🤯\n\n🤔 Nguyên nhân:\n* 🫥 Server phờ ry của Glitch sắp bị khai t:ử \n* 👀 FB AIO cần chuyển sang server mới để hoạt động lâu dài \n\n🚀 Quá trình:\n* 🌐 Sau 77 49 lần so sánh thì mình chọn Digital Ocean (rẻ, mạnh, nhưng cần cài đặt thủ công)\n* 😂 Có thử render .com nhưng chát quá\n\n✅ Kết quả:\n* 🤖 Nhờ ChatGPT hướng dẫn tạo Droplet, cài thư viện, code server, chay server, mở port, kết nối domain, xử lý khi crash, tối ưu server, ... và ti tỷ thứ khác\n* 😎 Biết thêm được rất nhiều kiến thức DevOps\n* 🔥 FB AIO chạy ngon lành, cực tối ưu, mặc dù dùng gói nhỏ nhất 4$/tháng, chỉ có 500Mb RAM, 10GB bộ nhớ, 1 CPU \n\n> 😅 Mong anh em hách cơ đừng stress test server tội ad lắm nha \n\n#fb_aio",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "ChatGPT hướng dẫn mình tạo server trong 1 buổi sáng 🤯"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "🤔 Nguyên nhân:"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "🫥 Server phờ ry của Glitch sắp bị khai t:ử "
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "👀 FB AIO cần chuyển sang server mới để hoạt động lâu dài "
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "🚀 Quá trình:"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "🌐 Sau 77 49 lần so sánh thì mình chọn Digital Ocean (rẻ, mạnh, nhưng cần cài đặt thủ công)"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "😂 Có thử render .com nhưng chát quá"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "✅ Kết quả:"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "🤖 Nhờ ChatGPT hướng dẫn tạo Droplet, cài thư viện, code server, chay server, mở port, kết nối domain, xử lý khi crash, tối ưu server, ... và ti tỷ thứ khác"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "😎 Biết thêm được rất nhiều kiến thức DevOps"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "🔥 FB AIO chạy ngon lành, cực tối ưu, mặc dù dùng gói nhỏ nhất 4$/tháng, chỉ có 500Mb RAM, 10GB bộ nhớ, 1 CPU "
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedBlockquoteBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                "block_type": "BLOCKQUOTE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "😅 Mong anh em hách cơ đừng stress test server tội ad lắm nha "
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fb_aio",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fb_aio",
+                            "__isNode": "Hashtag",
+                            "id": "8080904801977702"
+                        },
+                        "length": 7,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fb_aio"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 7,
+            "total_count": 22,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 44,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 33,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 6,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 4,
+                    "name": "Haha"
+                },
+                {
+                    "id": "613557422527858",
+                    "count": 1,
+                    "name": "Thương thương"
+                }
+            ]
+        },
+        "shares": 6,
+        "created_time": 1749642238000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1664437197544295",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2884720378366210",
+                "2884728391698742",
+                "2884730168365231"
+            ],
+            "photo_id": "2884720378366210",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1749642238,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1664437197544295"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=8UB-LEgp4eKmJeEgUshxFg&_nc_ss=7a3a8&oh=00_Af23ycB1auSg-mIVMFNpMUnBIncYMiu35ALu9-30-Hg9dg&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

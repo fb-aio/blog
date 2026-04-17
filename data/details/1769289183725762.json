@@ -1,0 +1,258 @@
+{
+    "result": {
+        "id": "UzpfSTE3NjkyODkxODM3MjU3NjI6Vks6MTc2OTI4OTE4MzcyNTc2Mg==",
+        "post_id": "1769289183725762",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1769289183725762/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "AI giờ xịn vậy trời, mình nhìn còn không biết tờ giấy ghi chữ gì 🐧\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100082499383506",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 3,
+            "total_count": 3,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Bạn đã ẩn",
+                        "description": "Hiển thị bình luận đã ẩn của bạn trong ngữ cảnh gốc của bài viết. Chỉ bạn mới nhìn thấy nội dung này.",
+                        "intent_token": "ADMIN_HIDDEN_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 13,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 13,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1761564152000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1769289183725762",
+            "content_owner_id_new": "100082499383506",
+            "original_content_id": "1447615713000899",
+            "original_content_owner_id": "100032574519276",
+            "page_id": "845529898638466",
+            "photo_id": "1447610853001385",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "100082499383506": {
+                    "page_id": "100082499383506",
+                    "page_id_type": "page",
+                    "actor_id": "100082499383506",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1447615713000899",
+                        "sharedMediaID": "1769289183725762",
+                        "sharedMediaOwnerID": "100082499383506"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1761564152,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1769289183725762"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100082499383506",
+                            "page_id": "100082499383506",
+                            "post_id": "1769289183725762",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "100032574519276": {
+                    "page_id": "100032574519276",
+                    "page_id_type": "page",
+                    "actor_id": "100082499383506",
+                    "attached_story": {
+                        "page_id": "100032574519276",
+                        "page_id_type": "page",
+                        "actor_id": "100032574519276",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1761499229,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1447615713000899"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1769289183725762",
+                        "sharedMediaOwnerID": "100082499383506"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100082499383506",
+                            "page_id": "100032574519276",
+                            "post_id": "1447615713000899",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100082499383506",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1447615713000899",
+                        "sharedMediaID": "1769289183725762",
+                        "sharedMediaOwnerID": "100082499383506"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1761564152,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1769289183725762"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100082499383506",
+            "actrs": "100082499383506",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=6lQLMpF9YrAXh4byKxBaUw&_nc_ss=7a3a8&oh=00_Af0pEM2-gkP1TVlPlUp13cSqXyj4mdiidrU7SPtzJ50AbA&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDAzMjU3NDUxOTI3NjoxNDQ3NjE1NzEzMDAwODk5OjE0NDc2MTU3MTMwMDA4OTk=",
+            "post_id": "1447615713000899",
+            "url": "https://www.facebook.com/vietnh1009/posts/pfbid02DaBYcqoDVJ7HNGEiQMe5pKY7SUy5oySZPgL1rWcurz6jQyh7t1e9brLv93vdr6hSl",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "1447610853001385",
+                    "url": "https://www.facebook.com/photo/?fbid=1447610853001385&set=a.170917870670696",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/571154519_1447610856334718_3350185170173185571_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=ItJZePzbd28Q7kNvwFjhB6h&_nc_oc=AdrC4FpWwN2ovH01KR9yPKj-RjRnxofQLyuPWQ2SX0WlDytxIg2qqT45ZVdd1t_xNRE&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=6lQLMpF9YrAXh4byKxBaUw&_nc_ss=7a3a8&oh=00_Af2SsnKUSpG-Xj9BWT70UqOu2b9_MoPw3y8bVQ6aVqChXA&oe=69E76E90",
+                    "height": 766,
+                    "width": 1280,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FF30302E",
+                    "real_width": 1280,
+                    "real_height": 766
+                },
+                "video": null
+            },
+            "text": "Độ chính xác đáng kinh ngạc của DeepSeek-OCR 🔥\n\nBên cạnh những cái tên đã quá nổi tiếng trong bài toán nhận dạng ký tự quang học (Optical Character Recognition, hay OCR) như Tesseract OCR, EasyOCR hay PaddleOCR thì gần đây, cái tên DeepSeek OCR là cái tên nhận được rất nhiều sự chú ý. Nhiều người cho rằng đây là hệ thống nhận dạng ký tự quang học tốt nhất từ trước đến nay. Và đây là 1 ví dụ chứng minh cho nhận định này\n\nDeepSeek OCR đã phân tích và đọc được bức thư viết tay cực kỳ khó đọc của nhà toán học Ramanujan viết vào năm 1913 với mức độ chính xác đáng kinh ngạc. Không hoàn hảo hoàn toàn, nhưng kết quả tốt hơn nhiều các mô hình OCR khác, bao gồm cả các mô hình mình vừa liệt kê ở trên\n\nDeepSeek trong quá khứ đã từng khiến cộng đồng ngạc nhiên bởi chi phí rẻ đến bất ngờ, thì nay lại khiến chúng ta thêm 1 lần nữa phải bất ngờ về độ chính xác của mình",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Việt Nguyễn AI",
+                    "id": "100032574519276",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/vietnh1009",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1761548412000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

@@ -1,0 +1,222 @@
+{
+    "result": {
+        "id": "UzpfSTE2NjAwODE4NzQ2NDY0OTQ6Vks6MTY2MDA4MTg3NDY0NjQ5NA==",
+        "post_id": "1660081874646494",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1660081874646494/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Nơi sự nghiệp của Bác bắt đầu 🇻🇳\n\nTuy khởi đầu hơi khó khăn, nhưng các bạn biết kết quả rồi đấy 🤣\n\nCảm ơn Bác 🌟\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 9,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 7,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "478547315650144",
+                    "count": 1,
+                    "name": "Wow"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1749102150000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1660081874646494",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1389864982083033",
+            "original_content_owner_id": "100031786346547",
+            "page_id": "100824557960399",
+            "photo_id": "1389864615416403",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "100031786346547": {
+                    "page_id": "100031786346547",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100031786346547",
+                        "page_id_type": "page",
+                        "actor_id": "100031786346547",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1749088922,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1389864982083033"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1660081874646494",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100031786346547",
+                            "post_id": "1389864982083033",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1389864982083033",
+                        "sharedMediaID": "1660081874646494",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1749102150,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1660081874646494"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=fQIpuyd_FGDlOr0DSLvB0g&_nc_ss=7a3a8&oh=00_Af1fGsygQ95_auyYNG9wQJ0F7WSJ_gz6cUaxBHbBMm8n1g&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDAzMTc4NjM0NjU0NzoxMzg5ODY0OTgyMDgzMDMzOjEzODk4NjQ5ODIwODMwMzM=",
+            "post_id": "1389864982083033",
+            "url": "https://www.facebook.com/ruzatori/posts/pfbid0ZYFKM9uXMHyFyQmiwGFTSkUyri1KHbBzBcKVvnES7cMR1NEzo6rksdKvcf32vs1zl",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "1389864615416403",
+                    "url": "https://www.facebook.com/photo/?fbid=1389864615416403&set=a.379118353157706",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/501277580_1389864622083069_9150259004425608330_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=ity7jwdOirIQ7kNvwGcN6ij&_nc_oc=Adr5eJ9jJSxqxeW0eRbalLllg9OoJ8nD7UUjB4K5OfzquvNN3SCKAJkccZffcmgYpeo&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=fQIpuyd_FGDlOr0DSLvB0g&_nc_ss=7a3a8&oh=00_Af3eZ7MKQD_qHBz2wkYv-1Qrc2tHl55xs7gr3kibp660Xg&oe=69E7952A",
+                    "height": 1528,
+                    "width": 1080,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FFFFFFFF",
+                    "real_width": 1448,
+                    "real_height": 2048
+                },
+                "video": null
+            },
+            "text": "Hôm nay 114 năm trước, người thanh niên Nguyễn Tất Thành rời bến Nhà Rồng ra đi tìm đường cứu nước.",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Thiện.",
+                    "id": "100031786346547",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/ruzatori",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1749088922000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

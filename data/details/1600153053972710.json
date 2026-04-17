@@ -1,0 +1,361 @@
+{
+    "result": {
+        "id": "UzpfSTE2MDAxNTMwNTM5NzI3MTA6Vks6MTYwMDE1MzA1Mzk3MjcxMA==",
+        "post_id": "1600153053972710",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1600153053972710/",
+        "media": {
+            "mediaset_token": "pcb.1600153053972710",
+            "subAttachments": [
+                {
+                    "id": "2788510361320546",
+                    "url": "https://www.facebook.com/photo.php?fbid=2788510361320546&set=gm.1600153043972711&type=3",
+                    "uri": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/503403232_2879829102188671_5561032206250080132_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=MLIq-8jg22sQ7kNvwEc37Lo&_nc_oc=AdprTfSfb-xId8TFScVqvQ_eqb2NBDxaoPEyv2C_QHb4l5To9PHMfBbBklVHP3St3jE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=4gI6lkvRfwHLYBDa-YPSlA&_nc_ss=7a3a8&oh=00_Af3VX8RowUC9rzrCPY0yxcZsLwnIXCUKZCvk1Y2bUbeGaQ&oe=69E71735",
+                    "height": 946,
+                    "width": 879,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 879,
+                    "real_height": 946
+                },
+                {
+                    "id": "2788527141318868",
+                    "url": "https://www.facebook.com/photo.php?fbid=2788527141318868&set=gm.1600153050639377&type=3",
+                    "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/503596697_2879829175521997_768929571304857048_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=gvYJQUKEGTkQ7kNvwGFZscI&_nc_oc=AdrQMeeJ6TDcrEaShZxrJT7TtE_N6OfDATVgjHgEYRInmKw9IPf85SNIVZTPtWqsdww&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=4gI6lkvRfwHLYBDa-YPSlA&_nc_ss=7a3a8&oh=00_Af32TC5YqDk-5LzQbunxGmvwjp9ZrrjJCDsYbeYZ0_a7ww&oe=69E72085",
+                    "height": 985,
+                    "width": 1905,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1905,
+                    "real_height": 985
+                },
+                {
+                    "id": "2788527427985506",
+                    "url": "https://www.facebook.com/photo.php?fbid=2788527427985506&set=gm.1600153047306044&type=3",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/504557631_2879829158855332_2337263387337504521_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=m6D4CPoLaUYQ7kNvwE7jQdu&_nc_oc=AdocD9lU1tyw6TuGk7X5Xy8-PPW4NFaxNeGN_utGQLeEnCH7-uyTo5bzz4deWcvxs88&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=4gI6lkvRfwHLYBDa-YPSlA&_nc_ss=7a3a8&oh=00_Af1fG5CsYNiiZqu35g9qBW-k6KCxcXNEhTnqWaMKVRm0DA&oe=69E745F5",
+                    "height": 895,
+                    "width": 1377,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1377,
+                    "real_height": 895
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# CodeViz - Hiểu toàn bộ project trong 1 nốt nhạc 🤯\n## \n🚨 VẤN ĐỀ:\n\nKhi tham gia 1 project mới, bạn có gặp khó khăn trong việc đọc code, tìm flow, xem cách hoạt động của code không? 👀\n\nNhất là khi project đã lớn, hàng trăm file code, mỗi file hàng trăm dòng code, đọc như nào cho hiệu quả? 🫥\n\nKể cả senior cũng sẽ phải mất vài ngày/tuần để nắm được tất cả luồng (nếu không có người hướng dẫn) 🥹\n\n## \n✅ GIẢI PHÁP:\n\n**CodeViz** sẽ dùng AI giúp bạn đọc toàn bộ source code, và vẽ ra biểu đồ hoạt động dễ hiểu, giúp dev nắm được các luồng quan trọng trong project. 🔥\n\nSau đó bạn có thể hỏi CodeViz về luồng bất kỳ, CodeViz sẽ lại dùng AI giải thích cho bạn, chức năng đó code trong file nào, dòng nào, rất chi tiết và cụ thể.💯\n\nBạn còn có thể export biểu đồ ra mermaid, plantUML, .. hoặc ra prompt để hỏi tiếp trên ChatGPT, Grok, DeepSeek, ... 🤯\n\n## 🚀 DEMO:\n\nDưới hình biểu đồ hoạt động của web FB AIO, mình là người code từ đầu tới cuối nhưng cũng bất ngờ về khả năng của CodeViz luôn, giúp mình hiểu project hơn và dễ tìm cách tối ưu hơn  🌟\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "CodeViz - Hiểu toàn bộ project trong 1 nốt nhạc 🤯"
+            },
+            {
+                "__typename": "ComposedHeaderTwoBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                "block_type": "HEADER_TWO",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "\n🚨 VẤN ĐỀ:"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 11,
+                        "offset": 15
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 18,
+                        "offset": 59
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 14,
+                        "offset": 129
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 13,
+                        "offset": 255
+                    }
+                ],
+                "text": "Khi tham gia 1 project mới, bạn có gặp khó khăn trong việc đọc code, tìm flow, xem cách hoạt động của code không? 👀\n\nNhất là khi project đã lớn, hàng trăm file code, mỗi file hàng trăm dòng code, đọc như nào cho hiệu quả? 🫥\n\nKể cả senior cũng sẽ phải mất vài ngày/tuần để nắm được tất cả luồng (nếu không có người hướng dẫn) 🥹\n"
+            },
+            {
+                "__typename": "ComposedHeaderTwoBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                "block_type": "HEADER_TWO",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "\n✅ GIẢI PHÁP:"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 7,
+                        "offset": 0
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 7,
+                        "offset": 11
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 23,
+                        "offset": 28
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 7,
+                        "offset": 98
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 16,
+                        "offset": 111
+                    }
+                ],
+                "text": "CodeViz sẽ dùng AI giúp bạn đọc toàn bộ source code, và vẽ ra biểu đồ hoạt động dễ hiểu, giúp dev nắm được các luồng quan trọng trong project. 🔥"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 11,
+                        "offset": 18
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 13,
+                        "offset": 67
+                    }
+                ],
+                "text": "Sau đó bạn có thể hỏi CodeViz về luồng bất kỳ, CodeViz sẽ lại dùng AI giải thích cho bạn, chức năng đó code trong file nào, dòng nào, rất chi tiết và cụ thể.💯\n\nBạn còn có thể export biểu đồ ra mermaid, plantUML, .. hoặc ra prompt để hỏi tiếp trên ChatGPT, Grok, DeepSeek, ... 🤯\n\n"
+            },
+            {
+                "__typename": "ComposedHeaderTwoBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                "block_type": "HEADER_TWO",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "🚀 DEMO:"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 11,
+                        "offset": 32
+                    }
+                ],
+                "text": "Dưới hình biểu đồ hoạt động của web FB AIO, mình là người code từ đầu tới cuối nhưng cũng bất ngờ về khả năng của CodeViz luôn, giúp mình hiểu project hơn và dễ tìm cách tối ưu hơn  🌟\n"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fbaio_share",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fbaio_share",
+                            "__isNode": "Hashtag",
+                            "id": "8771715079560378"
+                        },
+                        "length": 12,
+                        "offset": 1
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "\n#fbaio_share"
+            }
+        ],
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 3,
+            "total_count": 4,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 47,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 44,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 2,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "478547315650144",
+                    "count": 1,
+                    "name": "Wow"
+                }
+            ]
+        },
+        "shares": 19,
+        "created_time": 1741600135000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1600153053972710",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2788510361320546",
+                "2788527141318868",
+                "2788527427985506"
+            ],
+            "photo_id": "2788510361320546",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1741600135,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1600153053972710"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=4gI6lkvRfwHLYBDa-YPSlA&_nc_ss=7a3a8&oh=00_Af0_c74uzilYQsVr_KPtIM6EvrYaUAkOsEBJFdNVcnnNAQ&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

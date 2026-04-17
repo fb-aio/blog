@@ -1,0 +1,617 @@
+{
+    "result": {
+        "id": "UzpfSTE0NzA3Nzc5NDM1NzY4ODk6Vks6MTQ3MDc3Nzk0MzU3Njg4OQ==",
+        "post_id": "1470777943576889",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1470777943576889/",
+        "media": {
+            "mediaset_token": "pcb.1470777943576889",
+            "subAttachments": [
+                {
+                    "id": "2614278655410385",
+                    "url": "https://www.facebook.com/photo.php?fbid=2614278655410385&set=gm.1470777946910222&type=3",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/491974329_2826831497488432_6162945044512213449_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=SRbm97LTCT4Q7kNvwGN87zE&_nc_oc=Adqolzp16KjFDYCgxCyWrO9nfB6iPTWQmCJqSmcPSE--8F8_w3IRaURflkbMi4-myYw&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=7PRfkOrEO0bN7wVOKs0B1g&_nc_ss=7a3a8&oh=00_Af1LO5ur6mWWX4AIht4-LeN0TkhNUldM_P615omzcLq21g&oe=69E748AE",
+                    "height": 565,
+                    "width": 736,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                    "real_width": 736,
+                    "real_height": 565
+                },
+                {
+                    "id": "2614278792077038",
+                    "url": "https://www.facebook.com/photo.php?fbid=2614278792077038&set=gm.1470777940243556&type=3",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/491831861_2826831700821745_12162621765359339_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=r9XNqkOiGBAQ7kNvwEVFFrB&_nc_oc=Adr6vHK_D6pCxzh7-QooiOgTZCB2_-aHUxyFchItUHnkqXztKP1VuYj5lXH2e0dDoQA&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=7PRfkOrEO0bN7wVOKs0B1g&_nc_ss=7a3a8&oh=00_Af1yhU2ZLVmzASICPfChZEuihjhyyGxtrs7veFC2QiaGNQ&oe=69E7325F",
+                    "height": 581,
+                    "width": 557,
+                    "accessibility_caption": "Có thể là hình ảnh về 1 người, con cù lần và văn bản",
+                    "real_width": 557,
+                    "real_height": 581
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Facebook AIO - Cập nhật nhỏ nhưng tiện lợi\n\nNắm bắt được **sự khó chịu** khi phải dùng **chức năng lấy ID trước** mới có thể dùng Fb AIO, nên mình code thêm, **tự động lấy ID** cho mọi người.\n\nHỗ trợ **nhập link** facebook/instagram luôn **không cần phải tìm ID **nữa nha, các định dạng hỗ trợ:\n\nUser:\n* https://www.facebook.com/99.hoangtran/\n* https://www.facebook.com/profile.php?id=100004848287494\n\nGroup:\n* https://www.facebook.com/groups/1154059318582088\n\nPage:\n* https://www.facebook.com/FaintiyoMedia\n\nInstagram:\n* https://www.instagram.com/physic.fun\n\nThử ngay: https://j2c.cc/fb-aio\n\n#fb_aio #ufs_tips",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Facebook AIO - Cập nhật nhỏ nhưng tiện lợi"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 11,
+                        "offset": 13
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 22,
+                        "offset": 39
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 14,
+                        "offset": 106
+                    }
+                ],
+                "text": "Nắm bắt được sự khó chịu khi phải dùng chức năng lấy ID trước mới có thể dùng Fb AIO, nên mình code thêm, tự động lấy ID cho mọi người."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 9,
+                        "offset": 7
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 22,
+                        "offset": 41
+                    }
+                ],
+                "text": "Hỗ trợ nhập link facebook/instagram luôn không cần phải tìm ID nữa nha, các định dạng hỗ trợ:"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "User:"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "IMPLICIT_LINK",
+                        "entity": {
+                            "__typename": "ExternalUrl",
+                            "__isEntity": "ExternalUrl",
+                            "url": "https://www.facebook.com/99.hoangtran/",
+                            "external_url": "https://www.facebook.com/99.hoangtran/",
+                            "__isWebLinkable": "ExternalUrl",
+                            "web_link": {
+                                "__typename": "ExternalWebLink",
+                                "url": "https://www.facebook.com/99.hoangtran/",
+                                "fbclid": null,
+                                "lynx_mode": "ASYNCLAZY"
+                            },
+                            "mobileUrl": "https://www.facebook.com/99.hoangtran/",
+                            "__isNode": "ExternalUrl",
+                            "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3d3dy5mYWNlYm9vay5jb20vOTkuaG9hbmd0cmFuLzo6Ojo6"
+                        },
+                        "length": 38,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "https://www.facebook.com/99.hoangtran/"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "IMPLICIT_LINK",
+                        "entity": {
+                            "__typename": "ExternalUrl",
+                            "__isEntity": "ExternalUrl",
+                            "url": "https://www.facebook.com/profile.php?id=100004848287494",
+                            "external_url": "https://www.facebook.com/profile.php?id=100004848287494",
+                            "__isWebLinkable": "ExternalUrl",
+                            "web_link": {
+                                "__typename": "ExternalWebLink",
+                                "url": "https://www.facebook.com/profile.php?id=100004848287494",
+                                "fbclid": null,
+                                "lynx_mode": "ASYNCLAZY"
+                            },
+                            "mobileUrl": "https://m.facebook.com/profile.php?id=100004848287494",
+                            "__isNode": "ExternalUrl",
+                            "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3d3dy5mYWNlYm9vay5jb20vcHJvZmlsZS5waHA/aWQ9MTAwMDA0ODQ4Mjg3NDk0Ojo6Ojo="
+                        },
+                        "length": 55,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "https://www.facebook.com/profile.php?id=100004848287494"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Group:"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "IMPLICIT_LINK",
+                        "entity": {
+                            "__typename": "ExternalUrl",
+                            "__isEntity": "ExternalUrl",
+                            "url": "https://www.facebook.com/groups/1154059318582088",
+                            "external_url": "https://www.facebook.com/groups/1154059318582088",
+                            "__isWebLinkable": "ExternalUrl",
+                            "web_link": {
+                                "__typename": "ExternalWebLink",
+                                "url": "https://www.facebook.com/groups/1154059318582088",
+                                "fbclid": null,
+                                "lynx_mode": "ASYNCLAZY"
+                            },
+                            "mobileUrl": "https://m.facebook.com/groups/1154059318582088",
+                            "__isNode": "ExternalUrl",
+                            "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3d3dy5mYWNlYm9vay5jb20vZ3JvdXBzLzExNTQwNTkzMTg1ODIwODg6Ojo6Og=="
+                        },
+                        "length": 48,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "https://www.facebook.com/groups/1154059318582088"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Page:"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "IMPLICIT_LINK",
+                        "entity": {
+                            "__typename": "ExternalUrl",
+                            "__isEntity": "ExternalUrl",
+                            "url": "https://www.facebook.com/FaintiyoMedia",
+                            "external_url": "https://www.facebook.com/FaintiyoMedia",
+                            "__isWebLinkable": "ExternalUrl",
+                            "web_link": {
+                                "__typename": "ExternalWebLink",
+                                "url": "https://www.facebook.com/FaintiyoMedia",
+                                "fbclid": null,
+                                "lynx_mode": "ASYNCLAZY"
+                            },
+                            "mobileUrl": "https://m.facebook.com/FaintiyoMedia",
+                            "__isNode": "ExternalUrl",
+                            "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3d3dy5mYWNlYm9vay5jb20vRmFpbnRpeW9NZWRpYTo6Ojo6"
+                        },
+                        "length": 38,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "https://www.facebook.com/FaintiyoMedia"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Instagram:"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "IMPLICIT_LINK",
+                        "entity": {
+                            "__typename": "ExternalUrl",
+                            "__isEntity": "ExternalUrl",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fphysic.fun&h=AT7n_MVFF4S5mHswncavYn8wr3kr8zrO725VcTNp6RZy-2XEV733PlzaPZ7YGZwvN1RVCYBrw12pzDVZJDECdc_mR8CY4U4xxIJhDHqCYYqn2txP5flp8ev3Rc6JGRB1ZjgLU7h6TQ&s=1",
+                            "external_url": "https://www.instagram.com/physic.fun",
+                            "__isWebLinkable": "ExternalUrl",
+                            "web_link": {
+                                "__typename": "ExternalWebLink",
+                                "url": "https://www.instagram.com/physic.fun",
+                                "fbclid": "IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhJ-jlAauo57j8-Vd65b17EqiGkmW7MLQhNSuVRsQXyTNI-ZxFfuKQqXLa5d_aem___fELInwcF6f5fNNRjuBLA",
+                                "lynx_mode": "ASYNCLAZY"
+                            },
+                            "mobileUrl": "https://lm.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fphysic.fun&h=AT5nYO5Pay1xYjyF46BdwvvJQYa_sVtFHtCDrql2v0d6pz_yednCsCH58cujDBOmZ4cTJ4PAOXYqqzHqQZFy9-KVxsKX_qYBUEl04hGZEBFLnVNuiMRZt7cXfXt2myfcHeKBw64L7w&s=1",
+                            "__isNode": "ExternalUrl",
+                            "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3d3dy5pbnN0YWdyYW0uY29tL3BoeXNpYy5mdW46Ojo6Og=="
+                        },
+                        "length": 36,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "https://www.instagram.com/physic.fun"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Thử ngay: https://j2c.cc/fb-aio"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fb_aio",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fb_aio",
+                            "__isNode": "Hashtag",
+                            "id": "8080904801977702"
+                        },
+                        "length": 7,
+                        "offset": 0
+                    },
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/ufs_tips",
+                            "mobileUrl": "https://m.facebook.com/hashtag/ufs_tips",
+                            "__isNode": "Hashtag",
+                            "id": "2212663972140072"
+                        },
+                        "length": 9,
+                        "offset": 8
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fb_aio #ufs_tips"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio",
+            "#ufs_tips"
+        ],
+        "mentions": [
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3d3dy5pbnN0YWdyYW0uY29tL3BoeXNpYy5mdW46Ojo6Og==",
+                "name": "https://www.instagram.com/physic.fun",
+                "url": "https://www.instagram.com/physic.fun",
+                "length": 36,
+                "offset": 0
+            },
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3d3dy5mYWNlYm9vay5jb20vRmFpbnRpeW9NZWRpYTo6Ojo6",
+                "name": "https://www.facebook.com/FaintiyoMedia",
+                "url": "https://www.facebook.com/FaintiyoMedia",
+                "length": 38,
+                "offset": 0
+            },
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3d3dy5mYWNlYm9vay5jb20vZ3JvdXBzLzExNTQwNTkzMTg1ODIwODg6Ojo6Og==",
+                "name": "https://www.facebook.com/groups/1154059318582088",
+                "url": "https://www.facebook.com/groups/1154059318582088",
+                "length": 48,
+                "offset": 0
+            },
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3d3dy5mYWNlYm9vay5jb20vcHJvZmlsZS5waHA/aWQ9MTAwMDA0ODQ4Mjg3NDk0Ojo6Ojo=",
+                "name": "https://www.facebook.com/profile.php?id=100004848287494",
+                "url": "https://www.facebook.com/profile.php?id=100004848287494",
+                "length": 55,
+                "offset": 0
+            },
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3d3dy5mYWNlYm9vay5jb20vOTkuaG9hbmd0cmFuLzo6Ojo6",
+                "name": "https://www.facebook.com/99.hoangtran/",
+                "url": "https://www.facebook.com/99.hoangtran/",
+                "length": 38,
+                "offset": 0
+            }
+        ],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 3,
+            "total_count": 8,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 12,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 9,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 3,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1724325656000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1470777943576889",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2614278655410385",
+                "2614278792077038"
+            ],
+            "photo_id": "2614278655410385",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1724325656,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1470777943576889"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=7PRfkOrEO0bN7wVOKs0B1g&_nc_ss=7a3a8&oh=00_Af0Ki4CztIDoZLGHbx2CjjKIHIxMSQiXHCxzzLBaEEyE_w&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

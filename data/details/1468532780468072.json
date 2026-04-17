@@ -1,0 +1,177 @@
+{
+    "result": {
+        "id": "UzpfSTE0Njg1MzI3ODA0NjgwNzI6Vks6MTQ2ODUzMjc4MDQ2ODA3Mg==",
+        "post_id": "1468532780468072",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1468532780468072/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": {
+                "id": "1023586289468123",
+                "url": "https://www.facebook.com/Q79N75qbnt96BTNg967tn98t9/videos/1023586289468123/?idorvanity=1154059318582088",
+                "thumbnail": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t15.5256-10/455984570_918673070099510_8515405071279888531_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=83a10b&_nc_ohc=BcOy5KosP7IQ7kNvwHrD1fd&_nc_oc=Adr36h2JjP_6190nAx-pTbOAaaYbFlIK162H87gQyoLCuycRAdEmHrrp4sy9kcnBfzY&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=cxsEcN5-hZhutirlNt_d-A&_nc_ss=7a3a8&oh=00_Af2LVrT53u6BaLcFVba36BpYKVxT3ZQDCxe5q7OmdLv0uQ&oe=69E78721",
+                "duration": 13000,
+                "width": 1920,
+                "height": 1080,
+                "original_width": 1920,
+                "original_height": 1080,
+                "publish_time": 0,
+                "audio_availability": "AVAILABLE_BUT_SILENT",
+                "is_live_streaming": false,
+                "is_spherical": false,
+                "is_looping": true,
+                "loop_count": 7,
+                "source": {
+                    "variants": []
+                },
+                "sprite": {
+                    "uris": [],
+                    "thumbnail_width": 0,
+                    "thumbnail_height": 0,
+                    "num_images_per_row": 0,
+                    "max_number_of_images_per_sprite": 0,
+                    "time_interval_between_image": 1
+                }
+            }
+        },
+        "text": "Kính gửi anh Hoang Tran, chuyện là em hồi 2 tuần trước dùng tính năng xem ai huỷ kết bạn thấy bình thường mà sao em load file json đã lưu trước up lên thì bị trắng xoá như thế ạ?",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100014477791814",
+                "name": "Tuan Nguyen",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/Q79N75qbnt96BTNg967tn98t9"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 14,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 7,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 6,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1724000816000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1468532780468072",
+            "content_owner_id_new": "100014477791814",
+            "page_id": "1002655312926932",
+            "story_location": 9,
+            "story_attachment_style": "video_autoplay",
+            "video_id": "1023586289468123",
+            "ent_attachement_type": "VideoAttachment",
+            "app_id": "2392950137",
+            "page_insights": {
+                "100014477791814": {
+                    "page_id": "100014477791814",
+                    "page_id_type": "page",
+                    "actor_id": "100014477791814",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1723999741,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1468532780468072"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100014477791814",
+                            "page_id": "100014477791814",
+                            "post_id": "1468532780468072",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100014477791814",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1723999741,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1468532780468072"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100014477791814",
+            "actrs": "100014477791814",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=cxsEcN5-hZhutirlNt_d-A&_nc_ss=7a3a8&oh=00_Af0bUmv1opLmcZnRJ0oseA31WJRhmwEajOs7uYfJ1sxYVA&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

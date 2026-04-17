@@ -1,0 +1,130 @@
+{
+    "result": {
+        "id": "UzpfSTE0NTQyNTAzMTE4OTYzMTk6Vks6MTQ1NDI1MDMxMTg5NjMxOQ==",
+        "post_id": "1454250311896319",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1454250311896319/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Nhóm dành cho các thành viên đang sử dụng extension Useful-script\n\nExtension mã nguồn mở tại: https://j2c.cc/useful-scripts\nDanh sách chức năng: https://j2c.cc/demo-useful-scripts\n\nDonate giúp admin thêm nhiều ý tưởng và sức lực code tool: \nhttps://j2c.cc/donate-useful-scripts",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2oyYy5jYy91c2VmdWwtc2NyaXB0czo6Ojo6MTQ1NDI1MDMxMTg5NjMxOQ==",
+                "name": "https://j2c.cc/useful-scripts",
+                "url": "https://j2c.cc/useful-scripts",
+                "length": 29,
+                "offset": 94
+            },
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2oyYy5jYy9kZW1vLXVzZWZ1bC1zY3JpcHRzOjo6OjoxNDU0MjUwMzExODk2MzE5",
+                "name": "https://j2c.cc/demo-useful-scripts",
+                "url": "https://j2c.cc/demo-useful-scripts",
+                "length": 34,
+                "offset": 145
+            },
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2oyYy5jYy9kb25hdGUtdXNlZnVsLXNjcmlwdHM6Ojo6OjE0NTQyNTAzMTE4OTYzMTk=",
+                "name": "https://j2c.cc/donate-useful-scripts",
+                "url": "https://j2c.cc/donate-useful-scripts",
+                "length": 36,
+                "offset": 241
+            }
+        ],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 2,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 1,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": null,
+        "created_time": 1721910742000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1454250311896319",
+            "content_owner_id_new": "100004848287494",
+            "story_location": 9,
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupDescriptionChangeCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1721910742,
+                        "story_name": "EntGroupDescriptionChangeCreationStory",
+                        "story_fbid": [
+                            "1454250311896319"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=-0dSasJ0UytcnG-A5gN0nA&_nc_ss=7a3a8&oh=00_Af2bhQJ-fJABZHwWwI995vYCMS4EAroi0CONTR13wxGDLg&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

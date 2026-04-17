@@ -1,0 +1,320 @@
+{
+    "result": {
+        "id": "UzpfSTE0NDY5MTk0NjkyOTYwNzA6Vks6MTQ0NjkxOTQ2OTI5NjA3MA==",
+        "post_id": "1446919469296070",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1446919469296070/",
+        "media": {
+            "mediaset_token": "pcb.1446919469296070",
+            "subAttachments": [
+                {
+                    "id": "2581752315329686",
+                    "url": "https://www.facebook.com/photo.php?fbid=2581752315329686&set=gm.1446919465962737&type=3",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/489312950_2818083061696609_4338519689207529742_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=JrbRBHGkorkQ7kNvwH3dTHd&_nc_oc=Ado03r5v1kbwIiqtyTccvmuH9biBfdMuxp1hempK7yqS5aj7L1idB35c5CFbOKs3mP4&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=Jnh1tTqEA0QkJD27ydrc1w&_nc_ss=7a3a8&oh=00_Af16s2Mbaoku-ogyExWpsn-MBJcAC24YMmriiFoBK92QPQ&oe=69E71F23",
+                    "height": 791,
+                    "width": 870,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 870,
+                    "real_height": 791
+                },
+                {
+                    "id": "2581753181996266",
+                    "url": "https://www.facebook.com/photo.php?fbid=2581753181996266&set=gm.1446919462629404&type=3",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/489477126_2818083181696597_492358174326480256_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=pe0UWVIBujsQ7kNvwFWcFJi&_nc_oc=Adqo_TEaAUAW49h7AfIO04MTzKN57GyWK7imG6WiGHK51Wwl9QMkrbOJW9lDNTywmwQ&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=Jnh1tTqEA0QkJD27ydrc1w&_nc_ss=7a3a8&oh=00_Af3z8K5Jv8SzBsFjhz9M1JaVebEjbbo-mfWMLP53j0qJ6g&oe=69E73708",
+                    "height": 856,
+                    "width": 776,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 776,
+                    "real_height": 856
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Tool tải video/nhạc ngon\n\nChia sẻ với mn tools mình vừa tìm được, giúp tải video/nhạc trên nhiều nền tảng: youtube, bilibili, pinterest, tiktok, vimeo, ...\n\nhttps://cobalt.tools/\n\nĐặc biệt là nó opensource, không quảng cáo, tối giản:\n\nhttps://github.com/imputnet/cobalt\n\nCó thể sắp tới tích hợp vào useful-script luôn cũng nên 😂\n\n#ufs_share",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Tool tải video/nhạc ngon"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Chia sẻ với mn tools mình vừa tìm được, giúp tải video/nhạc trên nhiều nền tảng: youtube, bilibili, pinterest, tiktok, vimeo, ..."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "IMPLICIT_LINK",
+                        "entity": {
+                            "__typename": "ExternalUrl",
+                            "__isEntity": "ExternalUrl",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fcobalt.tools%2F&h=AT6wX2ncisLh6FyPX49HyVdUPCgIJKfVgg39cYBfq_xkFfUruV87fKvrYa4mqFMnuuW5CDgMyXCoeruHrJQ98jUYBzAiu9XrJal3eYSej78BdanX2k3fVwouUqFuzAGsHgM1CPaMQg&s=1",
+                            "external_url": "https://cobalt.tools/",
+                            "__isWebLinkable": "ExternalUrl",
+                            "web_link": {
+                                "__typename": "ExternalWebLink",
+                                "url": "https://cobalt.tools/",
+                                "fbclid": "IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsxQE86w8ho_HhA7Sm86tR50m4kbwrzmTwvEj6wN1-TtIO7HcTdC6PK2ZX0l_aem_X05CNPzJz1vC3i8_jtV4-g",
+                                "lynx_mode": "ASYNCLAZY"
+                            },
+                            "mobileUrl": "https://lm.facebook.com/l.php?u=https%3A%2F%2Fcobalt.tools%2F&h=AT7Va8rg9FZLD5cFKXSB2cObtZxOSMTCLPXx-3FHkveBVAE7U4H1zIFJfx7BVyqC13tgzr_ZHcoefwR8EaBm10Cw5iCAdhzA2Hwxk9-EwXhJSeVoScYfor909t2-KrvFlCvyk7lAOw&s=1",
+                            "__isNode": "ExternalUrl",
+                            "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2NvYmFsdC50b29scy86Ojo6Og=="
+                        },
+                        "length": 21,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "https://cobalt.tools/"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Đặc biệt là nó opensource, không quảng cáo, tối giản:"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "IMPLICIT_LINK",
+                        "entity": {
+                            "__typename": "ExternalUrl",
+                            "__isEntity": "ExternalUrl",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fimputnet%2Fcobalt&h=AT54tqGoNNJQXe2LNQIuvYRTXhO9G6XyEfKaCnVBTmOXKOb0UWdNMNd8-QvMYKvyzWn7d2Fp1zpFtruqcFVxHzPty47KXWgxaZdBlhp9LNHfK2rqLUWbfQNcvlMvyBzKfuTu2kHVBg&s=1",
+                            "external_url": "https://github.com/imputnet/cobalt",
+                            "__isWebLinkable": "ExternalUrl",
+                            "web_link": {
+                                "__typename": "ExternalWebLink",
+                                "url": "https://github.com/imputnet/cobalt",
+                                "fbclid": "IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvtp5gc04It6CtxAj6CNOl9zCnj8aP-6UI6OYsGjdFzTpaIYgukUwsFEOVmQ_aem_aMERMFS_ia5j2Ri5ESvUKw",
+                                "lynx_mode": "ASYNCLAZY"
+                            },
+                            "mobileUrl": "https://lm.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fimputnet%2Fcobalt&h=AT7CXJHQHncxIAQ8JsPtHBdeIgvycPPDF4qmJY7Cdqo4ogM79HQWC-t9XyKueQtdAuryAmCVjG0yMZfAA-RF5Yhd0pTCi_zHCJdIpDlpm8dVlLtNgvut6UPhqUOq1IPvyY9JIog8cg&s=1",
+                            "__isNode": "ExternalUrl",
+                            "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2dpdGh1Yi5jb20vaW1wdXRuZXQvY29iYWx0Ojo6Ojo="
+                        },
+                        "length": 34,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "https://github.com/imputnet/cobalt"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "\nCó thể sắp tới tích hợp vào useful-script luôn cũng nên 😂"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/ufs_share",
+                            "mobileUrl": "https://m.facebook.com/hashtag/ufs_share",
+                            "__isNode": "Hashtag",
+                            "id": "8156434557722932"
+                        },
+                        "length": 10,
+                        "offset": 1
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "\n#ufs_share"
+            }
+        ],
+        "hashtags": [
+            "#ufs_share"
+        ],
+        "mentions": [
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2dpdGh1Yi5jb20vaW1wdXRuZXQvY29iYWx0Ojo6Ojo=",
+                "name": "https://github.com/imputnet/cobalt",
+                "url": "https://github.com/imputnet/cobalt",
+                "length": 34,
+                "offset": 0
+            },
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2NvYmFsdC50b29scy86Ojo6Og==",
+                "name": "https://cobalt.tools/",
+                "url": "https://cobalt.tools/",
+                "length": 21,
+                "offset": 0
+            }
+        ],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 19,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 16,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 3,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 5,
+        "created_time": 1720773761000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1446919469296070",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2581752315329686",
+                "2581753181996266"
+            ],
+            "photo_id": "2581752315329686",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1720773761,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1446919469296070"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=Jnh1tTqEA0QkJD27ydrc1w&_nc_ss=7a3a8&oh=00_Af3FrFtP8yEP119mvx4X5_seOpgLIQIxZr5S8lNJpm797Q&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

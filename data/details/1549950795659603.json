@@ -1,0 +1,390 @@
+{
+    "result": {
+        "id": "UzpfSTE1NDk5NTA3OTU2NTk2MDM6Vks6MTU0OTk1MDc5NTY1OTYwMw==",
+        "post_id": "1549950795659603",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1549950795659603/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2725258534312396",
+                "url": "https://www.facebook.com/photo/?fbid=2725258534312396&set=gm.1549950795659603&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/504180932_2879366725568242_1229840903102171893_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=bPqGrIfv_q4Q7kNvwGs8JLX&_nc_oc=AdqL-5MVzSeshhces1L5azJR1-ycEPw9MVAim6X3tnBYBsY3OFQbQrOY0exsbVnP1D8&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=QkRJ-DQTtPVpH1J69L5_4w&_nc_ss=7a3a8&oh=00_Af2sGqJApB6-sHJ91wE6EUx1hMknYGF2i1JeKaIOwfcrmQ&oe=69E7777F",
+                "height": 587,
+                "width": 933,
+                "accessibility_caption": "Có thể là hình ảnh về 2 người và văn bản",
+                "accent_color": "FF000000",
+                "real_width": 933,
+                "real_height": 587
+            },
+            "video": null
+        },
+        "text": "# **FB AIO: Quét bạn cũ, Quét thời gian 🫂🕓**\n\nNhằm giúp mọi người quản lý bạn bè tốt hơn, mình làm thêm 2 chức năng:\n* Quét tìm lại tất cả bạn cũ (từng kết bạn, nhưng đã huỷ kết bạn) 🫂\n* Quét thời gian kết bạn (của tất cả bạn bè hiện có) 🕒\n\nAi dùng fb lâu năm là cần dữ lắm kkk 🌟\n\nSẵn thu gọn lại giao diện quản lý. Chứ chức năng càng ngày càng nhiều 🤣\n\n# **LƯU Ý 🚨**\n\nKhác biệt giữa Quét bạn cũ và Quét huỷ kết bạn:\n* Quét bạn cũ: **Bạn → huỷ kết bạn → với Người ta 👌**\n* Quét huỷ kết bạn: **Người ta → huỷ kết bạn → với bạn 😭**\n\nFB AIO có sẵn cơ chế thông báo khi có ai đó huỷ kết bạn với bạn rồi nhé. 🔔\n\nChỉ dùng Quét huỷ kết bạn nếu bạn muốn kiểm tra bằng tay (đã lưu danh sách bạn bè ra file trước đó) 📋",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 38,
+                        "offset": 0
+                    }
+                ],
+                "text": "FB AIO: Quét bạn cũ, Quét thời gian 🫂🕓"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Nhằm giúp mọi người quản lý bạn bè tốt hơn, mình làm thêm 2 chức năng:"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 13,
+                        "offset": 13
+                    }
+                ],
+                "text": "Quét tìm lại tất cả bạn cũ (từng kết bạn, nhưng đã huỷ kết bạn) 🫂"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 17,
+                        "offset": 5
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 7,
+                        "offset": 42
+                    }
+                ],
+                "text": "Quét thời gian kết bạn (của tất cả bạn bè hiện có) 🕒"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Ai dùng fb lâu năm là cần dữ lắm kkk 🌟"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Sẵn thu gọn lại giao diện quản lý. Chứ chức năng càng ngày càng nhiều 🤣"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 7,
+                        "offset": 0
+                    }
+                ],
+                "text": "LƯU Ý 🚨"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 11,
+                        "offset": 15
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 16,
+                        "offset": 30
+                    }
+                ],
+                "text": "Khác biệt giữa Quét bạn cũ và Quét huỷ kết bạn:"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 34,
+                        "offset": 13
+                    }
+                ],
+                "text": "Quét bạn cũ: Bạn → huỷ kết bạn → với Người ta 👌"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 34,
+                        "offset": 18
+                    }
+                ],
+                "text": "Quét huỷ kết bạn: Người ta → huỷ kết bạn → với bạn 😭"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 9,
+                        "offset": 21
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 17,
+                        "offset": 38
+                    }
+                ],
+                "text": "FB AIO có sẵn cơ chế thông báo khi có ai đó huỷ kết bạn với bạn rồi nhé. 🔔"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 16,
+                        "offset": 9
+                    }
+                ],
+                "text": "Chỉ dùng Quét huỷ kết bạn nếu bạn muốn kiểm tra bằng tay (đã lưu danh sách bạn bè ra file trước đó) 📋"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 6,
+            "total_count": 7,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 41,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 38,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 3,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1734892508000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1549950795659603",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2725258534312396",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1734892508,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1549950795659603"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=QkRJ-DQTtPVpH1J69L5_4w&_nc_ss=7a3a8&oh=00_Af2oLj6utrrMLHluKexgKMZD_F0dUsfaN-tUvvYUzCh_zw&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

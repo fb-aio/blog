@@ -1,0 +1,242 @@
+{
+    "result": {
+        "id": "UzpfSTE2MTYxNDA2MjkwNDA2MTk6Vks6MTYxNjE0MDYyOTA0MDYxOQ==",
+        "post_id": "1616140629040619",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1616140629040619/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Đứt gãy / Dịch chuyển địa chất Myanma sau động đất 😳\n\nĐược nhìn thấy rõ qua ảnh vệ tinh\n\nĐường đứt đoạn chính là đường đứt gãy địa chất 👀\n\nNền đất 2 bên đứt gãy đã dịch chuyển 1 đoạn nhỏ 🤐\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 1,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 11,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 8,
+                    "name": "Thích"
+                },
+                {
+                    "id": "478547315650144",
+                    "count": 3,
+                    "name": "Wow"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1743590101000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1616140629040619",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "646612338223449",
+            "page_id": "54912575666",
+            "story_location": 9,
+            "attached_story_attachment_style": "video_autoplay",
+            "video_id": "646612338223449",
+            "attached_story_type": "EntVideoCreationStory",
+            "attached_story_attachment_type": "VideoAttachment",
+            "page_insights": {
+                "100064562868974": {
+                    "page_id": "100064562868974",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100064562868974",
+                        "page_id_type": "page",
+                        "actor_id": "100064562868974",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntVideoCreationStory",
+                        "post_context": {
+                            "object_fbtype": 1,
+                            "publish_time": 1743510248,
+                            "story_name": "EntVideoCreationStory",
+                            "story_fbid": [
+                                "646612338223449"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1616140629040619",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100064562868974",
+                            "post_id": "646612338223449",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "646612338223449",
+                        "sharedMediaID": "1616140629040619",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1743590101,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1616140629040619"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=ivou_Q_ysi_5OoE1cD1sDA&_nc_ss=7a3a8&oh=00_Af1bdIX0i3spYSacdSotaaQRTlPt_ytSFMQc_G6zxlkIdQ&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA2NDU2Mjg2ODk3NDpWSzo2NDY2MTIzMzgyMjM0NDk=",
+            "post_id": "646612338223449",
+            "url": "https://www.facebook.com/EuropeanSpaceAgency/videos/646612338223449/",
+            "media": {
+                "subAttachments": [],
+                "photo": null,
+                "video": {
+                    "id": "646612338223449",
+                    "url": "https://www.facebook.com/EuropeanSpaceAgency/videos/646612338223449/",
+                    "thumbnail": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t15.5256-10/487862626_1362071138254745_6349240714453938424_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=50ce42&_nc_ohc=5DTzAMMX3EMQ7kNvwHC95Ao&_nc_oc=Adr5q2CGBNBxmgT9vlN7cq_nK4ITKEEmD7ijo2Oviv2FIp6X49JX1D6rq-MB1uzxImk&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=ivou_Q_ysi_5OoE1cD1sDA&_nc_ss=7a3a8&oh=00_Af0M6cJKmx3OY4scehgE42PhBToTdxCRztqTQMXQ0OjgEw&oe=69E7916F",
+                    "duration": 1000,
+                    "width": 1920,
+                    "height": 1920,
+                    "original_width": 1920,
+                    "original_height": 1920,
+                    "publish_time": 0,
+                    "audio_availability": "UNAVAILABLE",
+                    "is_live_streaming": false,
+                    "is_spherical": false,
+                    "is_looping": true,
+                    "loop_count": 90,
+                    "source": {
+                        "variants": []
+                    },
+                    "sprite": {
+                        "uris": [],
+                        "thumbnail_width": 0,
+                        "thumbnail_height": 0,
+                        "num_images_per_row": 10,
+                        "max_number_of_images_per_sprite": 100,
+                        "time_interval_between_image": 1
+                    }
+                }
+            },
+            "text": "This animation, which uses images from the Copernicus Sentinel-2 mission, reveals a distinct north-south rupture in the ground west of the Irrawaddy River, near Mandalay, the capital of Myanmar.",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "ESA - European Space Agency",
+                    "id": "100064562868974",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/EuropeanSpaceAgency",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1743510635000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

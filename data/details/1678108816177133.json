@@ -1,0 +1,242 @@
+{
+    "result": {
+        "id": "UzpfSTE2NzgxMDg4MTYxNzcxMzM6Vks6MTY3ODEwODgxNjE3NzEzMw==",
+        "post_id": "1678108816177133",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1678108816177133/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Theo Nghị quyết của Chính phủ đã bắt đầu có hiệu lực",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100009820695732",
+                "name": "Hoàng Hào",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/kemsadboiz"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 5,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 4,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1751318011000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1678108816177133",
+            "content_owner_id_new": "100009820695732",
+            "original_content_id": "1178416350989810",
+            "original_content_owner_id": "100064643681682",
+            "page_id": "1109467198906183",
+            "story_location": 9,
+            "attached_story_type": "EntStatusCreationStory",
+            "page_insights": {
+                "100009820695732": {
+                    "page_id": "100009820695732",
+                    "page_id_type": "page",
+                    "actor_id": "100009820695732",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1178416350989810",
+                        "sharedMediaID": "1678108816177133",
+                        "sharedMediaOwnerID": "100009820695732"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1751306586,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1678108816177133"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100009820695732",
+                            "page_id": "100009820695732",
+                            "post_id": "1678108816177133",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "100064643681682": {
+                    "page_id": "100064643681682",
+                    "page_id_type": "page",
+                    "actor_id": "100009820695732",
+                    "attached_story": {
+                        "page_id": "100064643681682",
+                        "page_id_type": "page",
+                        "actor_id": "100064643681682",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1750927049,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1178416350989810"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1678108816177133",
+                        "sharedMediaOwnerID": "100009820695732"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100009820695732",
+                            "page_id": "100064643681682",
+                            "post_id": "1178416350989810",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100009820695732",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1178416350989810",
+                        "sharedMediaID": "1678108816177133",
+                        "sharedMediaOwnerID": "100009820695732"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1751306586,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1678108816177133"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100009820695732",
+            "actrs": "100009820695732",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=TMho48w1HnFcxB-x9YKiXA&_nc_ss=7a3a8&oh=00_Af0mAqGqmp83Gq_CRKnlc-MRK9WW4_Doukv9rFFCa_7L8g&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA2NDY0MzY4MTY4MjoxMTc4NDE2MzUwOTg5ODEwOjExNzg0MTYzNTA5ODk4MTA=",
+            "post_id": "1178416350989810",
+            "url": "https://www.facebook.com/thongtinchinhphu/posts/pfbid02VoaCxbyQCBKv57MaRG7u73JaQmfmx8rfWLYajc6TBwoyEx7BavTQDgkzs7Qaa5Fcl",
+            "media": {
+                "subAttachments": [],
+                "photo": null,
+                "video": null
+            },
+            "text": "⛽🛢 Từ 00h ngày 1/7/2025(*), giá các mặt hàng xăng, dầu được điều chỉnh như sau:\n\nGiá xăng E5 RON92 giảm 101 đồng/lít, còn 20.530 đồng/lít.\n\nGiá xăng RON95-III giảm 128 đồng/lít, còn 21.116 đồng/lít.\n\nGiá dầu diesel tăng nhẹ 193 đồng/lít, lên 19.349 đồng/lít.\n\nGiá dầu hỏa tăng 141 đồng/lít, lên 19.064 đồng/lít.\n\nGiá dầu mazut giảm mạnh 688 đồng/kg, còn 16.955 đồng/kg.\n\n---\n* Khi chính sách giảm thuế VAT theo Nghị quyết 204/2025/QH15 chính thức có hiệu lực",
+            "text_format": {
+                "preset_id": "249307305544279",
+                "background_color": "FFFF0047",
+                "background_gradient_color": "FF2C34C7",
+                "background_gradient_direction": "BL_TR",
+                "color": "FFFFFFFF",
+                "font_weight": "BOLD",
+                "font_style": "NORMAL",
+                "text_align": "CENTER"
+            },
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Thông tin Chính phủ",
+                    "id": "100064643681682",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/thongtinchinhphu",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1750927049000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

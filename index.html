@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="vi">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>FB AIO Blog</title>
+        <link rel="icon" type="image/png" href="./logo.png" />
+
+        <script>
+            (function () {
+                var savedTheme = localStorage.getItem('theme');
+                if (
+                    savedTheme === 'dark' ||
+                    (!savedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)
+                ) {
+                    document.documentElement.classList.add('dark');
+                }
+                if ('scrollRestoration' in history) {
+                    history.scrollRestoration = 'manual';
+                }
+            })();
+        </script>
+
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&display=swap"
+            rel="stylesheet"
+        />
+        <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/css/all.min.css"
+        />
+
+        <script src="https://unpkg.com/preact@10.19.6/dist/preact.umd.js"></script>
+        <script src="https://unpkg.com/preact@10.19.6/hooks/dist/hooks.umd.js"></script>
+        <script src="https://unpkg.com/htm@3.1.1/dist/htm.umd.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script>
+            var h = preact.h;
+            var html = htm.bind(h);
+            var hooks = preactHooks;
+            var render = preact.render;
+        </script>
+
+        <script src="https://cdn.tailwindcss.com"></script>
+        <script>
+            tailwind.config = {
+                darkMode: 'class',
+                theme: {
+                    extend: {
+                        colors: {
+                            ember: '#db5c44',
+                            lagoon: '#0f766e',
+                            ink: '#172033'
+                        }
+                    }
+                }
+            };
+        </script>
+
+        <link href="./style.css" rel="stylesheet" />
+    </head>
+
+    <body>
+        <div id="root"></div>
+
+        <script src="./index.js"></script>
+    </body>
+</html>

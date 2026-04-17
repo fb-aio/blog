@@ -1,0 +1,218 @@
+{
+    "result": {
+        "id": "UzpfSTE2OTUzNjM1NDExMTgzMjc6Vks6MTY5NTM2MzU0MTExODMyNw==",
+        "post_id": "1695363541118327",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1695363541118327/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Ý số 8 và 19 quan trọng lắm nha mọi người 🤣\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 2,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 9,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 9,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1753410053000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1695363541118327",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1201278315370280",
+            "original_content_owner_id": "100064643681682",
+            "page_id": "912918568785331",
+            "story_location": 9,
+            "attached_story_type": "EntStatusCreationStory",
+            "page_insights": {
+                "100064643681682": {
+                    "page_id": "100064643681682",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100064643681682",
+                        "page_id_type": "page",
+                        "actor_id": "100064643681682",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1753346779,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1201278315370280"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1695363541118327",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100064643681682",
+                            "post_id": "1201278315370280",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1201278315370280",
+                        "sharedMediaID": "1695363541118327",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1753410053,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1695363541118327"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=7qTK8_GObDy4LhKR3a-0bA&_nc_ss=7a3a8&oh=00_Af2L262uvSw8JNKs0udd-d09JWsrhzlPdsTnRq2s060x5Q&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA2NDY0MzY4MTY4MjoxMjAxMjc4MzE1MzcwMjgwOjEyMDEyNzgzMTUzNzAyODA=",
+            "post_id": "1201278315370280",
+            "url": "https://www.facebook.com/thongtinchinhphu/posts/pfbid02ZuKjKp2mFhB4uhyxBr52fcPDCqWtcsb2JxeMRgVBboJ2yXM7CFpPHsUwhMRMKisbl",
+            "media": {
+                "subAttachments": [],
+                "photo": null,
+                "video": null
+            },
+            "text": "💚 Đề xuất miễn thuế, không tính vào thu nhập chịu thuế thu nhập cá nhân các khoản sau:\n\n1. Thu nhập từ chuyển nhượng, nhận thừa kế, quà tặng là bất động sản giữa vợ với chồng; cha đẻ, mẹ đẻ với con đẻ; cha nuôi, mẹ nuôi với con nuôi; cha chồng, mẹ chồng với con dâu; cha vợ, mẹ vợ với con rể; ông nội, bà nội với cháu nội; ông ngoại, bà ngoại với cháu ngoại; anh, chị, em ruột với nhau.\n\n2. Thu nhập từ chuyển nhượng nhà ở, quyền sử dụng đất ở và tài sản gắn liền với đất ở của cá nhân trong trường hợp cá nhân chỉ có một nhà ở, đất ở duy nhất.\n\n3. Thu nhập từ giá trị quyền sử dụng đất của cá nhân được Nhà nước giao đất.\n\n4. Thu nhập của hộ gia đình, cá nhân trực tiếp sản xuất sản phẩm cây trồng, rừng trồng, chăn nuôi, thủy sản nuôi trồng, đánh bắt chưa qua chế biến thành các sản phẩm khác hoặc chỉ qua sơ chế thông thường; sản xuất muối; thu nhập từ lợi tức cổ phần của thành viên hợp tác xã, liên hiệp hợp tác xã nông nghiệp, cá nhân là nông dân ký kết hợp đồng với doanh nghiệp tham gia \"Cánh đồng lớn\", trồng rừng sản xuất, nuôi trồng thủy sản.\n\n5. Thu nhập từ chuyển đổi đất nông nghiệp của hộ gia đình, cá nhân được Nhà nước giao để sản xuất.\n\n6. Thu nhập từ lãi trái phiếu Chính phủ, lãi tín phiếu kho bạc, lãi tiền gửi tại tổ chức tín dụng, lãi từ hợp đồng bảo hiểm nhân thọ.\n\n7. Thu nhập từ kiều hối.\n\n8. Phần tiền lương làm việc ban đêm, làm thêm giờ được trả cao hơn so với tiền lương làm việc ban ngày, làm trong giờ theo quy định của pháp luật.\n\n9. Tiền lương hưu do Quỹ bảo hiểm xã hội chi trả; tiền lương hưu do quỹ bảo hiểm hưu trí bổ sung, quỹ hưu trí tự nguyện chi trả.\n\n10. Thu nhập từ học bổng, bao gồm:\n\na) Học bổng nhận được từ ngân sách nhà nước;\n\nb) Học bổng nhận được từ tổ chức trong nước và ngoài nước theo chương trình hỗ trợ khuyến học của tổ chức đó.\n\n11. Thu nhập từ bồi thường hợp đồng bảo hiểm nhân thọ, phi nhân thọ, tiền bồi thường tai nạn lao động, khoản bồi thường nhà nước và các khoản bồi thường khác theo quy định của pháp luật.\n\n12. Thu nhập nhận được từ các tổ chức và quỹ từ thiện được cơ quan nhà nước có thẩm quyền cho phép thành lập hoặc công nhận, hoạt động vì mục đích từ thiện, nhân đạo, không nhằm mục đích lợi nhuận.\n\n13. Thu nhập nhận được từ nguồn viện trợ nước ngoài vì mục đích từ thiện, nhân đạo dưới hình thức Chính phủ và phi chính phủ được cơ quan nhà nước có thẩm quyền phê duyệt.\n\n14. Thu nhập từ tiền lương, tiền công của thuyền viên là người Việt Nam làm việc cho các hãng tàu nước ngoài hoặc các hãng tàu Việt Nam vận tải quốc tế.\n\n15. Thu nhập của cá nhân là chủ tàu, cá nhân có quyền sử dụng tàu và cá nhân làm việc trên tàu từ hoạt động cung cấp hàng hóa, dịch vụ trực tiếp phục vụ hoạt động khai thác, đánh bắt thủy sản xa bờ.\n\n16. Thu nhập từ chuyển nhượng chứng chỉ giảm phát thải, chuyển nhượng tín chỉ các - bon lần đầu sau khi phát hành của cá nhân được cấp chứng chỉ giảm phát thải, tín chỉ các - bon; thu nhập từ tiền lãi trái phiếu xanh; thu nhập từ chuyển nhượng trái phiếu xanh lần đầu sau khi phát hành.\n\n17. Thu nhập từ tiền lương, tiền công từ thực hiện nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước; thu nhập từ tiền lương, tiền công từ thực hiện nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo sử dụng ngân sách nhà nước.\n\n18. Thu nhập từ công tác xây dựng pháp luật.\n\n19. Thu nhập của nhà đầu tư cá nhân, chuyên gia làm việc cho dự án khởi nghiệp sáng tạo, sáng lập viên cho doanh nghiệp khởi nghiệp sáng tạo, nhà đầu tư cá nhân góp vốn vào quỹ đầu tư mạo hiểm.\n\n20. Thu nhập từ quyền tác giả của nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo khi kết quả nhiệm vụ được thương mại hóa theo quy định của pháp luật về khoa học, công nghệ và đổi mới sáng tạo, pháp luật về sở hữu trí tuệ.\n\n21. Thu nhập từ chuyển nhượng cổ phần, phần vốn góp, quyền góp vốn, quyền mua cổ phần, quyền mua phần vốn góp vào doanh nghiệp khởi nghiệp sáng tạo.\n\n22. Thu nhập sau khi đã nộp thuế thu nhập doanh nghiệp của doanh nghiệp tư nhân và của công ty trách nhiệm hữu hạn một thành viên do cá nhân làm chủ.",
+            "text_format": {
+                "preset_id": "1032899107855087",
+                "background_color": "FF51CA55",
+                "background_image": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.10873-6/386198594_1032899121188419_1359128005749832554_n.jpg?stp=dst-jpg_p235x350_tt6&_nc_cat=1&ccb=1-7&_nc_sid=4bb800&_nc_ohc=hJ5y10yJV14Q7kNvwFXQIKU&_nc_oc=AdoMBCZ30tElOMV7XGVrXsCslV5CwS6ZFVdTBIepL1LvN12sQEu8FwTicrR_s-sGaGE&_nc_zt=14&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=7qTK8_GObDy4LhKR3a-0bA&_nc_ss=7a3a8&oh=00_Af2PX8ss-y1mYpPdBE_N7CB6Lk1VLdX91EauO0g4sQQkXQ&oe=69E741B0",
+                "portrait_background_image": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.10873-6/386198594_1032899121188419_1359128005749832554_n.jpg?stp=dst-jpg_p235x350_tt6&_nc_cat=1&ccb=1-7&_nc_sid=4bb800&_nc_ohc=hJ5y10yJV14Q7kNvwFXQIKU&_nc_oc=AdoMBCZ30tElOMV7XGVrXsCslV5CwS6ZFVdTBIepL1LvN12sQEu8FwTicrR_s-sGaGE&_nc_zt=14&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=7qTK8_GObDy4LhKR3a-0bA&_nc_ss=7a3a8&oh=00_Af2PX8ss-y1mYpPdBE_N7CB6Lk1VLdX91EauO0g4sQQkXQ&oe=69E741B0",
+                "color": "FF206C25",
+                "font_weight": "BOLD",
+                "font_style": "NORMAL",
+                "text_align": "CENTER"
+            },
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Thông tin Chính phủ",
+                    "id": "100064643681682",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/thongtinchinhphu",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1753346779000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

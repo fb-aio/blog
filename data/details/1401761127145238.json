@@ -1,0 +1,271 @@
+{
+    "result": {
+        "id": "UzpfSTE0MDE3NjExMjcxNDUyMzg6Vks6MTQwMTc2MTEyNzE0NTIzOA==",
+        "post_id": "1401761127145238",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1401761127145238/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2524343977737187",
+                "url": "https://www.facebook.com/photo/?fbid=2524343977737187&set=gm.1401761127145238&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/488212784_2813743198797262_4156678526322585416_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=CXSEeYDe04AQ7kNvwGW3QGB&_nc_oc=Adr-HsHygDkt-pcx6unKIz_XXp36etMDG1a9dRYtzaIgKXWglo7Dtz4RJ3qDa_i7IVM&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=5zBzHo1zakv94395pBRkdQ&_nc_ss=7a3a8&oh=00_Af0Uk13MUUoFWM8w3jW4hFC_sczFvjmJQbKcLqQvYkQ-XQ&oe=69E7706E",
+                "height": 761,
+                "width": 718,
+                "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                "accent_color": "FFFFFFFF",
+                "real_width": 718,
+                "real_height": 761
+            },
+            "video": null
+        },
+        "text": "# Lời cảm ơn \n\n1 tháng gần đây mỗi ngày mình code >5 tiếng cho Useful-scripts\n\nMới nhìn tưởng dễ, đụng vô làm mới thấy nhiều việc kinh khủng 🥴\n\nThường mình sẽ fix hết (hoặc đa số) các lỗi, rồi mới up 1 lần cho mọi người sử dụng. Nên lâu lâu mọi người mới có bản update mới.\n\nNếu ai THẬT SỰ cần fix gấp chức năng nào thì chat cho mình nhé. nếu chức năng đó sửa rồi thì mình sẽ gửi cho 1 bản dev (chức năng đó ổn định còn mọi thứ khác thì không (chắc) 😂)\n\nKhông biết cơn gió nào khiến mình tự nhiên muốn nâng cấp tiện ích này như vậy, mặc dù đã bỏ đói nó hơn 1 năm. Chắc là do sự ủng hộ của mọi người rồi, càng nhiều người dùng thì càng có động lực 😂🥹\n\nNên nếu mọi người thấy hay, hãy chia sẻ cho bạn bè người thân cùng dùng nha, cảm ơn mọi người. 😇\n\n> Dành cho ai muốn xem working note của mình (hơi bừa tý) \nhttps://github.com/HoangTran0410/useful-script/blob/dev/working_note.md",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Lời cảm ơn \n"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "\n\n1 tháng gần đây mỗi ngày mình code >5 tiếng cho Useful-scripts\n\nMới nhìn tưởng dễ, đụng vô làm mới thấy nhiều việc kinh khủng 🥴"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Thường mình sẽ fix hết (hoặc đa số) các lỗi, rồi mới up 1 lần cho mọi người sử dụng. Nên lâu lâu mọi người mới có bản update mới."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Nếu ai THẬT SỰ cần fix gấp chức năng nào thì chat cho mình nhé. nếu chức năng đó sửa rồi thì mình sẽ gửi cho 1 bản dev (chức năng đó ổn định còn mọi thứ khác thì không (chắc) 😂)"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Không biết cơn gió nào khiến mình tự nhiên muốn nâng cấp tiện ích này như vậy, mặc dù đã bỏ đói nó hơn 1 năm. Chắc là do sự ủng hộ của mọi người rồi, càng nhiều người dùng thì càng có động lực 😂🥹"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Nên nếu mọi người thấy hay, hãy chia sẻ cho bạn bè người thân cùng dùng nha, cảm ơn mọi người. 😇"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedBlockquoteBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                "block_type": "BLOCKQUOTE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Dành cho ai muốn xem working note của mình (hơi bừa tý) \nhttps://github.com/HoangTran0410/useful-script/blob/dev/working_note.md"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 6,
+            "total_count": 8,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 44,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 23,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 17,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "613557422527858",
+                    "count": 3,
+                    "name": "Thương thương"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 1,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 2,
+        "created_time": 1713845429000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1401761127145238",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2524343977737187",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1713845429,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1401761127145238"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=5zBzHo1zakv94395pBRkdQ&_nc_ss=7a3a8&oh=00_Af3kepv8Dpgf1kCcCqfdaDPyRAYT3idxOmIVCqBEY_OS4A&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

@@ -1,0 +1,330 @@
+{
+    "result": {
+        "id": "UzpfSTE0NjczNTE2MTA1ODYxODk6Vks6MTQ2NzM1MTYxMDU4NjE4OQ==",
+        "post_id": "1467351610586189",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1467351610586189/",
+        "media": {
+            "mediaset_token": "pcb.1467351610586189",
+            "subAttachments": [
+                {
+                    "id": "2609381595900091",
+                    "url": "https://www.facebook.com/photo.php?fbid=2609381595900091&set=gm.1467351613919522&type=3",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/491354745_2826024137569168_7626339956872505985_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=IKvHbn4_MEcQ7kNvwHA0-Fy&_nc_oc=Adr9_iSeqQUnHhwiBcLlh5JezurndaNjul4NB4yZGY2GRGGk4rs73Hg435z3FYQ-BOU&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=z3sG-wmQvC2ZQaOB2AUH_Q&_nc_ss=7a3a8&oh=00_Af0gmvO9SbTCM2H_am7UmSFH0V7oaNBq15yITCa77F9k0Q&oe=69E73971",
+                    "height": 858,
+                    "width": 1005,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                    "real_width": 1005,
+                    "real_height": 858
+                },
+                {
+                    "id": "2609381809233403",
+                    "url": "https://www.facebook.com/photo.php?fbid=2609381809233403&set=gm.1467351617252855&type=3",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/490777495_2826024100902505_9155686806326136961_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=le3WYSv68boQ7kNvwH0yd1d&_nc_oc=AdqB4RaH2F_J3UxpTtI-sioj788ucVuQYzjnx4LSCERPRsH0ZZI35EZ83VbTITTgazo&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=z3sG-wmQvC2ZQaOB2AUH_Q&_nc_ss=7a3a8&oh=00_Af11HNvu3z2RWpghuHqB6ugC0xKBQziTqo31KZO0fzkeDg&oe=69E716C9",
+                    "height": 788,
+                    "width": 647,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                    "real_width": 647,
+                    "real_height": 788
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# **useCacheState.js** - super tiny state-manament for React\n\nMình viết 1 custom hook dành cho ReactJS / React Native. \n\nCó thể dùng để thay thế useContext / Redux / Recoil / Zustand / ... trên những project vừa và nhỏ.\n\nNày do lúc code facebook all-in-one. Xài react-router-dom, mỗi khi chuyển tab chức năng (route) khác là màn hình cũ nó bị xoá (unmount),  khiến mất hết dữ liệu (state). 😩\n\nKhi bấm back lại thì màn hình về như ban đầu, giả sử vừa vào Tải hàng loạt crush, bấm qua bấm lại cái mất luôn crush, phải bấm tải lại, khá khó chịu. 🤔\n\nNên mình tìm cách viết hook, cache lại state, để trải nghiệm người dùng được tốt hơn.\n\nDo tự viết nên có thể chưa tối ưu, mọi người có ý tưởng hoặc issue gì cứ bình luận nha 🥹\n\nThe hook: https://j2c.cc/useCacheState-react-hook\n\n#ufs_share",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 16,
+                        "offset": 0
+                    }
+                ],
+                "text": "useCacheState.js - super tiny state-manament for React"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Mình viết 1 custom hook dành cho ReactJS / React Native. \n\nCó thể dùng để thay thế useContext / Redux / Recoil / Zustand / ... trên những project vừa và nhỏ.\n\nNày do lúc code facebook all-in-one. Xài react-router-dom, mỗi khi chuyển tab chức năng (route) khác là màn hình cũ nó bị xoá (unmount),  khiến mất hết dữ liệu (state). 😩"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Khi bấm back lại thì màn hình về như ban đầu, giả sử vừa vào Tải hàng loạt crush, bấm qua bấm lại cái mất luôn crush, phải bấm tải lại, khá khó chịu. 🤔"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Nên mình tìm cách viết hook, cache lại state, để trải nghiệm người dùng được tốt hơn."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Do tự viết nên có thể chưa tối ưu, mọi người có ý tưởng hoặc issue gì cứ bình luận nha 🥹"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "IMPLICIT_LINK",
+                        "entity": {
+                            "__typename": "ExternalUrl",
+                            "__isEntity": "ExternalUrl",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fj2c.cc%2FuseCacheState-react-hook&h=AT5P5tcu1lnNjQNaxpTZLb70YCCr68jJPkLIaRDDaTa5vrQSPi1wec_3QqUluxYWVbjHHrd0clqYGXa6SIf27rnOBaU6yn9JrkuChGNVwYn90iKp2_fyVN8jzIswbI6Fvvch2D7-QA&s=1",
+                            "external_url": "https://j2c.cc/useCacheState-react-hook",
+                            "__isWebLinkable": "ExternalUrl",
+                            "web_link": {
+                                "__typename": "ExternalWebLink",
+                                "url": "https://j2c.cc/useCacheState-react-hook",
+                                "fbclid": "IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHo2wGMcpi_H2QbMjSICKxE9HQIULT7EDhPyCTJ8Q3_sAcZNzWFevppA-WvsS_aem_s_Y56scrpcrqrwTWSXBSmw",
+                                "lynx_mode": "ASYNCLAZY"
+                            },
+                            "mobileUrl": "https://lm.facebook.com/l.php?u=https%3A%2F%2Fj2c.cc%2FuseCacheState-react-hook&h=AT747oF29rVSov3o4OY8SUaGPewDbIxas5VHS0wxUbsNuaMBSFC4ACeU8r2-ycKcG4RVaK49Rk4aXDi2_vwEe0JkG6EIevJwkIY4_ue8p061NajTrsdphURQ_Qavus0CaefoBQ4QRA&s=1",
+                            "__isNode": "ExternalUrl",
+                            "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2oyYy5jYy91c2VDYWNoZVN0YXRlLXJlYWN0LWhvb2s6Ojo6Og=="
+                        },
+                        "length": 39,
+                        "offset": 10
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "The hook: https://j2c.cc/useCacheState-react-hook"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/ufs_share",
+                            "mobileUrl": "https://m.facebook.com/hashtag/ufs_share",
+                            "__isNode": "Hashtag",
+                            "id": "8156434557722932"
+                        },
+                        "length": 10,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#ufs_share"
+            }
+        ],
+        "hashtags": [
+            "#ufs_share"
+        ],
+        "mentions": [
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2oyYy5jYy91c2VDYWNoZVN0YXRlLXJlYWN0LWhvb2s6Ojo6Og==",
+                "name": "https://j2c.cc/useCacheState-react-hook",
+                "url": "https://j2c.cc/useCacheState-react-hook",
+                "length": 39,
+                "offset": 10
+            }
+        ],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 3,
+            "total_count": 8,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 19,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 17,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 2,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1723826031000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1467351610586189",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2609381595900091",
+                "2609381809233403"
+            ],
+            "photo_id": "2609381595900091",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1723826031,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1467351610586189"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=z3sG-wmQvC2ZQaOB2AUH_Q&_nc_ss=7a3a8&oh=00_Af2A5Yki9J8z4OFLia-DszgSbiNuU6W4GkLpURx0KufR5w&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

@@ -1,0 +1,270 @@
+{
+    "result": {
+        "id": "UzpfSTE1NDYwNzUxNzkzODA0OTg6Vks6MTU0NjA3NTE3OTM4MDQ5OA==",
+        "post_id": "1546075179380498",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1546075179380498/",
+        "media": {
+            "mediaset_token": "pcb.1546075179380498",
+            "subAttachments": [
+                {
+                    "id": "2720653924772857",
+                    "url": "https://www.facebook.com/photo.php?fbid=2720653924772857&set=gm.1546075176047165&type=3",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/504097405_2879329282238653_386292637505779851_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=OAIGGSAA9dYQ7kNvwFZyMc9&_nc_oc=AdpYjXmQmDSKwWOHuwDhX-_U3L1cRaxdlVX3Z4J7TXGCDbHtCbnXyBvkUmoUEcwgLhc&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=nk8V2ZgspTcQwsRovAmxXQ&_nc_ss=7a3a8&oh=00_Af1bQ8dw3Bz5kBReTPw1Me8ZLAcgKviW3BZL_YD70UuGEA&oe=69E73435",
+                    "height": 2048,
+                    "width": 922,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 922,
+                    "real_height": 2048
+                },
+                {
+                    "id": "2720653971439519",
+                    "url": "https://www.facebook.com/photo.php?fbid=2720653971439519&set=gm.1546075172713832&type=3",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/503808514_2879329565571958_630622895051092527_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=tWMtRpg44AcQ7kNvwECF1dD&_nc_oc=AdpWoXsBh0fbTJ0OR1pECjKOq5RPYZcUN1u5It6JyBLkzpNaCS27zFm3KUyUFzezdnk&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=nk8V2ZgspTcQwsRovAmxXQ&_nc_ss=7a3a8&oh=00_Af3XrC5NfsPDpNjEjevnzDjU7GJokLqygUmpatIUnGYOGw&oe=69E71B76",
+                    "height": 586,
+                    "width": 1080,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1080,
+                    "real_height": 586
+                },
+                {
+                    "id": "2720654001439516",
+                    "url": "https://www.facebook.com/photo.php?fbid=2720654001439516&set=gm.1546075169380499&type=3",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/504185177_2879329532238628_2124013869026312802_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=PT4wnZ7hkycQ7kNvwH7fj9W&_nc_oc=AdoeOisKEFs_5UwJbWxIivOyuNLjOBB8BUH5oG_TCPCE4h-IGPFLseH2bFxNFBHMnuE&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=nk8V2ZgspTcQwsRovAmxXQ&_nc_ss=7a3a8&oh=00_Af2qNrempSJamgHGuIsFKKnfPxm8geCr_zPP9r20vXAxeg&oe=69E72DB2",
+                    "height": 811,
+                    "width": 935,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 935,
+                    "real_height": 811
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "TopID - T.ự độ.ng kết bạn 🤖\nĐã có trên webstore rồi anh em, nhào vô hú.p nè\n\n* 👫 Kết bạn theo tiêu chí: bạn chung, giới tính\n* 🚫 Bỏ qua nếu không thỏa tiêu chí\n* 👀 Kết bạn với danh sách bạn của người khác\n* 🫶 Kết bạn với danh sách gợi ý bạn bè của Facebook\n* 🎯 Tận dụng bộ lọc có sẵn: cùng tỉnh, cùng quê, mới thêm gần đây, ...\n* ⏳ Thêm thời gian chờ: tự động bấm thủ công trên giao diện để tránh bị ban",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 27,
+                        "offset": 0
+                    }
+                ],
+                "text": "TopID - T.ự độ.ng kết bạn 🤖"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Đã có trên webstore rồi anh em, nhào vô hú.p nè"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "👫 Kết bạn theo tiêu chí: bạn chung, giới tính"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "🚫 Bỏ qua nếu không thỏa tiêu chí"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "👀 Kết bạn với danh sách bạn của người khác"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "🫶 Kết bạn với danh sách gợi ý bạn bè của Facebook"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "🎯 Tận dụng bộ lọc có sẵn: cùng tỉnh, cùng quê, mới thêm gần đây, ..."
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "⏳ Thêm thời gian chờ: tự động bấm thủ công trên giao diện để tránh bị ban"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 8,
+            "total_count": 18,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 24,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 21,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 3,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 4,
+        "created_time": 1734370823000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1546075179380498",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2720653924772857",
+                "2720653971439519",
+                "2720654001439516"
+            ],
+            "photo_id": "2720653924772857",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1734370823,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1546075179380498"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=nk8V2ZgspTcQwsRovAmxXQ&_nc_ss=7a3a8&oh=00_Af1NyXmvk90tyxHItTMn-WoWmfw5oEoKarUymekn9ECqGw&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

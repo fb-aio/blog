@@ -1,0 +1,237 @@
+{
+    "result": {
+        "id": "UzpfSTE4OTM3OTM4NjQ2MDg2MjY6Vks6MTg5Mzc5Mzg2NDYwODYyNg==",
+        "post_id": "1893793864608626",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1893793864608626/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Chờ chục năm mới có 1 video nói về useful script 🐧\n\nChưa viral lắm nhưng mà thôi, có còn hơn không 😣\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 7,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 6,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 1,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1776062936000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1893793864608626",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "122124307413079032",
+            "original_content_owner_id": "61582370987970",
+            "page_id": "806998429172086",
+            "story_location": 9,
+            "attached_story_attachment_style": "video_autoplay",
+            "video_id": "1298875898875626",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "VideoAttachment",
+            "page_insights": {
+                "61582370987970": {
+                    "page_id": "61582370987970",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "61582370987970",
+                        "page_id_type": "page",
+                        "actor_id": "61582370987970",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1775894992,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "122124307413079032"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1893793864608626",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "61582370987970",
+                            "post_id": "122124307413079032",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "122124307413079032",
+                        "sharedMediaID": "1893793864608626",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1776062936,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1893793864608626"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=JlgZr-LVK5LDTwBbLVCx4w&_nc_ss=7a3a8&oh=00_Af1iZusXgGr-o4jQm1d-1OFqjkos112K9buLv2Ea61YIXA&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTYxNTgyMzcwOTg3OTcwOjEyMjEyNDMwNzQxMzA3OTAzMjoxMjIxMjQzMDc0MTMwNzkwMzI=",
+            "post_id": "122124307413079032",
+            "url": "https://www.facebook.com/reel/1298875898875626/",
+            "media": {
+                "subAttachments": [],
+                "photo": null,
+                "video": {
+                    "id": "1298875898875626",
+                    "url": "https://www.facebook.com/reel/1298875898875626/",
+                    "thumbnail": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t15.5256-10/670965957_1969755667242454_5327263022740636540_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=50ce42&_nc_ohc=J_MhtgvtCK4Q7kNvwFfEZE0&_nc_oc=AdriGtUuu6luK9a5LotYP6HxgajdK-8Y2idX6QT2YOZ_vEci-6xVKYhOFyRzoR4k3gw&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=JlgZr-LVK5LDTwBbLVCx4w&_nc_ss=7a3a8&oh=00_Af3urWTLVIh1fmbC0k9mxW5JmiZV4EQ37nTWG1u7nhvLvw&oe=69E72DAB",
+                    "duration": 226835,
+                    "width": 1080,
+                    "height": 1920,
+                    "original_width": 1080,
+                    "original_height": 1920,
+                    "publish_time": 0,
+                    "audio_availability": "AVAILABLE",
+                    "is_live_streaming": false,
+                    "is_spherical": false,
+                    "is_looping": false,
+                    "loop_count": 0,
+                    "source": {
+                        "variants": []
+                    },
+                    "sprite": {
+                        "uris": [
+                            "https://scontent.fsgn2-4.fna.fbcdn.net/v/t15.5256-10/670402066_950382994456105_6740146922304875730_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=62976d&_nc_ohc=MHtfzlpP7YMQ7kNvwGorA4c&_nc_oc=AdrL0apCy_9fymag_AI4mCaVwtya7WPQcCcB_1XznkACBtZnHQVM3owuQsooN6LEAE8&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=JlgZr-LVK5LDTwBbLVCx4w&_nc_ss=7a3a8&oh=00_Af0DbPA6fMFGkAvxyj5bHVN81DyA_uL6blUaqhYpaqyTFw&oe=69E744E6",
+                            "https://scontent.fsgn2-10.fna.fbcdn.net/v/t15.5256-10/670421264_1469232378207445_3338402276250136413_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=62976d&_nc_ohc=XwFVQ6Ob-MMQ7kNvwEry6EC&_nc_oc=AdrknthOrHaosXfzoOkQoQR-aMMfCv8khvcdKK7aLvzkzEw8oWryY4U2oSFZVrhBIRY&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=JlgZr-LVK5LDTwBbLVCx4w&_nc_ss=7a3a8&oh=00_Af27RLNXZhf0lh-7UUptmxnT1Kw1ythcQUPvZFZs_AQriA&oe=69E72D70",
+                            "https://scontent.fsgn2-7.fna.fbcdn.net/v/t15.5256-10/671338913_829241392918317_7396464209817263474_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=62976d&_nc_ohc=AwXs5p1T-EgQ7kNvwEWJLSe&_nc_oc=AdoDsgHWEj4sqTxkRQaWX8KNhCcY31rPuDLJ5xu9rPpbW2zTy8i68zuufTsML-v3oXE&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=JlgZr-LVK5LDTwBbLVCx4w&_nc_ss=7a3a8&oh=00_Af1MjZkCbLk2jawsXZFpD_jjeT1MS8FsRE38nGIA4Kd8zg&oe=69E71514"
+                        ],
+                        "thumbnail_width": 100,
+                        "thumbnail_height": 176,
+                        "num_images_per_row": 10,
+                        "max_number_of_images_per_sprite": 100,
+                        "time_interval_between_image": 1
+                    }
+                }
+            },
+            "text": "Cách tải file google docs, word bị chặn tải ở Google Drive siêu đơn giản (video cũ hồi chưa bếu :)))",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Vũ Hậu",
+                    "id": "61582370987970",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/profile.php?id=61582370987970",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1775894992000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

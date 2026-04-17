@@ -1,0 +1,251 @@
+{
+    "result": {
+        "id": "UzpfSTE0Nzk2MzQzMzkzNTc5MTY6Vks6MTQ3OTYzNDMzOTM1NzkxNg==",
+        "post_id": "1479634339357916",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1479634339357916/",
+        "media": {
+            "mediaset_token": "pcb.1479634339357916",
+            "subAttachments": [
+                {
+                    "id": "2626761184162132",
+                    "url": "https://www.facebook.com/photo.php?fbid=2626761184162132&set=gm.1479634332691250&type=3",
+                    "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/493312323_2835030210001894_1474644673897400789_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=AyRozfHWGXUQ7kNvwE_vzRc&_nc_oc=AdpLRan_OPLSmyyt43LEyxtK9DZ33k2znqQPxNMtXtEfQHoNqbU6nZH1z-UmoNNXVGk&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=UqsLQ0hSkdqqfmAk7cAwuQ&_nc_ss=7a3a8&oh=00_Af2IXk6BwRxYJxJY4dib8Ui3bR5Pz2ugdibqgkspZr3cSQ&oe=69E71A9B",
+                    "height": 493,
+                    "width": 1068,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                    "real_width": 1068,
+                    "real_height": 493
+                },
+                {
+                    "id": "2626765224161728",
+                    "url": "https://www.facebook.com/photo.php?fbid=2626765224161728&set=gm.1479636022691081&type=3",
+                    "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/493333363_2835030126668569_106419155385439088_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=JJLkRC96Nx4Q7kNvwFUA_JH&_nc_oc=AdrMVp08kIBH34hlTx6asR6sXP2XhXaEgWwss-K6VQoQFCRQJq9_KFXu0KWJZyAv4sQ&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=UqsLQ0hSkdqqfmAk7cAwuQ&_nc_ss=7a3a8&oh=00_Af3_Teq1bDs8QiOPiXdA-nFcmuBGHf7M4NmKk6ZyRBBMvA&oe=69E73E1E",
+                    "height": 546,
+                    "width": 892,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 892,
+                    "real_height": 546
+                },
+                {
+                    "id": "2626762394162011",
+                    "url": "https://www.facebook.com/photo.php?fbid=2626762394162011&set=gm.1479634329357917&type=3",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/493322953_2835030320001883_2027490016803902843_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=VoT6B0PLGMMQ7kNvwF4mSfD&_nc_oc=AdovqYnEJTcGv_9jA9FS0W020gCQEcrA3ao57-uluMqcI-lDyGyk8NOTY4-I_PD2C8U&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=UqsLQ0hSkdqqfmAk7cAwuQ&_nc_ss=7a3a8&oh=00_Af21gy-dpM_BpUD6u_E3IoeTH_hpRe8HQ2LXnc5B8wdp4g&oe=69E7155B",
+                    "height": 415,
+                    "width": 650,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                    "real_width": 650,
+                    "real_height": 415
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Ai tương tác/đóng góp cho nhóm nhiều nhất?\n\nBình thường thì Facebook sẽ hiển thị cho admin biết. Nhưng chả hiểu lỗi gì giờ nó không hiện luôn.\n\nHay lắm Facebook, giờ thì mình **phải tự làm tool **để kiểm tra điểm số / lượt like, comment, share của từng thành viên rồi  😩\n\nSẵn cho mọi người xem luôn thống kê quê quán và giới tính của nhóm.\n\n> Cho bạn nào chưa đọc thì đang có đợt giveaway tặng 1 tháng VIP FB AIO đó nha. Link trong phần bình luận.",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Ai tương tác/đóng góp cho nhóm nhiều nhất?"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 17,
+                        "offset": 131
+                    }
+                ],
+                "text": "Bình thường thì Facebook sẽ hiển thị cho admin biết. Nhưng chả hiểu lỗi gì giờ nó không hiện luôn.\n\nHay lắm Facebook, giờ thì mình phải tự làm tool để kiểm tra điểm số / lượt like, comment, share của từng thành viên rồi  😩"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Sẵn cho mọi người xem luôn thống kê quê quán và giới tính của nhóm."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedBlockquoteBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                "block_type": "BLOCKQUOTE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Cho bạn nào chưa đọc thì đang có đợt giveaway tặng 1 tháng VIP FB AIO đó nha. Link trong phần bình luận."
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 4,
+            "total_count": 8,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 24,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 20,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 3,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "478547315650144",
+                    "count": 1,
+                    "name": "Wow"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1725612521000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1479634339357916",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2626761184162132",
+                "2626765224161728",
+                "2626762394162011"
+            ],
+            "photo_id": "2626761184162132",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1725612521,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1479634339357916"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=UqsLQ0hSkdqqfmAk7cAwuQ&_nc_ss=7a3a8&oh=00_Af3P3ArC8G5RRpYapY4brsF1Uw6VXucL_QCAJY6DqSRViQ&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

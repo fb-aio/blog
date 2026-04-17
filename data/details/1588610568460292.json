@@ -1,0 +1,272 @@
+{
+    "result": {
+        "id": "UzpfSTE1ODg2MTA1Njg0NjAyOTI6Vks6MTU4ODYxMDU2ODQ2MDI5Mg==",
+        "post_id": "1588610568460292",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1588610568460292/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Spoil là vẫn chưa đủ người trúng đâu mn, nhanh nhanh đoán để giựt giải nào 🤣\n\nNhớ phải comment nữa mới tính nha",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 4,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 4,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1740096111000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1588610568460292",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1586744951980187",
+            "original_content_owner_id": "100004848287494",
+            "story_location": 9,
+            "attached_story_attachment_style": "question",
+            "attached_story_type": "EntGroupQuestionCreationStory",
+            "attached_story_attachment_type": "QuestionAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1586744951980187",
+                        "sharedMediaID": "1588610568460292",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1740096111,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1588610568460292"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=zfra11sk7_exQYVMFsj03A&_nc_ss=7a3a8&oh=00_Af2XxRDsfhv5GdTMKu9wKEyCxnuuTt5UANYNXKI1rMNO0w&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDAwNDg0ODI4NzQ5NDpWSzoxNTg2NzQ0OTUxOTgwMTg3",
+            "post_id": "1586744951980187",
+            "url": "https://www.facebook.com/groups/fbaio/permalink/1586744951980187/",
+            "media": {
+                "subAttachments": [],
+                "photo": null,
+                "video": null
+            },
+            "text": "FB AIO: Đoán số trúng VIP 5 tháng 💎 \n\nTheo bạn chức năng nào của FB AIO được sử dụng nhiều nhất?\n\nChọn đáp án kèm bình luận dự đoán tổng số lượt sử dụng nhé.👀\n\n10 người chọn đúng và bình luận gần đúng nhất sẽ được tặng 5 tháng VIP 🌟\n\n#fb_aio",
+            "text_format": {},
+            "rich_message": [
+                {
+                    "__typename": "ComposedHeaderOneBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                    "block_type": "HEADER_ONE",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "UNDERLINE",
+                            "length": 7,
+                            "offset": 26
+                        }
+                    ],
+                    "text": "FB AIO: Đoán số trúng VIP 5 tháng 💎 "
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "\nTheo bạn chức năng nào của FB AIO được sử dụng nhiều nhất?"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "UNDERLINE",
+                            "length": 11,
+                            "offset": 0
+                        },
+                        {
+                            "inline_style": "UNDERLINE",
+                            "length": 17,
+                            "offset": 16
+                        }
+                    ],
+                    "text": "Chọn đáp án kèm bình luận dự đoán tổng số lượt sử dụng nhé.👀"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [
+                        {
+                            "entity_type": "HASHTAG",
+                            "entity": {
+                                "__typename": "Hashtag",
+                                "__isEntity": "Hashtag",
+                                "url": "https://www.facebook.com/hashtag/fb_aio",
+                                "mobileUrl": "https://m.facebook.com/hashtag/fb_aio",
+                                "__isNode": "Hashtag",
+                                "id": "8080904801977702"
+                            },
+                            "length": 7,
+                            "offset": 74
+                        }
+                    ],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 8,
+                            "offset": 0
+                        },
+                        {
+                            "inline_style": "UNDERLINE",
+                            "length": 9,
+                            "offset": 9
+                        },
+                        {
+                            "inline_style": "UNDERLINE",
+                            "length": 18,
+                            "offset": 22
+                        }
+                    ],
+                    "text": "10 người chọn đúng và bình luận gần đúng nhất sẽ được tặng 5 tháng VIP 🌟\n\n#fb_aio"
+                }
+            ],
+            "hashtags": [
+                "#fb_aio"
+            ],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "id": "100004848287494",
+                    "name": "Hoang Tran",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/9999.hoangtran"
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1739854565000,
+            "privacy_scope": "Nhóm công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": "Group",
+                "id": "1154059318582088",
+                "url": "https://www.facebook.com/groups/fbaio/",
+                "name": "FB AIO Extension",
+                "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=zfra11sk7_exQYVMFsj03A&_nc_ss=7a3a8&oh=00_Af2XxRDsfhv5GdTMKu9wKEyCxnuuTt5UANYNXKI1rMNO0w&oe=69E73DB6"
+            },
+            "attached_post": null
+        }
+    }
+}

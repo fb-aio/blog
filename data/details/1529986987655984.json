@@ -1,0 +1,224 @@
+{
+    "result": {
+        "id": "UzpfSTE1Mjk5ODY5ODc2NTU5ODQ6Vks6MTUyOTk4Njk4NzY1NTk4NA==",
+        "post_id": "1529986987655984",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1529986987655984/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Chưa bao giờ xài hết sức mạnh của chat gpt 🤣",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 9,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 6,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 3,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1732157179000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1529986987655984",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "10164306965963569",
+            "original_content_owner_id": 577088568,
+            "page_id": "103664822708205",
+            "photo_id": "10164306923243569",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "577088568": {
+                    "page_id": 577088568,
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": 577088568,
+                        "page_id_type": "page",
+                        "actor_id": 577088568,
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1731736576,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "10164306965963569"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1529986987655984",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": 577088568,
+                            "post_id": "10164306965963569",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "10164306965963569",
+                        "sharedMediaID": "1529986987655984",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1732157179,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1529986987655984"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=9EjqpGvBFu3Cs1R2ysRB5A&_nc_ss=7a3a8&oh=00_Af39pLQ0oHkTuudTbd2BbZiVdsFawJI6pyZCBT1SMSzGQg&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTU3NzA4ODU2ODoxMDE2NDMwNjk2NTk2MzU2OToxMDE2NDMwNjk2NTk2MzU2OQ==",
+            "post_id": "10164306965963569",
+            "url": "https://www.facebook.com/RubyNguyenAnh/posts/pfbid02EdzhHYyewp6H18M12c2GnyFkp5VkzYsTtoNahtBoWtohLmfWa9RxGt4DDxUHDLEdl",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "10164306923243569",
+                    "url": "https://www.facebook.com/photo/?fbid=10164306923243569&set=a.239216183568",
+                    "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/555558248_10166194387088569_2404929467671824152_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=13d280&_nc_ohc=hOFlMjD5DvkQ7kNvwHoR5d5&_nc_oc=AdozIUfmwaS-OLw4Am1lOmCq83428P6tnxChWBuKwAQcYY8VPxEI6AXn-i7eOE9sDhY&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=9EjqpGvBFu3Cs1R2ysRB5A&_nc_ss=7a3a8&oh=00_Af3c0TMlSzU7AUXEYGkSsdd0fcjVg2czk24brCUK0QVWnw&oe=69E78412",
+                    "height": 1365,
+                    "width": 1703,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FFFFFFFF",
+                    "real_width": 1703,
+                    "real_height": 1365
+                },
+                "video": null
+            },
+            "text": "🧐 Không hỏi mà bị khuyên? Lưu về xài dần.\nĐặc biệt hợp với:\n- phụ nữ hay bị mansplain hoặc nam giới hay bị womansplain\n- GenZ hay bị các anh chị cô chú dạy\n- người độc thân lâu năm\n- người mới làm cha mẹ\n- người làm sáng tạo\n- người mới khởi nghiệp\n- người bị cho là thừa/thiếu cân\n(còn ai nữa cần nhỉ?)\n\n——\nTái bút: em ChatGPT võ miệng sắc sảo này còn được chuyên gia Nhân sự đào tạo để đấu võ miệng khi đi phỏng vấn xin việc. Bạn tò mò thì xem thêm ở đây nè 👉 https://bit.ly/3V3Bn85",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [
+                {
+                    "type": "ExternalUrl",
+                    "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2JpdC5seS8zVjNCbjg1OjpEZWZhdWx0Ojo6MTAxNjQzMDY5NjU5NjM1Njk=",
+                    "name": "https://bit.ly/3V3Bn85",
+                    "url": "https://bit.ly/3V3Bn85",
+                    "length": 22,
+                    "offset": 462
+                }
+            ],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Ruby Nguyen",
+                    "id": "577088568",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/RubyNguyenAnh",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1731736576000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

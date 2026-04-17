@@ -1,0 +1,217 @@
+{
+    "result": {
+        "id": "UzpfSTE2MjU1NDQ5OTgxMDAxODI6Vks6MTYyNTU0NDk5ODEwMDE4Mg==",
+        "post_id": "1625544998100182",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1625544998100182/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Chăm đăng bài, chăm đăng bài, chăm đăng bài \nĐiều quan trọng cần nói 3 lần 😁",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 6,
+            "total_count": 11,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 52,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 36,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 15,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "478547315650144",
+                    "count": 1,
+                    "name": "Wow"
+                }
+            ]
+        },
+        "shares": 4,
+        "created_time": 1744685108000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1625544998100182",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1837486963705534",
+            "original_content_owner_id": "100004848287494",
+            "photo_id": "2825457350959180",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntGroupMallPostCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1837486963705534",
+                        "sharedMediaID": "1625544998100182",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1744685108,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1625544998100182"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                },
+                "1569314343856132": {
+                    "page_id": "1569314343856132",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "1569314343856132",
+                        "page_id_type": "group",
+                        "actor_id": "100004848287494",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntGroupMallPostCreationStory",
+                        "post_context": {
+                            "object_fbtype": 657,
+                            "publish_time": 1744648764,
+                            "story_name": "EntGroupMallPostCreationStory",
+                            "story_fbid": [
+                                "1837486963705534"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1625544998100182",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=h4ios9rhgWZUzBSaaFYbXA&_nc_ss=7a3a8&oh=00_Af3l7VXx7biSdQHkRpJR3LcDcAJcbcO-lPBz-6TxbqCkvQ&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDAwNDg0ODI4NzQ5NDpWSzoxODM3NDg2OTYzNzA1NTM0",
+            "post_id": "1837486963705534",
+            "url": "https://www.facebook.com/groups/indiehackervn/permalink/1837486963705534/",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "2825457350959180",
+                    "url": "https://www.facebook.com/photo/?fbid=2825457350959180&set=gm.1837486963705534&idorvanity=1569314343856132",
+                    "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/503854781_2880342938803954_452944092565761311_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=k2DnCWuWpAgQ7kNvwGMeLQ_&_nc_oc=AdpdQ7BRwA1_SSoYYvTvczkBtYCL4FVU1UKfC9cQjfio4ELekM9GqcJIpozsE5t-J4k&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=h4ios9rhgWZUzBSaaFYbXA&_nc_ss=7a3a8&oh=00_Af2uxsEIQhZ_OG5wzMDLtbIo2GsJ9vNfK8UMWTeAC7RdPA&oe=69E7825A",
+                    "height": 2400,
+                    "width": 1080,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FFFFFFFF",
+                    "real_width": 1080,
+                    "real_height": 2400
+                },
+                "video": null
+            },
+            "text": "🔥 Từ 1 mình – 1 máy – 1 đam mê đến 1000$ đầu tiên\n\nMình không đến để quảng cáo sản phẩm.\nMình đến để kể câu chuyện. Và nếu bạn đang mày mò build gì đó một mình – hy vọng nó sẽ tiếp thêm chút lửa.\n\n---\n\n🧑‍💻 Mình bắt đầu như mọi người\n\nKhông có team, không có vốn. Chỉ có 1 cái laptop cũ, 1 chút kiến thức JavaScript, và 1 niềm đam mê kỳ lạ với... tiện ích mở rộng trình duyệt.\n\nMình tự học cách viết extension từ những tutorial sơ sài, từng dòng code thử – sai – sửa, debug đến 2h sáng. Có lúc nghĩ: “liệu có ai xài cái này không ta?”\n\n---\n\n🚧 Chủ đề “nhạy”, nhưng tư duy thì phải “sạch”\n\nExtension mình làm hỗ trợ automation cho một nền tảng khá “nhạy cảm” – ai xài mạng xã hội nhiều sẽ hiểu. Mình biết đây là vùng dễ trượt, nên ngay từ đầu mình chọn cách làm cẩn trọng, có đạo đức:\n\n✅ Làm việc cùng anh em bên an ninh mạng để định hướng đúng\n\n✅ Không thu thập dữ liệu cá nhân, không chơi mập mờ, tránh vết xe đổ của mấy công ty “hack growth\" bẩn\n\n✅ Làm gì cũng giữ câu hỏi trong đầu: “Nếu là người dùng, mình có thấy yên tâm không?”\n\n---\n\n🛠 Tech stack 0 đồng – có thể không đẹp, nhưng chạy được\n\n✅ Giao diện extension = HTML/CSS basic\n\n✅ Server = Glitch miễn phí\n\n✅ Landing page + doc = GitHub Pages\n\n→ Tất cả free 100%, chỉ đầu tư công sức.\n\nSau 8 tháng, mình kiếm được 1.000$ đầu tiên – không nhiều, nhưng với mình lúc đó, nó giống như… được trả công cho cả năm thanh xuân gõ phím.\n\n---\n\n🌱 Không chỉ viết code, còn phải trồng cây\n\n🥴 Tự xây group Facebook từ số 0, tự viết post mỗi ngày, tương tác, trả lời khách hàng như chăm vườn.\n\n🌌 Thử nghiệm nhiều gói, từ miễn phí → donate → pro → combo... Học theo chính các admin trong group Build in Public này.\n\n🥺 Không biết marketing, mình lấy sự tử tế và kiên trì ra bù.\n\n---\n\n🔁 Vòng lặp mình giữ đến giờ: cập nhật – nhận feedback – cải tiến\n\nMỗi lần nhận góp ý, mình đều lắng nghe thật sự, note lại, và ưu tiên cái nào nhiều người cần.\n\nCó những lúc chán, mất động lực, chính feedback của người dùng kéo mình lại. Giữ lửa, giữ phong độ, giữ niềm vui lập trình.\n\n---\n\n❤️ Indie dev vẫn sống được, nếu mình làm thật\n\nKhông viral. Không growth hack. Không chạy ads.\nChỉ là 1 tiện ích nhỏ, một cộng đồng người dùng nhỏ, một dòng doanh thu nho nhỏ.\n\nNhưng tất cả đều thật. Và với mình, vậy là đủ để cống hiến – và tiếp tục làm thứ mình thích.\n\n---\n\nNếu mọi người muốn hỏi sâu hơn về cách mình build, deploy, giữ bảo mật hay test thị trường… mình sẵn lòng chia sẻ. Không giấu nghề đâu. 😁\n\n---\n\nExtension mình làm tên là \"FB AIO\" nhé, đã có sẵn trên chrome web store. \n\nAdmin thấy không được đăng tên thì báo em xóa nhé ạ, chủ yếu e muốn chia sẻ quá trình thôi, do từ khi vào group BIP, được mn tiếp lửa nhiều quá, nên cũng muốn góp lửa vs mn 🔥",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "id": "100004848287494",
+                    "name": "Hoang Tran",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/9999.hoangtran"
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1744674313000,
+            "privacy_scope": "Nhóm công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": "Group",
+                "id": "1569314343856132",
+                "url": "https://www.facebook.com/groups/indiehackervn/",
+                "name": "Build in Public VN",
+                "avatar": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/509443918_10233522779463937_6884554539542802636_n.jpg?stp=c264.0.432.432a_cp0_dst-jpg_s110x80_tt6&_nc_cat=105&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=r-o0j_4vFg8Q7kNvwFWCL7w&_nc_oc=Adp3ViSm7ls1qMq1BvHexKPU3npmJS1SGQo5NKqYjZ9ooeIusCuQFyVUShpqYksjogk&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=h4ios9rhgWZUzBSaaFYbXA&_nc_ss=7a3a8&oh=00_Af2h2xXHy5SB334c87Mss6wyKfZQXBtYkz7lNQvVi72mtA&oe=69E784DE"
+            },
+            "attached_post": null
+        }
+    }
+}

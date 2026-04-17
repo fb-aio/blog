@@ -1,0 +1,368 @@
+{
+    "result": {
+        "id": "UzpfSTE2NzQ3NjAxMDk4NDUzMzc6Vks6MTY3NDc2MDEwOTg0NTMzNw==",
+        "post_id": "1674760109845337",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1674760109845337/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "199 usd / slot có avatar 🐧\n\nĐếm được mấy chục founder có avatar rồi 🤐\n\nLàm giàu là dễ, chỉ cần bạn có ý tưởng hay 🐧\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 11,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 7,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 4,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1750914979000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1674760109845337",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1891602944960602",
+            "original_content_owner_id": "100003958501471",
+            "photo_id": "3452865034855413",
+            "story_location": 9,
+            "attached_story_attachment_style": "album",
+            "attached_story_type": "EntGroupMallPostCreationStory",
+            "attached_story_attachment_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1891602944960602",
+                        "sharedMediaID": "1674760109845337",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1750914979,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1674760109845337"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                },
+                "1569314343856132": {
+                    "page_id": "1569314343856132",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "1569314343856132",
+                        "page_id_type": "group",
+                        "actor_id": "100003958501471",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntGroupMallPostCreationStory",
+                        "post_context": {
+                            "object_fbtype": 657,
+                            "publish_time": 1750909595,
+                            "story_name": "EntGroupMallPostCreationStory",
+                            "story_fbid": [
+                                "1891602944960602"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1674760109845337",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=82ePzD0rKZM5pLZjNLqkqw&_nc_ss=7a3a8&oh=00_Af1k2iexSrzS0wAy194fHVnyx5KkFcI72ZDfOgJxjo5JXQ&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDAwMzk1ODUwMTQ3MTpWSzoxODkxNjAyOTQ0OTYwNjAy",
+            "post_id": "1891602944960602",
+            "url": "https://www.facebook.com/groups/indiehackervn/permalink/1891602944960602/",
+            "media": {
+                "mediaset_token": "pcb.1891602944960602",
+                "subAttachments": [
+                    {
+                        "id": "3452865034855413",
+                        "url": "https://www.facebook.com/photo.php?fbid=3452865034855413&set=gm.1891602941627269&type=3",
+                        "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/511086980_3452865038188746_1389345051127886223_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=4DkSwDza9ccQ7kNvwHmdYsh&_nc_oc=Adqh3xCjmjRYQj0P0Rjy__GOu5NKoIlQIUjHLz5iN-lK2zNgQiWDO093exGilbGmqIc&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=82ePzD0rKZM5pLZjNLqkqw&_nc_ss=7a3a8&oh=00_Af0YDWiHGdslLGaQoKITSQkVbFtKSuGUOeMNk5f-OnnVOQ&oe=69E70FF8",
+                        "height": 1200,
+                        "width": 2446,
+                        "accessibility_caption": "Không có mô tả ảnh.",
+                        "real_width": 2446,
+                        "real_height": 1200
+                    },
+                    {
+                        "id": "3452865584855358",
+                        "url": "https://www.facebook.com/photo.php?fbid=3452865584855358&set=gm.1891602948293935&type=3",
+                        "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/510592701_3452865588188691_8850656276912450898_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=FCGpkjJlHjsQ7kNvwGIcIZt&_nc_oc=AdqU8N-sMVJfNN2nHVM7fZ8984PMkuRtQyphpDH8PhjIJ-vY53TxGuvTDa8rF2bCanE&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=82ePzD0rKZM5pLZjNLqkqw&_nc_ss=7a3a8&oh=00_Af29l0K_Jwsat-sEbnHyuTQUuVNbYhpwjrnENo8ds9sgeQ&oe=69E71DCD",
+                        "height": 1210,
+                        "width": 2488,
+                        "accessibility_caption": "Không có mô tả ảnh.",
+                        "real_width": 2488,
+                        "real_height": 1210
+                    }
+                ],
+                "photo": null,
+                "video": null
+            },
+            "text": "# **Founders Around**\n\nThấy một bạn bên X tạo 1 trang khá thú vị, nó show vị trí các founder, indie hacker trên bản đồ thế giới. Các bạn cũng có thể thêm chính mình miễn phí, thêm avatar thì phải mua gói. Ở VN mình thấy được 3, 4 người rồi nè, trong đó có mình :D\n\nWeb: [https://www.foundersaround.com/](https://www.foundersaround.com/)\n\n#bipvn #buildinpublicvn",
+            "text_format": {},
+            "rich_message": [
+                {
+                    "__typename": "ComposedHeaderOneBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                    "block_type": "HEADER_ONE",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 15,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Founders Around"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Thấy một bạn bên X tạo 1 trang khá thú vị, nó show vị trí các founder, indie hacker trên bản đồ thế giới. Các bạn cũng có thể thêm chính mình miễn phí, thêm avatar thì phải mua gói. Ở VN mình thấy được 3, 4 người rồi nè, trong đó có mình :D"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [
+                        {
+                            "entity_type": "LINK",
+                            "entity": {
+                                "__typename": "ExternalUrl",
+                                "__isEntity": "ExternalUrl",
+                                "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.foundersaround.com%2F&h=AT78gMqKwx0SgBRQWwdkTKEbcgShWaPBIjB59jr7e24S3b6lvWR_xI6grudfb0RboL2ULS3LVR1ugeq6q6iRFB6AK8qqjXzx2loNIatratp-onEUDjNKyDYFY_640j5GloNgJR6ZLg&s=1",
+                                "external_url": "https://www.foundersaround.com/",
+                                "__isWebLinkable": "ExternalUrl",
+                                "web_link": {
+                                    "__typename": "ExternalWebLink",
+                                    "url": "https://www.foundersaround.com/",
+                                    "fbclid": "IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHs00SGqwEOvEsv76wsTTSH27dhz3m1_kK1S56U6u4chUCYjvmH4eNRHzomvR_aem_BvHOZLvr0fWBjsr56Jliqg",
+                                    "lynx_mode": "ASYNCLAZY"
+                                },
+                                "mobileUrl": "https://lm.facebook.com/l.php?u=https%3A%2F%2Fwww.foundersaround.com%2F&h=AT4VusRd8NlwwZbAfeKMAyg_n1eckIOZ7Xxfijx5tzUxK0TKsUCK-cGYbRhVFVGYHDST1_zurhCyg27DdjHVlG7BF3uURqNWisnvOTsrrT7BfaioMiQTX0PYIFrhaMo3QXjykuXlCg&s=1",
+                                "__isNode": "ExternalUrl",
+                                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3d3dy5mb3VuZGVyc2Fyb3VuZC5jb20vOjo6Ojo="
+                            },
+                            "length": 31,
+                            "offset": 5
+                        }
+                    ],
+                    "inline_style_ranges": [],
+                    "text": "Web: https://www.foundersaround.com/"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [
+                        {
+                            "entity_type": "HASHTAG",
+                            "entity": {
+                                "__typename": "Hashtag",
+                                "__isEntity": "Hashtag",
+                                "url": "https://www.facebook.com/hashtag/bipvn",
+                                "mobileUrl": "https://m.facebook.com/hashtag/bipvn",
+                                "__isNode": "Hashtag",
+                                "id": "870132389719742"
+                            },
+                            "length": 6,
+                            "offset": 0
+                        },
+                        {
+                            "entity_type": "HASHTAG",
+                            "entity": {
+                                "__typename": "Hashtag",
+                                "__isEntity": "Hashtag",
+                                "url": "https://www.facebook.com/hashtag/buildinpublicvn",
+                                "mobileUrl": "https://m.facebook.com/hashtag/buildinpublicvn",
+                                "__isNode": "Hashtag",
+                                "id": "7586094391423863"
+                            },
+                            "length": 16,
+                            "offset": 7
+                        }
+                    ],
+                    "inline_style_ranges": [],
+                    "text": "#bipvn #buildinpublicvn"
+                }
+            ],
+            "hashtags": [
+                "#bipvn",
+                "#buildinpublicvn"
+            ],
+            "mentions": [
+                {
+                    "type": "ExternalUrl",
+                    "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3d3dy5mb3VuZGVyc2Fyb3VuZC5jb20vOjo6Ojo=",
+                    "name": "https://www.foundersaround.com/",
+                    "url": "https://www.foundersaround.com/",
+                    "length": 31,
+                    "offset": 5
+                }
+            ],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "id": "100003958501471",
+                    "name": "Minh Quy",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/onequy"
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1750909600000,
+            "privacy_scope": "Nhóm công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": "Group",
+                "id": "1569314343856132",
+                "url": "https://www.facebook.com/groups/indiehackervn/",
+                "name": "Build in Public VN",
+                "avatar": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/509443918_10233522779463937_6884554539542802636_n.jpg?stp=c264.0.432.432a_cp0_dst-jpg_s110x80_tt6&_nc_cat=105&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=r-o0j_4vFg8Q7kNvwEWK4vQ&_nc_oc=AdqioOtjwAdzJ9NfMyiqAbanzvYd8yZMXSFrkQiSTT6X9sVfmff7wpvBDfR1Aiv24KE&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=82ePzD0rKZM5pLZjNLqkqw&_nc_ss=7a3a8&oh=00_Af19RdjDqtBQ6PfczTma85sxDfF20yspS4WfgMlGYPyN1g&oe=69E7145E"
+            },
+            "attached_post": null
+        }
+    }
+}

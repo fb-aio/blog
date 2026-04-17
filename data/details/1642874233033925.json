@@ -1,0 +1,217 @@
+{
+    "result": {
+        "id": "UzpfSTE2NDI4NzQyMzMwMzM5MjU6Vks6MTY0Mjg3NDIzMzAzMzkyNQ==",
+        "post_id": "1642874233033925",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1642874233033925/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Chiếc smartphone bạn đang cầm trên tay cũng là \"Kỳ quan thế giới\" đấy 🐧\n\nFB AIO cũng vậy 🥴\n\nBản thân bạn cũng vậy 💪\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 3,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 2,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 1,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1746859443000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1642874233033925",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1167273298744918",
+            "original_content_owner_id": "100063867753905",
+            "page_id": "778855518826819",
+            "photo_id": "1167273275411587",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "100063867753905": {
+                    "page_id": "100063867753905",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100063867753905",
+                        "page_id_type": "page",
+                        "actor_id": "100063867753905",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1746464408,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1167273298744918"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1642874233033925",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100063867753905",
+                            "post_id": "1167273298744918",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1167273298744918",
+                        "sharedMediaID": "1642874233033925",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1746859443,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1642874233033925"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=ceAYa1xMtR6qhPzV3I0kKQ&_nc_ss=7a3a8&oh=00_Af1pVEkXT39_JASvHuvO3xeO4yFVb5i__I8LrJpAL_tc0Q&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA2Mzg2Nzc1MzkwNToxMTY3MjczMjk4NzQ0OTE4OjExNjcyNzMyOTg3NDQ5MTg=",
+            "post_id": "1167273298744918",
+            "url": "https://www.facebook.com/TheRagingTanker/posts/pfbid0HsqZBN2BB4V9SsgVXigSe6QNdbUJA9b8itkn1nA8So52znPjbiCshSdP7AYm1NAHl",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "1167273275411587",
+                    "url": "https://www.facebook.com/photo/?fbid=1167273275411587&set=a.200838128721778",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/495304603_1166464678825780_7529868830571027720_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=N1CgpuzoYvAQ7kNvwFqBGc_&_nc_oc=Adp7JR8-Z7RC8eYCzONw17-VLfHl_FU1j8ZXaS-CZ5NifCldiKIhNvElgP6R_z_qYYM&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=ceAYa1xMtR6qhPzV3I0kKQ&_nc_ss=7a3a8&oh=00_Af00wkTAOGz9Csn07GeVOsX3Wi5mOnliQe2N07CTRg2iuw&oe=69E77602",
+                    "height": 917,
+                    "width": 756,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FF140001",
+                    "real_width": 756,
+                    "real_height": 917
+                },
+                "video": null
+            },
+            "text": "Follower submission",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "The Raging Tanker",
+                    "id": "100063867753905",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/TheRagingTanker",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1746464408000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

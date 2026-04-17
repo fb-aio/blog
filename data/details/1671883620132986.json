@@ -1,0 +1,234 @@
+{
+    "result": {
+        "id": "UzpfSTE2NzE4ODM2MjAxMzI5ODY6Vks6MTY3MTg4MzYyMDEzMjk4Ng==",
+        "post_id": "1671883620132986",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1671883620132986/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Cục gạch Nokia phải gọi bằng điện thoại 🐧\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 1,
+            "top": [
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1750564802000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1671883620132986",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1275615103926648",
+            "original_content_owner_id": "100044345113376",
+            "page_id": "514958908595147",
+            "story_location": 9,
+            "attached_story_attachment_style": "video_autoplay",
+            "video_id": "1245294020429759",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "VideoAttachment",
+            "page_insights": {
+                "100044345113376": {
+                    "page_id": "100044345113376",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100044345113376",
+                        "page_id_type": "page",
+                        "actor_id": "100044345113376",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1750367019,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1275615103926648"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1671883620132986",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100044345113376",
+                            "post_id": "1275615103926648",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1275615103926648",
+                        "sharedMediaID": "1671883620132986",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1750564802,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1671883620132986"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=oLUcpixe6yEf_GQle7e2hw&_nc_ss=7a3a8&oh=00_Af0Nh7RGg_B7_cziEDB4ZeRPHAeJ37iRw3x4N4Znnz91gg&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA0NDM0NTExMzM3NjoxMjc1NjE1MTAzOTI2NjQ4OjEyNzU2MTUxMDM5MjY2NDg=",
+            "post_id": "1275615103926648",
+            "url": "https://www.facebook.com/JerryRigEverything/videos/1245294020429759/",
+            "media": {
+                "subAttachments": [],
+                "photo": null,
+                "video": {
+                    "id": "1245294020429759",
+                    "url": "https://www.facebook.com/JerryRigEverything/videos/1245294020429759/",
+                    "thumbnail": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t15.5256-10/508858843_693041206680055_1601195257676452219_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=be8305&_nc_ohc=FsAv-lGfKGcQ7kNvwHiw7fR&_nc_oc=Ado4PvZep-o615B9ciLgESYexJUq-Gh97w077crK0F2hanrtQdeGWtBSta1HihfuJQ4&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=oLUcpixe6yEf_GQle7e2hw&_nc_ss=7a3a8&oh=00_Af3W1n1Cjs6pvLdpMhLrDPdxAZHncVBLL_5pDdzXgcfgBw&oe=69E77763",
+                    "duration": 428327,
+                    "width": 900,
+                    "height": 1080,
+                    "original_width": 900,
+                    "original_height": 1080,
+                    "publish_time": 0,
+                    "audio_availability": "AVAILABLE",
+                    "is_live_streaming": false,
+                    "is_spherical": false,
+                    "is_looping": false,
+                    "loop_count": 0,
+                    "source": {
+                        "variants": []
+                    },
+                    "sprite": {
+                        "uris": [
+                            "https://scontent.fsgn2-8.fna.fbcdn.net/v/t15.5256-10/503727529_1871367923430954_7257312506021843523_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=62976d&_nc_ohc=GHsvpFa28SwQ7kNvwHaoTXU&_nc_oc=AdoXNVNCQfXyubJ-Hm8UPtkJ1brzA5-hk8fTzNOfLONZDgUXrDnRXasIYjqulq7EhiA&_nc_zt=23&_nc_ht=scontent.fsgn2-8.fna&_nc_gid=oLUcpixe6yEf_GQle7e2hw&_nc_ss=7a3a8&oh=00_Af3MQy1IREHzc-WmlP0QQKzZ7pa7amGok5REEtlVx8_-eg&oe=69E77932",
+                            "https://scontent.fsgn2-3.fna.fbcdn.net/v/t15.5256-10/503560813_1751849129036545_8433205699898805600_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=62976d&_nc_ohc=0T8vSma42DYQ7kNvwH1QFIz&_nc_oc=AdoD4wIEaOfjgzw5v9hq2pM4zyNBqXZFMUIXwmmnC3iPAFxjoegSOOlsj0tdlGCaVuo&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=oLUcpixe6yEf_GQle7e2hw&_nc_ss=7a3a8&oh=00_Af3ym6imdHJ0zqS0l4r_naH8HJ36mk4CAb4U1nJtoPy1ug&oe=69E7756E",
+                            "https://scontent.fsgn2-5.fna.fbcdn.net/v/t15.5256-10/502352263_1233133771134743_5909855983618791919_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=62976d&_nc_ohc=jNb82P29KegQ7kNvwHx9EXE&_nc_oc=Adpu1Y9A3LBqribxnSDRMB4oO3CWLBgXsTdkQdOPFUeziKbiNN2qwH3yaQEXPJVxSo4&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=oLUcpixe6yEf_GQle7e2hw&_nc_ss=7a3a8&oh=00_Af0jZCC5-zTVjH_mnpDhg_ZZ7_-eRaqbK11RBrPmSGb7KA&oe=69E764C2",
+                            "https://scontent.fsgn2-5.fna.fbcdn.net/v/t15.5256-10/509249847_1373420700609566_1527205476884961676_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=62976d&_nc_ohc=uyG4sxKEmp4Q7kNvwG1P9Ab&_nc_oc=AdqF8MXbr6IpJLlbUXfjRFTW4Iw5z20LUHj6GpHp5zyds6xAxyV2IvP35KK07z8R2Vk&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=oLUcpixe6yEf_GQle7e2hw&_nc_ss=7a3a8&oh=00_Af0El1pOxMyXoc_jAthi8AIuWvOWWE_5fSZoJksmjliOpA&oe=69E781E3",
+                            "https://scontent.fsgn2-7.fna.fbcdn.net/v/t15.5256-10/509230882_2227414344361658_8608522816699000218_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=62976d&_nc_ohc=RpI_hkDf2BEQ7kNvwEdDadw&_nc_oc=AdqiMa8nqGkPl3g4NP4lo7fcgWx_ZxMepX_ey-r2w0n_m4_fM_IFjNhlFZCF2XteizA&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=oLUcpixe6yEf_GQle7e2hw&_nc_ss=7a3a8&oh=00_Af0QCs7J0rO3NxKvIYucdp98ZIilVXzFKjmjC-Me5W_FZw&oe=69E7942B"
+                        ],
+                        "thumbnail_width": 100,
+                        "thumbnail_height": 120,
+                        "num_images_per_row": 10,
+                        "max_number_of_images_per_sprite": 100,
+                        "time_interval_between_image": 1
+                    }
+                }
+            },
+            "text": "A phone ready for anything—even the apocalypse! 📱🛡️",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Jerry Rig Everything",
+                    "id": "100044345113376",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/JerryRigEverything",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1750367019000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

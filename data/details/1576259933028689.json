@@ -1,0 +1,225 @@
+{
+    "result": {
+        "id": "UzpfSTE1NzYyNTk5MzMwMjg2ODk6Vks6MTU3NjI1OTkzMzAyODY4OQ==",
+        "post_id": "1576259933028689",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1576259933028689/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "ChatGPT ra mắt o3, có free và mạnh hơn, rẻ hơn o1😎\nCạnh tranh trực tiếp với DeepSeek 😬\n\nCác ông lớn cạnh tranh nhau, người dùng được lợi :)))",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 5,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 8,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 6,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 2,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1738477203000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1576259933028689",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "10221784481279546",
+            "original_content_owner_id": 1782110860,
+            "page_id": "110153905209211",
+            "photo_id": "10221784475399399",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "1782110860": {
+                    "page_id": 1782110860,
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": 1782110860,
+                        "page_id_type": "page",
+                        "actor_id": 1782110860,
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1738360188,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "10221784481279546"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1576259933028689",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": 1782110860,
+                            "post_id": "10221784481279546",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "10221784481279546",
+                        "sharedMediaID": "1576259933028689",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1738477203,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1576259933028689"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=eOkg8fdVczx-tcYCtCn7EA&_nc_ss=7a3a8&oh=00_Af0bEDhyj2bjwhor1sJCWxXm0cQjxJ0ppZ92oNtLQw8ZAA&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTE3ODIxMTA4NjA6MTAyMjE3ODQ0ODEyNzk1NDY6MTAyMjE3ODQ0ODEyNzk1NDY=",
+            "post_id": "10221784481279546",
+            "url": "https://www.facebook.com/duyluandethuong/posts/pfbid0Mwd4evVbXKQhV6c91XoKNgZdkSPi8GupHBbNtjp1i2dwSLvmYYS1fyBxReXHU3CTl",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "10221784475399399",
+                    "url": "https://www.facebook.com/photo/?fbid=10221784475399399&set=a.1074064990155",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/649478078_10225471108362919_1505850207268855351_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=-2z0bTOlbwAQ7kNvwFJITHq&_nc_oc=Adr4FEnOquKKH9e0yvx1xgWz1el-6gE6fziO-637A5D6b_4jNStcROsPrRuJA_kvrzk&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=eOkg8fdVczx-tcYCtCn7EA&_nc_ss=7a3a8&oh=00_Af3RJt8dqAJQ2i16BIaVkKDZfaKhVcYHy0waOIWPikWkQg&oe=69E77385",
+                    "height": 1224,
+                    "width": 1952,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FFFFFFFF",
+                    "real_width": 1952,
+                    "real_height": 1224
+                },
+                "video": null
+            },
+            "text": "Hôm nay OpenAI ra mắt mô hình o3-mini, rẻ hơn và nhanh hơn o1-mini, có thể dùng qua cả giao diện ChatGPT lẫn API. Nâng cấp cho mấy app đang dùng thôi. Giá của việc sử dụng các model AI LLM càng lúc càng rẻ nên mình cũng dần loại bỏ việc sử dụng server với GPU rời, do chi phí giờ thấp hơn đáng kể mà chất lượng chắc chắn ngon hơn so với model quantize nhỏ nhỏ chạy trên server của mình. Tuyệt vời! Mới chỉ hơn 1 năm mà giá đã tối ưu rất nhiều rồi.\n\nHiện tại mình đang có 1 app dùng o1-mini để reasoning, khá là ok, giờ để thử o3 coi sao.",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Nguyễn Ngọc Duy Luân",
+                    "id": "1782110860",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/duyluandethuong",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1738360188000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

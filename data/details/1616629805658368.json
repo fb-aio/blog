@@ -1,0 +1,210 @@
+{
+    "result": {
+        "id": "UzpfSTE2MTY2Mjk4MDU2NTgzNjg6Vks6MTYxNjYyOTgwNTY1ODM2OA==",
+        "post_id": "1616629805658368",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1616629805658368/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Tip bảo mật telegram từ hách cơ lừng danh Hiếu PC 🖥",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 13,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 10,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 3,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1743640191000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1616629805658368",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1197057522138004",
+            "original_content_owner_id": "100055013015958",
+            "page_id": "102207902696192",
+            "story_location": 9,
+            "attached_story_type": "EntStatusCreationStory",
+            "page_insights": {
+                "100055013015958": {
+                    "page_id": "100055013015958",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100055013015958",
+                        "page_id_type": "page",
+                        "actor_id": "100055013015958",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1743562464,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1197057522138004"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1616629805658368",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100055013015958",
+                            "post_id": "1197057522138004",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1197057522138004",
+                        "sharedMediaID": "1616629805658368",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1743640191,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1616629805658368"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=ZKMS6QwwXuTN-SJeiEt2YQ&_nc_ss=7a3a8&oh=00_Af0RGKJXizlExARL8Q93YpnlqWFprz8kIFDHsPSgR73DQQ&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA1NTAxMzAxNTk1ODoxMTk3MDU3NTIyMTM4MDA0OjExOTcwNTc1MjIxMzgwMDQ=",
+            "post_id": "1197057522138004",
+            "url": "https://www.facebook.com/hieupc.7onez/posts/pfbid02Vv8HMztyjmDgMKS7vnP18CWy1hYfATDQmgQ8t49EVNukNdeEJtHNUcQWCRRn9yd2l",
+            "media": {
+                "subAttachments": [],
+                "photo": null,
+                "video": null
+            },
+            "text": "Cách bảo mật Telegram toàn diện! 👇",
+            "text_format": {
+                "preset_id": "1903718606535395",
+                "background_color": "FFE2013B",
+                "background_gradient_color": "FFE2013B",
+                "color": "FFFFFFFF",
+                "font_weight": "BOLD",
+                "font_style": "NORMAL",
+                "text_align": "CENTER"
+            },
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Ngô Minh Hiếu",
+                    "id": "100055013015958",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/hieupc.7onez",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1743562464000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

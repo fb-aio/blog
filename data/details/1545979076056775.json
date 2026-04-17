@@ -1,0 +1,110 @@
+{
+    "result": {
+        "id": "UzpfSTE1NDU5NzkwNzYwNTY3NzU6Vks6MTU0NTk3OTA3NjA1Njc3NQ==",
+        "post_id": "1545979076056775",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1545979076056775/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2720547248116858",
+                "url": "https://youtube.com/watch?v=suhEIUapSJQ",
+                "uri": "https://external.fsgn2-9.fna.fbcdn.net/emg1/v/t13/18270899228408088846?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FsuhEIUapSJQ%2Fmaxresdefault.jpg&fb_obo=1&utld=ytimg.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p1000x522_q75_tt6&_nc_gid=x4a58AD6t4B6wVpP2VDGaQ&_nc_oc=AdoOM_fNpg1uPs9vQOJ-NgoAZO9NlOwwY7xxmyXF3_h0cPJuSU1uSt4ro7gKwIAj2nY&ccb=13-1&oh=06_Q3--AYp17KnCLUc5xRIXt3zAMgnR6e8HYOHPY48hdp-5rqQL&oe=69E39287&_nc_sid=c97757",
+                "height": 522,
+                "width": 1000,
+                "accessibility_caption": "I Redesigned the ENTIRE Spotify UI from Scratch"
+            },
+            "video": null
+        },
+        "text": "Muốn làm ra 1 extension tốt.\n\nNgoài code cho chạy được, còn phải thiết kế giao diện sao cho đẹp + dễ hiểu + dễ dùng nữa 🥵\n\nLà nguyên 1 mảng UI-UX nữa phải học luôn ấy. Kể cả những ông lớn như du túp, gu gồ, sờ pót ti fai, sờ tim, ... cũng mắc lỗi UI-UX như thường 😅\n\nVà kênh dưới đây chuyên đi bắt và sửa những lỗi đó 🤐 xem cũng cuốn phết 🤓",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 9,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 9,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 2,
+        "created_time": 1734359909000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1545979076056775",
+            "content_owner_id_new": "100004848287494",
+            "story_location": 9,
+            "story_attachment_style": "share",
+            "ent_attachement_type": "ExternalShareAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1545979076056775",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1734359909,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1545979076056775"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "url_id": "25925307300393978",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=x4a58AD6t4B6wVpP2VDGaQ&_nc_ss=7a3a8&oh=00_Af1jL7EwtUfAlP-1S8P2ra2aeLPoY1SR0pGnCqnfJ-sz8w&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

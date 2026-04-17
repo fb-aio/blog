@@ -1,0 +1,171 @@
+{
+    "result": {
+        "id": "UzpfSTE2MjQ1MDk0MjE1MzcwNzM6Vks6MTYyNDUwOTQyMTUzNzA3Mw==",
+        "post_id": "1624509421537073",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1624509421537073/",
+        "media": {
+            "mediaset_token": "pcb.1624509421537073",
+            "subAttachments": [
+                {
+                    "id": "3973279816278820",
+                    "url": "https://www.facebook.com/photo.php?fbid=3973279816278820&set=gm.1624509418203740&type=3",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/503687472_4026148897658578_2831101635323608193_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=iTzfgkVBVYkQ7kNvwGVj-nU&_nc_oc=AdqZLF24Ro91YqlUkg_sfW3iLYhcPfFfuKF5NbKafnqKtrVOaN7xFNeu02g5nF2Uhss&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=ofyNs-TpPcDaGpqtBbt_7g&_nc_ss=7a3a8&oh=00_Af0m5OoFXq3V8htScf86YgtWt0aXjzwNed73q2OApirZGg&oe=69E737CD",
+                    "height": 207,
+                    "width": 323,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 323,
+                    "real_height": 207
+                },
+                {
+                    "id": "3973280186278783",
+                    "url": "https://www.facebook.com/photo.php?fbid=3973280186278783&set=gm.1624509424870406&type=3",
+                    "uri": "https://scontent.fsgn2-8.fna.fbcdn.net/v/t39.30808-6/503754207_4026148894325245_5757292396970348955_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=XXSNqS0_GyYQ7kNvwHdklAQ&_nc_oc=Adoj17k8vA1f5xBiGmSviqqZFoSLmk5pkGf4E6eksDNIZjWx8FKfSaK-KvsLXnQA0pM&_nc_zt=23&_nc_ht=scontent.fsgn2-8.fna&_nc_gid=ofyNs-TpPcDaGpqtBbt_7g&_nc_ss=7a3a8&oh=00_Af00yAA0GB2CEL9imOX-PbrVsToFJsq50bsHwoFxYHGYnA&oe=69E716E7",
+                    "height": 409,
+                    "width": 882,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 882,
+                    "real_height": 409
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "Em đang dùng Facebook mà mỗi khi có tin nhắn đến thì không thấy hiện thông báo, có ai biết cách khắc phục không ạ?",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100007905215599",
+                "name": "Nguyễn Duy Nam",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/Toolsieure.vn"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 3,
+            "total_count": 5,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 2,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 2,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1744565005000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1624509421537073",
+            "content_owner_id_new": "100007905215599",
+            "page_id": "652002298003360",
+            "photo_attachments_list": [
+                "3973279816278820",
+                "3973280186278783"
+            ],
+            "photo_id": "3973279816278820",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "100007905215599": {
+                    "page_id": "100007905215599",
+                    "page_id_type": "page",
+                    "actor_id": "100007905215599",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1744560450,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1624509421537073"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100007905215599",
+                            "page_id": "100007905215599",
+                            "post_id": "1624509421537073",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100007905215599",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1744560450,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1624509421537073"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100007905215599",
+            "actrs": "100007905215599",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=ofyNs-TpPcDaGpqtBbt_7g&_nc_ss=7a3a8&oh=00_Af1EW3ktf48vPutFHiM85hyJhZnr_4HesZ9HXCcSnwBzDw&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

@@ -1,0 +1,220 @@
+{
+    "result": {
+        "id": "UzpfSTE1ODE2MjkyNjI0OTE3NTY6Vks6MTU4MTYyOTI2MjQ5MTc1Ng==",
+        "post_id": "1581629262491756",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1581629262491756/",
+        "media": {
+            "mediaset_token": "pcb.1581629262491756",
+            "subAttachments": [
+                {
+                    "id": "2763100227194893",
+                    "url": "https://www.facebook.com/photo.php?fbid=2763100227194893&set=gm.1581629272491755&type=3",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/504029108_2879682022203379_719150149665895334_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=nNV5diVYYTwQ7kNvwGz0Rij&_nc_oc=AdojG0H3LIrhGrKZAnf2q885GRgvzap4c_X4LgC7TS_NTEX7lBC3kjqThcY4pg9gGXE&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=sdiwpLNbBv7LD5f8NEybpA&_nc_ss=7a3a8&oh=00_Af030oiI-YWY5IdKDFiE05DBSq234LanBzU1aNMDO_kMAA&oe=69E7356E",
+                    "height": 999,
+                    "width": 1202,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1202,
+                    "real_height": 999
+                },
+                {
+                    "id": "2763100443861538",
+                    "url": "https://www.facebook.com/photo.php?fbid=2763100443861538&set=gm.1581629269158422&type=3",
+                    "uri": "https://scontent.fsgn2-8.fna.fbcdn.net/v/t39.30808-6/503227734_2879682002203381_1166110683582723672_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=cH7rQMhoXAUQ7kNvwGFm8KS&_nc_oc=AdpretYb00Ro0U_DqjEkuAvHJ9x8tLt9v4KqpBj87qRW06-6Le5V8tEc6pS8LfrX3Mo&_nc_zt=23&_nc_ht=scontent.fsgn2-8.fna&_nc_gid=sdiwpLNbBv7LD5f8NEybpA&_nc_ss=7a3a8&oh=00_Af1ypZBVhBOfg0TUSbf42HcPVs9WeRKSdIiNCsvvKWMiVA&oe=69E733BB",
+                    "height": 1001,
+                    "width": 1202,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1202,
+                    "real_height": 1001
+                },
+                {
+                    "id": "2763101243861458",
+                    "url": "https://www.facebook.com/photo.php?fbid=2763101243861458&set=gm.1581629265825089&type=3",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/503804521_2879681948870053_5889117857508088727_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=MAiUyMObezwQ7kNvwH6P8Xo&_nc_oc=AdoNHxONLUSEytOBPpljN0b4E7DJGc5MMcDB9Mgbdq1W4CdfvRBDTrN_xnc-LDxk_CY&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=sdiwpLNbBv7LD5f8NEybpA&_nc_ss=7a3a8&oh=00_Af0E0OFPCRTaBVq2KiUdVNBhy4VUjvUE3FFATkH7w2xr7Q&oe=69E71B45",
+                    "height": 997,
+                    "width": 918,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 918,
+                    "real_height": 997
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# OpenAI Cookbook 🤖 Sách dạy nấu ĂI\n\n1 cuốn \"Sách\" gần 200 bài hướng dẫn cách nấu ĂI với OpenAI 🫨\n\nhttps://cookbook.openai.com",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "OpenAI Cookbook 🤖 Sách dạy nấu ĂI"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "1 cuốn \"Sách\" gần 200 bài hướng dẫn cách nấu ĂI với OpenAI 🫨"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "IMPLICIT_LINK",
+                        "entity": {
+                            "__typename": "ExternalUrl",
+                            "__isEntity": "ExternalUrl",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fcookbook.openai.com%2F&h=AT5QxHFJXEVOsh-6H4d6mcT99eLwIGRq3x15F7jbmIyM8kWhqgEwGg5f7DyWCkHgGlYUastodBGk8Vx8tO4v5otRzGd63RTId-JW3RjokXItunQ1zCQ4jINVBzw5JsAdpXXTiyXVng&s=1",
+                            "external_url": "https://cookbook.openai.com/",
+                            "__isWebLinkable": "ExternalUrl",
+                            "web_link": {
+                                "__typename": "ExternalWebLink",
+                                "url": "https://cookbook.openai.com/",
+                                "fbclid": "IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHub9Hh8XalX60VlEw4MyLADKeAxlI6D7ElyZ9rWx6A4lP92plyZu4cf-Rjzw_aem_7Po-mMBN_9hwDd6NHFPq3Q",
+                                "lynx_mode": "ASYNCLAZY"
+                            },
+                            "mobileUrl": "https://lm.facebook.com/l.php?u=https%3A%2F%2Fcookbook.openai.com%2F&h=AT7MoATH0rvIE8PH_6o90sRGvGp0kOWIIAbBD1topcz2Hjr610znu9WvB_F0pa6hTl4Od_bsnScrzcGyMi1bkGBCubqWlzJ9Rx11Ijw48F3EQffjJ8sy90NFYaPwjE28aGuExZJJKg&s=1",
+                            "__isNode": "ExternalUrl",
+                            "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2Nvb2tib29rLm9wZW5haS5jb20vOjo6Ojo="
+                        },
+                        "length": 27,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "https://cookbook.openai.com"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2Nvb2tib29rLm9wZW5haS5jb20vOjo6Ojo=",
+                "name": "https://cookbook.openai.com/",
+                "url": "https://cookbook.openai.com/",
+                "length": 27,
+                "offset": 0
+            }
+        ],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 8,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 8,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 2,
+        "created_time": 1739183021000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1581629262491756",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2763100227194893",
+                "2763100443861538",
+                "2763101243861458"
+            ],
+            "photo_id": "2763100227194893",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1739183021,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1581629262491756"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=sdiwpLNbBv7LD5f8NEybpA&_nc_ss=7a3a8&oh=00_Af0N2IaITy9pg-5fx4dEd4YiRtly5plosHITRXQQQN7swA&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

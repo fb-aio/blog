@@ -1,0 +1,129 @@
+{
+    "result": {
+        "id": "UzpfSTE0NDc1NjA4MjkyMzE5MzQ6Vks6MTQ0NzU2MDgyOTIzMTkzNA==",
+        "post_id": "1447560829231934",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1447560829231934/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2582562048582046",
+                "url": "https://www.facebook.com/photo/?fbid=2582562048582046&set=gm.1447560829231934&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/489279877_2818115081693407_1521161276327737728_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=UcZm9b6PjFUQ7kNvwHmERj2&_nc_oc=Adrfs7dz9_EYUXeBbXSQqtCgVPBaAQO7h8PFhvANIzGYB5IHMomQvfu6zEzSngSnvOQ&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=BxN8QcF-5YTCLzyjyV1dSQ&_nc_ss=7a3a8&oh=00_Af3PXltAoJ27eJ80T63O55gBe8qsDNKdGZhaxzX2U-V1JQ&oe=69E7861B",
+                "height": 1968,
+                "width": 1067,
+                "accessibility_caption": "Không có mô tả ảnh.",
+                "accent_color": "FF060A0B",
+                "real_width": 1067,
+                "real_height": 1968
+            },
+            "video": null
+        },
+        "text": "Chia sẻ trang web tổng hợp 80+ chức năng online miễn phí hữu ích mã nguồn mở cho lập trình viên.\n\nKhông cần cài đặt rườm rà\n\nTừ mã hóa, json, jwt, OTP, cơ số, màu sắc, văn bản, YAML, git, crontab, ...\n\nhttps://it-tools.tech\n\n#ufs_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#ufs_share"
+        ],
+        "mentions": [
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2l0LXRvb2xzLnRlY2gvOjo6OjoxNDQ3NTYwODI5MjMxOTM0",
+                "name": "https://it-tools.tech/",
+                "url": "https://it-tools.tech/",
+                "length": 21,
+                "offset": 202
+            }
+        ],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 11,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 10,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 2,
+        "created_time": 1720874741000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1447560829231934",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2582562048582046",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1720874741,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1447560829231934"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=BxN8QcF-5YTCLzyjyV1dSQ&_nc_ss=7a3a8&oh=00_Af2OJpkr-pGsuaE6drsV43L4PBm7BP44ZJO4FymJL7r70A&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

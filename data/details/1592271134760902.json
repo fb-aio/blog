@@ -1,0 +1,139 @@
+{
+    "result": {
+        "id": "UzpfSTE1OTIyNzExMzQ3NjA5MDI6Vks6MTU5MjI3MTEzNDc2MDkwMg==",
+        "post_id": "1592271134760902",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1592271134760902/",
+        "media": {
+            "mediaset_token": "pcb.1592271134760902",
+            "subAttachments": [
+                {
+                    "id": "2777331125771803",
+                    "url": "https://www.facebook.com/photo.php?fbid=2777331125771803&set=gm.1592271128094236&type=3",
+                    "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/504810200_2879725788865669_6107203470022558163_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=go7l688K7tIQ7kNvwFirAnz&_nc_oc=AdpNuUAO7Uk8fW2nHHlMJQo90t2mLVEx7-WKkrnlb4nKQeSbkT1oMl8V5xreyrg0pKQ&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=Ii1mU9mGz7srfNjqKQqL2A&_nc_ss=7a3a8&oh=00_Af1eHCek8h0ghO8Aj5fZ92Jn591X-j8ae6nu8csfO1GquQ&oe=69E73ED9",
+                    "height": 2400,
+                    "width": 1080,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1080,
+                    "real_height": 2400
+                },
+                {
+                    "id": "2777331165771799",
+                    "url": "https://www.facebook.com/photo.php?fbid=2777331165771799&set=gm.1592271131427569&type=3",
+                    "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/504877558_2879725935532321_525606200594426999_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=R1Fu-j0U8TMQ7kNvwGBVDsm&_nc_oc=AdpfNSpzxRA1NRQJBXRsqnARxkfxMPdv9NltRlebF1VJbgU2XAhVLdeZFyPpY7lS5ME&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=Ii1mU9mGz7srfNjqKQqL2A&_nc_ss=7a3a8&oh=00_Af0Je5bh3CMMi1oAvjSKeSZsE1-g2bQlIYAPwzPCke0zmQ&oe=69E73BA9",
+                    "height": 2400,
+                    "width": 1080,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1080,
+                    "real_height": 2400
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "Bitcoin hôm nay bất ngờ sập giá hơn 10k$\n\nCòn PI lại lên giá 2.2$ 👀",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 3,
+            "total_count": 7,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 3,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 3,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1740579232000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1592271134760902",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2777331125771803",
+                "2777331165771799"
+            ],
+            "photo_id": "2777331125771803",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1740579232,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1592271134760902"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=Ii1mU9mGz7srfNjqKQqL2A&_nc_ss=7a3a8&oh=00_Af0XN3m97q7DTvGJ-BeqJKoltxGKFVNzFK_v7tui1lnVbw&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

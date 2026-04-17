@@ -1,0 +1,229 @@
+{
+    "result": {
+        "id": "UzpfSTE2MjYzNDc3MjgwMTk5MDk6Vks6MTYyNjM0NzcyODAxOTkwOQ==",
+        "post_id": "1626347728019909",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1626347728019909/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Tin được không, trailer này được tạo hoàn toàn bằng AI 🐧\n\nHay hơn khối phim tỷ đô 🐧",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 3,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 3,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1744781942000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1626347728019909",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "704175868936612",
+            "original_content_owner_id": "100080326143544",
+            "page_id": "108267600567032",
+            "story_location": 9,
+            "attached_story_attachment_style": "video_autoplay",
+            "video_id": "694072359960258",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "VideoAttachment",
+            "page_insights": {
+                "100080326143544": {
+                    "page_id": "100080326143544",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100080326143544",
+                        "page_id_type": "page",
+                        "actor_id": "100080326143544",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1744503789,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "704175868936612"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1626347728019909",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100080326143544",
+                            "post_id": "704175868936612",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "704175868936612",
+                        "sharedMediaID": "1626347728019909",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1744781942,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1626347728019909"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=NEB_Fz5Vw_RGqIqf0fPCtQ&_nc_ss=7a3a8&oh=00_Af31dWtUhXJ4v9AtGMu3U6Tc8okWi_gsRrD7sAUXFcY0dQ&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA4MDMyNjE0MzU0NDo3MDQxNzU4Njg5MzY2MTI6NzA0MTc1ODY4OTM2NjEy",
+            "post_id": "704175868936612",
+            "url": "https://www.facebook.com/ubiworkscanada/videos/694072359960258/",
+            "media": {
+                "subAttachments": [],
+                "photo": null,
+                "video": {
+                    "id": "694072359960258",
+                    "url": "https://www.facebook.com/ubiworkscanada/videos/694072359960258/",
+                    "thumbnail": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t15.5256-10/490732556_644402641894818_2907476967602394586_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=50ce42&_nc_ohc=0rn76K195sYQ7kNvwEfroJ9&_nc_oc=Adox8cV9FrJr4aQnltjURsjgPRs-8JLLB0apimObcNlqPre3GcEWtDDczwBh-FPxTDY&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=NEB_Fz5Vw_RGqIqf0fPCtQ&_nc_ss=7a3a8&oh=00_Af3U-IMQESImMq-Ua5lOPJwDSCCCck41XKEd6daZcyvEig&oe=69E77EF2",
+                    "duration": 183829,
+                    "width": 1280,
+                    "height": 720,
+                    "original_width": 1280,
+                    "original_height": 720,
+                    "publish_time": 0,
+                    "audio_availability": "AVAILABLE",
+                    "is_live_streaming": false,
+                    "is_spherical": false,
+                    "is_looping": false,
+                    "loop_count": 0,
+                    "source": {
+                        "variants": []
+                    },
+                    "sprite": {
+                        "uris": [
+                            "https://scontent.fsgn2-11.fna.fbcdn.net/v/t15.5256-10/503892688_1748525962705972_3226753399507909634_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=62976d&_nc_ohc=Eg2piPCk_dAQ7kNvwGmQzuh&_nc_oc=Adr-a2WAVU9fkxch03rKKMpev4wBTwyYnmxpnj9CT1WaFNkYhGoYjjhsu4Z1iqleBDM&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=NEB_Fz5Vw_RGqIqf0fPCtQ&_nc_ss=7a3a8&oh=00_Af0RrkLZ31FnfQw4O-yjI9Ka9CWi6Em2UAncO8K-4jb1VQ&oe=69E77926",
+                            "https://scontent.fsgn2-9.fna.fbcdn.net/v/t15.5256-10/503393146_3583844298591743_4857647617534092749_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=62976d&_nc_ohc=vplZtMictTcQ7kNvwFWl1sT&_nc_oc=Adry1QnGowaYe8zO__7KcUStIz4TE3v72OygCCzx9uTbhzXscXpyPl3TteIm9ZH7xBk&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=NEB_Fz5Vw_RGqIqf0fPCtQ&_nc_ss=7a3a8&oh=00_Af1pfY1VSNHDYTMU2P0cncWsURZ5FvRMiasd3o53vuW8_Q&oe=69E794AE"
+                        ],
+                        "thumbnail_width": 142,
+                        "thumbnail_height": 80,
+                        "num_images_per_row": 10,
+                        "max_number_of_images_per_sprite": 100,
+                        "time_interval_between_image": 1
+                    }
+                }
+            },
+            "text": "This AI-made trailer is blowing minds\n\n\"this is the first time I've re-watched a AI generated trailer more than 10 times... This needs to become a full movie.\"\n\nEntire industries are being upended by automation. The time for UBI is now.",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "UBI Works",
+                    "id": "100080326143544",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/ubiworkscanada",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1744503789000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

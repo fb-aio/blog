@@ -1,0 +1,386 @@
+{
+    "result": {
+        "id": "UzpfSTE0OTEwMzIzOTQ4ODQ3Nzc6Vks6MTQ5MTAzMjM5NDg4NDc3Nw==",
+        "post_id": "1491032394884777",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1491032394884777/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2643485519156365",
+                "url": "https://www.facebook.com/photo/?fbid=2643485519156365&set=gm.1491032394884777&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/494185886_2841668152671433_5518814417759134539_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=8xSt0na9vjIQ7kNvwG9ZXcp&_nc_oc=AdpwUso17orW6akCNt0VgzNQFErvn84RDQEhljRv5lS13W1trBiXwsJdejmCOYZ08L8&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=Df0vobdJqjNUFqRbyvRGHA&_nc_ss=7a3a8&oh=00_Af02x_KxteqxtxV-j6u1gcdPYMxBIBktgUETuux4Eif3MA&oe=69E76491",
+                "height": 682,
+                "width": 1152,
+                "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                "accent_color": "FF1D2024",
+                "real_width": 1152,
+                "real_height": 682
+            },
+            "video": null
+        },
+        "text": "# Giveaway 2 tháng Linkedin Premium\n\n*Giá 100-300$ (2tr -8tr)*\n> *Kết quả give away: *https://www.facebook.com/share/p/dYFxvrNwo19q9nZN/\n\nMình vừa up thử lên premium thì thấy có phần **Referal**. Đang còn** 8 slot **cho 8 bạn dùng** Linkedin Premium trong 2 tháng**. Nghĩ sẽ có bạn cần nên mình tạo giveaway này.\n\nMọi người comment 2 chữ số, 8 người dự đoán nhanh và gấn đúng nhất so với 2 số cuối sổ xố ngày Chủ nhật 29/9/2024 sẽ nhận được Premium nha.\n\nVí dụ: 24, 05, 99, ..\n> *Lưu ý cần nhập thẻ tín dụng/nội đia hoặc paypal linkedin mới cho nhận Premium nhé (không mất phí).*\n\nLinkedIn Premium cung cấp một số tính năng mở rộng so với tài khoản miễn phí. Dưới đây là một số điểm nổi bật:\n1. **InMail Messages**: Cho phép bạn gửi tin nhắn trực tiếp cho người không phải kết nối của bạn.\n2. **Thông tin chi tiết về ai xem hồ sơ**: Bạn có thể xem đầy đủ danh sách những người đã truy cập hồ sơ của bạn trong 90 ngày.\n3. **LinkedIn Learning**: Truy cập vào hàng ngàn khóa học trực tuyến về các kỹ năng chuyên môn.\n4. **Insights về việc làm**: Cung cấp thông tin chi tiết về các ứng viên khác cho cùng vị trí, giúp bạn hiểu rõ hơn về mức độ cạnh tranh.\n5. **Công cụ tìm kiếm nâng cao**: Tìm kiếm nâng cao để tìm người và công việc theo các tiêu chí cụ thể hơn.\n6. **Mở rộng kết nối**: Tài khoản Premium giúp bạn dễ dàng mở rộng mạng lưới kết nối chuyên nghiệp.",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Giveaway 2 tháng Linkedin Premium"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "ITALIC",
+                        "length": 23,
+                        "offset": 0
+                    }
+                ],
+                "text": "Giá 100-300$ (2tr -8tr)"
+            },
+            {
+                "__typename": "ComposedBlockquoteBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                "block_type": "BLOCKQUOTE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "ITALIC",
+                        "length": 19,
+                        "offset": 0
+                    }
+                ],
+                "text": "Kết quả give away: https://www.facebook.com/share/p/dYFxvrNwo19q9nZN/"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 7,
+                        "offset": 45
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 8,
+                        "offset": 62
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 31,
+                        "offset": 84
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 6,
+                        "offset": 63
+                    }
+                ],
+                "text": "Mình vừa up thử lên premium thì thấy có phần Referal. Đang còn 8 slot cho 8 bạn dùng Linkedin Premium trong 2 tháng. Nghĩ sẽ có bạn cần nên mình tạo giveaway này."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 8,
+                        "offset": 18
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 17,
+                        "offset": 44
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 15,
+                        "offset": 74
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 18,
+                        "offset": 95
+                    }
+                ],
+                "text": "Mọi người comment 2 chữ số, 8 người dự đoán nhanh và gấn đúng nhất so với 2 số cuối sổ xố ngày Chủ nhật 29/9/2024 sẽ nhận được Premium nha.\n\nVí dụ: 24, 05, 99, .."
+            },
+            {
+                "__typename": "ComposedBlockquoteBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                "block_type": "BLOCKQUOTE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "ITALIC",
+                        "length": 98,
+                        "offset": 0
+                    }
+                ],
+                "text": "Lưu ý cần nhập thẻ tín dụng/nội đia hoặc paypal linkedin mới cho nhận Premium nhé (không mất phí)."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "LinkedIn Premium cung cấp một số tính năng mở rộng so với tài khoản miễn phí. Dưới đây là một số điểm nổi bật:"
+            },
+            {
+                "__typename": "ComposedOrderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                "block_type": "ORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 15,
+                        "offset": 0
+                    }
+                ],
+                "text": "InMail Messages: Cho phép bạn gửi tin nhắn trực tiếp cho người không phải kết nối của bạn."
+            },
+            {
+                "__typename": "ComposedOrderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                "block_type": "ORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 34,
+                        "offset": 0
+                    }
+                ],
+                "text": "Thông tin chi tiết về ai xem hồ sơ: Bạn có thể xem đầy đủ danh sách những người đã truy cập hồ sơ của bạn trong 90 ngày."
+            },
+            {
+                "__typename": "ComposedOrderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                "block_type": "ORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 17,
+                        "offset": 0
+                    }
+                ],
+                "text": "LinkedIn Learning: Truy cập vào hàng ngàn khóa học trực tuyến về các kỹ năng chuyên môn."
+            },
+            {
+                "__typename": "ComposedOrderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                "block_type": "ORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 20,
+                        "offset": 0
+                    }
+                ],
+                "text": "Insights về việc làm: Cung cấp thông tin chi tiết về các ứng viên khác cho cùng vị trí, giúp bạn hiểu rõ hơn về mức độ cạnh tranh."
+            },
+            {
+                "__typename": "ComposedOrderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                "block_type": "ORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 25,
+                        "offset": 0
+                    }
+                ],
+                "text": "Công cụ tìm kiếm nâng cao: Tìm kiếm nâng cao để tìm người và công việc theo các tiêu chí cụ thể hơn."
+            },
+            {
+                "__typename": "ComposedOrderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                "block_type": "ORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 15,
+                        "offset": 0
+                    }
+                ],
+                "text": "Mở rộng kết nối: Tài khoản Premium giúp bạn dễ dàng mở rộng mạng lưới kết nối chuyên nghiệp."
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 18,
+            "total_count": 37,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 16,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 9,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 6,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "908563459236466",
+                    "count": 1,
+                    "name": "Buồn"
+                }
+            ]
+        },
+        "shares": 2,
+        "created_time": 1727175606000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1491032394884777",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2643485519156365",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1727152689,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1491032394884777"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=Df0vobdJqjNUFqRbyvRGHA&_nc_ss=7a3a8&oh=00_Af3vODasQC7Keoj87KJPWZxpA-XBriUQ8yAOh9KJOU_hzg&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

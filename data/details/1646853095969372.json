@@ -1,0 +1,140 @@
+{
+    "result": {
+        "id": "UzpfSTE2NDY4NTMwOTU5NjkzNzI6Vks6MTY0Njg1MzA5NTk2OTM3Mg==",
+        "post_id": "1646853095969372",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1646853095969372/",
+        "media": {
+            "mediaset_token": "pcb.1646853095969372",
+            "subAttachments": [
+                {
+                    "id": "1451797292898894",
+                    "url": "https://www.facebook.com/1850297518828128/photos/gm.1646853099302705/1451797292898894/?type=3",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/497367906_1451797299565560_6715185713049664643_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=rEwqOehi3awQ7kNvwHFYFCn&_nc_oc=AdpqnlysXo8lxE_B0g5vmo0f8dYK6GWXNa3Q7dce-nqDaWmS3EJkwivcGrdKMyieBtw&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=Ea7OnqJYUzZjaLvKVBeJeQ&_nc_ss=7a3a8&oh=00_Af3SRBUc1WO_Jc9zxadIHG6-64SQyudeFXrIBfTt_1wgbQ&oe=69E724BB",
+                    "height": 2047,
+                    "width": 921,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 921,
+                    "real_height": 2047
+                },
+                {
+                    "id": "1451797359565554",
+                    "url": "https://www.facebook.com/1850297518828128/photos/gm.1646853102636038/1451797359565554/?type=3",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/498658984_1451797369565553_12379205911849160_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=EamcKvJDgEYQ7kNvwHsDB97&_nc_oc=AdqNlLHTiqqOmXngtYoP_PcvjI1RG8yk24Ah2gZjrk0-t8AK2gZIHbEW-s3cDN8j1Ns&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=Ea7OnqJYUzZjaLvKVBeJeQ&_nc_ss=7a3a8&oh=00_Af2mFOy72kzaNCj8yy5dlU-n-oEKG2j1YcWrtzOVbWqsAw&oe=69E7434C",
+                    "height": 2047,
+                    "width": 921,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 921,
+                    "real_height": 2047
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "Chuyện là nay mới ngồi mò nghịch thử fb thì mình phát hiện ra có thể xem được tin nhắn đã mất do mã hoá đầu cuối hay đã xoá bằng cách ấn vào mục \"nhắn tin\" trên điện thoại.Tuy nhiên thì muốn tìm lại tin nhắn đã lâu rồi thì phải lướt lên rất lâu và có vẻ ngày càng lag,nếu kéo hụt thì có khi phải kéo lại từ đầu ấy chữ ;))).Ko biết ae nào có cách đoạn chat tự chạy lên không nhỉ,toi đang muốn tìm lại đoạn tn cách đây nửa năm chứ",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "GroupAnonAuthorProfile",
+                "id": "1850297518828128",
+                "name": "Người tham gia ẩn danh",
+                "__isEntity": "GroupAnonAuthorProfile",
+                "url": null,
+                "is_nickname": false
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 5,
+            "total_count": 9,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 6,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 6,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 2,
+        "created_time": 1747419445000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1646853095969372",
+            "content_owner_id_new": "1850297518828128",
+            "photo_attachments_list": [
+                "1451797292898894",
+                "1451797359565554"
+            ],
+            "photo_id": "1451797292898894",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "1850297518828128",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallAdminApprovedAnonPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1747418941,
+                        "story_name": "EntGroupMallAdminApprovedAnonPostCreationStory",
+                        "story_fbid": [
+                            "1646853095969372"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "1850297518828128",
+            "actrs": "1850297518828128",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=Ea7OnqJYUzZjaLvKVBeJeQ&_nc_ss=7a3a8&oh=00_Af2HNc0D93GNKigSehhgfPFv44cPPMIkchJcz5KHMh710w&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

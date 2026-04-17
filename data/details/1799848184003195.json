@@ -1,0 +1,232 @@
+{
+    "result": {
+        "id": "UzpfSTE3OTk4NDgxODQwMDMxOTU6Vks6MTc5OTg0ODE4NDAwMzE5NQ==",
+        "post_id": "1799848184003195",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1799848184003195/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Nhà nước quá cao tay 🐧\n\nNếu ae chưa biết, FB AIO cũng có chức năng giúp thực hiện chiến thuật \"Bẫy chin hoàng yến\" như này:\n\nĐó là \"Tin nhắn tàng hình\" 😎\n\nThay vì gửi thông tin sai lệch đôi chút tới nhiều người, thì \"Tin nhắn tàng hình\" ẩn thông tin bên trong nội dung gửi đi luôn 🤓\n\nĐối tượng nào chia sẻ thông tin đó, nếu họ copy paste là nội dung tàng hình cũng sẽ đi theo 🤐\n\n=> Chỉ cần kiểm tra nội dung đc chia sẻ chứa tàng hình nào là ra thủ phạm ngay 😶\n\nMn có thể tìm \"zero width character\" trên gu gồ nhé 😉\n\n#fb_aio",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 3,
+            "total_count": 4,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 13,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 7,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 3,
+                    "name": "Haha"
+                },
+                {
+                    "id": "478547315650144",
+                    "count": 3,
+                    "name": "Wow"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1765103479000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1799848184003195",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1286449256858395",
+            "original_content_owner_id": "100064799973735",
+            "page_id": "855060417844819",
+            "photo_id": "1286449223525065",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "100064799973735": {
+                    "page_id": "100064799973735",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100064799973735",
+                        "page_id_type": "page",
+                        "actor_id": "100064799973735",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1765036605,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1286449256858395"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1799848184003195",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100064799973735",
+                            "post_id": "1286449256858395",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1286449256858395",
+                        "sharedMediaID": "1799848184003195",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1765103479,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1799848184003195"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=zpsZXDqNT4q9nTE6wEhb1g&_nc_ss=7a3a8&oh=00_Af1i6nVsqO6fK1Og8MjzN2HRZc-fzAiJhvlKF-IVjmQubw&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA2NDc5OTk3MzczNToxMjg2NDQ5MjU2ODU4Mzk1OjEyODY0NDkyNTY4NTgzOTU=",
+            "post_id": "1286449256858395",
+            "url": "https://www.facebook.com/lichsuvn.net/posts/pfbid0cYDeimZQQMeAZmdBxPTY2bJV4FzMPAkgo9wsV2c9wXRKAL8s9k6zWEsFwGvySVHzl",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "1286449223525065",
+                    "url": "https://www.facebook.com/photo/?fbid=1286449223525065&set=a.634883242015003",
+                    "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/595550196_1286449226858398_308031055115708795_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=7b2446&_nc_ohc=_svHX6wDMe4Q7kNvwGS-neJ&_nc_oc=AdpIVTHqJQxbE5TjQXIrOFtJOFI71qWlMs_vryBjE-txhxMUFyWdLy9ohLidrqLJjB0&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=zpsZXDqNT4q9nTE6wEhb1g&_nc_ss=7a3a8&oh=00_Af00Sq8Xqn6kVDnQ75lOY6X3GxkCY-f3g-0cWeoFwN4n2w&oe=69E76887",
+                    "height": 970,
+                    "width": 1360,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FFCED2D3",
+                    "real_width": 1360,
+                    "real_height": 970
+                },
+                "video": null
+            },
+            "text": "Trong kinh doanh, có một chiến thuật gọi là \"bẫy chim hoàng yến\". Đây là chiến thuật được nhiều tập đoàn lớn như Apple, Google, Tesla... sử dụng để tìm ra người trong nội bộ làm rò rỉ thông tin ra bên ngoài.\n\nNói một cách đơn giản, chiến thuật này là cung cấp nhiều thông tin sai lệch cho những người thuộc diện nghi vấn (các thông tin chỉ khác biệt đôi chút), sau đó chờ xem thông tin nào bị tuồn ra ngoài, từ đó sẽ biết được ai là người làm rò rỉ thông tin nội bộ.\n\nNhững ngày gần đây, nhà páo Lê Trung Khoa liên tục đăng tải các \"thông tin nội bộ\" của chính phủ Việt Nam, thì đến hôm nay, Cơ quan An ninh điều tra thuộc Bộ Công an đã khởi tố bị can đối với Phạm Quang Thiện (47 tuổi, trú phường Ô Chợ Dừa, Hà Nội; nguyên Giám đốc Trung tâm Công nghệ và Truyền thông đa phương tiện thuộc Cổng Thông tin điện tử Chính phủ) về tội Làm, tàng trữ, phát tán hoặc tuyên truyền thông tin, tài liệu, vật phẩm nhằm chống Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam.\n\nĐây là kết quả trong quá trình Bộ Công an mở rộng điều tra vụ án liên quan Lê Trung Khoa.\n\nKhông biết các cụ nhà mình có sử dụng chiến thuật \"bẫy chim hoàng yến\" như đã đề cập ở trên không nhỉ?",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Diễn đàn Lịch sử Việt Nam LSVN",
+                    "id": "100064799973735",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/lichsuvn.net",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1765036605000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

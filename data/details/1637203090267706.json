@@ -1,0 +1,244 @@
+{
+    "result": {
+        "id": "UzpfSTE2MzcyMDMwOTAyNjc3MDY6Vks6MTYzNzIwMzA5MDI2NzcwNg==",
+        "post_id": "1637203090267706",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1637203090267706/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Tính ra không cần tặng, thì cũng phải tự giác mà trả lại cho người ta 🐧",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 4,
+            "total_count": 14,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 26,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 18,
+                    "name": "Thích"
+                },
+                {
+                    "id": "613557422527858",
+                    "count": 4,
+                    "name": "Thương thương"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 3,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 1,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1746114755000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1637203090267706",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "710849814799695",
+            "original_content_owner_id": "100076240475425",
+            "page_id": "105538111919118",
+            "photo_id": "710843024800374",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "100076240475425": {
+                    "page_id": "100076240475425",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100076240475425",
+                        "page_id_type": "page",
+                        "actor_id": "100076240475425",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1746088971,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "710849814799695"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1637203090267706",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100076240475425",
+                            "post_id": "710849814799695",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "710849814799695",
+                        "sharedMediaID": "1637203090267706",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1746114755,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1637203090267706"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=nasOcCpIzAisIVaRtTP8hg&_nc_ss=7a3a8&oh=00_Af2I2GiIFOzeL0WuPtbTKWSriePYo6qJotUgyWXspuDZ4w&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA3NjI0MDQ3NTQyNTo3MTA4NDk4MTQ3OTk2OTU6NzEwODQ5ODE0Nzk5Njk1",
+            "post_id": "710849814799695",
+            "url": "https://www.facebook.com/Bblankcafebistro/posts/pfbid02o955soTVXqb2vTPF42asHtz5jufGawbpTvTitBcELZNkHiB5MFi29qxbMSzH4xhtl",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "710843024800374",
+                    "url": "https://www.facebook.com/photo/?fbid=710843024800374&set=a.177151211502894",
+                    "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/495194437_710843031467040_222784857678818336_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=13d280&_nc_ohc=gkoSMg2_ciQQ7kNvwEx0Oou&_nc_oc=Adr-2B_xU4JEl2WGrpjmnyoyiNVBLxZ5q2GrVymLb2RtGJ14LuMZ8-UgjQb3ix-YbWw&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=nasOcCpIzAisIVaRtTP8hg&_nc_ss=7a3a8&oh=00_Af0TEqME5BSfGKGBVgp6yYh2I_qz2f-h2PWLZQnVH4aW5w&oe=69E77178",
+                    "height": 1080,
+                    "width": 1080,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FFDA251D",
+                    "real_width": 1080,
+                    "real_height": 1080
+                },
+                "video": null
+            },
+            "text": "TẶNG 1 PHẦN NƯỚC NẾU BẠN GỬI DRONE TẠI ĐIỂM TẬP KẾT HOẶC TẠI B'BLANK\n\nChào mọi người, B'Blank sau sự kiện Drone rơi vào đêm 30/4/2025 đã thấy có rất nhiều bài post của mọi người kêu gọi hỗ trợ gửi drone về điểm tập kết.\n\nLà người dân Việt Nam trong ngày Đại Lễ, B'Blank xin phép gửi tặng bạn một phần nước nếu bạn gửi Drone tại điểm tập kết hoặc B'Blank trong trường hợp bạn không liên hệ được BTC. \n\nClip hướng dẫn đường đến B'Blank đã được đăng lên các bạn có thể xem chi tiết hơn \n\n#vietnam #30thang4 #concertquocgia #dronevietnam #tintuc\n#district2 #empirecity #lidentower\n------------------\n𝗕’𝗕𝗟𝗔𝗡𝗞 𝗖𝗔𝗙𝗘 𝗕𝗜𝗦𝗧𝗥𝗢\n📍L02, Empire City, 5 Trần Bạch Đằng, P.Thủ Thiêm, Q.2, TP.HCM",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [
+                "#vietnam",
+                "#30thang4",
+                "#concertquocgia",
+                "#dronevietnam",
+                "#tintuc",
+                "#district2",
+                "#empirecity",
+                "#lidentower"
+            ],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "B'Blank Cafe Bistro",
+                    "id": "100076240475425",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/Bblankcafebistro",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1746088971000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

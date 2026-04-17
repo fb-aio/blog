@@ -1,0 +1,354 @@
+{
+    "result": {
+        "id": "UzpfSTE1OTQxNTYzNDQ1NzIzODE6Vks6MTU5NDE1NjM0NDU3MjM4MQ==",
+        "post_id": "1594156344572381",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1594156344572381/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2780035818834667",
+                "url": "https://www.facebook.com/photo/?fbid=2780035818834667&set=gm.1594156344572381&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/504523255_2879730648865183_3759360671772544619_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=k0VEoOHWRS0Q7kNvwEBw0yO&_nc_oc=AdpjzTdwdCfnHvTq79nQybpN6N2ztHhijgXb5Xk9SnWWgNky6fnHRC5Hh35dLneFLS8&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=C40R0jmfKYntL18pXPTRYw&_nc_ss=7a3a8&oh=00_Af2p9twTfPIBRsXEYRMaxW2cGErHamzqQRpoVlfjdAMMDA&oe=69E7831F",
+                "height": 732,
+                "width": 1361,
+                "accessibility_caption": "Không có mô tả ảnh.",
+                "accent_color": "FFFFFFFF",
+                "real_width": 1361,
+                "real_height": 732
+            },
+            "video": null
+        },
+        "text": "# **Sound Booster** - Tăng âm lượng lên tới 600% 🤯\n\nNhiều khi xem phim, nghe nhạc bằng máy tính/laptop không nghe rõ gì hết trơn, âm thanh bé tý, mặc dù đã bật max volume. 🫥\n\nKhi đó mọi người có thể thử tiện ích Sound Booster này, có thể tăng âm lượng lên tận 600% luôn. 🌟\n\nTới cái máy tính cũng không nghĩ bản thân nó làm được như thế luôn á 🤣\n\n## Cách hoạt động?\n\nMình có vọc thử code extension, các bước chạy như sau:\n1. Dùng  ***chrome.tabCapture.getMediaStreamId*** để thu lại audio phát ra từ trang web\n2. Tạo 1 Audio context mới và kết nối tới media stream ở trên, và tạo ra 1 **GainNode** kết nối tới\n3. Khi người dùng tăng giảm âm lượng thì sẽ tăng giảm **GainNode** ở trên\n\nNói chung khá hay, dùng ngon 😁\n\n#fb_aio",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 13,
+                        "offset": 0
+                    }
+                ],
+                "text": "Sound Booster - Tăng âm lượng lên tới 600% 🤯"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Nhiều khi xem phim, nghe nhạc bằng máy tính/laptop không nghe rõ gì hết trơn, âm thanh bé tý, mặc dù đã bật max volume. 🫥"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Khi đó mọi người có thể thử tiện ích Sound Booster này, có thể tăng âm lượng lên tận 600% luôn. 🌟"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Tới cái máy tính cũng không nghĩ bản thân nó làm được như thế luôn á 🤣"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedHeaderTwoBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                "block_type": "HEADER_TWO",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Cách hoạt động?"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Mình có vọc thử code extension, các bước chạy như sau:"
+            },
+            {
+                "__typename": "ComposedOrderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                "block_type": "ORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 34,
+                        "offset": 6
+                    },
+                    {
+                        "inline_style": "ITALIC",
+                        "length": 34,
+                        "offset": 6
+                    }
+                ],
+                "text": "Dùng  chrome.tabCapture.getMediaStreamId để thu lại audio phát ra từ trang web"
+            },
+            {
+                "__typename": "ComposedOrderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                "block_type": "ORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 8,
+                        "offset": 72
+                    }
+                ],
+                "text": "Tạo 1 Audio context mới và kết nối tới media stream ở trên, và tạo ra 1 GainNode kết nối tới"
+            },
+            {
+                "__typename": "ComposedOrderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                "block_type": "ORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 8,
+                        "offset": 51
+                    }
+                ],
+                "text": "Khi người dùng tăng giảm âm lượng thì sẽ tăng giảm GainNode ở trên"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Nói chung khá hay, dùng ngon 😁"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fb_aio",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fb_aio",
+                            "__isNode": "Hashtag",
+                            "id": "8080904801977702"
+                        },
+                        "length": 7,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fb_aio"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 2,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 11,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 9,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 2,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 2,
+        "created_time": 1740825674000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1594156344572381",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2780035818834667",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1740825674,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1594156344572381"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=C40R0jmfKYntL18pXPTRYw&_nc_ss=7a3a8&oh=00_Af1lZYQjYCeuOsnE6e9yTWSdvt0uKJ7njBBNzslS1M4nrg&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

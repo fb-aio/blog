@@ -1,0 +1,144 @@
+{
+    "result": {
+        "id": "UzpfSTEyMjk0NjE5MTEwNDE4Mjg6Vks6MTIyOTQ2MTkxMTA0MTgyOA==",
+        "post_id": "1229461911041828",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1229461911041828/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2301296916708562",
+                "url": "https://chrome.google.com/webstore/detail/download-albums-for-faceb/djlgfdiljlmbcfimhkeenolnndblfmoo",
+                "uri": "https://external.fsgn2-9.fna.fbcdn.net/emg1/v/t13/8926542412052930936?url=https%3A%2F%2Flh3.googleusercontent.com%2FjyycZ3HuuFFEwpi0LbU7L2ES_Pc5nEEB5e41NCFpQssR_Fe2cH5aR5OQofC5toB51onECwtmwD61c9qkkP-mJkMHsg%3Dw128-h128-e365-rj-sc0x00ffffff&fb_obo=1&utld=googleusercontent.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p128x128_q75_tt6&_nc_gid=iFC4XsznPMX6mTAiiBCSMw&_nc_oc=AdqDQGLICv2j5CTTrJSqFFp7zquTWD3eJQy1rdbtpRKrVL9TFWh54UdRvO6oD5_cc5I&ccb=13-1&oh=06_Q3--AQCHgniP_Tfod5CeRavw3WIZ2svjRZ6EnJ3XCitguC-p&oe=69E38CDB&_nc_sid=c97757",
+                "height": 128,
+                "width": 128,
+                "accessibility_caption": "Download Albums for Facebook™",
+                "real_width": 128,
+                "real_height": 128
+            },
+            "video": null
+        },
+        "text": "Mình tìm được 2 extension khá ngon để tải hàng loạt cho facebook và instagram, húp nào\n\nInstagram: https://chrome.google.com/webstore/detail/download-albums-for-insta/inkncgklbglecgdlcpfpajejocdpbpbd\n\nFacebook: https://chrome.google.com/webstore/detail/download-albums-for-faceb/djlgfdiljlmbcfimhkeenolnndblfmoo",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2Nocm9tZS5nb29nbGUuY29tL3dlYnN0b3JlL2RldGFpbC9kb3dubG9hZC1hbGJ1bXMtZm9yLWluc3RhL2lua25jZ2tsYmdsZWNnZGxjcGZwYWplam9jZHBicGJkOjo6OjoxMjI5NDYxOTExMDQxODI4",
+                "name": "https://chrome.google.com/webstore/detail/download-albums-for-insta/inkncgklbglecgdlcpfpajejocdpbpbd",
+                "url": "https://chrome.google.com/webstore/detail/download-albums-for-insta/inkncgklbglecgdlcpfpajejocdpbpbd",
+                "length": 100,
+                "offset": 99
+            },
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2Nocm9tZS5nb29nbGUuY29tL3dlYnN0b3JlL2RldGFpbC9kb3dubG9hZC1hbGJ1bXMtZm9yLWZhY2ViL2RqbGdmZGlsamxtYmNmaW1oa2Vlbm9sbm5kYmxmbW9vOjo6OjoxMjI5NDYxOTExMDQxODI4",
+                "name": "https://chrome.google.com/webstore/detail/download-albums-for-faceb/djlgfdiljlmbcfimhkeenolnndblfmoo",
+                "url": "https://chrome.google.com/webstore/detail/download-albums-for-faceb/djlgfdiljlmbcfimhkeenolnndblfmoo",
+                "length": 100,
+                "offset": 211
+            }
+        ],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 11,
+            "total_count": 24,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 34,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 24,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 10,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 3,
+        "created_time": 1684079506000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1229461911041828",
+            "content_owner_id_new": "100004848287494",
+            "story_location": 9,
+            "story_attachment_style": "share",
+            "ent_attachement_type": "ExternalShareAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1229461911041828",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1684079506,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1229461911041828"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "url_id": "5561169180658426",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=iFC4XsznPMX6mTAiiBCSMw&_nc_ss=7a3a8&oh=00_Af0zfm_90MB6_cmT-9qt8BviGqa8BhMmFk9UzAUBMazC1Q&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

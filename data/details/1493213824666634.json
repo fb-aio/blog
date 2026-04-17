@@ -1,0 +1,695 @@
+{
+    "result": {
+        "id": "UzpfSTE0OTMyMTM4MjQ2NjY2MzQ6Vks6MTQ5MzIxMzgyNDY2NjYzNA==",
+        "post_id": "1493213824666634",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1493213824666634/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Đánh giá 5 sao để mở VIP FB AIO ⭐\n\nThêm 1 option cho mọi người:\n* không cần share bài viết \n* không mất tiền\n* vẫn được xài VIP\n\nChỉ cần đánh giá 5 sao trên chrome webstore là được miễn phí** 2 tuần VIP.**\n\nKhoái khoái chảy nước miếng 🤣🫶",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Đánh giá 5 sao để mở VIP FB AIO ⭐"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "\nThêm 1 option cho mọi người:"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "không cần share bài viết "
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "không mất tiền"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "vẫn được xài VIP"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 12,
+                        "offset": 60
+                    }
+                ],
+                "text": "Chỉ cần đánh giá 5 sao trên chrome webstore là được miễn phí 2 tuần VIP.\n\nKhoái khoái chảy nước miếng 🤣🫶"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 1,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 7,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 6,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1727422889000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1493213824666634",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1475090716478945",
+            "original_content_owner_id": "100004848287494",
+            "photo_id": "2651927051645545",
+            "story_location": 9,
+            "attached_story_attachment_style": "album",
+            "attached_story_type": "EntGroupMallPostCreationStory",
+            "attached_story_attachment_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1475090716478945",
+                        "sharedMediaID": "1493213824666634",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1727422889,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1493213824666634"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=bQNqzSWIFyHHvySkISJULQ&_nc_ss=7a3a8&oh=00_Af1MhA7d-ekraU7Mpy17KXWV_nk6KWVY_Krgk0Qr1gKCfA&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDAwNDg0ODI4NzQ5NDpWSzoxNDc1MDkwNzE2NDc4OTQ1",
+            "post_id": "1475090716478945",
+            "url": "https://www.facebook.com/groups/fbaio/permalink/1475090716478945/",
+            "media": {
+                "mediaset_token": "pcb.1475090716478945",
+                "subAttachments": [
+                    {
+                        "id": "2651927051645545",
+                        "url": "https://www.facebook.com/photo.php?fbid=2651927051645545&set=gm.1497145857606764&type=3",
+                        "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/495126603_2844737985697783_3347026934326185438_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=lm2F6TOc2UoQ7kNvwGjp5zW&_nc_oc=AdqtACxQV6goEJADgNqieulklO83PfZxpv2DF8yW4K9xnWO8FyEoXuKuqS19xgL18zU&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=bQNqzSWIFyHHvySkISJULQ&_nc_ss=7a3a8&oh=00_Af0jd1iC1w332oNLZ-xh_F-LoA4IbSt2uQ1fFEkh96bufw&oe=69E730E6",
+                        "height": 853,
+                        "width": 526,
+                        "accessibility_caption": "Có thể là hình ảnh về một hoặc nhiều người, tóc mái và văn bản",
+                        "real_width": 526,
+                        "real_height": 853
+                    },
+                    {
+                        "id": "1918355298634315",
+                        "url": "https://www.facebook.com/9999.hoangtran/videos/1918355298634315/?idorvanity=1154059318582088",
+                        "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t15.5256-10/457021529_872286144964040_9104810932224213105_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=117846&_nc_ohc=_5VJN1B37n0Q7kNvwFXnUnk&_nc_oc=Adrvum8W0rqcRylhawaWnAePumTh2N3ygW-SLDmFl3y71uBgDeuE6PD7bABMew0Xhb0&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=bQNqzSWIFyHHvySkISJULQ&_nc_ss=7a3a8&oh=00_Af0HZCz6lN5UaBkePGK4z4V-g_7SpAA9PT8OXlCwGgb4SQ&oe=69E72E7D",
+                        "height": 960,
+                        "width": 1469,
+                        "real_width": 1469,
+                        "real_height": 960
+                    },
+                    {
+                        "id": "2620332731471644",
+                        "url": "https://www.facebook.com/photo.php?fbid=2620332731471644&set=gm.1475090709812279&type=3",
+                        "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/491812892_2828258884012360_5111841250669688706_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=RWIuWqUAY64Q7kNvwFZorIt&_nc_oc=Adpg1KYCbBP9uRY94Kv5KSgAl_Ds_qp-SxWepECpiUvnRMWrcVA0SnlC6SwEzZSELXs&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=bQNqzSWIFyHHvySkISJULQ&_nc_ss=7a3a8&oh=00_Af3wWG698VfhO2fFBQEXh-fz0ZPD0DwvU0V6qtWXAsmTaQ&oe=69E71E21",
+                        "height": 820,
+                        "width": 822,
+                        "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                        "real_width": 822,
+                        "real_height": 820
+                    }
+                ],
+                "photo": null,
+                "video": null
+            },
+            "text": "# **Cách mở khoá VIP FB AIO!**\n\n**How to Unlock FB AIO VIP!**\n# \n**CÁCH 1: Mua 💎**\n\n**Giá** **65k VND / tháng **\n* Mọi người vào đây chọn gói, quét QR  mua xong hệ thống sẽ tự động lên VIP nhé [https://fb-aio.github.io/#/checkout](https://fb-aio.github.io/#/checkout)\n* Nếu không mọi người có thể chuyển khoản tại [https://j2c.cc/fb-aio-mua-vip](https://j2c.cc/fb-aio-mua-vip)\n* Rồi gừi ảnh bill mình sẽ mở VIP cho nhé\n\n# \n**CÁCH 2: Đánh giá 5 sao **🌟\n\n**Đánh giá 5 sao nhận 5 ngày VIP **\n* Lên Chrome webstore [https://j2c.cc/fb-aio-webstore](https://j2c.cc/fb-aio-webstore) \n* Đánh giá 5 sao kèm bình luận\n* Rồi chụp hình gửi mình để mình mở VIP cho nhé\n\n# **CÁCH 3: MÃ GIỚI THIỆU 🫂**\n\n**Nhập hoặc Chia sẻ mã giới thiệu cho bạn bè**\n* Nhập mã: tối đa **1 lần**, cộng 3 ngày VIP\n* Chia sẻ mã: **không giới hạn**, mỗi khi có người nhập mã của bạn, bạn được **cộng dồn** thêm 3 ngày VIP\n* Chia sẻ càng nhiều, càng nhiều người nhập mã, VIP của bạn càng tăng 🚀\n\n# **CÁCH 4: Chia sẻ bài viết ❤️**\n\n**Chia sẻ bài viết nhận 5 ngày VIP**\n* Mọi người chia sẻ CÔNG KHAI bài này lên trang cá nhân [https://j2c.cc/fb-aio-chuc-nang](https://j2c.cc/fb-aio-chuc-nang)\n* Tool sẽ tự động kiểm tra và mở VIP cho mọi người trong 5 ngày\n\n> Cài FB AIO ngay từ webstore: [https://j2c.cc/fb-aio-webstore](https://j2c.cc/fb-aio-webstore)",
+            "text_format": {},
+            "rich_message": [
+                {
+                    "__typename": "ComposedHeaderOneBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                    "block_type": "HEADER_ONE",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 24,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Cách mở khoá VIP FB AIO!"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 25,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "How to Unlock FB AIO VIP!"
+                },
+                {
+                    "__typename": "ComposedHeaderOneBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                    "block_type": "HEADER_ONE",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 13,
+                            "offset": 1
+                        }
+                    ],
+                    "text": "\nCÁCH 1: Mua 💎"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 3,
+                            "offset": 0
+                        },
+                        {
+                            "inline_style": "BOLD",
+                            "length": 16,
+                            "offset": 4
+                        }
+                    ],
+                    "text": "Giá 65k VND / tháng "
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Mọi người vào đây chọn gói, quét QR  mua xong hệ thống sẽ tự động lên VIP nhé https://fb-aio.github.io/#/checkout"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Nếu không mọi người có thể chuyển khoản tại https://j2c.cc/fb-aio-mua-vip"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Rồi gừi ảnh bill mình sẽ mở VIP cho nhé"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedHeaderOneBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                    "block_type": "HEADER_ONE",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 23,
+                            "offset": 1
+                        }
+                    ],
+                    "text": "\nCÁCH 2: Đánh giá 5 sao 🌟"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 31,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Đánh giá 5 sao nhận 5 ngày VIP "
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Lên Chrome webstore https://j2c.cc/fb-aio-webstore "
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Đánh giá 5 sao kèm bình luận"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Rồi chụp hình gửi mình để mình mở VIP cho nhé"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedHeaderOneBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                    "block_type": "HEADER_ONE",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 23,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "CÁCH 3: MÃ GIỚI THIỆU 🫂"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 42,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Nhập hoặc Chia sẻ mã giới thiệu cho bạn bè"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 5,
+                            "offset": 16
+                        }
+                    ],
+                    "text": "Nhập mã: tối đa 1 lần, cộng 3 ngày VIP"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 14,
+                            "offset": 12
+                        },
+                        {
+                            "inline_style": "BOLD",
+                            "length": 8,
+                            "offset": 71
+                        }
+                    ],
+                    "text": "Chia sẻ mã: không giới hạn, mỗi khi có người nhập mã của bạn, bạn được cộng dồn thêm 3 ngày VIP"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Chia sẻ càng nhiều, càng nhiều người nhập mã, VIP của bạn càng tăng 🚀"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedHeaderOneBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                    "block_type": "HEADER_ONE",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 27,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "CÁCH 4: Chia sẻ bài viết ❤️"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 32,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Chia sẻ bài viết nhận 5 ngày VIP"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Mọi người chia sẻ CÔNG KHAI bài này lên trang cá nhân https://j2c.cc/fb-aio-chuc-nang"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Tool sẽ tự động kiểm tra và mở VIP cho mọi người trong 5 ngày\n"
+                },
+                {
+                    "__typename": "ComposedBlockquoteBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                    "block_type": "BLOCKQUOTE",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Cài FB AIO ngay từ webstore: https://j2c.cc/fb-aio-webstore "
+                }
+            ],
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "id": "100004848287494",
+                    "name": "Hoang Tran",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/9999.hoangtran"
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1724944778000,
+            "privacy_scope": "Nhóm công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": "Group",
+                "id": "1154059318582088",
+                "url": "https://www.facebook.com/groups/fbaio/",
+                "name": "FB AIO Extension",
+                "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=bQNqzSWIFyHHvySkISJULQ&_nc_ss=7a3a8&oh=00_Af1MhA7d-ekraU7Mpy17KXWV_nk6KWVY_Krgk0Qr1gKCfA&oe=69E73DB6"
+            },
+            "attached_post": null
+        }
+    }
+}

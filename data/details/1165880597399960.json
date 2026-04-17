@@ -1,0 +1,291 @@
+{
+    "result": {
+        "id": "UzpfSTExNjU4ODA1OTczOTk5NjA6Vks6MTE2NTg4MDU5NzM5OTk2MA==",
+        "post_id": "1165880597399960",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1165880597399960/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2217994601705461",
+                "url": "https://github.com/HoangTran0410/useful-script",
+                "uri": "https://external.fsgn2-9.fna.fbcdn.net/emg1/v/t13/8119936958053572730?url=https%3A%2F%2Fopengraph.githubassets.com%2F530aa3cd083e04ee14e104af9f4600b7ea205f6ae05c3b6abeed34acdc801b72%2FHoangTran0410%2Fuseful-script&fb_obo=1&utld=githubassets.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p1000x522_q75_tt6&_nc_gid=aXdvPygGq6nllw3x-GcOew&_nc_oc=AdpxUKFuyvC5Y3Igo_56tgqW5WjcWhTZmPmNTkkstb5yXkhMCzGZyKasAmt0NKZX85g&ccb=13-1&oh=06_Q3--AcyZ7GVlEBqwydU8pLifS3n8IwgKa91Sfy2wT7z3iEW6&oe=69E37FC5&_nc_sid=c97757",
+                "height": 522,
+                "width": 1000,
+                "accessibility_caption": "GitHub - HoangTran0410/useful-script: Chrome extension that provides some useful scripts"
+            },
+            "video": null
+        },
+        "text": "THÔNG BÁO \n\nlink github của extension đã được mở trở lại. Mình đã liên hệ github và gỡ những chức năng liên quan tới j2team security như:\n\n* tự động xoá theo dõi fbclid của facebook ([fb_removeFbclid.js](https://github.com/HoangTran0410/useful-script/blob/main/scripts/fb_removeFbclid.js))\n* tắt/mở xem password ẩn ([passwordFieldToggle.js](https://github.com/HoangTran0410/useful-script/blob/main/scripts/passwordFieldToggle.js))\n* chặn theo dõi ([anti_clickjacking.js](https://github.com/HoangTran0410/useful-script/blob/main/scripts/anti_clickjacking.js))\n* chặn lừa dảo ([fb_antiPhishing.js](https://github.com/HoangTran0410/useful-script/blob/main/scripts/fb_antiPhishing.js))\n\nVà gửi yêu cầu mở lại repo.\n\nNên từ giờ mọi người vẫn vào link github gốc để cài đặt extension bình thường nhé.\n\nhttps://github.com/HoangTran0410/useful-script",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "THÔNG BÁO "
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "link github của extension đã được mở trở lại. Mình đã liên hệ github và gỡ những chức năng liên quan tới j2team security như:\n"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "tự động xoá theo dõi fbclid của facebook (fb_removeFbclid.js)"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "tắt/mở xem password ẩn (passwordFieldToggle.js)"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "chặn theo dõi (anti_clickjacking.js)"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "chặn lừa dảo (fb_antiPhishing.js)"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Và gửi yêu cầu mở lại repo."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Nên từ giờ mọi người vẫn vào link github gốc để cài đặt extension bình thường nhé."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "IMPLICIT_LINK",
+                        "entity": {
+                            "__typename": "ExternalUrl",
+                            "__isEntity": "ExternalUrl",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FHoangTran0410%2Fuseful-script&h=AT7VkCjkC7gdnK13o57p5kJZucEuZq-sJQ-tyNwgkP8Dmp4ixrxfFhsXrNCTXZrPM-z1L8jBDkKUEq5NXnBVPyVXSRJ7iK0RPlQxmlQU85DHLuS0N_J8_0gZixEgbRPICCWe7wQqdw&s=1",
+                            "external_url": "https://github.com/HoangTran0410/useful-script",
+                            "__isWebLinkable": "ExternalUrl",
+                            "web_link": {
+                                "__typename": "ExternalWebLink",
+                                "url": "https://github.com/HoangTran0410/useful-script",
+                                "fbclid": "IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjMCwKt58HDImCHeO-b4MKCTwNGS6KY9PKk2fWQpbZRS5Vom2mASnqCJIzDL_aem_k1NDDiIygctSjQ6WhNbLzw",
+                                "lynx_mode": "ASYNCLAZY"
+                            },
+                            "mobileUrl": "https://lm.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FHoangTran0410%2Fuseful-script&h=AT7bqgJfMCl0mPrsWnv_h_l9NJJPq64JcA8vwNRcG5u_7N2vk2idXaGzkQHcMD06JaUyWsgEUHFR4kiyFTh2jcAU57olRhRAGWILeNtewy4fz5-Vj-Emf_BUhdNHPLJDN7jrPMKrXg&s=1",
+                            "__isNode": "ExternalUrl",
+                            "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2dpdGh1Yi5jb20vSG9hbmdUcmFuMDQxMC91c2VmdWwtc2NyaXB0Ojo6Ojo="
+                        },
+                        "length": 46,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "https://github.com/HoangTran0410/useful-script"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2dpdGh1Yi5jb20vSG9hbmdUcmFuMDQxMC91c2VmdWwtc2NyaXB0Ojo6Ojo=",
+                "name": "https://github.com/HoangTran0410/useful-script",
+                "url": "https://github.com/HoangTran0410/useful-script",
+                "length": 46,
+                "offset": 0
+            }
+        ],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 16,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 12,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 4,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1673662140000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1165880597399960",
+            "content_owner_id_new": "100004848287494",
+            "story_location": 9,
+            "story_attachment_style": "share",
+            "ent_attachement_type": "ExternalShareAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1165880597399960",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1673662140,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1165880597399960"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "url_id": "5701261263301615",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=aXdvPygGq6nllw3x-GcOew&_nc_ss=7a3a8&oh=00_Af3K42Cj-LLwFJZ_1IgXdM98gWv47Hw0zQ_qn3U6QYaI_Q&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

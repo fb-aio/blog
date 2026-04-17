@@ -1,0 +1,313 @@
+{
+    "result": {
+        "id": "UzpfSTE0Nzk1MzAwMTkzNjgzNDg6Vks6MTQ3OTUzMDAxOTM2ODM0OA==",
+        "post_id": "1479530019368348",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1479530019368348/",
+        "media": {
+            "mediaset_token": "pcb.1479530019368348",
+            "subAttachments": [
+                {
+                    "id": "2626595594178691",
+                    "url": "https://www.facebook.com/photo.php?fbid=2626595594178691&set=gm.1479530016035015&type=3",
+                    "uri": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/493288887_2834777983360450_4001493085774386436_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=Na8lRHtYO6kQ7kNvwEl2Io4&_nc_oc=Adr0dSY7MiT8cs7j44hhmK_9dnVlFIQ_rDBFMxUj8-_4yRD7uSYrjMS8n5USWUjDWBI&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=sWE6PYvVwJCUNz4yRdhIcw&_nc_ss=7a3a8&oh=00_Af37bDPou3Al4wQHtM7aG_brYnQiv2fB28FzLAOT1LwLzg&oe=69E72925",
+                    "height": 867,
+                    "width": 1543,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1543,
+                    "real_height": 867
+                },
+                {
+                    "id": "2626599817511602",
+                    "url": "https://www.facebook.com/photo.php?fbid=2626599817511602&set=gm.1479530012701682&type=3",
+                    "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/492452957_2834778420027073_4180507997050867990_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=HD6GGXbymAAQ7kNvwGy6GWz&_nc_oc=AdoLboJTFZo_3eZ1SRp7C8J3iDbFWLKRGY1bovL38IcYUfruRPVHvpUyJcR8n0r0Mgw&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=sWE6PYvVwJCUNz4yRdhIcw&_nc_ss=7a3a8&oh=00_Af36e9FGC8cgarcpi_JLp-0EPxCCBy4_qylGQUuC4LYaaQ&oe=69E72867",
+                    "height": 800,
+                    "width": 1280,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1280,
+                    "real_height": 800
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Wikipedia - Bách khoa toàn thư mở\n\nChắc mọi người đều biết trang web này rồi nhỉ, muốn tìm kiến thức gì là thường sẽ vô đây coi đầu tiên 😂\n\nXu mỗi cái là giao diện không đẹp, nhìn sơ sài cơ bản, không bắt mắt, thiếu các tính năng hỗ trợ đọc, ...\n\nNhưng mọi người có biết wiki vừa **nâng cấp giao diện** không? Có thêm rất nhiều tiện ích như:\n* Hiển thị **mục lục** bài viết, chuyển nhanh tới nội dung bất kỳ\n* Hỗ trợ chuyển đổi nhanh **ngôn ngữ**\n* Bộ công cụ mới: in **PDF**, lấy link rút gọn, tạo QR code, tạo trích dẫn nhanh, lịch sử viết bài, tác giả, danh sách bài khác link tới, ...\n* Bộ chỉnh giao diện mới: **sáng/tối**, cỡ chữ, độ rộng trang, ...\n\nTrước mình còn phải dùng extension hỗ trợ như **Wikiwand**, nhưng giờ bản thân wiki cũng bắt đầu nâng cấp rồi, chắc sắp tới có thể dùng không cần extension hỗ trợ nữa 😅🥴",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Wikipedia - Bách khoa toàn thư mở"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Chắc mọi người đều biết trang web này rồi nhỉ, muốn tìm kiến thức gì là thường sẽ vô đây coi đầu tiên 😂"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Xu mỗi cái là giao diện không đẹp, nhìn sơ sài cơ bản, không bắt mắt, thiếu các tính năng hỗ trợ đọc, ..."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 18,
+                        "offset": 33
+                    }
+                ],
+                "text": "Nhưng mọi người có biết wiki vừa nâng cấp giao diện không? Có thêm rất nhiều tiện ích như:"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 7,
+                        "offset": 9
+                    }
+                ],
+                "text": "Hiển thị mục lục bài viết, chuyển nhanh tới nội dung bất kỳ"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 8,
+                        "offset": 24
+                    }
+                ],
+                "text": "Hỗ trợ chuyển đổi nhanh ngôn ngữ"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 3,
+                        "offset": 19
+                    }
+                ],
+                "text": "Bộ công cụ mới: in PDF, lấy link rút gọn, tạo QR code, tạo trích dẫn nhanh, lịch sử viết bài, tác giả, danh sách bài khác link tới, ..."
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 8,
+                        "offset": 24
+                    }
+                ],
+                "text": "Bộ chỉnh giao diện mới: sáng/tối, cỡ chữ, độ rộng trang, ..."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 8,
+                        "offset": 46
+                    }
+                ],
+                "text": "Trước mình còn phải dùng extension hỗ trợ như Wikiwand, nhưng giờ bản thân wiki cũng bắt đầu nâng cấp rồi, chắc sắp tới có thể dùng không cần extension hỗ trợ nữa 😅🥴"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 3,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 9,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 8,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1725596177000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1479530019368348",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2626595594178691",
+                "2626599817511602"
+            ],
+            "photo_id": "2626595594178691",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1725596177,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1479530019368348"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=sWE6PYvVwJCUNz4yRdhIcw&_nc_ss=7a3a8&oh=00_Af32mdmc5Oia_jIcrzJczGr1M593RDt1czLdm-6WexPx7A&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

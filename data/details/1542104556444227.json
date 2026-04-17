@@ -1,0 +1,306 @@
+{
+    "result": {
+        "id": "UzpfSTE1NDIxMDQ1NTY0NDQyMjc6Vks6MTU0MjEwNDU1NjQ0NDIyNw==",
+        "post_id": "1542104556444227",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1542104556444227/",
+        "media": {
+            "mediaset_token": "pcb.1542104556444227",
+            "subAttachments": [
+                {
+                    "id": "2715934468578136",
+                    "url": "https://www.facebook.com/photo.php?fbid=2715934468578136&set=gm.1542104553110894&type=3",
+                    "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/504000203_2879183898919858_2098007309624727113_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=4B1EKvso7VcQ7kNvwE-r03-&_nc_oc=AdoOQw-DNz6tUxtSEhQiH0p6aKjE8Ns3UKLbK8TowABGhVsxXQuHMUngKX6iTyUFDjE&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=wtD-m0iK0C3n_Qq9Q7nveQ&_nc_ss=7a3a8&oh=00_Af1feE4cgvAHnmPRNi4KjxRGYv3BP1MeTSYtiTGZCFMlTA&oe=69E72E42",
+                    "height": 648,
+                    "width": 1195,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1195,
+                    "real_height": 648
+                },
+                {
+                    "id": "2715934731911443",
+                    "url": "https://www.facebook.com/photo.php?fbid=2715934731911443&set=gm.1542104559777560&type=3",
+                    "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/504674243_2879184185586496_1854192762777249432_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=3dUafyqTu_4Q7kNvwHXxj5P&_nc_oc=AdpeggS9YyVYyQGhLkVmY0uu6-i3H0BxvCyHptBrTv5Fn_-tUQjo44D_vYTWW3CVAu8&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=wtD-m0iK0C3n_Qq9Q7nveQ&_nc_ss=7a3a8&oh=00_Af1aR27zVq956-L81Q6A_MFZutLj33OcPm8Eh3J2CqRgiw&oe=69E74546",
+                    "height": 811,
+                    "width": 935,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 935,
+                    "real_height": 811
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# **Nhá hàng: Tự động kết bạn 🤖**\n\n* Tự động kết bạn theo tiêu chí: **bạn chung, giới tính **🤪\n* Tự động **bỏ qua** nếu không thoả tiêu chí 🫥\n* Tự động kết bạn với **BẠN CỦA NGƯỜI KHÁC **👀\n* Tự động kết bạn với danh sách** GỢI Ý **của fb 🫶\n* Tận dụng **bộ lọc** của sẵn của fb: Bạn cùng tỉnh, cùng quê, mới thêm gần đây, ...👀\n* Có thời gian chờ, tự động bấm trực tiếp trên giao diện, đảm bảo không bị ban 🤣\n\nSẽ là 1 extension riêng, sắp lên web store nha mọi người 🌟🌟🌟",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 27,
+                        "offset": 0
+                    }
+                ],
+                "text": "Nhá hàng: Tự động kết bạn 🤖"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 21,
+                        "offset": 31
+                    }
+                ],
+                "text": "Tự động kết bạn theo tiêu chí: bạn chung, giới tính 🤪"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 6,
+                        "offset": 8
+                    }
+                ],
+                "text": "Tự động bỏ qua nếu không thoả tiêu chí 🫥"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 19,
+                        "offset": 20
+                    }
+                ],
+                "text": "Tự động kết bạn với BẠN CỦA NGƯỜI KHÁC 👀"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 7,
+                        "offset": 29
+                    }
+                ],
+                "text": "Tự động kết bạn với danh sách GỢI Ý của fb 🫶"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 6,
+                        "offset": 9
+                    }
+                ],
+                "text": "Tận dụng bộ lọc của sẵn của fb: Bạn cùng tỉnh, cùng quê, mới thêm gần đây, ...👀"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Có thời gian chờ, tự động bấm trực tiếp trên giao diện, đảm bảo không bị ban 🤣"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Sẽ là 1 extension riêng, sắp lên web store nha mọi người 🌟🌟🌟"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 10,
+            "total_count": 18,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 25,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 18,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 4,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "478547315650144",
+                    "count": 3,
+                    "name": "Wow"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1733822280000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1542104556444227",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2715934468578136",
+                "2715934731911443"
+            ],
+            "photo_id": "2715934468578136",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1733822280,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1542104556444227"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=wtD-m0iK0C3n_Qq9Q7nveQ&_nc_ss=7a3a8&oh=00_Af0GeUCrSmYGURPkQPFkl74NOiQqN1bT768Eq1UhOVqieQ&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

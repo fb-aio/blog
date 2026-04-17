@@ -1,0 +1,160 @@
+{
+    "result": {
+        "id": "UzpfSTE2Mzk4NjYwNjAwMDE0MDk6Vks6MTYzOTg2NjA2MDAwMTQwOQ==",
+        "post_id": "1639866060001409",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1639866060001409/",
+        "media": {
+            "mediaset_token": "pcb.1639866060001409",
+            "subAttachments": [
+                {
+                    "id": "2847441072094141",
+                    "url": "https://www.facebook.com/photo.php?fbid=2847441072094141&set=gm.1639866050001410&type=3",
+                    "uri": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/504186618_2880521595452755_6566106242173194293_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=5a-cz4T4FOoQ7kNvwH_nPZk&_nc_oc=AdprH73tafd_ieLVuDgUfatHtUfWC-VD2Ncl6wvlbD6CIluAQP0PubTQIl7up_BUe4o&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=CCwzh5N-8jpQkLwpTuKlQQ&_nc_ss=7a3a8&oh=00_Af2loen4PbRD34LcxNgl_WFI496pZ1Nc8u0yOccgYS1yaQ&oe=69E73907",
+                    "height": 2400,
+                    "width": 1080,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1080,
+                    "real_height": 2400
+                },
+                {
+                    "id": "2847441112094137",
+                    "url": "https://www.facebook.com/photo.php?fbid=2847441112094137&set=gm.1639866056668076&type=3",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/504744287_2880521565452758_3131708612797265705_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=xIiL1g9s43cQ7kNvwHLhp_g&_nc_oc=AdpgUH4VCwHKDSW7ko94LLn9u1cQOC0xfH9Wdh9K07VICgH2KV_7ty6drHj94qjLeX4&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=CCwzh5N-8jpQkLwpTuKlQQ&_nc_ss=7a3a8&oh=00_Af1piTUQltVgfwR_n_nC2LtdWc3rseYS2Y7mi3QxnOiLqA&oe=69E72195",
+                    "height": 2400,
+                    "width": 1080,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1080,
+                    "real_height": 2400
+                },
+                {
+                    "id": "2847441155427466",
+                    "url": "https://www.facebook.com/photo.php?fbid=2847441155427466&set=gm.1639866053334743&type=3",
+                    "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/504129319_2880521698786078_5969395973773650268_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=ateQ098vpkcQ7kNvwGdD5nG&_nc_oc=Adp9FoW5CCkk4CxB4eoUtVplZJi-7EwIdGx1a8mIJE7Z5y-eSulHB34L6RkmGuqjyUI&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=CCwzh5N-8jpQkLwpTuKlQQ&_nc_ss=7a3a8&oh=00_Af0KGTkX717gj08MnIFDD4SQ7wD_aaBU_i7HY87JnzuxCw&oe=69E746F9",
+                    "height": 2400,
+                    "width": 1080,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1080,
+                    "real_height": 2400
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "Cách dùng ChatGPT hiệu quả 🐧\nGiải quyết công việc thường ngày 🎮",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 5,
+            "total_count": 8,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 14,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 10,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 3,
+                    "name": "Haha"
+                },
+                {
+                    "id": "613557422527858",
+                    "count": 1,
+                    "name": "Thương thương"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1746448446000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1639866060001409",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2847441072094141",
+                "2847441112094137",
+                "2847441155427466"
+            ],
+            "photo_id": "2847441072094141",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1746448446,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1639866060001409"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=CCwzh5N-8jpQkLwpTuKlQQ&_nc_ss=7a3a8&oh=00_Af2FHtFBp3WNzpNO30556D2fp9wDdODGFzg2CoTlgQvyAw&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

@@ -1,0 +1,266 @@
+{
+    "result": {
+        "id": "UzpfSTE2NTQwMTI5NjE5MjAwNTI6Vks6MTY1NDAxMjk2MTkyMDA1Mg==",
+        "post_id": "1654012961920052",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1654012961920052/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Microsoft đã làm chúng ta đủ \"WOW\" chưa ạ <(\")",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100009820695732",
+                "name": "Hoàng Hào",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/kemsadboiz"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 4,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 47,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 39,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 4,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "478547315650144",
+                    "count": 3,
+                    "name": "Wow"
+                },
+                {
+                    "id": "613557422527858",
+                    "count": 1,
+                    "name": "Thương thương"
+                }
+            ]
+        },
+        "shares": 7,
+        "created_time": 1748348022000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1654012961920052",
+            "content_owner_id_new": "100009820695732",
+            "original_content_id": "2567828006897799",
+            "original_content_owner_id": "100010118735549",
+            "page_id": "1109467198906183",
+            "photo_id": "2567818433565423",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "100009820695732": {
+                    "page_id": "100009820695732",
+                    "page_id_type": "page",
+                    "actor_id": "100009820695732",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "2567828006897799",
+                        "sharedMediaID": "1654012961920052",
+                        "sharedMediaOwnerID": "100009820695732"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1748343260,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1654012961920052"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100009820695732",
+                            "page_id": "100009820695732",
+                            "post_id": "1654012961920052",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "100010118735549": {
+                    "page_id": "100010118735549",
+                    "page_id_type": "page",
+                    "actor_id": "100009820695732",
+                    "attached_story": {
+                        "page_id": "100010118735549",
+                        "page_id_type": "page",
+                        "actor_id": "100010118735549",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1748320014,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "2567828006897799"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1654012961920052",
+                        "sharedMediaOwnerID": "100009820695732"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100009820695732",
+                            "page_id": "100010118735549",
+                            "post_id": "2567828006897799",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100009820695732",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "2567828006897799",
+                        "sharedMediaID": "1654012961920052",
+                        "sharedMediaOwnerID": "100009820695732"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1748343260,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1654012961920052"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100009820695732",
+            "actrs": "100009820695732",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=Fy1E29zTEvs23K2ldPrtbQ&_nc_ss=7a3a8&oh=00_Af371rPUgQ_y3G8F0NITbJXUd7bDnBOy9hKj2slg6sO1XA&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDAxMDExODczNTU0OToyNTY3ODI4MDA2ODk3Nzk5OjI1Njc4MjgwMDY4OTc3OTk=",
+            "post_id": "2567828006897799",
+            "url": "https://www.facebook.com/nhatduong.u30/posts/pfbid02ZkhMX33fkcN18B4FNTZDdNJ2YfaL4fG3jLRvm6rvopiSi6dLZrWeo9N8x4bQzuDXl",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "2567818433565423",
+                    "url": "https://www.facebook.com/photo/?fbid=2567818433565423&set=a.111719322508692",
+                    "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/501325115_2567818436898756_8650360670583600607_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_ohc=j-ijKPExMisQ7kNvwFANVtb&_nc_oc=AdpFioFYER1KFNkVYdMSnxQyAsg9aZhc-C0pafTIy-C2fn4nGots9JmCuDWBtoWzIo8&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=Fy1E29zTEvs23K2ldPrtbQ&_nc_ss=7a3a8&oh=00_Af3flZH27oxbn_oZOSl2pZY5Kmdv31DTjgo_flaYVFYU6g&oe=69E766F4",
+                    "height": 1167,
+                    "width": 2032,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FFFFFFFF",
+                    "real_width": 2032,
+                    "real_height": 1167
+                },
+                "video": null
+            },
+            "text": "MICROSOFT ĐIÊN CMNR...\n\nMình vừa coi xong keynote của Satya Nadella tại sự kiện Microsoft Build 2025 và chỉ muốn hét lên Vãi cả linh hồn @@\n\nNếu bạn tưởng AI đã quá “xịn sò” rồi thì xin lỗi, Microsoft vừa quăng một combo khiến tất cả startup phải nín thở, còn dân dev và data analyst thì cũng chuẩn bị rút ống thở.\n\nDưới đây là recap những tính năng mới khiến mình phải “WOW” từng phút – và bạn KHÔNG ĐƯỢC BỎ QUA:\n\n1. GitHub Copilot trở thành lập trình viên thực thụ\nKhông còn chỉ là “code gợi ý” nữa, Copilot giờ đây là AI Agent viết code đầu tiên trên thế giới:\n • Biết viết, biết sửa, biết debug, viết cả tài liệu.\n • Hiểu ngữ cảnh, phối hợp task, xử lý đầu vào dạng hình, tiếng, video!\n=> Có thể thay cả intern! 😱\n\n2. Copilot Studio hỗ trợ đa tác nhân (multi-agent orchestration)\n\nĐây là lúc bạn để AI tự chia việc – tự làm – tự phối hợp với nhau, không cần đụng tay.\nBạn ném cho nó một quy trình phức tạp, nó sẽ “triệu hồi đồng bọn AI” xử lý từng khâu.\nMột cuộc cách mạng cho automation trong doanh nghiệp luôn!\n\n3. NLWeb – Web giờ biết… trò chuyện\n\nTưởng tượng bạn vào trang web và có thể nói chuyện với nó như đang dùng ChatGPT.\nMicrosoft gọi đây là “Natural Language Web”:\n • Mỗi website đều có AI riêng,\n • Hiểu người dùng, biết ngữ cảnh, biết phân tích dữ liệu real-time.\n\nTừ nay khỏi mò menu nữa. Chỉ cần hỏi: “Show me sales from last quarter”, xong.\n\n4. Azure AI Foundry mở full công lực\n • Chạy được Grok 3 của Elon Musk, LLaMA của Meta, Claude của Anthropic…\n • Hơn 1900 mô hình AI sẵn sàng chờ bạn gọi dùng – kiểu buffet AI không giới hạn!\n • Có luôn giải pháp tuning riêng cho doanh nghiệp: bảo mật, riêng tư, tối ưu theo dữ liệu nội bộ.\n\n=> Mạnh hơn, riêng tư hơn, bảo mật hơn!\n\n5. Windows AI Foundry & WSL mã nguồn mở\n • Hỗ trợ build, test, triển khai model AI ngay trên Windows\n • WSL chính thức mở mã nguồn – ai làm dev Linux chắc bật khóc vì sung sướng\n • Xây dựng và chạy AI app native ngay trên máy bạn luôn, không cần cloud nếu không thích!\n\n6. Ứng dụng AI khắp nơi: từ thời tiết đến… ung thư\n • AI dự báo thời tiết siêu nhanh, dùng mô hình Aurora chạy trên Azure\n • Stanford Health Care dùng AI để chuẩn bị hội chẩn ung thư – giảm công sức bác sĩ, tăng tốc cứu người\n • Giáo viên ở Peru dùng Copilot để cải thiện chất lượng giảng dạy – AI giờ vào trường học thật rồi!\n\nTúm cái váy lại thì... Microsoft đang dẫn đầu kỷ nguyên AI Agent\nKhông còn là AI trả lời – mà là AI hành động, hợp tác, tự làm việc nhóm.\nMình đã test Copilot orchestration + NLWeb bản demo – chỉ biết nói là: Các khầy nào mà còn đi build tính năng phổ thông thì… thôi nghỉ cho khỏe.\nChơi giờ là phải build AI giải quyết bottle neck, audit, pháp lý, KPI – không thì auto bị Microsoft “nuốt sống”.\n\nCHẤM ĐI, mai mình lên video demo luôn! 😎",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Nhật Dương",
+                    "id": "100010118735549",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/nhatduong.u30",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1748320014000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

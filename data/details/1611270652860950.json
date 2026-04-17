@@ -1,0 +1,144 @@
+{
+    "result": {
+        "id": "UzpfSTE2MTEyNzA2NTI4NjA5NTA6Vks6MTYxMTI3MDY1Mjg2MDk1MA==",
+        "post_id": "1611270652860950",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1611270652860950/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2804878713017044",
+                "url": "https://www.facebook.com/photo/?fbid=2804878713017044&set=gm.1611270652860950&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/504259058_2880033615501553_4458103464578212784_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=ydoA-kqTMPoQ7kNvwE3YzNv&_nc_oc=AdqZ-CRLtkM0KtGClFhKvFHEP3sMf-2WM3sau1L9ssNiHaP-Nl_HNcxMhxRJyvjleos&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=nwmHzuuNp9b0BAtEsWXNrw&_nc_ss=7a3a8&oh=00_Af0ve1Af9_CKfl9S7qqq91YKL1oycqgTz8n-lFinSwT9hQ&oe=69E7665D",
+                "height": 2400,
+                "width": 1080,
+                "accessibility_caption": "Có thể là hình ảnh về ‎1 người, điện thoại và ‎văn bản cho biết '‎22:16:22 24% P Subscribe ၁ Sign in F FB FBAIO AIO All in one Toolbox for manage your media social accounts Visit Upvote 2 DOWNLOADER POSTS BULK Packed with tons of amazing features and automation to make your life easier! س STORY MESSAGES FRIENDS FRIEND REQUESTS BLOCKED FOLLOWING OTHER UTILITIES And many more are coming! Free Meet the team Hoàng Trần ఆ్ర Hunter 命 Maker‎'‎‎",
+                "accent_color": "FFFFFFFF",
+                "real_width": 1080,
+                "real_height": 2400
+            },
+            "video": null
+        },
+        "text": "FB AIO đã lên Product Hunt 🤩\n\n500 anh em cho admin xin 1 upvote nha\n\nAi vote xong thì chụp màn hình gửi dô đây. Mình tặng 5 NGÀY VIP nha 😎\n\nNếu không vote được thì để lại 1 review 5 sao trên product hunt cũng được nha 🌟\n\nhttps://www.producthunt.com/products/fb-aio/launches/fb-aio\n\n#fb_aio",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3d3dy5wcm9kdWN0aHVudC5jb20vcHJvZHVjdHMvZmItYWlvL2xhdW5jaGVzL2ZiLWFpbzo6Ojo6MTYxMTI3MDY1Mjg2MDk1MA==",
+                "name": "https://www.producthunt.com/products/fb-aio/launches/fb-aio",
+                "url": "https://www.producthunt.com/products/fb-aio/launches/fb-aio",
+                "length": 59,
+                "offset": 221
+            }
+        ],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 641,
+            "total_count": 1155,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": "1678524932434102",
+            "total": 119,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 96,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 22,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "613557422527858",
+                    "count": 1,
+                    "name": "Thương thương"
+                }
+            ]
+        },
+        "shares": 8,
+        "created_time": 1743002318000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1611270652860950",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2804878713017044",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1743002318,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1611270652860950"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=nwmHzuuNp9b0BAtEsWXNrw&_nc_ss=7a3a8&oh=00_Af1YhJfCRORHtlIJ2Yo-Hs9bWGSwHoUqftZHRCc0xFuexg&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

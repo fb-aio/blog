@@ -1,0 +1,313 @@
+{
+    "result": {
+        "id": "UzpfSTE0NTA3NDI5Mzg5MTM3MjM6Vks6MTQ1MDc0MjkzODkxMzcyMw==",
+        "post_id": "1450742938913723",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1450742938913723/",
+        "media": {
+            "mediaset_token": "pcb.1450742938913723",
+            "subAttachments": [
+                {
+                    "id": "854740606066832",
+                    "url": "https://www.facebook.com/9999.hoangtran/videos/854740606066832/?idorvanity=1154059318582088",
+                    "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t15.5256-10/451668101_1215306952798752_3640883688463988819_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=f912a7&_nc_ohc=h8hyUb2VeAwQ7kNvwF3JvyP&_nc_oc=Adq2NTeqGH4bOgdOVjY5wNGxYak5bOpUXCThABrrcXigF54Cr_4YdpJUvKei4tfoHLM&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=fALvWLPJX8ncomxs1tSrtw&_nc_ss=7a3a8&oh=00_Af2S-a4lkhRezr7gBsVTR1wzYrhzXQQ4QQQ2qixocWbnZQ&oe=69E7148B",
+                    "height": 720,
+                    "width": 1167,
+                    "real_width": 1167,
+                    "real_height": 720
+                },
+                {
+                    "id": "2586596941511890",
+                    "url": "https://www.facebook.com/photo.php?fbid=2586596941511890&set=gm.1450742942247056&type=3",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/489505823_2818628171642098_3441720614423447283_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=wvVnUwQEuUMQ7kNvwG8R3uz&_nc_oc=AdrZj0ExWcX7dXtemTcjkTNEtjb8uq_GZeYI2Zhc1AnacNOCOtg6sFhWEJpFkj3OV7g&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=fALvWLPJX8ncomxs1tSrtw&_nc_ss=7a3a8&oh=00_Af0lp_8n6dJ6tfiFyWbTXjoGTk3KUPWk-wYVD6YlCKmuhA&oe=69E72F34",
+                    "height": 599,
+                    "width": 376,
+                    "accessibility_caption": "Có thể là hình ảnh về điện thoại và văn bản",
+                    "real_width": 376,
+                    "real_height": 599
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Có thể bạn chưa biết #4\n\nChức năng **Phóng to mọi hình ảnh** của useful-scripts\n\nNgoài việc phóng to ảnh, còn có thể **phóng to video** bất kỳ nữa đó. (phóng to khung hình)\n\nChỉ cần đưa chuột vào video,  sẽ hiện ra nút phóng to góc trên bên trái.\n\nNgoài ra còn 3 cách sử dụng nữa (xem ảnh), có thể phóng to ảnh/video ở mọi trang web không sợ bị chặn.\n\nXem video demo để hiểu rõ hơn nhé.\n\n#ufs_tip",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Có thể bạn chưa biết #4"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 21,
+                        "offset": 10
+                    }
+                ],
+                "text": "Chức năng Phóng to mọi hình ảnh của useful-scripts"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 14,
+                        "offset": 36
+                    }
+                ],
+                "text": "Ngoài việc phóng to ảnh, còn có thể phóng to video bất kỳ nữa đó. (phóng to khung hình)"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Chỉ cần đưa chuột vào video,  sẽ hiện ra nút phóng to góc trên bên trái."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Ngoài ra còn 3 cách sử dụng nữa (xem ảnh), có thể phóng to ảnh/video ở mọi trang web không sợ bị chặn."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Xem video demo để hiểu rõ hơn nhé."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/ufs_tip",
+                            "mobileUrl": "https://m.facebook.com/hashtag/ufs_tip",
+                            "__isNode": "Hashtag",
+                            "id": "3088379854535327"
+                        },
+                        "length": 8,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#ufs_tip"
+            }
+        ],
+        "hashtags": [
+            "#4",
+            "#ufs_tip"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 14,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 12,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "478547315650144",
+                    "count": 1,
+                    "name": "Wow"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1721366539000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1450742938913723",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "854740606066832",
+                "2586596941511890"
+            ],
+            "photo_id": "2586596941511890",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "video_id": "854740606066832",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1721366539,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1450742938913723"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=fALvWLPJX8ncomxs1tSrtw&_nc_ss=7a3a8&oh=00_Af3Fi_tu7t8n4XugnG0K5LKULYay3JNKLoItIypuN9yofg&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

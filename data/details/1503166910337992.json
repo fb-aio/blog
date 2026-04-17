@@ -1,0 +1,562 @@
+{
+    "result": {
+        "id": "UzpfSTE1MDMxNjY5MTAzMzc5OTI6Vks6MTUwMzE2NjkxMDMzNzk5Mg==",
+        "post_id": "1503166910337992",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1503166910337992/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2661653900672860",
+                "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
+                "uri": "https://external.fsgn2-9.fna.fbcdn.net/emg1/v/t13/3033710848606344033?url=https%3A%2F%2Frepository-images.githubusercontent.com%2F425387994%2F2a86e853-fd63-4da6-82d8-ee10c7ef2955&fb_obo=1&utld=githubusercontent.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p1000x522_q75_tt6&_nc_gid=VPLROcvDvUGEKNcgS32EGA&_nc_oc=AdoJP1skLJa0153fydd-CIhNPrNU4J7DVMWAP_--hqXxsLg7tW4ZLWHGqY4H6c-WH80&ccb=13-1&oh=06_Q3--AYhnsQZmZc8ANzuPwTSlV_lzMm6ZY8digIHeDSi2ql_i&oe=69E37070&_nc_sid=c97757",
+                "height": 522,
+                "width": 1000,
+                "accessibility_caption": "GitHub - Evil0ctal/Douyin_TikTok_Download_API: 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。"
+            },
+            "video": null
+        },
+        "text": "# Tả.i hàng loạt tik.tok/do.uyin ??\n\nHôm bữa mình test thử thấy có thể gọi api\n\nhttps://www.facebook.com/share/p/CGWo9JcrDUdHUnKu/\n\nNhưng sau khi vọc sâu hơn thì các api trên 2 nền tảng này cần thêm 2 **tham số bảo mật**: `X-Bogus A_Bogus `👀\n\n2 tham số này được tạo ra từ **thuật toán bí mật** của họ, gọi api mà không gửi hay gửi không đúng là **không được dữ liệu** gì hết. 🫥\n\nMình lùng sục khắp source code và cả trên mạng, vẫn không ra **code js** nào dùng được, chỉ tìm thấy **python**: 🥹https://github.com/Evil0ctal/Douyin_TikTok_Download_API\n\nKhổ nỗi cái thuật toán này rắc rối vl, xử lý **crypto, bitwise** tùm lum, chuyển nó sang js để chạy được trong **fb aio** là cả 1 vấn đề.🙃\n\nNên thôi mình chuyển hướng, **không gọi trực tiếp** tới tik.tok / douy.in để cào video nữa. Mà chơi **cách cũ** của useful-script, đứng **núp lùm, lắng nghe** bắt request, trộ.m data. 🤖\n\nSắp tới chức năng sẽ như sau:\n1. Bạn mở tik.tok / dou.yin trong tab mới, lướt xem video như thường\n2. Extension sẽ bắt request lấy tất cả link video có trong trang web\n3. Extension đẩy qua cho fb aio để hiển thị / chọn lọc / tải xuống\n\nMong là không còn gì khác cản đường kk.\n\nCó thể cách này **không hay lắm**, nhưng mà **extension có giới hạn**, không bằng app được.\n\nMình mò cũng** chưa thấy extension **nào tải ngon 2 nền tảng này hết 👀\n\nNên thôi cứ hy vọng kkk \n\n#fb_aio",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Tả.i hàng loạt tik.tok/do.uyin ??"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Hôm bữa mình test thử thấy có thể gọi api"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "IMPLICIT_LINK",
+                        "entity": {
+                            "__typename": "ExternalUrl",
+                            "__isEntity": "ExternalUrl",
+                            "url": "https://www.facebook.com/share/p/CGWo9JcrDUdHUnKu/",
+                            "external_url": "https://www.facebook.com/share/p/CGWo9JcrDUdHUnKu/",
+                            "__isWebLinkable": "ExternalUrl",
+                            "web_link": {
+                                "__typename": "ExternalWebLink",
+                                "url": "https://www.facebook.com/share/p/CGWo9JcrDUdHUnKu/",
+                                "fbclid": null,
+                                "lynx_mode": "ASYNCLAZY"
+                            },
+                            "mobileUrl": "https://www.facebook.com/share/p/CGWo9JcrDUdHUnKu/",
+                            "__isNode": "ExternalUrl",
+                            "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3d3dy5mYWNlYm9vay5jb20vc2hhcmUvcC9DR1dvOUpjckRVZEhVbkt1Lzo6Ojo6"
+                        },
+                        "length": 50,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "https://www.facebook.com/share/p/CGWo9JcrDUdHUnKu/"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 15,
+                        "offset": 69
+                    },
+                    {
+                        "inline_style": "CODE",
+                        "length": 16,
+                        "offset": 86
+                    }
+                ],
+                "text": "Nhưng sau khi vọc sâu hơn thì các api trên 2 nền tảng này cần thêm 2 tham số bảo mật: X-Bogus A_Bogus 👀"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 17,
+                        "offset": 29
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 18,
+                        "offset": 98
+                    }
+                ],
+                "text": "2 tham số này được tạo ra từ thuật toán bí mật của họ, gọi api mà không gửi hay gửi không đúng là không được dữ liệu gì hết. 🫥"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 7,
+                        "offset": 61
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 6,
+                        "offset": 97
+                    }
+                ],
+                "text": "Mình lùng sục khắp source code và cả trên mạng, vẫn không ra code js nào dùng được, chỉ tìm thấy python: 🥹https://github.com/Evil0ctal/Douyin_TikTok_Download_API"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 15,
+                        "offset": 45
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 6,
+                        "offset": 107
+                    }
+                ],
+                "text": "Khổ nỗi cái thuật toán này rắc rối vl, xử lý crypto, bitwise tùm lum, chuyển nó sang js để chạy được trong fb aio là cả 1 vấn đề.🙃"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 19,
+                        "offset": 28
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 7,
+                        "offset": 96
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 18,
+                        "offset": 128
+                    }
+                ],
+                "text": "Nên thôi mình chuyển hướng, không gọi trực tiếp tới tik.tok / douy.in để cào video nữa. Mà chơi cách cũ của useful-script, đứng núp lùm, lắng nghe bắt request, trộ.m data. 🤖"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Sắp tới chức năng sẽ như sau:"
+            },
+            {
+                "__typename": "ComposedOrderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                "block_type": "ORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Bạn mở tik.tok / dou.yin trong tab mới, lướt xem video như thường"
+            },
+            {
+                "__typename": "ComposedOrderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                "block_type": "ORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Extension sẽ bắt request lấy tất cả link video có trong trang web"
+            },
+            {
+                "__typename": "ComposedOrderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                "block_type": "ORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Extension đẩy qua cho fb aio để hiển thị / chọn lọc / tải xuống"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Mong là không còn gì khác cản đường kk."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 13,
+                        "offset": 16
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 21,
+                        "offset": 40
+                    }
+                ],
+                "text": "Có thể cách này không hay lắm, nhưng mà extension có giới hạn, không bằng app được."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 21,
+                        "offset": 12
+                    }
+                ],
+                "text": "Mình mò cũng chưa thấy extension nào tải ngon 2 nền tảng này hết 👀"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Nên thôi cứ hy vọng kkk "
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fb_aio",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fb_aio",
+                            "__isNode": "Hashtag",
+                            "id": "8080904801977702"
+                        },
+                        "length": 7,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fb_aio"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3d3dy5mYWNlYm9vay5jb20vc2hhcmUvcC9DR1dvOUpjckRVZEhVbkt1Lzo6Ojo6",
+                "name": "https://www.facebook.com/share/p/CGWo9JcrDUdHUnKu/",
+                "url": "https://www.facebook.com/share/p/CGWo9JcrDUdHUnKu/",
+                "length": 50,
+                "offset": 0
+            }
+        ],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 3,
+            "total_count": 7,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 30,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 24,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 6,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 5,
+        "created_time": 1728657857000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1503166910337992",
+            "content_owner_id_new": "100004848287494",
+            "story_location": 9,
+            "story_attachment_style": "share",
+            "ent_attachement_type": "ExternalShareAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1503166910337992",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1728657857,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1503166910337992"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "url_id": "5173921559355847",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=VPLROcvDvUGEKNcgS32EGA&_nc_ss=7a3a8&oh=00_Af3iTSZCD32rrDy1E8XVrp1QjaTU1LmvvZ1nc6iOeWOUqg&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

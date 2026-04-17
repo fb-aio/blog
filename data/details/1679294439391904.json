@@ -1,0 +1,219 @@
+{
+    "result": {
+        "id": "UzpfSTE2NzkyOTQ0MzkzOTE5MDQ6Vks6MTY3OTI5NDQzOTM5MTkwNA==",
+        "post_id": "1679294439391904",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1679294439391904/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Tui có thể cười đến chít 🐧\n\n#fbaio_relax",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_relax"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 19,
+            "top": [
+                {
+                    "id": "115940658764963",
+                    "count": 11,
+                    "name": "Haha"
+                },
+                {
+                    "id": "1635855486666999",
+                    "count": 8,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1751457647000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1679294439391904",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1140494111450388",
+            "original_content_owner_id": "100064694286331",
+            "page_id": "167363826626681",
+            "photo_id": "1140494074783725",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "100064694286331": {
+                    "page_id": "100064694286331",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100064694286331",
+                        "page_id_type": "page",
+                        "actor_id": "100064694286331",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1751424641,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1140494111450388"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1679294439391904",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100064694286331",
+                            "post_id": "1140494111450388",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1140494111450388",
+                        "sharedMediaID": "1679294439391904",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1751457647,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1679294439391904"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=ZnoMHWIVmmJ5LtY7N9rgUQ&_nc_ss=7a3a8&oh=00_Af3XvZxzFS7XEy_0cDQVCVJk6RHl36HBZmHKbG4fmNOWpQ&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA2NDY5NDI4NjMzMToxMTQwNDk0MTExNDUwMzg4OjExNDA0OTQxMTE0NTAzODg=",
+            "post_id": "1140494111450388",
+            "url": "https://www.facebook.com/WarCommissar/posts/pfbid08F7rkWoBdirffk1t1jaHh7mTDQwqdktK9r6cP4zDPcfFAp1yL1e68eJyPNswt8x3l",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "1140494074783725",
+                    "url": "https://www.facebook.com/photo/?fbid=1140494074783725&set=a.641059104727227",
+                    "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/515263997_1140494124783720_4506243848787540077_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=109&ccb=1-7&_nc_sid=7b2446&_nc_ohc=F6meE3uJO2gQ7kNvwGKOiHW&_nc_oc=AdoXRQbCHAGroXpOm5evIOczal1-bj0aiYGYfe9TWf0mkysbv7MKX0bx16gcIx_77OQ&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=ZnoMHWIVmmJ5LtY7N9rgUQ&_nc_ss=7a3a8&oh=00_Af292hsNCYWxBzJb1RAmCy9hi_NgxFg8yoSSSHUOIrUL-A&oe=69E76188",
+                    "height": 1366,
+                    "width": 1080,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FFFFFFFF",
+                    "real_width": 1124,
+                    "real_height": 1422
+                },
+                "video": null
+            },
+            "text": "10 điểm cho các bạn tên Thảo, bên cạnh đó ban ngẫu nhiên 10 bạn tên Chung nhé <(\")\n\n-CBT-\n\n#ComCom",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [
+                "#ComCom"
+            ],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Đơn vị Tác Chiến Điện Tử Comrade Commissar",
+                    "id": "100064694286331",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/WarCommissar",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1751424641000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

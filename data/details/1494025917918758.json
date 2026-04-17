@@ -1,0 +1,193 @@
+{
+    "result": {
+        "id": "UzpfSTE0OTQwMjU5MTc5MTg3NTg6Vks6MTQ5NDAyNTkxNzkxODc1OA==",
+        "post_id": "1494025917918758",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1494025917918758/",
+        "media": {
+            "mediaset_token": "pcb.1494025917918758",
+            "subAttachments": [
+                {
+                    "id": "2647696582068592",
+                    "url": "https://www.facebook.com/photo.php?fbid=2647696582068592&set=gm.1494025914585425&type=3",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/494550925_2843261129178802_1521367078940372818_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=RASWuxs3GWAQ7kNvwFnpysU&_nc_oc=Adoo61vMf13IsywrZxeeP13DXoclvnlfxy94qT_T5DrHHA-WZrqnmJ9p3AlGanSCySQ&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=OHRtN0O6bjrQJ9Ka5LeTMg&_nc_ss=7a3a8&oh=00_Af1bI-FNWOHrO7dOjKejee-ZzPsxc4B9VQbWXJ21BqWXjQ&oe=69E71FBF",
+                    "height": 2047,
+                    "width": 921,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản cho biết '18:34:14 0.19 22% Quyền riêng tư & an toàn Khóa ứng dụng Đoạn chat được mã hóa đầu cuối mãhóđầucuoi đaucuối Lướt xem trang web an toàn manháowecltenke.coheKhngn iênket Aicóthểliênhệvőibạn Phân phối tin nhắn Tài khoản đã hạn chế Tài khoản đã chặn Khôngchoaiđóliênhệvőibạn người nhìnthấy Thông báo đã đọc Trạng thái hoạt động Chomeinaubielkibancomo Chomoi chomornguaibiekhiln.comat Messenger Kiểm soát tin'",
+                    "real_width": 921,
+                    "real_height": 2047
+                },
+                {
+                    "id": "2647696622068588",
+                    "url": "https://www.facebook.com/photo.php?fbid=2647696622068588&set=gm.1494025911252092&type=3",
+                    "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/494643590_2843262159178699_6640786715309860857_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=g1ezlkDSxUQQ7kNvwFBDm0z&_nc_oc=AdpHFQlREfthMx9DZSIayKyQmjozx-EhbaygiKs93NJGu5btiP1YMzSIdiiYlsha39U&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=OHRtN0O6bjrQJ9Ka5LeTMg&_nc_ss=7a3a8&oh=00_Af1VuLacxEBVn7XpxQryjDWbJcc31EX77KaLJLwJKpCYrQ&oe=69E746C4",
+                    "height": 2047,
+                    "width": 921,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                    "real_width": 921,
+                    "real_height": 2047
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Có thể bạn đã biết #10\n\nCách chặn \"Đã xem\" trên facebook messenger mà không cần cài thêm ứng dụng hay tiện ích thứ 3 🤣",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Có thể bạn đã biết #10"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Cách chặn \"Đã xem\" trên facebook messenger mà không cần cài thêm ứng dụng hay tiện ích thứ 3 🤣"
+            }
+        ],
+        "hashtags": [
+            "#10"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 2,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 8,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 4,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 2,
+                    "name": "Haha"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "908563459236466",
+                    "count": 1,
+                    "name": "Buồn"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1727523430000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1494025917918758",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2647696582068592",
+                "2647696622068588"
+            ],
+            "photo_id": "2647696582068592",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1727523430,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1494025917918758"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=OHRtN0O6bjrQJ9Ka5LeTMg&_nc_ss=7a3a8&oh=00_Af1evq-EoWcsNuAnDGXOG2yIFKW-mtDm1IV3G0weFG0RWA&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

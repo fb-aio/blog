@@ -1,0 +1,234 @@
+{
+    "result": {
+        "id": "UzpfSTE2MDU2NjU1OTAwODgxMjM6Vks6MTYwNTY2NTU5MDA4ODEyMw==",
+        "post_id": "1605665590088123",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1605665590088123/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Có ai 9x trong nhóm mình không 🤖\n\nHôm bữa đọc bài post của ông này cũng thấy khó chịu voãi. Kiểu đánh đồng 9x vô góc nhìn phiến diện của ổng ấy 😑\n\nChê tới chê lui, kiểu nói 9x không đủ trình để ổng nhận vô làm vậy. Trong khi mình thấy ổng là người không đủ mắt để nhìn ra điểm mạnh của 9x thì đúng hơn 🤐\n\nNay đọc bài này thấy nhẹ nhõm hẳn, vì có nhiều người nghĩ giống mình 🤣\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 4,
+            "total_count": 9,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 8,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 6,
+                    "name": "Thích"
+                },
+                {
+                    "id": "478547315650144",
+                    "count": 1,
+                    "name": "Wow"
+                },
+                {
+                    "id": "908563459236466",
+                    "count": 1,
+                    "name": "Buồn"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1742300664000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1605665590088123",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "990028403228356",
+            "original_content_owner_id": "100066636157802",
+            "page_id": "786621408100002",
+            "photo_id": "990028086561721",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "100066636157802": {
+                    "page_id": "100066636157802",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100066636157802",
+                        "page_id_type": "page",
+                        "actor_id": "100066636157802",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1742182649,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "990028403228356"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1605665590088123",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100066636157802",
+                            "post_id": "990028403228356",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "990028403228356",
+                        "sharedMediaID": "1605665590088123",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1742300664,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1605665590088123"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=_XxcDhjJGX5nbFikbXXXfQ&_nc_ss=7a3a8&oh=00_Af0CaJ0T7BoZLPRm6JSZZt_kEQMgLsNuGxXgp4P7WD7AUw&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA2NjYzNjE1NzgwMjo5OTAwMjg0MDMyMjgzNTY6OTkwMDI4NDAzMjI4MzU2",
+            "post_id": "990028403228356",
+            "url": "https://www.facebook.com/pagechuithue/posts/pfbid0d6Ya2kxhCmvtN1rNrz7HYhDQ77HtCjmBcwWUziD5rWhGAMteLfRxLZKSgjCQC8uNl",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "990028086561721",
+                    "url": "https://www.facebook.com/photo/?fbid=990028086561721&set=a.558847816346419",
+                    "uri": "https://scontent.fsgn2-8.fna.fbcdn.net/v/t39.30808-6/491918414_1012089001022296_3149605827545580718_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=7b2446&_nc_ohc=OjhRiCg0x-cQ7kNvwHeYkIY&_nc_oc=AdrgaYMlZl9NBfaMxxfVRieNY8GUMxJSJl_w7bYer9_QGYg3_RyRxGlDQvnDvuytrFk&_nc_zt=23&_nc_ht=scontent.fsgn2-8.fna&_nc_gid=_XxcDhjJGX5nbFikbXXXfQ&_nc_ss=7a3a8&oh=00_Af0D8Bd9SdRIbvQ-cWxrX21q6iBQTXdRfhBs9SAtdzkj2A&oe=69E76C1D",
+                    "height": 1056,
+                    "width": 1290,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FFFEFEFE",
+                    "real_width": 1290,
+                    "real_height": 1056
+                },
+                "video": null
+            },
+            "text": "SINH NĂM 90 CHỨ CÓ PHẢI 90 TUỔI Đ’ ĐÂU MÀ PHỎNG VẤN KÊU KHÔNG NHẬN 🙂 \n\nVừa qua, Tùng BT (Tên thật Trần Thanh Tùng) - chuyên gia khởi nghiệp, Co-Founder của nhiều dự án nổi tiếng trở thành cái tên được nhiều người nhắc đến sau bài đăng liên quan đến chuyện tuyển dụng nhân sự ngoài 30 tuổi.\n\nTheo đó, Tùng BT chia sẻ câu chuyện về một ứng viên sinh năm 1990 đi xin việc vị trí trợ lý với CV xịn, kinh nghiệm dày. Tuy nhiên, anh không nhận ứng viên này vì: “Bỏ thì thương mà trả lương thì tội”, sau đó Tùng BT đề cập đến cách làm việc của thế hệ 9X. Tùng BT cho rằng, thế hệ 9X khó thích nghi, không quen dùng AI, ít sống trên MXH, thích làm việc trực tiếp,... Và rào cản lớn nhất của 9X là gia đình nên thời gian không linh động, không còn sự “máo chiến” giống như những bạn trẻ hơn.\n\nSẵn đây AD xin phép được ghi lại bình luận của một bạn 9x mà AD cảm thấy vô cùng tâm đắc về phần phản dame lại của bạn dù biết rằng ông anh đã gỡ bài: “chẳng qua ông anh chưa gặp đc các 9x sáng vừa trình bài siêu dự án trước các 7x, 8x, tối lại đi trà sữa, bắt trend với các bé 2k thôi.\n\nCách nhìn nhận về thế hệ 9x của ông anh từ 1 trường hợp cụ thể kia nó quá phiến diện và thiếu thực tế. Thế hệ 9x ngày nay không hề \"cổ lỗ sĩ\" hay chỉ biết đến những giá trị xưa cũ.\n\n- Họ là một thế hệ đặc biệt, lớn lên trong giai đoạn chuyển giao giữa hai thế kỷ, dung hòa được những giá trị truyền thống và hiện đại. 9x là thế hệ đã trải qua sự thay đổi lớn của công nghệ, từ internet dial-up đến smartphone và mạng xã hội. Họ có khả năng thích ứng nhanh chóng với những thay đổi này. Họ cũng linh hoạt trong cách sống và làm việc, không ngại thử thách bản thân và khám phá những điều mới mẻ.\n\n- 9x họ trân trọng những giá trị truyền thống, nhưng đồng thời cũng cởi mở với những tư tưởng và xu hướng mới. Họ có thể vừa \"chè chén\" với các \"tiền bối 7x, 8x\" để học hỏi kinh nghiệm, vừa \"tà tưa\" với các bạn trẻ 2k để cập nhật xu hướng.\n\n- 9x là một thế hệ đa dạng về sở thích, quan điểm và lối sống. Họ có cá tính riêng và không ngại thể hiện bản thân. 9x là lực lượng lao động chính hiện nay, họ có đủ sự trải nghiệm, kiến thức, và sức trẻ để đóng góp cho xã hội. Họ là\nnhững người đã và đang tạo ra những giá trị mới cho xã hội ngày nay đấy ạ.”\n\nQuan điểm của bạn như thế nào về sự việc này? \n\n#CT",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [
+                "#CT"
+            ],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Chửi Thuê",
+                    "id": "100066636157802",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/pagechuithue",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1742182649000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

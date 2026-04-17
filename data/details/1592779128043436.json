@@ -1,0 +1,255 @@
+{
+    "result": {
+        "id": "UzpfSTE1OTI3NzkxMjgwNDM0MzY6Vks6MTU5Mjc3OTEyODA0MzQzNg==",
+        "post_id": "1592779128043436",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1592779128043436/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Có ai nhớ hết những bài Tiếng Việt thuở nhỏ này không 🤣",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 2,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 2,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1740648675000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1592779128043436",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1149635776954817",
+            "original_content_owner_id": "100057252168269",
+            "page_id": "1258783064276162",
+            "photo_id": "1149635423621519",
+            "story_location": 9,
+            "attached_story_attachment_style": "album",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "PhotoSetAttachment",
+            "page_insights": {
+                "100057252168269": {
+                    "page_id": "100057252168269",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100057252168269",
+                        "page_id_type": "page",
+                        "actor_id": "100057252168269",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1740398406,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1149635776954817"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1592779128043436",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100057252168269",
+                            "post_id": "1149635776954817",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1149635776954817",
+                        "sharedMediaID": "1592779128043436",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1740648675,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1592779128043436"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=axlukNeSNzSduvNnfatTNQ&_nc_ss=7a3a8&oh=00_Af1vrbXSL6tX5VOatppwuc1PcjcTFz7zTHfftPXEpHlqmQ&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA1NzI1MjE2ODI2OToxMTQ5NjM1Nzc2OTU0ODE3OjExNDk2MzU3NzY5NTQ4MTc=",
+            "post_id": "1149635776954817",
+            "url": "https://www.facebook.com/sunnyvietnamgrouphhn/posts/pfbid0iJQG6w3mDXWAR9sbP3tsszTEDePmXTKrn6fKR8FfQZyVVBDiVds5e9kGocU1zcVnl",
+            "media": {
+                "mediaset_token": "pcb.1149635776954817",
+                "subAttachments": [
+                    {
+                        "id": "1149635423621519",
+                        "url": "https://www.facebook.com/photo.php?fbid=1149635423621519&set=a.720986619819737&type=3",
+                        "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/486411943_1171904171394644_2471211340896533615_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=7b2446&_nc_ohc=lf6WC2aiblsQ7kNvwE08p-C&_nc_oc=Adq7m4MSTAIMfAhZM2QFIjvLOmq99xgz1XGUeDFkte0xBXxYyaTrBLGqfA5EBSqxwQo&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=axlukNeSNzSduvNnfatTNQ&_nc_ss=7a3a8&oh=00_Af2uGk_a2j4TTSCpT6TfIwjV0AvXeBus8qlTK8I5wBaFXQ&oe=69E73C19",
+                        "height": 1506,
+                        "width": 1320,
+                        "accessibility_caption": "Không có mô tả ảnh.",
+                        "real_width": 1320,
+                        "real_height": 1506
+                    },
+                    {
+                        "id": "1149635560288172",
+                        "url": "https://www.facebook.com/photo.php?fbid=1149635560288172&set=a.720986619819737&type=3",
+                        "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/486716229_1171902261394835_2038982458193676000_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=7b2446&_nc_ohc=iVlZKo0eJzkQ7kNvwHhiHba&_nc_oc=AdrTew1x3CJjB943Zve4j0RJmUPMxAhTE_lGjAsEMg0B09iEMOx9B1VrLBkcbD_z22w&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=axlukNeSNzSduvNnfatTNQ&_nc_ss=7a3a8&oh=00_Af0TmolxVPKrta7lW1QLJ1I3cIQXJrxezPib4f8Mn4ZK7w&oe=69E7406A",
+                        "height": 682,
+                        "width": 1320,
+                        "accessibility_caption": "Không có mô tả ảnh.",
+                        "real_width": 1320,
+                        "real_height": 682
+                    },
+                    {
+                        "id": "1149635476954847",
+                        "url": "https://www.facebook.com/photo.php?fbid=1149635476954847&set=a.720986619819737&type=3",
+                        "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/486797117_1171905024727892_4264876641924336448_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7b2446&_nc_ohc=S2kzR5eIGIEQ7kNvwF9UtX1&_nc_oc=Adou03auAaorbU9yQUI8aVIbGaOIyHgSgx67Oug-nfuhjEltMnn6KgKcma4nQHxGsvk&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=axlukNeSNzSduvNnfatTNQ&_nc_ss=7a3a8&oh=00_Af3OECln7l5OIIwb4esaRQ152sATtt69tsDQ_Y92KaVqog&oe=69E7404F",
+                        "height": 873,
+                        "width": 1320,
+                        "accessibility_caption": "Không có mô tả ảnh.",
+                        "real_width": 1320,
+                        "real_height": 873
+                    },
+                    {
+                        "id": "1149635716954823",
+                        "url": "https://www.facebook.com/photo.php?fbid=1149635716954823&set=a.720986619819737&type=3",
+                        "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/486842298_1171904714727923_8387490000416465_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=7b2446&_nc_ohc=gpZtmWLf0ocQ7kNvwHs57UR&_nc_oc=Adr6juc2cI4NquwB494KyT6_utXA7VGPpTz4S8mz6xIfqHYK6N6Xs0bMl1Y4P9ru1PI&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=axlukNeSNzSduvNnfatTNQ&_nc_ss=7a3a8&oh=00_Af27lxjilh9mAZU7SpYcVbHbErZSCAu6YXQqGo8g708UcQ&oe=69E740BA",
+                        "height": 751,
+                        "width": 1320,
+                        "accessibility_caption": "Không có mô tả ảnh.",
+                        "real_width": 1320,
+                        "real_height": 751
+                    },
+                    {
+                        "id": "1149635673621494",
+                        "url": "https://www.facebook.com/photo.php?fbid=1149635673621494&set=a.720986619819737&type=3",
+                        "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/486757136_1171902254728169_5959405290009669621_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=7b2446&_nc_ohc=9vv9guiqt94Q7kNvwH5ojUW&_nc_oc=AdqClmhgkmFrSJSyEa-CqdjC3tYYbyMDDaGILzkeFXVpeHeMxn476JwJV0OWroupMaE&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=axlukNeSNzSduvNnfatTNQ&_nc_ss=7a3a8&oh=00_Af1TsNAMeaxJlDwmxE6sZ8BsQZ2dT1sJHxr8fLbXdihOxA&oe=69E71376",
+                        "height": 920,
+                        "width": 1320,
+                        "accessibility_caption": "Không có mô tả ảnh.",
+                        "real_width": 1320,
+                        "real_height": 920
+                    }
+                ],
+                "photo": null,
+                "video": null
+            },
+            "text": "TỰ HÀO VÌ TỪNG LÀ ĐỨA TRẺ ĐƯỢC HỌC NHỮNG TRANG SÁCH NÀY 💖\n\nSách Tiếng Việt có giá trị bởi nó nuôi dưỡng tâm hồn từng đứa trẻ. Tôi nhớ khi còn học tiểu học, mỗi lần đăng ký mua và được nhận sách giáo khoa để chuẩn bị lên lớp mới, bao giờ tôi cũng chọn lật giở, ngắm nghía cuốn Tiếng Việt đầu tiên. \n\nCảm giác háo hức không biết năm đó mình sẽ được học tác phẩm gì, nội dung ra sao, những hình vẽ minh hoạ thế nào, và cảm giác hít hà những trang sách mới. Các tranh vẽ trong sách giáo khoa xưa mỗi bức tranh có cái hồn của tác phẩm trong đó. Đọc tới bài nào đều sẽ hiểu được thông điệp câu chuyện qua bức vẽ. Nó mộc mạc nhưng sâu sắc ý vị, nó là cả một bầu trời tuổi thơ.\n\n#honghanoi #news",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [
+                "#honghanoi",
+                "#news"
+            ],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Hóng Hà Nội",
+                    "id": "100057252168269",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/sunnyvietnamgrouphhn",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1740398406000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

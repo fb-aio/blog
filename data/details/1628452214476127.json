@@ -1,0 +1,396 @@
+{
+    "result": {
+        "id": "UzpfSTE2Mjg0NTIyMTQ0NzYxMjc6Vks6MTYyODQ1MjIxNDQ3NjEyNw==",
+        "post_id": "1628452214476127",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1628452214476127/",
+        "media": {
+            "mediaset_token": "pcb.1628452214476127",
+            "subAttachments": [
+                {
+                    "id": "2830132097158372",
+                    "url": "https://www.facebook.com/photo.php?fbid=2830132097158372&set=gm.1628458941142121&type=3",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/503854778_2880430628795185_2750094314188438965_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=xuRq52xr3-8Q7kNvwHvfeXq&_nc_oc=AdqJGvwhaqF9DpUQk3-c4WtVGHOH2b9SOGP4CxWLJ4K7FbMa2dGPh6KJW90YviF1xkQ&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=keTxKTTtkL_E7CAJTbd45Q&_nc_ss=7a3a8&oh=00_Af3MqDMS4scK_WMZThYB4NWf9ITHp6Sgvzu8JOwCRrwrdw&oe=69E74291",
+                    "height": 792,
+                    "width": 1146,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản cho biết 'IT Ops can On-board new emp oyees employees and andprovisionaccounts provision accounts Sec Ops can Enrich security cident Enichsecurityincidentickes cidenttickets ckets Dev Ops can &Conertnaturallanguage ural anguage Convert commands into toAPIcalls calls Sales can Generatecustomer GeneratecustomerInsights ustomer nsights Generate romgroupedreviews --R AI Agent On 'Create User form submission Add tru ChazModel channel Memory Is Ismanager? ត្រូតម Anthropic Chat Model Postgres Chat Memory Update profile MicosoftE Entra Micosoft.EntralDJiraSoftware ID Jira Software'",
+                    "real_width": 1146,
+                    "real_height": 792
+                },
+                {
+                    "id": "2830142667157315",
+                    "url": "https://www.facebook.com/photo.php?fbid=2830142667157315&set=gm.1628458937808788&type=3",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/505098022_2880430452128536_6905151894634167018_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=7LFZK-Q6UVMQ7kNvwESkIg8&_nc_oc=AdrOXJJA2QLgDag9NFUDLDt2yvuviCmAEGhFlksJMWIh-C61ePyQ16HbUWLwHixyum8&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=keTxKTTtkL_E7CAJTbd45Q&_nc_ss=7a3a8&oh=00_Af1fypjyNcGslpFNmxH467zVGRfuwpHsa7O0Y8T2VHuoHA&oe=69E74177",
+                    "height": 784,
+                    "width": 1137,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1137,
+                    "real_height": 784
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Có ai dùng n8n chưa nhỉ 👀\n\nChỉ cần kéo thả, kết nối các \"block\" chức năng lại với nhau\n\nLà sẽ có nguyên 1 **workflow như ý** mà **không cần code**** **🤯\n\nMọi người nghĩ sao nếu **FB AIO**** **cũng có **workflow editor** như vậy. 😁 \n\nTại mình có rất nhiều api, nhưng mà làm giao diện cho từng chức năng cực quá.\n\nHay cứ để dạng block xong cho mọi người tự tạo workflow cho riêng mình nhỉ 🧐\n\nAi thích dơ tay nha 😀\n\n#fb_aio",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Có ai dùng n8n chưa nhỉ 👀"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Chỉ cần kéo thả, kết nối các \"block\" chức năng lại với nhau"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 14,
+                        "offset": 18
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 14,
+                        "offset": 18
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 14,
+                        "offset": 36
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 14,
+                        "offset": 36
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 1,
+                        "offset": 50
+                    }
+                ],
+                "text": "Là sẽ có nguyên 1 workflow như ý mà không cần code 🤯"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 6,
+                        "offset": 23
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 6,
+                        "offset": 23
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 1,
+                        "offset": 29
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 15,
+                        "offset": 38
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 15,
+                        "offset": 38
+                    }
+                ],
+                "text": "Mọi người nghĩ sao nếu FB AIO cũng có workflow editor như vậy. 😁 "
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 9,
+                        "offset": 16
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 13,
+                        "offset": 36
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 8,
+                        "offset": 69
+                    }
+                ],
+                "text": "Tại mình có rất nhiều api, nhưng mà làm giao diện cho từng chức năng cực quá."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 15,
+                        "offset": 40
+                    }
+                ],
+                "text": "Hay cứ để dạng block xong cho mọi người tự tạo workflow cho riêng mình nhỉ 🧐"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Ai thích dơ tay nha 😀"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fb_aio",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fb_aio",
+                            "__isNode": "Hashtag",
+                            "id": "8080904801977702"
+                        },
+                        "length": 7,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fb_aio"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 4,
+            "total_count": 7,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 32,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 24,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 5,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 3,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1745043448000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1628452214476127",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2830132097158372",
+                "2830142667157315"
+            ],
+            "photo_id": "2830132097158372",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1745043448,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1628452214476127"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=keTxKTTtkL_E7CAJTbd45Q&_nc_ss=7a3a8&oh=00_Af3GNVojaUBk6NjqrWakY-QRmdfS4CGFZ2jTKWLGl5OEEg&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

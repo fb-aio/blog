@@ -1,0 +1,233 @@
+{
+    "result": {
+        "id": "UzpfSTE2NzU0ODAyNTY0Mzk5ODk6Vks6MTY3NTQ4MDI1NjQzOTk4OQ==",
+        "post_id": "1675480256439989",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1675480256439989/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Mọi người cẩn thận check mail kỹ nè 🤐\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 1,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 7,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 6,
+                    "name": "Thích"
+                },
+                {
+                    "id": "908563459236466",
+                    "count": 1,
+                    "name": "Buồn"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1750993833000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1675480256439989",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1175368147961297",
+            "original_content_owner_id": "100064643681682",
+            "page_id": "912918568785331",
+            "story_location": 9,
+            "attached_story_type": "EntStatusCreationStory",
+            "page_insights": {
+                "100064643681682": {
+                    "page_id": "100064643681682",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100064643681682",
+                        "page_id_type": "page",
+                        "actor_id": "100064643681682",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1750600827,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1175368147961297"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1675480256439989",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100064643681682",
+                            "post_id": "1175368147961297",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1175368147961297",
+                        "sharedMediaID": "1675480256439989",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1750993833,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1675480256439989"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=-BU8WYuEPiH7y2YUjERZug&_nc_ss=7a3a8&oh=00_Af0rs_Cd7vxf-uWyf58XWHFvX8O9_DhZjgO3JQ6szQ2s_A&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA2NDY0MzY4MTY4MjoxMTc1MzY4MTQ3OTYxMjk3OjExNzUzNjgxNDc5NjEyOTc=",
+            "post_id": "1175368147961297",
+            "url": "https://www.facebook.com/thongtinchinhphu/posts/pfbid02uxXB1fMRADmhk5byDq85QTgiJDdYzAZ6t19qrmF63cTFRzDeC3NhpDQdUPjbm657l",
+            "media": {
+                "subAttachments": [],
+                "photo": null,
+                "video": null
+            },
+            "text": "🔥 XUẤT HIỆN CHIÊU TRÒ HACK FACEBOOK MỚI CỰC TINH VI\n\n---\n😈 📧 Theo đó, tội phạm mạng đã sử dụng phần mềm Google AppSheet không cần mã của Google – để gửi hàng loạt email lừa đảo.\n\nDo được gửi đi từ địa chỉ \"@appsheet.com\" của Google, những email này dễ dàng vượt qua các cơ chế kiểm tra uy tín tên miền và xác thực (như SPF, DKIM, DMARC) của Microsoft cũng như các Secure Email Gateways (SEG), khiến chúng xuất hiện như thư hợp pháp trong hộp thư đến của nạn nhân. \n\nMỗi email còn được tạo với một ID riêng biệt, gây khó khăn cho các hệ thống phát hiện truyền thống.\n\nNội dung của các email này giả mạo thông báo từ Facebook, thường viện cớ người dùng vi phạm quyền sở hữu trí tuệ và tài khoản sẽ bị xóa trong vòng 24 giờ. Để tránh bị khóa tài khoản, người dùng được yêu cầu nhấp vào nút \"Submit an Appeal\" (gửi đơn kháng nghị). \n\nKhi nhấp vào, nạn nhân sẽ bị dẫn đến một trang đích giả mạo thiết kế giống hệt trang đăng nhập của Facebook. \n\nĐiều đáng nói, trang giả mạo này lại được lưu trữ trên Vercel, một nền tảng uy tín, càng làm tăng độ tin cậy cho toàn bộ chiến dịch lừa đảo.\n\nTại đây, nếu người dùng nhập thông tin đăng nhập và mã xác thực hai yếu tố (2FA), toàn bộ dữ liệu này sẽ được gửi thẳng đến cho kẻ tấn công. \n\nChiêu trò còn tinh vi hơn khi lần đăng nhập đầu tiên trên trang giả mạo thường báo \"sai mật khẩu\" để nạn nhân nhập lại, nhằm xác nhận thông tin. \n\nNguy hiểm hơn, mã 2FA sau khi được cung cấp sẽ được tội phạm sử dụng ngay để chiếm đoạt mã token của phiên đăng nhập (session token) từ Facebook, cho phép chúng duy trì quyền truy cập tài khoản ngay cả khi nạn nhân đã đổi mật khẩu.\n\n---\n👮 Phòng ANM & PCTPSDCNC (Công an tỉnh Long An)",
+            "text_format": {
+                "preset_id": "303063890126415",
+                "background_color": "FFDC7A5A",
+                "background_gradient_color": "FFFF533E",
+                "background_image": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.10873-6/28218531_423109988121804_8616406932166541312_n.jpg?stp=dst-jpg_p235x350_tt6&_nc_cat=1&ccb=1-7&_nc_sid=4bb800&_nc_ohc=w18XHnh1CeIQ7kNvwGctG_t&_nc_oc=Adq0ofzAdseyO9Wl1NNQ5p6nzjZptqexAAckUXsySZMCiwcj3Q7FuF93wSasT7Xq1EY&_nc_zt=14&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=-BU8WYuEPiH7y2YUjERZug&_nc_ss=7a3a8&oh=00_Af1TZnpAmGemNAGRnwdhYvuW5d0MuU8ABZLqh5kKNmethQ&oe=69E723BE",
+                "portrait_background_image": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.10873-6/27808778_423110008121802_2693502483858194432_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=427b5c&_nc_ohc=UD49daWCEI8Q7kNvwH3ScJo&_nc_oc=AdquYhMrVhUogYGjud4qM6JviySj5IdJ6oUBscKk9EpQJjhriiODm4tc_jdUL_Gla3k&_nc_zt=14&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=-BU8WYuEPiH7y2YUjERZug&_nc_ss=7a3a8&oh=00_Af2vIPcl8FfeEqTWSLQ-FbUtA2uaHLGf-kq8K8hkqZ5MLQ&oe=69E72197",
+                "color": "FFFFFFFF",
+                "font_weight": "BOLD",
+                "font_style": "NORMAL",
+                "text_align": "CENTER"
+            },
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [
+                {
+                    "type": "ExternalUrl",
+                    "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBcYS8vYXBwc2hlZXQuY29tLzo6RGVmYXVsdDo6OjExNzUzNjgxNDc5NjEyOTc=",
+                    "name": "http://appsheet.com/",
+                    "url": "http://appsheet.com/",
+                    "length": 12,
+                    "offset": 207
+                }
+            ],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Thông tin Chính phủ",
+                    "id": "100064643681682",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/thongtinchinhphu",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1750600827000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

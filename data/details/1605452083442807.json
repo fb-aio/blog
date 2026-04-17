@@ -1,0 +1,210 @@
+{
+    "result": {
+        "id": "UzpfSTE2MDU0NTIwODM0NDI4MDc6Vks6MTYwNTQ1MjA4MzQ0MjgwNw==",
+        "post_id": "1605452083442807",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1605452083442807/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2795877460583836",
+                "url": "https://www.facebook.com/photo/?fbid=2795877460583836&set=gm.1605452083442807&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/504858568_2879872322184349_293734629899976116_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=4OYQqtEBAFcQ7kNvwG9cixk&_nc_oc=Ado6QPbBm0tqDYKT49pz9s2efBlGJ4x3U4QD_FqQMOEBLWHfAal4nqYd15CyLXLQzVg&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=vteQ67j1wXe6uriVroVuGA&_nc_ss=7a3a8&oh=00_Af0m0MMO781tyzh8MXTwGmos46dijHVp-v6mdb5K6dnkgQ&oe=69E78CB7",
+                "height": 121,
+                "width": 394,
+                "accessibility_caption": "Có thể là hình ảnh về con cù lần và văn bản cho biết 'TikTok Video Downloader 1.8 This extension contains malware. ID oacepljpkebcgcnmlepeofkhplkbi Inspect views No active views Details Remove'",
+                "accent_color": "FF3B3B3B",
+                "real_width": 394,
+                "real_height": 121
+            },
+            "video": null
+        },
+        "text": "Mấy extension xài **TẠM ĐƯỢC** giờ cũng ra đảo hết rồi 😅\n\nCòn mỗi **FB AIO** là xài NGON ở lại 👀😅\n\nCHẠY ĐƯỢC thôi chưa đủ, phải AN TOÀN nữa mới sống lâu 🌟\n\n#fb_aio",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 8,
+                        "offset": 18
+                    }
+                ],
+                "text": "Mấy extension xài TẠM ĐƯỢC giờ cũng ra đảo hết rồi 😅"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 6,
+                        "offset": 8
+                    }
+                ],
+                "text": "Còn mỗi FB AIO là xài NGON ở lại 👀😅"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fb_aio",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fb_aio",
+                            "__isNode": "Hashtag",
+                            "id": "8080904801977702"
+                        },
+                        "length": 7,
+                        "offset": 57
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "CHẠY ĐƯỢC thôi chưa đủ, phải AN TOÀN nữa mới sống lâu 🌟\n\n#fb_aio"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 6,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 17,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 14,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 2,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "478547315650144",
+                    "count": 1,
+                    "name": "Wow"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1742271994000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1605452083442807",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2795877460583836",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1742271994,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1605452083442807"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=vteQ67j1wXe6uriVroVuGA&_nc_ss=7a3a8&oh=00_Af1uoCxgj2lgfd3cIOthrSnc_ZlX3O4XPsbaBSA-Y24YbQ&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

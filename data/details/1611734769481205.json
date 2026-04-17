@@ -1,0 +1,157 @@
+{
+    "result": {
+        "id": "UzpfSTE2MTE3MzQ3Njk0ODEyMDU6Vks6MTYxMTczNDc2OTQ4MTIwNQ==",
+        "post_id": "1611734769481205",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1611734769481205/",
+        "media": {
+            "mediaset_token": "pcb.1611734769481205",
+            "subAttachments": [
+                {
+                    "id": "2805628042942111",
+                    "url": "https://www.facebook.com/photo.php?fbid=2805628042942111&set=gm.1611734772814538&type=3",
+                    "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/503972330_2880035752168006_2588570291939245772_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=0HDlCFCbHOAQ7kNvwEo1JAX&_nc_oc=AdrNWZezh3CjSAzi35_pAi2tvBfl_DJy2ADZXo8xVecvDkUJiDQ9ocleiLXo0DpxjYc&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=5pSN0zWRnYcoQ6bYU8faeQ&_nc_ss=7a3a8&oh=00_Af3lmgI3V3F5ce0OdZykLDVq_uJpxqI8RYxILgrG-C_6Nw&oe=69E73F89",
+                    "height": 2400,
+                    "width": 1080,
+                    "accessibility_caption": "Có thể là hình vẽ ngẫu hứng về ‎1 người và ‎văn bản cho biết '‎15:15:59 399 ខ 68% ChatGPT FB AIO Toolboxfi or naAe: Ay aur media social accounts ច្ Visit 4 Upvate2 Packed nsg features and nake ourlifee lifeess BULK FRIEND FRIEND REQUESTS BLOCKED LLOWING OTHER TILITIES dina nany rore lيniستات Create ad combine this model and product Here's a creative ad concept that combines the cute animated boy model from the image with the AIO tool product description: FB AIO -Social Media Just Got Smarter! I[visual: Animated hoy at table ying with c looking curious and focuocu, cozy morning + Nhắn tin cho ChatGPT‎'‎‎",
+                    "real_width": 1080,
+                    "real_height": 2400
+                },
+                {
+                    "id": "2805628086275440",
+                    "url": "https://www.facebook.com/photo.php?fbid=2805628086275440&set=gm.1611734776147871&type=3",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/504428994_2880035762168005_1153880104578145318_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=k1WzRdlcbNgQ7kNvwGy7gyB&_nc_oc=AdqYraiVEYq_KWvuas-y3hZgV2NlamhQj8MSBbbBzTkX8dhbURUJ2elgZureAZxdZ0M&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=5pSN0zWRnYcoQ6bYU8faeQ&_nc_ss=7a3a8&oh=00_Af0ViKznU56aYMqjr4mgmplITWGvCO-Jes--FpgoQ9aQJw&oe=69E7213A",
+                    "height": 1536,
+                    "width": 1024,
+                    "accessibility_caption": "Có thể là hình vẽ ngẫu hứng về 1 người và văn bản cho biết '2 FB FBAIO-Social AIO Social Media Just JustGotSmarter! Got Smarter! Cgid F FB AIO All in one Toolxor for manage your media social Upvote accounts. BULK DOWIOILOADER n.C Auto MESSAGES & FRIEND REQUESTS STORY & POST manager BLOCKED checker More UTILITIES! Let your inner curious kid explore social media smarter with FB AIO! Visit Now'",
+                    "real_width": 1024,
+                    "real_height": 1536
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Wow, trình tạo ảnh của Chatgpt đã mạnh hơn nhiều rồi mọi người ơi 🤯",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Wow, trình tạo ảnh của Chatgpt đã mạnh hơn nhiều rồi mọi người ơi 🤯"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 6,
+            "total_count": 13,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 12,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 10,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 2,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1743063443000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1611734769481205",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2805628042942111",
+                "2805628086275440"
+            ],
+            "photo_id": "2805628042942111",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1743063443,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1611734769481205"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=5pSN0zWRnYcoQ6bYU8faeQ&_nc_ss=7a3a8&oh=00_Af0mxSewc6Meo7sdur4FvIpJ175kaFno6llEichJiEgYaA&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

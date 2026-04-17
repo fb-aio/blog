@@ -1,0 +1,117 @@
+{
+    "result": {
+        "id": "UzpfSTE1NzY0ODA5Nzk2NzMyNTE6Vks6MTU3NjQ4MDk3OTY3MzI1MQ==",
+        "post_id": "1576480979673251",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1576480979673251/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2757116564459926",
+                "url": "https://youtube.com/watch?v=1X3dV3D5EJg",
+                "uri": "https://external.fsgn2-9.fna.fbcdn.net/emg1/v/t13/5537738584595849216?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F1X3dV3D5EJg%2Fmaxresdefault.jpg&fb_obo=1&utld=ytimg.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p1000x522_q75_tt6&_nc_gid=4xi9gDoQ3Mj2dly4nvtaNQ&_nc_oc=AdoVjbisYsaLeDD0cNua_IvwUyH0l4Od2oEIPeLFdTqvpstJseJOSNjOl5PG_1eCW54&ccb=13-1&oh=06_Q3--Adw2e4efQZi7ckBnjmiAjJkRDdSyDWuT0jdk7BenLBdd&oe=69E393F6&_nc_sid=c97757",
+                "height": 522,
+                "width": 1000,
+                "accessibility_caption": "Grafana is the goat... Let's deploy the LGTM stack"
+            },
+            "video": null
+        },
+        "text": "LGTM Stack 👨‍💻\n\nỞ những Công ty Công nghệ lớn, nơi có hàng triệu người dùng mỗi ngày (chẳng hạn như MoMo 👀)\n\nViệc giữ cho sản phẩm chạy tốt, chạy đúng trên phía người dùng là vô cùng quan trọng. 😬\n\nNgoài 1 đội ngũ Tester / Automation / QC (quality control) lớn để kiểm thử mọi trường hợp trước khi lên production (prod). 👨‍💻\n\nThì việc theo dõi lỗi xuất hiện trên prod/server cũng rất quan trọng, để có thể sửa lỗi kịp thời. 🥶\n\nVà tất nhiên công ty càng lớn thì càng phải tích hợp nhiều công nghệ tự động hóa 😎 trong đó chắc nổi tiếng nhất là LGTM (Loki-Grafana-Tempo-Metric) 🤖\n\nNghe tưởng khó nhằn nhưng video này giải thích toàn bộ cho bạn trong vòng 1 phút 🥴 kèm theo vài phút code demo chạy trực tiếp luôn 💨\n\nXem để khi nào đi làm công nghệ thông tin không bị bỡ ngỡ nè 😁\n\n#fb_aio",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 11,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 9,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 2,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 5,
+        "created_time": 1738505468000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1576480979673251",
+            "content_owner_id_new": "100004848287494",
+            "story_location": 9,
+            "story_attachment_style": "share",
+            "ent_attachement_type": "ExternalShareAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1576480979673251",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1738505468,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1576480979673251"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "url_id": "28942536088663499",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=4xi9gDoQ3Mj2dly4nvtaNQ&_nc_ss=7a3a8&oh=00_Af07g-6-2Ppf34GtXWE8Ee3eHSplnwad89HxBOxs-fek5w&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "result": {
+        "id": "UzpfSTE1OTIxMDA4MTgxMTEyNjc6Vks6MTU5MjEwMDgxODExMTI2Nw==",
+        "post_id": "1592100818111267",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1592100818111267/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "122102683514782169",
+                "url": "https://www.facebook.com/photo/?fbid=122102683514782169&set=gm.1592100818111267&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/480698534_122102683520782169_7169773308103715910_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=moffypaK4gEQ7kNvwE3ZZ_w&_nc_oc=AdrzRjLaHxQh4jYQTck9ytN3HpSNJia8kLhY95FEt877hRmdeVwE9742xBEHIuaLNj4&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=bVTijZoVNhM1GrYzIyavSg&_nc_ss=7a3a8&oh=00_Af0T6SMrANy8WyJKcb8TS4Pscz4-Rmff9-CM96xe1J9IGw&oe=69E76238",
+                "height": 720,
+                "width": 720,
+                "accessibility_caption": "Không có mô tả ảnh.",
+                "accent_color": "FFFFFFFF",
+                "real_width": 720,
+                "real_height": 720
+            },
+            "video": null
+        },
+        "text": "Mọi người cho mình hỏi ngu với hix. Chuyện là mình cũng tính nghịch gọi API về web nghịch. Nhưng như ChatGPT, copilot... Thì vào mục API có Key rồi nhưng hình như ko dùng dùng được ha (mục đích test, dùng mô hình 3.5 free cũng được) nhưng hình như kể cả thế thì cũng ko dùng dc, phải add visa vào đúng hk mn. Chỉ mỗi Gemini get key là dùng được luôn..\n- Thêm 1 thắc mắc nữa là đó h mình khum biết dùng visa, chỉ dùng banking bth thôi. Thấy có mảng visa ảo để thanh toán quốc tế online, nó là dạng mình tạo đăng ký thẻ ảo ở dịch vụ rồi nạp tiền vào, rồi dùng mã dãy số thẻ + CCV (hay CVV gì đó) là dùng hả mn. Có dịcb vụ nào đơn giản dễ dùng hông chỉ mình với.\nĐập đầu tạ ơn ae giải đáp thắc mắc.",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "61573465088178",
+                "name": "nk nguyen",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/hieu.no.te.chin"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 1,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 2,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 2,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1740563988000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1592100818111267",
+            "content_owner_id_new": "61573465088178",
+            "photo_id": "122102683514782169",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "61573465088178",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1740559074,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1592100818111267"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "61573465088178",
+            "actrs": "61573465088178",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=bVTijZoVNhM1GrYzIyavSg&_nc_ss=7a3a8&oh=00_Af2YwsuKMFVWwBqSsBBUoOBcwoxECIw18sYMiEEsE47QwQ&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

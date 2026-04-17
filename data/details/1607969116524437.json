@@ -1,0 +1,281 @@
+{
+    "result": {
+        "id": "UzpfSTE2MDc5NjkxMTY1MjQ0Mzc6Vks6MTYwNzk2OTExNjUyNDQzNw==",
+        "post_id": "1607969116524437",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1607969116524437/",
+        "media": {
+            "mediaset_token": "pcb.1607969116524437",
+            "subAttachments": [
+                {
+                    "id": "2799728176865431",
+                    "url": "https://www.facebook.com/photo.php?fbid=2799728176865431&set=gm.1607969113191104&type=3",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/504920542_2879880755516839_9217819990389678475_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=5C0UPP5dQG8Q7kNvwFGmEUm&_nc_oc=AdoHTzrICs9QMFar32sk5eIUQDuwKmNBN_d7kC9CBkZzUElGbxrdcmmWIS-gpkQHHTI&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=BnxK6W-jwYF4-6QjIfaJzA&_nc_ss=7a3a8&oh=00_Af0y-whWjb3g_duuE-jIE6kTVZBHLb8ox-vqrqx8IqKoMA&oe=69E721B6",
+                    "height": 900,
+                    "width": 1017,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1017,
+                    "real_height": 900
+                },
+                {
+                    "id": "2799729096865339",
+                    "url": "https://www.facebook.com/photo.php?fbid=2799729096865339&set=gm.1607969109857771&type=3",
+                    "uri": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/504812654_2879880642183517_9046026182969900422_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=XD-DPvT4TKUQ7kNvwHL0CVX&_nc_oc=AdqJ_HopdweRWeNjXzMO7MvSn2X6Un42f6L9ys33057DATaYjNbpHEMLChfQFfLS8p0&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=BnxK6W-jwYF4-6QjIfaJzA&_nc_ss=7a3a8&oh=00_Af2ki87uu9CGTG4WdUxE3w5fUjCH9_pyNhLNyEgsJdidzQ&oe=69E7350E",
+                    "height": 753,
+                    "width": 580,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 580,
+                    "real_height": 753
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Tìm anime - Máy tìm kiếm 🔎\n\nChức năng này có bữa giờ rồi, nhưng mn có biết hết những công cụ tìm kiếm chưa:\n\nDứoi đây là chức năng tìm số tập của anime bất kỳ, chỉ cần dựa vào 1 ảnh chụp 👀\n\nCòn nhiều công cụ lắm mn vô thử xem 🤣\n\n#fb_aio",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Tìm anime - Máy tìm kiếm 🔎"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 16,
+                        "offset": 57
+                    }
+                ],
+                "text": "Chức năng này có bữa giờ rồi, nhưng mn có biết hết những công cụ tìm kiếm chưa:"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 10,
+                        "offset": 22
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 12,
+                        "offset": 37
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 10,
+                        "offset": 67
+                    }
+                ],
+                "text": "Dứoi đây là chức năng tìm số tập của anime bất kỳ, chỉ cần dựa vào 1 ảnh chụp 👀"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Còn nhiều công cụ lắm mn vô thử xem 🤣"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fb_aio",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fb_aio",
+                            "__isNode": "Hashtag",
+                            "id": "8080904801977702"
+                        },
+                        "length": 7,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fb_aio"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 10,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 9,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1742585680000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1607969116524437",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2799728176865431",
+                "2799729096865339"
+            ],
+            "photo_id": "2799728176865431",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1742585680,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1607969116524437"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=BnxK6W-jwYF4-6QjIfaJzA&_nc_ss=7a3a8&oh=00_Af2eVvHtQpEu7y1FHrfP9rgTxb735CC0kOloh2ng7hHkUA&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

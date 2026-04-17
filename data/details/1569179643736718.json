@@ -1,0 +1,901 @@
+{
+    "result": {
+        "id": "UzpfSTE1NjkxNzk2NDM3MzY3MTg6Vks6MTU2OTE3OTY0MzczNjcxOA==",
+        "post_id": "1569179643736718",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1569179643736718/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Mới tìm được 1 group khá hay cho những bác đang muốn startup hoặc indie 🌟",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 3,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 3,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 2,
+        "created_time": 1737537815000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1569179643736718",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1590968771690689",
+            "original_content_owner_id": 1010276030,
+            "page_id": "218322898024376",
+            "photo_id": "10228920898899799",
+            "story_location": 9,
+            "attached_story_attachment_style": "album",
+            "attached_story_type": "EntGroupMallPostCreationStory",
+            "attached_story_attachment_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1010276030": {
+                    "page_id": 1010276030,
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": 1010276030,
+                        "page_id_type": "page",
+                        "actor_id": 1010276030,
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntGroupMallPostCreationStory",
+                        "post_context": {
+                            "object_fbtype": 657,
+                            "publish_time": 1713758600,
+                            "story_name": "EntGroupMallPostCreationStory",
+                            "story_fbid": [
+                                "1590968771690689"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1569179643736718",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": 1010276030,
+                            "post_id": "1590968771690689",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1590968771690689",
+                        "sharedMediaID": "1569179643736718",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1737537815,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1569179643736718"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                },
+                "1569314343856132": {
+                    "page_id": "1569314343856132",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "1569314343856132",
+                        "page_id_type": "group",
+                        "actor_id": 1010276030,
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntGroupMallPostCreationStory",
+                        "post_context": {
+                            "object_fbtype": 657,
+                            "publish_time": 1713758600,
+                            "story_name": "EntGroupMallPostCreationStory",
+                            "story_fbid": [
+                                "1590968771690689"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1569179643736718",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=g24mIbVffgDQKqchmTtZgQ&_nc_ss=7a3a8&oh=00_Af3PlORQ4EfHFO-3cB6MozPyXw_byXITBS_SOklnvJKlMQ&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMTAyNzYwMzA6Vks6MTU5MDk2ODc3MTY5MDY4OQ==",
+            "post_id": "1590968771690689",
+            "url": "https://www.facebook.com/groups/indiehackervn/permalink/1590968771690689/",
+            "media": {
+                "mediaset_token": "pcb.1590968771690689",
+                "subAttachments": [
+                    {
+                        "id": "10228920898899799",
+                        "url": "https://www.facebook.com/photo.php?fbid=10228920898899799&set=gm.1590968775024022&type=3",
+                        "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/505701100_10233227435880532_3867094285073045286_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=kTjGgVlTgYQQ7kNvwFSZLM9&_nc_oc=Adq5E_YKxtkeNWVR0GwpuIxfegx2xiqfOuz7L3aPT4DxzeyaOv7sdOsDMEQ1W7xhd8Q&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=g24mIbVffgDQKqchmTtZgQ&_nc_ss=7a3a8&oh=00_Af3QyldAU-8fOAo7wN7zmKz3pYT-L954MU9FcmL3APja_w&oe=69E73EAC",
+                        "height": 1080,
+                        "width": 1080,
+                        "accessibility_caption": "May be a graphic of text that says \"#buildinpublicvn indie maker story over engineer -ing The root of all evils! bim fb@mrgoonie goonie\"",
+                        "real_width": 1080,
+                        "real_height": 1080
+                    },
+                    {
+                        "id": "10228920899059803",
+                        "url": "https://www.facebook.com/photo.php?fbid=10228920899059803&set=gm.1590968768357356&type=3",
+                        "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/505775568_10233227436000535_3791551094282011440_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e06c5d&_nc_aid=0&_nc_ohc=eJpUdcAaojkQ7kNvwGO1MMG&_nc_oc=AdrnTjQFvyUUNOXdaTszTCK2cR-4jcveYVvi6qKSBF3iN8sQLRTQMEWiVt0UrCt_GaA&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=g24mIbVffgDQKqchmTtZgQ&_nc_ss=7a3a8&oh=00_Af0HUuinNZAFXzWz5FUU6BeToz8iRM-fk0vLE-Qi-CZk6Q&oe=69E73B38",
+                        "height": 1080,
+                        "width": 1080,
+                        "accessibility_caption": "May be an image of 1 person, waffle maker and text that says \"microservices serverless Multi AZ auto scaling PEBULIS COCOP PEBBLE YA YOUR APP WITH O USERS\"",
+                        "real_width": 1080,
+                        "real_height": 1080
+                    },
+                    {
+                        "id": "10228920898939800",
+                        "url": "https://www.facebook.com/photo.php?fbid=10228920898939800&set=gm.1590968778357355&type=3",
+                        "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/505694715_10233227433240466_8059071454595338548_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=q-5qDffHQ8QQ7kNvwFbymxx&_nc_oc=Adr4oJaI99h-tOZWYGJ7zEMwoM0rbP9vh_QYGes0Oq657_IVWbTld7bnydEleb69X9s&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=g24mIbVffgDQKqchmTtZgQ&_nc_ss=7a3a8&oh=00_Af0LPaAJoo-974FBtdeq6txMXzNjtxsg2MVyNDmqHONBtw&oe=69E72D56",
+                        "height": 1975,
+                        "width": 1290,
+                        "accessibility_caption": "May be an image of text that says \"@levelsio @levelsio What's the SQLite strategy for when databases get too big? Photo Al's photos.db is 35.2GB with 7,270,478 photos in it now (just metadata, pics are stored on R2) Should I make a script that empties older photos and put them in a photos_archive.db and keep the photos.db fast? zsh ncdu 1.12 Use the arrow keys to -/srv/http/photoai.com/data com/ data na 35.2 GiB [##########] photos. db 11:52 PM 6/1/24 From Earth 756K Views 35 Reposts 34 Quotes 1K Likes 738 Bookmarks\"",
+                        "real_width": 1290,
+                        "real_height": 1975
+                    },
+                    {
+                        "id": "10228920899379811",
+                        "url": "https://www.facebook.com/photo.php?fbid=10228920899379811&set=gm.1590968781690688&type=3",
+                        "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/506011893_10233227436400545_3030012181720656840_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=F0ivrcQXWOsQ7kNvwFLQ_1k&_nc_oc=AdrhHp8OAVgyy54JYgtm8nJgx59cBfFTk3CF6sNiP5XlXtdFxTXssJRxc2a-cIZNJa8&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=g24mIbVffgDQKqchmTtZgQ&_nc_ss=7a3a8&oh=00_Af17w2seN-DmtC4D4oHHzf8vP1bEwbu_PPlz96y0ilaQMA&oe=69E74471",
+                        "height": 578,
+                        "width": 1290,
+                        "accessibility_caption": "May be an image of 1 person and text that says \"Tony Dinh @tdinh_me My secret to shipping fast: care less about the technology and care more about the problem and the customers.\"",
+                        "real_width": 1290,
+                        "real_height": 578
+                    },
+                    {
+                        "id": "10228920899779821",
+                        "url": "https://www.facebook.com/photo.php?fbid=10228920899779821&set=gm.1590968765024023&type=3",
+                        "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/505891427_10233227435680527_269719222746358620_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=VNnWrvDgafwQ7kNvwFRiWnT&_nc_oc=AdoF81xWexxgFrEBvnlBU2T6lC0Ap8fIkez6y6GEzQuz15v2rTF7ob-509gaWKm7bVo&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=g24mIbVffgDQKqchmTtZgQ&_nc_ss=7a3a8&oh=00_Af1HZ7tNkOqT9Ia36LwcgARtl8FkUPhZUhtDaqfy9P5DOQ&oe=69E733AC",
+                        "height": 1702,
+                        "width": 1290,
+                        "accessibility_caption": "May be an image of text that says \"@levelsio @levelsio 8/8/23 It ironically gives me so much trust in @X that they don't over engineer emails like this They don't even number_format() the $306.6470857 to $306.65 .65 I'm not joking, think that's a positive signal, they're shipping fast and not caring about small details like this Subject: Date: Size: You got paid! Monday, August 07, 2023 22:04 16 KB χ Hey @levelsio, $306 $306.6470 6470857 has been deposited into your account from X Ads Revenue Sharing. Thank you for creating on X. X Monetization 186 I 178 3.2 ili 649K ↑\"",
+                        "real_width": 1290,
+                        "real_height": 1702
+                    }
+                ],
+                "photo": null,
+                "video": null
+            },
+            "text": "# 💣** OVER ENGINEERING - “Gốc rễ của mọi tội lỗi” **😆\n\nNay ngồi cafe sáng với Nguyen Hoang Du Long, ông bạn “song sinh” từ thời cởi truồng tắm mưa (sinh cùng ngày cùng tháng cùng năm mà còn cùng phòng bệnh viện 😆), làm cũng chung ngành nhưng cuộc đời xô đẩy đi những ngã rẽ khác nhau. Bàn đủ chuyện trên trời dưới biển, thì gặp chủ đề này khá hay: **“Over engineering”**\n\nQuá nhiều kỹ thuật phức tạp, hay còn gọi là \"over-engineering\", là gốc rễ của mọi điều “tội lỗi” trong phát triển phần mềm. Thay vì sử dụng hàng loạt công nghệ mới, chúng ta nên tập trung vào giải pháp đơn giản nhất có thể để giải quyết vấn đề. Khi làm như vậy, năng suất và khả năng \"giao hàng sản phẩm\" (product shipping) của bạn sẽ tăng lên đáng kể.\n\nCon nhớ **@levelsio** chứ? Một trong những sản phẩm mang về cho ổng doanh thu $54K mỗi tháng - PhotoAI.com - có lượng traffic và dữ liệu đọc ghi liên tục cao ngất ngưỡng mỗi ngày, được ổng code bằng PHP thuần và… **SQLite** cho database. Tin được không? 🤯\n## **🥸 Cái bẫy của sự hoàn hảo**\n\nKhi bạn bắt đầu đi làm, bạn luôn được yêu cầu phải làm mọi thứ tốt nhất có thể & đúng theo quy trình. Bạn tham gia vào những dự án lớn nhỏ khác nhau và học được nhiều công nghệ mới, kiến trúc nâng cao, tiêu chuẩn bảo mật,…\n\nĐiều này là tốt, nhưng vô tình lại trở thành điều cản trở khi bạn làm sản phẩm cho chính mình.\n\nĐể ý xem, lần cuối bạn làm cho mình một chiếc web portfolio mất bao lâu? Lâu, đúng chứ? Bạn tham vọng muốn đem đến những thứ hoàn hảo nhất cho sản phẩm của chính mình, do đó bạn luôn cảm thấy chưa đủ, chưa sẵn sàng, bạn tìm cách trì hoãn việc ra mắt với những câu hỏi *“nếu… lỡ… thì… một chút nữa thôi…”*\n\nNghe này, hầu hết sản phẩm của bạn sẽ chẳng thể đạt đến lượng traffic hàng trăm ngay sau khi launch đâu (chứ đừng nói hàng nghìn hay hàng trăm nghìn).\n\n*Bạn đang gi*t ch*t đứa con tinh thần của mình ngay từ khi nó chưa đc sinh ra đấy!*\n## **🧘 “Tôi phải muốn cái mọi người muốn, ko phải cái tôi muốn”**\n\nTôi đã từng mất hơn nửa năm để phát triển một dự án mà tôi tin rằng *“Wow, đây sẽ là một sự đột phá trên thị trường, mọi người chắc chắn sẽ thích nó! Tôi sẽ giàu to chắc cú luôn!”*\n> **Kết quả:** 10 người dùng, $0 profit.\n\nDẹp cái tôi của bạn sang một bên đi, và tạo ra sản phẩm có giá trị cho mọi người, cái mọi người cần!\n\nVậy thì làm sao tôi biết cái mọi người đang muốn?\n## **💡 Validate ý tưởng trước!**\n\nHầu hết mọi người đều ngại chia sẻ ý tưởng của mình trước khi thực sự bắt tay vào tạo ra nó.\n\nLý do?\n* Sợ người khác copy mất ý tưởng của mình vào tạo ra sản phẩm trước bạn\n* Sợ người khác đánh giá hay chê bai ý tưởng\n* Cảm thấy ý tưởng chưa đủ thuyết phục\n\nVân vân và mây mây.\n\nVà cũng như tất cả những nỗi sợ khác, đây cũng chỉ là trạng thái áp lực tâm lý mà chính bạn tự tạo ra cho mình mà thôi.\n\n**🧠 Thử nghĩ như thế này xem sao:**\n* Có người copy? Tốt. Chứng tỏ ý tưởng của bạn hay. Họ sẽ chẳng yêu ý tưởng của bạn như chính bạn đâu, chỉ có bạn mới tạo ra nhiều values từ chính cái core idea này.\n* Có người đánh giá? Tốt. Bạn sẽ biết được mình cần phải cải thiện điều gì. Đối mặt với nó đi.\n* Có người chê? Tốt. Bạn ko cần tốn hàng tháng trời tạo ra 1 sản phẩm ko ai muốn dùng.\n\nOk, bạn thấy đấy, việc này cũng giống như việc trúng số vậy, bạn cần phải mua vé số cái đã, việc mua vé số ***không đảm bảo rằng bạn sẽ trúng***, nhưng không mua mà cứ đòi trúng thì đúng là viễn vông rồi.\n> *\"Done is better than perfect\" - không biết ai nói câu này nữa, nhưng mà nó hay vl *😆\n## **🚀 IT’S ALL ABOUT SHIPPING, FAST, FASTER, FASTEST!**\n\nTrung bình một indie maker tạo ra 5-20 sản phẩm / năm (bạn ko nghe nhầm đâu), và thường thì chỉ có 2-3 trong số đó tạo ra doanh thu.\n\nQuay lại câu chuyện mua vé số, việc này cũng y như vậy, khi bạn mua nhiều vé số, khả năng trúng của bạn sẽ tăng lên. Chỉ khác với vé số rằng tỷ lệ “trúng” của SaaS cao hơn đáng kể!\n\nThông thường, mọi việc khá khó khăn khi bạn mới bắt đầu, nhưng bạn sẽ sớm quen với việc đó, bạn sẽ học hỏi & cải thiện bản thân mình qua từng dự án. Tùy vào “cơ địa”, sớm muộn bạn cũng sẽ tìm được những khách hàng đầu tiên của mình thôi.\n\n🔥 Điều quan trọng mà bạn cần “luyện” cho mình: **KỶ LUẬT, NHẤT QUÁN & KIÊN TRÌ **(lặp lại)\n\n---\n\n*Chúc mọi người có một tuần làm việc thật hiệu quả & nhanh chóng \"ship\" sản phẩm của mình đến cộng đồng!*\n\n#buildinpublicvn #indiehackervn",
+            "text_format": {},
+            "rich_message": [
+                {
+                    "__typename": "ComposedHeaderOneBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                    "block_type": "HEADER_ONE",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 45,
+                            "offset": 1
+                        }
+                    ],
+                    "text": "💣 OVER ENGINEERING - “Gốc rễ của mọi tội lỗi” 😆"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [
+                        {
+                            "entity_type": "MENTION",
+                            "entity": {
+                                "__typename": "User",
+                                "__isEntity": "User",
+                                "__isActor": "User",
+                                "id": "1537476251",
+                                "url": "https://www.facebook.com/olragon",
+                                "profile_url": "https://www.facebook.com/olragon",
+                                "short_name": "Long",
+                                "work_info": null,
+                                "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                    "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                                },
+                                "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                    "__dr": "ProfileGeminiWeakReferenceLink.react"
+                                },
+                                "work_foreign_entity_info": null,
+                                "is_verified": false,
+                                "mobileUrl": "https://m.facebook.com/olragon/",
+                                "__isNode": "User"
+                            },
+                            "length": 20,
+                            "offset": 23
+                        }
+                    ],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 18,
+                            "offset": 293
+                        }
+                    ],
+                    "text": "Nay ngồi cafe sáng với Nguyen Hoang Du Long, ông bạn “song sinh” từ thời cởi truồng tắm mưa (sinh cùng ngày cùng tháng cùng năm mà còn cùng phòng bệnh viện 😆), làm cũng chung ngành nhưng cuộc đời xô đẩy đi những ngã rẽ khác nhau. Bàn đủ chuyện trên trời dưới biển, thì gặp chủ đề này khá hay: “Over engineering”"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Quá nhiều kỹ thuật phức tạp, hay còn gọi là \"over-engineering\", là gốc rễ của mọi điều “tội lỗi” trong phát triển phần mềm. Thay vì sử dụng hàng loạt công nghệ mới, chúng ta nên tập trung vào giải pháp đơn giản nhất có thể để giải quyết vấn đề. Khi làm như vậy, năng suất và khả năng \"giao hàng sản phẩm\" (product shipping) của bạn sẽ tăng lên đáng kể."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 9,
+                            "offset": 8
+                        },
+                        {
+                            "inline_style": "BOLD",
+                            "length": 6,
+                            "offset": 209
+                        }
+                    ],
+                    "text": "Con nhớ @levelsio chứ? Một trong những sản phẩm mang về cho ổng doanh thu $54K mỗi tháng - PhotoAI.com - có lượng traffic và dữ liệu đọc ghi liên tục cao ngất ngưỡng mỗi ngày, được ổng code bằng PHP thuần và… SQLite cho database. Tin được không? 🤯"
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 25,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "🥸 Cái bẫy của sự hoàn hảo"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Khi bạn bắt đầu đi làm, bạn luôn được yêu cầu phải làm mọi thứ tốt nhất có thể & đúng theo quy trình. Bạn tham gia vào những dự án lớn nhỏ khác nhau và học được nhiều công nghệ mới, kiến trúc nâng cao, tiêu chuẩn bảo mật,…"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Điều này là tốt, nhưng vô tình lại trở thành điều cản trở khi bạn làm sản phẩm cho chính mình."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "ITALIC",
+                            "length": 34,
+                            "offset": 268
+                        }
+                    ],
+                    "text": "Để ý xem, lần cuối bạn làm cho mình một chiếc web portfolio mất bao lâu? Lâu, đúng chứ? Bạn tham vọng muốn đem đến những thứ hoàn hảo nhất cho sản phẩm của chính mình, do đó bạn luôn cảm thấy chưa đủ, chưa sẵn sàng, bạn tìm cách trì hoãn việc ra mắt với những câu hỏi “nếu… lỡ… thì… một chút nữa thôi…”"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Nghe này, hầu hết sản phẩm của bạn sẽ chẳng thể đạt đến lượng traffic hàng trăm ngay sau khi launch đâu (chứ đừng nói hàng nghìn hay hàng trăm nghìn)."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "ITALIC",
+                            "length": 81,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Bạn đang gi*t ch*t đứa con tinh thần của mình ngay từ khi nó chưa đc sinh ra đấy!"
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 58,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "🧘 “Tôi phải muốn cái mọi người muốn, ko phải cái tôi muốn”"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "ITALIC",
+                            "length": 110,
+                            "offset": 68
+                        }
+                    ],
+                    "text": "Tôi đã từng mất hơn nửa năm để phát triển một dự án mà tôi tin rằng “Wow, đây sẽ là một sự đột phá trên thị trường, mọi người chắc chắn sẽ thích nó! Tôi sẽ giàu to chắc cú luôn!”"
+                },
+                {
+                    "__typename": "ComposedBlockquoteBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                    "block_type": "BLOCKQUOTE",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 8,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Kết quả: 10 người dùng, $0 profit."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Dẹp cái tôi của bạn sang một bên đi, và tạo ra sản phẩm có giá trị cho mọi người, cái mọi người cần!"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Vậy thì làm sao tôi biết cái mọi người đang muốn?"
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 25,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "💡 Validate ý tưởng trước!"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Hầu hết mọi người đều ngại chia sẻ ý tưởng của mình trước khi thực sự bắt tay vào tạo ra nó."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Lý do?"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Sợ người khác copy mất ý tưởng của mình vào tạo ra sản phẩm trước bạn"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Sợ người khác đánh giá hay chê bai ý tưởng"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Cảm thấy ý tưởng chưa đủ thuyết phục"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Vân vân và mây mây."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Và cũng như tất cả những nỗi sợ khác, đây cũng chỉ là trạng thái áp lực tâm lý mà chính bạn tự tạo ra cho mình mà thôi."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 31,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "🧠 Thử nghĩ như thế này xem sao:"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Có người copy? Tốt. Chứng tỏ ý tưởng của bạn hay. Họ sẽ chẳng yêu ý tưởng của bạn như chính bạn đâu, chỉ có bạn mới tạo ra nhiều values từ chính cái core idea này."
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Có người đánh giá? Tốt. Bạn sẽ biết được mình cần phải cải thiện điều gì. Đối mặt với nó đi."
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Có người chê? Tốt. Bạn ko cần tốn hàng tháng trời tạo ra 1 sản phẩm ko ai muốn dùng."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 31,
+                            "offset": 107
+                        },
+                        {
+                            "inline_style": "ITALIC",
+                            "length": 31,
+                            "offset": 107
+                        }
+                    ],
+                    "text": "Ok, bạn thấy đấy, việc này cũng giống như việc trúng số vậy, bạn cần phải mua vé số cái đã, việc mua vé số không đảm bảo rằng bạn sẽ trúng, nhưng không mua mà cứ đòi trúng thì đúng là viễn vông rồi."
+                },
+                {
+                    "__typename": "ComposedBlockquoteBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                    "block_type": "BLOCKQUOTE",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "ITALIC",
+                            "length": 82,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "\"Done is better than perfect\" - không biết ai nói câu này nữa, nhưng mà nó hay vl 😆"
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 49,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "🚀 IT’S ALL ABOUT SHIPPING, FAST, FASTER, FASTEST!"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Trung bình một indie maker tạo ra 5-20 sản phẩm / năm (bạn ko nghe nhầm đâu), và thường thì chỉ có 2-3 trong số đó tạo ra doanh thu."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Quay lại câu chuyện mua vé số, việc này cũng y như vậy, khi bạn mua nhiều vé số, khả năng trúng của bạn sẽ tăng lên. Chỉ khác với vé số rằng tỷ lệ “trúng” của SaaS cao hơn đáng kể!"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Thông thường, mọi việc khá khó khăn khi bạn mới bắt đầu, nhưng bạn sẽ sớm quen với việc đó, bạn sẽ học hỏi & cải thiện bản thân mình qua từng dự án. Tùy vào “cơ địa”, sớm muộn bạn cũng sẽ tìm được những khách hàng đầu tiên của mình thôi."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 30,
+                            "offset": 47
+                        }
+                    ],
+                    "text": "🔥 Điều quan trọng mà bạn cần “luyện” cho mình: KỶ LUẬT, NHẤT QUÁN & KIÊN TRÌ (lặp lại)"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "---"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "ITALIC",
+                            "length": 103,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Chúc mọi người có một tuần làm việc thật hiệu quả & nhanh chóng \"ship\" sản phẩm của mình đến cộng đồng!"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [
+                        {
+                            "entity_type": "HASHTAG",
+                            "entity": {
+                                "__typename": "Hashtag",
+                                "__isEntity": "Hashtag",
+                                "url": "https://www.facebook.com/hashtag/buildinpublicvn",
+                                "mobileUrl": "https://m.facebook.com/hashtag/buildinpublicvn",
+                                "__isNode": "Hashtag",
+                                "id": "7586094391423863"
+                            },
+                            "length": 16,
+                            "offset": 0
+                        },
+                        {
+                            "entity_type": "HASHTAG",
+                            "entity": {
+                                "__typename": "Hashtag",
+                                "__isEntity": "Hashtag",
+                                "url": "https://www.facebook.com/hashtag/indiehackervn",
+                                "mobileUrl": "https://m.facebook.com/hashtag/indiehackervn",
+                                "__isNode": "Hashtag",
+                                "id": "7474880935902215"
+                            },
+                            "length": 14,
+                            "offset": 17
+                        }
+                    ],
+                    "inline_style_ranges": [],
+                    "text": "#buildinpublicvn #indiehackervn "
+                }
+            ],
+            "hashtags": [
+                "#buildinpublicvn",
+                "#indiehackervn"
+            ],
+            "mentions": [
+                {
+                    "type": "User",
+                    "id": "1537476251",
+                    "name": "Long",
+                    "url": "https://www.facebook.com/olragon",
+                    "length": 20,
+                    "offset": 23
+                }
+            ],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "id": "1010276030",
+                    "name": "Duy Nguyen",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/mrgoonie"
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1713758600000,
+            "privacy_scope": "Nhóm công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": "Group",
+                "id": "1569314343856132",
+                "url": "https://www.facebook.com/groups/indiehackervn/",
+                "name": "Build in Public VN",
+                "avatar": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/509443918_10233522779463937_6884554539542802636_n.jpg?stp=c264.0.432.432a_cp0_dst-jpg_s110x80_tt6&_nc_cat=105&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=r-o0j_4vFg8Q7kNvwEWK4vQ&_nc_oc=AdqioOtjwAdzJ9NfMyiqAbanzvYd8yZMXSFrkQiSTT6X9sVfmff7wpvBDfR1Aiv24KE&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=g24mIbVffgDQKqchmTtZgQ&_nc_ss=7a3a8&oh=00_Af0wm4oBTXyXFWNMeE9rOokxfvA847g44LfYXdaDuipRdw&oe=69E7145E"
+            },
+            "attached_post": null
+        }
+    }
+}

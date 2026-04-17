@@ -1,0 +1,155 @@
+{
+    "result": {
+        "id": "UzpfSTE2MTYyNzU5ODkwMjcwODM6Vks6MTYxNjI3NTk4OTAyNzA4Mw==",
+        "post_id": "1616275989027083",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1616275989027083/",
+        "media": {
+            "mediaset_token": "pcb.1616275989027083",
+            "subAttachments": [
+                {
+                    "id": "628253813348717",
+                    "url": "https://www.facebook.com/photo.php?fbid=628253813348717&set=gm.1616275992360416&type=3",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/487853647_628253816682050_6585269457479412565_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=uiRUbRFIkAwQ7kNvwEf12_G&_nc_oc=AdqFH3OUlMczs0OFy6xadTT8LmXRBYhsmo8GX20ANSXK7_GcbtVLPK9dTFFso5OUZCM&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=BQi8htt0w2og-qzdWc0ACQ&_nc_ss=7a3a8&oh=00_Af0tEIqvLfOjBtwc88xMe5WGtJev6lwhet1nQRKx_TjCwQ&oe=69E7224D",
+                    "height": 1259,
+                    "width": 2048,
+                    "accessibility_caption": "May be an image of 1 person and text",
+                    "real_width": 2048,
+                    "real_height": 1259
+                },
+                {
+                    "id": "628253900015375",
+                    "url": "https://www.facebook.com/photo.php?fbid=628253900015375&set=gm.1616275999027082&type=3",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/488221952_628253903348708_3405840675657296293_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=AtCVn8Z8wGkQ7kNvwF0yR3V&_nc_oc=AdpNZCpD92PJtczbfg_6D-FdwJ3LDNY6oRl2TVj_3xRbLKY1kA-Oj0-p9wjawtyZU08&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=BQi8htt0w2og-qzdWc0ACQ&_nc_ss=7a3a8&oh=00_Af1WxDGMtlhjIBLH7LJ96W-7sJ5tggvqk1Yt30quRcJ43w&oe=69E72CDF",
+                    "height": 697,
+                    "width": 985,
+                    "accessibility_caption": "May be an image of eclipse and text",
+                    "real_width": 985,
+                    "real_height": 697
+                },
+                {
+                    "id": "628254236682008",
+                    "url": "https://www.facebook.com/photo.php?fbid=628254236682008&set=gm.1616275995693749&type=3",
+                    "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/488026368_628254243348674_7988904237570661838_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=pSL3PGAO-aEQ7kNvwF13cQ0&_nc_oc=AdpNj7QWDZTCvOR8gY0DzIvKejhS522izm0PgRr11UEg6tNldYtb2H-2gg6r0iz9Nfs&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=BQi8htt0w2og-qzdWc0ACQ&_nc_ss=7a3a8&oh=00_Af0aGNfJNTTb5jDGKKCLVp7fOOurw4IV8WwOKLSoHP_WSQ&oe=69E7408B",
+                    "height": 1506,
+                    "width": 1126,
+                    "accessibility_caption": "May be an image of text",
+                    "real_width": 1126,
+                    "real_height": 1506
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "Hình như giờ douyin không còn dùng player.videoList[0].playAddr[0].src để tải video được nữa\nEm đã thử dùng qua bot telegram, các web tải video douyin cũng như tự bắt request qua tab network, tự tải video qua app douyin trên desktop thì thấy bitrate không cao bằng cái playAddr[0] và cũng chả full HD (chủ yếu để tham khảo tải về chất lượng có như tự bắt không thôi)",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100084923106912",
+                "name": "Minh Nhat 👾",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/minhnhat.deviluke"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 5,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 6,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 4,
+                    "name": "Thích"
+                },
+                {
+                    "id": "908563459236466",
+                    "count": 2,
+                    "name": "Buồn"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1743605590000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1616275989027083",
+            "content_owner_id_new": "100084923106912",
+            "photo_attachments_list": [
+                "628253813348717",
+                "628253900015375",
+                "628254236682008"
+            ],
+            "photo_id": "628253813348717",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100084923106912",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1743602875,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1616275989027083"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100084923106912",
+            "actrs": "100084923106912",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=BQi8htt0w2og-qzdWc0ACQ&_nc_ss=7a3a8&oh=00_Af3FPB56pvc4hXxJt8aZOgQHa0d3lDrMmyxgSJq2UNJL4w&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

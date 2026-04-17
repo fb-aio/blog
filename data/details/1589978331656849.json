@@ -1,0 +1,252 @@
+{
+    "result": {
+        "id": "UzpfSTE1ODk5NzgzMzE2NTY4NDk6Vks6MTU4OTk3ODMzMTY1Njg0OQ==",
+        "post_id": "1589978331656849",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1589978331656849/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Mọi người có câu hỏi gì về hành chính, quy định nhà nước, ... thì cứ nhắn vô trang Thông tin chính phủ nè 🤣\n\nNhư trường hợp này chậm cấp giấy phép thôi đã đươc Cục Đường bộ xin lỗi và gửi giấy về nhà ngay luôn 👀",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 19,
+                        "offset": 83
+                    }
+                ],
+                "text": "Mọi người có câu hỏi gì về hành chính, quy định nhà nước, ... thì cứ nhắn vô trang Thông tin chính phủ nè 🤣"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 18,
+                        "offset": 19
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 19,
+                        "offset": 64
+                    }
+                ],
+                "text": "Như trường hợp này chậm cấp giấy phép thôi đã đươc Cục Đường bộ xin lỗi và gửi giấy về nhà ngay luôn 👀"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 5,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 3,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 2,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1740278312000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1589978331656849",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1080714910759955",
+            "original_content_owner_id": "100064643681682",
+            "page_id": "912918568785331",
+            "story_location": 9,
+            "attached_story_type": "EntStatusCreationStory",
+            "page_insights": {
+                "100064643681682": {
+                    "page_id": "100064643681682",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100064643681682",
+                        "page_id_type": "page",
+                        "actor_id": "100064643681682",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1740239898,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1080714910759955"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1589978331656849",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100064643681682",
+                            "post_id": "1080714910759955",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1080714910759955",
+                        "sharedMediaID": "1589978331656849",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1740278312,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1589978331656849"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=iuE2ooAcc_1ZPytu4LsSTg&_nc_ss=7a3a8&oh=00_Af0NGsirdqjYmIHp2tQazpJVxwH9uYX9HHOR6bXx5oaGjQ&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA2NDY0MzY4MTY4MjoxMDgwNzE0OTEwNzU5OTU1OjEwODA3MTQ5MTA3NTk5NTU=",
+            "post_id": "1080714910759955",
+            "url": "https://www.facebook.com/thongtinchinhphu/posts/pfbid0apcsbwEwjWQfUSyZM1G2ttTftsZKQiiHLidFmWkynLwLpbdbde85ppbiac2tVKtVl",
+            "media": {
+                "subAttachments": [],
+                "photo": null,
+                "video": null
+            },
+            "text": "📑 ✈\nCục Đường bộ trân trọng xin lỗi ông Chí Thiện (TPHCM) về việc ông chậm nhận được Giấy phép lái xe quốc tế; mong nhận được sự cảm thông.\n\nGiấy phép của ông hiện đã được in, bàn giao cho bộ phận bưu điện và gửi vào TPHCM.",
+            "text_format": {
+                "preset_id": "217761075370932",
+                "background_color": "FF2088AF",
+                "background_gradient_color": "FF2088AF",
+                "color": "FF000000",
+                "font_weight": "BOLD",
+                "font_style": "NORMAL",
+                "text_align": "CENTER"
+            },
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Thông tin Chính phủ",
+                    "id": "100064643681682",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/thongtinchinhphu",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1740239898000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

@@ -1,0 +1,223 @@
+{
+    "result": {
+        "id": "UzpfSTE0ODM3MzczNjg5NDc2MTM6Vks6MTQ4MzczNzM2ODk0NzYxMw==",
+        "post_id": "1483737368947613",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1483737368947613/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Làm con web nhỏ cho mọi người tự kiểm tra sao kê nè 😂\n\nXem còn tìm ra bất ngờ nào không kk",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 8,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 16,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 11,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 4,
+                    "name": "Haha"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1726205151000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1483737368947613",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "2633007863537464",
+            "original_content_owner_id": "100004848287494",
+            "photo_id": "2636011883237062",
+            "story_location": 9,
+            "attached_story_attachment_style": "album",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "2633007863537464",
+                        "sharedMediaID": "1483737368947613",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1726205151,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1483737368947613"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=uE8SDJi9SThfajLnyyVqRA&_nc_ss=7a3a8&oh=00_Af0aQmEXwKEvbENjNkLeepmsOYpIS_A9LUODBglkUzum5Q&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDAwNDg0ODI4NzQ5NDoyNjMzMDA3ODYzNTM3NDY0OjI2MzMwMDc4NjM1Mzc0NjQ=",
+            "post_id": "2633007863537464",
+            "url": "https://www.facebook.com/9999.hoangtran/posts/pfbid034ZHQHFE92PVKFqUdHjJ7kxvDGr1HfERp4V8ikZYzVa2fRu4yKgny8ffeUCmbWv3Jl",
+            "media": {
+                "mediaset_token": "pcb.2633007863537464",
+                "subAttachments": [
+                    {
+                        "id": "2636011883237062",
+                        "url": "https://www.facebook.com/photo.php?fbid=2636011883237062&set=a.283939495110991&type=3",
+                        "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/493135393_2839252482913000_4921443857347076931_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_ohc=-gjLcl2aB1gQ7kNvwEpv-M3&_nc_oc=AdpC8jl5LzX94iZL4AlR6debvFoMjOFb8PgHJ5VySDKfPCUEg29LUvKweo8QhYsZBQw&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=uE8SDJi9SThfajLnyyVqRA&_nc_ss=7a3a8&oh=00_Af3hk2Ojdhv0dkb2eHk631zdQfRMOlJvqFz1VaUxFhYxjw&oe=69E72885",
+                        "height": 993,
+                        "width": 1266,
+                        "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                        "real_width": 1266,
+                        "real_height": 993
+                    },
+                    {
+                        "id": "2636164613221789",
+                        "url": "https://www.facebook.com/photo.php?fbid=2636164613221789&set=a.283939495110991&type=3",
+                        "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/493746354_2839253782912870_4800897855973010753_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_ohc=Y5y6PRg65CoQ7kNvwFrGJWZ&_nc_oc=Adpv2O3eAqgO5JWVWyoZBi7IQOUJaAOOMpgIbnOMax26fq4L02-ON_CQKZs0iryTEeU&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=uE8SDJi9SThfajLnyyVqRA&_nc_ss=7a3a8&oh=00_Af3NKH4xZlWrRjfZ_TKVvLHh6mtpDApoLAeEc6qaGFn5Ww&oe=69E73455",
+                        "height": 900,
+                        "width": 1339,
+                        "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                        "real_width": 1339,
+                        "real_height": 900
+                    },
+                    {
+                        "id": "2636786253159625",
+                        "url": "https://www.facebook.com/photo.php?fbid=2636786253159625&set=a.283939495110991&type=3",
+                        "uri": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/494564206_2839325762905672_8828744751722304497_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=13d280&_nc_ohc=-wMQQlMS-N0Q7kNvwEIRI77&_nc_oc=Adq8SjEqp8bF7F4o4JiNngoS39SAiLdQrY5tVJqZtqepd_Tc_CRI3S6d-v6Hx1MFmLI&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=uE8SDJi9SThfajLnyyVqRA&_nc_ss=7a3a8&oh=00_Af0czhxdeXoDOsOLigIuKHCQrQm_2BGMsWkFfSd0Ir__wQ&oe=69E72647",
+                        "height": 908,
+                        "width": 1264,
+                        "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                        "real_width": 1264,
+                        "real_height": 908
+                    }
+                ],
+                "photo": null,
+                "video": null
+            },
+            "text": "ĐÃ CẬP NHẬT: dữ liệu mới nhất lúc. 17:48 26/9/2024\n+ VCB: 1/9 - 14/9\n+ BIDV: 1/9 - 19/9\n+ Vietinbank: 10/9 - 16/9\n+ Agribank: tới 13/9\n\nMTTQ đã đăng sao kê ủng hộ đồng bào sau bão Yagi\nNhưng file PDF sao kê dài trên 12 nghìn trang\n\nNhận thấy nhiều người gặp khó khăn trong việc tìm kiếm.\nNên mình đã trích xuất dữ liệu và hiển thị lại theo dạng bảng cho mọi người tìm kiếm, sắp xếp dễ dàng hơn nhé.\n\nDùng tại: https://hoangtran0410.github.io/saoke_yagi/web/\n\nSource code: trích xuất dữ liệu và web : https://github.com/HoangTran0410/saoke_yagi",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [
+                {
+                    "type": "ExternalUrl",
+                    "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2hvYW5ndHJhbjA0MTAuZ2l0aHViLmlvL3Nhb2tlXGJ5YWdpL3dlYi86OkRlZmF1bHQ6OjoyNjMzMDA3ODYzNTM3NDY0",
+                    "name": "https://hoangtran0410.github.io/saoke_yagi/web/",
+                    "url": "https://hoangtran0410.github.io/saoke_yagi/web/",
+                    "length": 47,
+                    "offset": 410
+                },
+                {
+                    "type": "ExternalUrl",
+                    "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2dpdGh1Yi5jb20vSG9hbmdUcmFuMDQxMC9zYW9rZVxieWFnaTo6RGVmYXVsdDo6OjI2MzMwMDc4NjM1Mzc0NjQ=",
+                    "name": "https://github.com/HoangTran0410/saoke_yagi",
+                    "url": "https://github.com/HoangTran0410/saoke_yagi",
+                    "length": 43,
+                    "offset": 500
+                }
+            ],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Hoang Tran",
+                    "id": "100004848287494",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/9999.hoangtran",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1726205076000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

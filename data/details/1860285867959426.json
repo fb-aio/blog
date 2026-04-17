@@ -1,0 +1,229 @@
+{
+    "result": {
+        "id": "UzpfSTE4NjAyODU4Njc5NTk0MjY6Vks6MTg2MDI4NTg2Nzk1OTQyNg==",
+        "post_id": "1860285867959426",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1860285867959426/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Hàng xịn cho ae vibe code nè 🤯🇻🇳",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 2,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 8,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 8,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 5,
+        "created_time": 1772186071000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1860285867959426",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "26230099599954866",
+            "original_content_owner_id": "100001445511648",
+            "page_id": "107400938853655",
+            "photo_id": "26230082856623207",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "100001445511648": {
+                    "page_id": "100001445511648",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100001445511648",
+                        "page_id_type": "page",
+                        "actor_id": "100001445511648",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1772066000,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "26230099599954866"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1860285867959426",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100001445511648",
+                            "post_id": "26230099599954866",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "26230099599954866",
+                        "sharedMediaID": "1860285867959426",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1772186071,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1860285867959426"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=BuOSniBpYvdJWJcxZ-K-MA&_nc_ss=7a3a8&oh=00_Af3XqjY5iCBUlBjnOzNcEZ1jq53SNO8NDrp34Tb78VvOpw&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDAwMTQ0NTUxMTY0ODoyNjIzMDA5OTU5OTk1NDg2NjoyNjIzMDA5OTU5OTk1NDg2Ng==",
+            "post_id": "26230099599954866",
+            "url": "https://www.facebook.com/buitanviet/posts/pfbid0J89JtgFYxC1dXRFV4NdwGRsT3qirdUCkF1CGeM4bzStvxHeHuBguB8iaEpPdZMpyl",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "26230082856623207",
+                    "url": "https://www.facebook.com/photo/?fbid=26230082856623207&set=a.330002700391244",
+                    "uri": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/641192915_26230082863289873_7830749909430995904_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=7b2446&_nc_ohc=P1Gq_dUqskoQ7kNvwF-AwqZ&_nc_oc=AdoMG9IBOksvq5lpoS4Vmhmbixb85SceDJVcxV2k6T3r0dyMPm6K4QLnsUdBvg_HNlA&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=BuOSniBpYvdJWJcxZ-K-MA&_nc_ss=7a3a8&oh=00_Af2iMO6i3hWmbP4TZA_znx-gl7_qnbtHcYIYw2YkqdYUdw&oe=69E72069",
+                    "height": 2048,
+                    "width": 943,
+                    "accessibility_caption": "Có thể là đồ họa về văn bản cho biết 'HƯỚNG DẦN SỬ DỤNG CLAUDE A HIỆU QUẢ Dành cho CEO, Manager, Marketer và người làm Business ਮੇ code. ስ đúng. Bùi Việt 123HO5T.Vn Tháng2 2026 MỤC LỤC Phẩn uduy đúng trưác khi dùng AI Thiết Claude Phẩn Cũng cách hoạt dận Phản Phẩn Giới ลู Công 4C Phán thuật Brainstorm: toản Business dất từng bước Phần 5kills Claude 8: Claude làm việc theo Phăn ch nắng cao: Phần ลก Những Phần pho hạc thực SePa Ay'",
+                    "accent_color": "FFFFFFFF",
+                    "real_width": 943,
+                    "real_height": 2048
+                },
+                "video": null
+            },
+            "text": "EBOOK HƯỚNG DẪN DÙNG CLAUDE AI (tập 1) - TẶNG ANH EM ĐẦU XUÂN\n\nMấy tháng nay tôi dùng Claude AI cho gần như mọi thứ. Viết bài Facebook trăm nghìn view, lập chiến lược kinh doanh, phân tích đối thủ, thậm chí dò vé số.\n\nNhiều người inbox hỏi: dùng kiểu gì, thiết lập ra sao, có bí kíp gì không.\n\nNên tôi ngồi tổng hợp lại hết vào 1 tài liệu. 37 trang. Từ A đến Z.\n\nBên trong có:\n\n- Cách thiết lập Claude hiểu đúng bạn ngay từ đầu (bước này 90% người dùng bỏ qua)\n- Công thức 4C viết câu lệnh - không cần học \"prompt engineering\" phức tạp\n- Kỹ thuật Brainstorm - nói chuyện tự nhiên với AI, dẫn dắt từng bước thay vì viết 1 câu lệnh dài\n- Kỹ thuật chụp ảnh gửi AI đọc - tính năng cực hay mà ít người biết\n- 5 ví dụ thực tế tôi đang dùng hằng ngày tại SePay\n\nViết cho CEO, manager, marketer. Không có dòng code nào. Ai không biết gì về AI cũng đọc được.\n\nLink tài liệu: https://drive.google.com/file/d/1BFTAFnCSoouAMIdRhjbbhw5Y5JumI5pH/view?usp=drivesdk\n\n=> Kỷ nguyên AI không chờ ai cả. Người biết dùng sẽ nhanh hơn 3-5 lần. Người không biết sẽ tự hỏi tại sao đồng nghiệp làm nhanh thế.",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [
+                {
+                    "type": "ExternalUrl",
+                    "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2RyaXZlLmdvb2dsZS5jb20vZmlsZS9kLzFCRlRBRm5DU29vdUFNSWRSaGpiYmh3NVk1SnVtSTVwSC92aWV3P3VzcD1kcml2ZXNkazo6RGVmYXVsdDo6OjI2MjMwMDk5NTk5OTU0ODY2",
+                    "name": "https://drive.google.com/file/d/1BFTAFnCSoouAMIdRhjbbhw5Y5JumI5pH/view?usp=drivesdk",
+                    "url": "https://drive.google.com/file/d/1BFTAFnCSoouAMIdRhjbbhw5Y5JumI5pH/view?usp=drivesdk",
+                    "length": 83,
+                    "offset": 866
+                }
+            ],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Bùi Tấn Việt",
+                    "id": "100001445511648",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/buitanviet",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1772066000000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

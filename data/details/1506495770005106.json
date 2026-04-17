@@ -1,0 +1,211 @@
+{
+    "result": {
+        "id": "UzpfSTE1MDY0OTU3NzAwMDUxMDY6Vks6MTUwNjQ5NTc3MDAwNTEwNg==",
+        "post_id": "1506495770005106",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1506495770005106/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": {
+                "id": "1849940792207467",
+                "url": "https://www.facebook.com/9999.hoangtran/videos/1849940792207467/?idorvanity=1154059318582088",
+                "thumbnail": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t15.5256-10/463153300_4054193144812201_7088278240882877476_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=50ce42&_nc_ohc=_TvUC3lI6L0Q7kNvwGN2wke&_nc_oc=AdqSwFNpnZNE8H_mkxDGde5wJG2fS4l01RktO_wmzSQ1X6mkaUqV-MirJ6DoJlatERw&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=RE5mlqHQn9kBDx4dcDH79w&_nc_ss=7a3a8&oh=00_Af1_kI8CTyRGkl-DSDIsRX2RVwOnw-AQv7JAGIBwuP3EVQ&oe=69E795E5",
+                "duration": 49416,
+                "width": 1370,
+                "height": 1000,
+                "original_width": 1370,
+                "original_height": 1000,
+                "publish_time": 0,
+                "audio_availability": "UNAVAILABLE",
+                "is_live_streaming": false,
+                "is_spherical": false,
+                "is_looping": false,
+                "loop_count": 0,
+                "source": {
+                    "variants": []
+                },
+                "sprite": {
+                    "uris": [],
+                    "thumbnail_width": 0,
+                    "thumbnail_height": 0,
+                    "num_images_per_row": 10,
+                    "max_number_of_images_per_sprite": 100,
+                    "time_interval_between_image": 1
+                }
+            }
+        },
+        "text": "# Điều lạ lùng trong Google map ?! \n\nMình thử mò lên trạm vũ trụ ISS xem thử nội thất như nào, lúc zoom rộng ra để xem thì lại bị đẩy về 1 trạm ở mặt đất 👀\n\nCảm giác như được xuyên không vậy 🤯 google làm vậy chắc hẳn có lý do, chứ lúc trước không có vụ này 😂",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Điều lạ lùng trong Google map ?! "
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Mình thử mò lên trạm vũ trụ ISS xem thử nội thất như nào, lúc zoom rộng ra để xem thì lại bị đẩy về 1 trạm ở mặt đất 👀"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Cảm giác như được xuyên không vậy 🤯 google làm vậy chắc hẳn có lý do, chứ lúc trước không có vụ này 😂"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 1,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 16,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 11,
+                    "name": "Thích"
+                },
+                {
+                    "id": "478547315650144",
+                    "count": 3,
+                    "name": "Wow"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 2,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1729055293000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1506495770005106",
+            "content_owner_id_new": "100004848287494",
+            "story_location": 9,
+            "story_attachment_style": "video_autoplay",
+            "video_id": "1849940792207467",
+            "ent_attachement_type": "VideoAttachment",
+            "app_id": "2392950137",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1729055293,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1506495770005106"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=RE5mlqHQn9kBDx4dcDH79w&_nc_ss=7a3a8&oh=00_Af353Pl9o4RtJJnb15c8F3rncGnqCbxihyCusziXL19T4w&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

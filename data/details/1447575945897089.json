@@ -1,0 +1,190 @@
+{
+    "result": {
+        "id": "UzpfSTE0NDc1NzU5NDU4OTcwODk6Vks6MTQ0NzU3NTk0NTg5NzA4OQ==",
+        "post_id": "1447575945897089",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1447575945897089/",
+        "media": {
+            "mediaset_token": "pcb.1447575945897089",
+            "subAttachments": [
+                {
+                    "id": "2582579268580324",
+                    "url": "https://www.facebook.com/photo.php?fbid=2582579268580324&set=gm.1447630799224937&type=3",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/489365469_2818115068360075_88598925610695681_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=BBfNATGvZ1YQ7kNvwFilcrL&_nc_oc=AdqZgsmRpDMR6o-7L5WSSVbfCyVWLbx5dR80d1A52GqUy6OJ-BOn2B6W1k2aLPjOAwI&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=jA-mkgwsX3emALh_1uPZ8w&_nc_ss=7a3a8&oh=00_Af3SZWRapim0_CG9iDU19hs2nhe2bxKipxQq9eKPkxiAQg&oe=69E737AC",
+                    "height": 2048,
+                    "width": 1032,
+                    "accessibility_caption": "Có thể là đồ họa về văn bản cho biết 'deobfuscate.relative.im synchrony ver. 2.2.0 A simple deobfuscator for mangled or obfuscated JavaScript files view on GitHub Deobfuscate Save output if there are any errors, open developer tools > console to see them in a better view imeout of 2 i iteralMap Starting deobfuscation deobf fusca with Running Simplify transformer Running Member mberExpressionCleaner Running Running DeadCode i Running Demangle transformer Running StringDecoder transformer Running Simplify transformer transform transformer transformer i'",
+                    "real_width": 1032,
+                    "real_height": 2048
+                },
+                {
+                    "id": "2582645095240408",
+                    "url": "https://www.facebook.com/photo.php?fbid=2582645095240408&set=gm.1447630802558270&type=3",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/489039131_2818115191693396_3786690436763473163_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=oxievCRJzmwQ7kNvwHEGoJz&_nc_oc=Adr6wfFCLJ1f_j3G7EUMzqb2lSikpmNLa0e_5_w-bStVFkgXHsas59-5TD4-JbxDLo0&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=jA-mkgwsX3emALh_1uPZ8w&_nc_ss=7a3a8&oh=00_Af0lrF9i-nfut2YAHrpoqjXIpxMsFO_4tpBJyI9Ij0vxSg&oe=69E725D7",
+                    "height": 933,
+                    "width": 982,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 982,
+                    "real_height": 933
+                },
+                {
+                    "id": "2582646525240265",
+                    "url": "https://www.facebook.com/photo.php?fbid=2582646525240265&set=gm.1447630805891603&type=3",
+                    "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/488650325_2818115358360046_4058267253151145047_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=RYxbSdg1MjMQ7kNvwGIGpZX&_nc_oc=Adrbt9QRf28MgUF_1G-wT0BPX96vQbZsvtALBpLpNar7qnhbTPMTDg0buFCHLkdYO-s&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=jA-mkgwsX3emALh_1uPZ8w&_nc_ss=7a3a8&oh=00_Af3UpO3squOj-1yQ6s2cHo5EvGDumNGFIGIg6EHm1a3i7A&oe=69E74820",
+                    "height": 813,
+                    "width": 1325,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1325,
+                    "real_height": 813
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "Cách thường dùng nhất để không bị \"đạo code\" đó là làm rối/mã hóa code của chính mình, để người khác không đọc hiểu được code nữa.\n\nNgười khác vẫn có thể copy, ăn trộm, nhưng sẽ khó có thể chỉnh sửa, fix lỗi. Và nếu trong code có chèn thêm kiểm tra license, tự động hết hạn, ... Thì có trộm cũng không xài được lâu.\n\nNhưng vỏ quýt dày có móng tay nhọn.\nTrang web dưới đây sẽ giúp bạn \"làm đẹp\" lại code javascript bị làm rối. Rất thích hợp cho những bạn thích vọc code của người khác 🤐 \n\nPhù hợp nhất để vọc chrome extension, nodejs code.\n\nhttps://deobfuscate.relative.im\n\n1 vài trang web khác tương tự (nhưng không tốt bằng):\nhttps://lelinhtinh.github.io/de4js\nhttps://deobfuscate.io\nhttps://mindedsecurity.github.io/jstillery\n\n#ufs_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#ufs_share"
+        ],
+        "mentions": [
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2Rlb2JmdXNjYXRlLnJlbGF0aXZlLmltLzo6Ojo6MTQ0NzU3NTk0NTg5NzA4OQ==",
+                "name": "https://deobfuscate.relative.im/",
+                "url": "https://deobfuscate.relative.im/",
+                "length": 31,
+                "offset": 540
+            },
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2xlbGluaHRpbmguZ2l0aHViLmlvL2RlNGpzOjo6OjoxNDQ3NTc1OTQ1ODk3MDg5",
+                "name": "https://lelinhtinh.github.io/de4js",
+                "url": "https://lelinhtinh.github.io/de4js",
+                "length": 34,
+                "offset": 627
+            },
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2Rlb2JmdXNjYXRlLmlvLzo6Ojo6MTQ0NzU3NTk0NTg5NzA4OQ==",
+                "name": "https://deobfuscate.io/",
+                "url": "https://deobfuscate.io/",
+                "length": 22,
+                "offset": 662
+            },
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL21pbmRlZHNlY3VyaXR5LmdpdGh1Yi5pby9qc3RpbGxlcnk6Ojo6OjE0NDc1NzU5NDU4OTcwODk=",
+                "name": "https://mindedsecurity.github.io/jstillery",
+                "url": "https://mindedsecurity.github.io/jstillery",
+                "length": 42,
+                "offset": 685
+            }
+        ],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 5,
+            "total_count": 7,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 16,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 13,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 3,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 3,
+        "created_time": 1720876637000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1447575945897089",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2582579268580324",
+                "2582645095240408",
+                "2582646525240265"
+            ],
+            "photo_id": "2582579268580324",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1720876637,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1447575945897089"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=jA-mkgwsX3emALh_1uPZ8w&_nc_ss=7a3a8&oh=00_Af2F8HyTFKDyUikpyLZ7UwL6DrHHyl0FUtQJTtfPY_359A&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

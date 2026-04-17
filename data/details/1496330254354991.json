@@ -1,0 +1,264 @@
+{
+    "result": {
+        "id": "UzpfSTE0OTYzMzAyNTQzNTQ5OTE6Vks6MTQ5NjMzMDI1NDM1NDk5MQ==",
+        "post_id": "1496330254354991",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1496330254354991/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2651217448383172",
+                "url": "https://fbaio.canny.io/feature-requests",
+                "uri": "https://external.fsgn2-9.fna.fbcdn.net/emg1/v/t13/1296464870325965392?url=https%3A%2F%2Ffbaio.canny.io%2Fapi%2Fog%2Fcompany%3Fv%3DMjAyNC0xMC0wMVQwOTo0ODo1Ni4xMjla&fb_obo=1&utld=canny.io&stp=c0.5000x0.5000f_dst-jpg_flffffff_p1000x522_q75_tt6&_nc_gid=6i5CnI2hxCu_4VM6x89Hbg&_nc_oc=AdrJSoWHXq_lSFJrdpocN0Px2kkVV1ztDfcfnwkaD2QX_ZnQvq77gNQuotBEGrB5SZI&ccb=13-1&oh=06_Q3--AeS9LoutrjwJaPwNoWTyD5FW31PX2WUiROAsevYqA4Bv&oe=69E39AC2&_nc_sid=c97757",
+                "height": 522,
+                "width": 1000,
+                "accessibility_caption": "Feature Requests | FBAIO"
+            },
+            "video": null
+        },
+        "text": "# Yêu cầu chức năng / Báo lỗi FB AIO\n\n* Mình tạo 1 trang web riêng cho mọi người **gửi yêu cầu chức năng** hoặc **Báo cáo lỗi** nha\n* Trong này mn có thể **vote / bình luận** cho chức năng của nhau luôn.\n* Cái nào **nhiều vote** mình sẽ ưu tiên làm trước hehe.\n> Powered by Canny.\n* Link: ",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Yêu cầu chức năng / Báo lỗi FB AIO"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 21,
+                        "offset": 41
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 11,
+                        "offset": 68
+                    }
+                ],
+                "text": "Mình tạo 1 trang web riêng cho mọi người gửi yêu cầu chức năng hoặc Báo cáo lỗi nha"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 16,
+                        "offset": 20
+                    }
+                ],
+                "text": "Trong này mn có thể vote / bình luận cho chức năng của nhau luôn."
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 10,
+                        "offset": 8
+                    }
+                ],
+                "text": "Cái nào nhiều vote mình sẽ ưu tiên làm trước hehe."
+            },
+            {
+                "__typename": "ComposedBlockquoteBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                "block_type": "BLOCKQUOTE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Powered by Canny."
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "IMPLICIT_LINK",
+                        "entity": {
+                            "__typename": "ExternalUrl",
+                            "__isEntity": "ExternalUrl",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ffbaio.canny.io%2Ffeature-requests&h=AT5Yn4Z-HWbiVCC0FRoKmg-Tt5QD6advF-F_-f7XomDfQ5-i0lGRBcI1t5X-OnDoPBvc5mGP_sa2e5qppwmsyQBVLJL2y-qodE2wl3X3UGNKKOI4Xt7OyiJA_QDlEGvbgduHTIPckg&s=1",
+                            "external_url": "https://fbaio.canny.io/feature-requests",
+                            "__isWebLinkable": "ExternalUrl",
+                            "web_link": {
+                                "__typename": "ExternalWebLink",
+                                "url": "https://fbaio.canny.io/feature-requests",
+                                "fbclid": "IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHo6iticpoXdcHs-sFJjoig9c7HQYP17tzdcWVQzRMFTJVmEkiszCGcaA2PPs_aem_O0tHPWsDmEpCzvwJcbGpRA",
+                                "lynx_mode": "ASYNCLAZY"
+                            },
+                            "mobileUrl": "https://lm.facebook.com/l.php?u=https%3A%2F%2Ffbaio.canny.io%2Ffeature-requests&h=AT4JjpzRrhGw1a6qmvbtlUSK5Cu9VSn-TK9c_Rya44BueeyQrMl49Gjn1Alv5h-GisxMVvIhO_sQ10TLB3izN9MjKZs7x97r5Gknv0SeDes7e0avVWSP7z-BnYcmdHUJguOj4zRXAQ&s=1",
+                            "__isNode": "ExternalUrl",
+                            "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2ZiYWlvLmNhbm55LmlvL2ZlYXR1cmUtcmVxdWVzdHM6Ojo6Og=="
+                        },
+                        "length": 39,
+                        "offset": 6
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "Link: https://fbaio.canny.io/feature-requests"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2ZiYWlvLmNhbm55LmlvL2ZlYXR1cmUtcmVxdWVzdHM6Ojo6Og==",
+                "name": "https://fbaio.canny.io/feature-requests",
+                "url": "https://fbaio.canny.io/feature-requests",
+                "length": 39,
+                "offset": 6
+            }
+        ],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 1,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 12,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 11,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1727799318000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1496330254354991",
+            "content_owner_id_new": "100004848287494",
+            "story_location": 9,
+            "story_attachment_style": "share",
+            "ent_attachement_type": "ExternalShareAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1496330254354991",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1727799318,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1496330254354991"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "url_id": "8571563832964031",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=6i5CnI2hxCu_4VM6x89Hbg&_nc_ss=7a3a8&oh=00_Af3-wN-U602MuOj0uw7XOXBK87loRb_ff3LCdhywj31H2Q&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

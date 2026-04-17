@@ -1,0 +1,381 @@
+{
+    "result": {
+        "id": "UzpfSTE1Nzc1MDAwMDYyMzgwMTU6Vks6MTU3NzUwMDAwNjIzODAxNQ==",
+        "post_id": "1577500006238015",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1577500006238015/",
+        "media": {
+            "mediaset_token": "pcb.1577500006238015",
+            "subAttachments": [
+                {
+                    "id": "2758334691004780",
+                    "url": "https://www.facebook.com/photo.php?fbid=2758334691004780&set=gm.1577500002904682&type=3",
+                    "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/503402278_2879626932208888_6315048050314563864_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=QXfU7udQenYQ7kNvwHtGlX_&_nc_oc=Adrk55X7hQlLxg9EyzqrQmHo-Q_J9NKn-H1ZTdsjyP30Rnx0XaRxTUtZfJ9oOx3Q2c8&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=LxMlEDxJ4Ln_crPCsXX_PA&_nc_ss=7a3a8&oh=00_Af3BQnrFUag24ZFTS_X7r3Gj9yFOsAHg-dR7izpgi8MSwQ&oe=69E730A0",
+                    "height": 498,
+                    "width": 685,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản cho biết 'README https:/ftctpcipate চাઠ Unlicense license YT-DLP DOWNLOAD >_dlp V2025.01.26 3.3KONLINE 3.3K ONLINE PYPI DONATE SUPPORTED SITES 223 USERS COMMITS UNLICENSE TESTS 63/MONTH PASSING LAST THURSDAY yt-dlp is a feature-rich command-line audio/video downloader with support for thousands of sites. The project is a fork of youtube-dl based on the now inactive youtube-dlc.'",
+                    "real_width": 685,
+                    "real_height": 498
+                },
+                {
+                    "id": "2758337217671194",
+                    "url": "https://www.facebook.com/photo.php?fbid=2758337217671194&set=gm.1577500009571348&type=3",
+                    "uri": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/504001884_2879627772208804_5593520822483920750_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=neZAs3imR2AQ7kNvwFyyDCH&_nc_oc=AdqsxozqV8NK7jcrjoLCKsPtpQuBo7Mk68bfuUAJSxe-SLRwZCXueKkpu_H0Rsq3RbU&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=LxMlEDxJ4Ln_crPCsXX_PA&_nc_ss=7a3a8&oh=00_Af1M_4ahker5BPP9aZYb386xczlrMgv7HvRIwIPdueqtPg&oe=69E727C6",
+                    "height": 941,
+                    "width": 1472,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản cho biết 'FOLDERS DLP [GITHUB] facebook.py yt_dlp pyinstaller compat t-dlp[GitHub] ctv.py fron .comnon import InfoExtractor dependencies downloader extractor _extractors.py VIE(InfoExtractor): VALID_URL TESTS abc.py hstps?://(?:www. ctvl abcnews.py py ca/(?Pci <id>( 'url' 'https: only_matching' show novie s/[ abcotvs.P abematv.py academicearth.py +/[/?#&]+)' def display_i id content acast.py acfun.py adn. self, ร1): self .match_ id (url) download json adobeconnect.py display_id id, 'quezy\" resolvedPath(path: \"/s\"モ lastSegment{ content AxisContent axisId videaPlayerDestCode adobepass.py adobetv.py adultswim.py m.py aenetworks.py query . afreecatv.py agora.py airtv.py altube.p aliexpress.py aljazeera.py display id, UP031 'data' 'resolvedPath'] video_ _id id= content ['axisId'] retur self. self.url url_result 9c9nedin:1}:1 allocine.py lastSegment'] content'] .fornat content 'videoPlayerDestCode'] video_id)'",
+                    "real_width": 1472,
+                    "real_height": 941
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# YouTube-DLP 👀\n\nChắc nhiều anh em trong này biết YT-DLP, 1 công cụ chạy command line giúp kéo video từ hàng trăm nền tảng khác nhau. 🤖\n\nKhông những vậy nó còn miễn phí, mã nguồn mở, và chức năng mới liên tục được cộng đồng code thêm vào. 🌟\n\nNhưng do là command line, không có giao diện nên khá khó nhằn với những anh em lowtech. 🫥\n\nNhưng với anh em dev, nếu nhìn vào source code (python), sẽ thấy nhiều trang web code khá dễ, có thể dùng FB AIO (javascript) để code luôn. Từ đó mở rộng khả năng tải video của FB AIO. 👀\n\nNhưng quá trình này sẽ tốn rất nhiều thời gian, và kết quả mang lại có thể không bằng phiên bản gốc của YT-DLP. Chỉ được cái là có giao diện dễ dùng hơn thôi. 🥸\n\nNên mình đăng bài hỏi anh em quan tâm nền tảng nào nhiều nhất, để mình dành thời gian làm trước 🤣\n\nMong mn bình luận cho ý kiến nhé.\n\n#fb_aio",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "YouTube-DLP 👀"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 12,
+                        "offset": 56
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 9,
+                        "offset": 74
+                    }
+                ],
+                "text": "Chắc nhiều anh em trong này biết YT-DLP, 1 công cụ chạy command line giúp kéo video từ hàng trăm nền tảng khác nhau. 🤖"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 8,
+                        "offset": 23
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 11,
+                        "offset": 33
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 9,
+                        "offset": 87
+                    }
+                ],
+                "text": "Không những vậy nó còn miễn phí, mã nguồn mở, và chức năng mới liên tục được cộng đồng code thêm vào. 🌟"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 18,
+                        "offset": 26
+                    }
+                ],
+                "text": "Nhưng do là command line, không có giao diện nên khá khó nhằn với những anh em lowtech. 🫥"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 11,
+                        "offset": 81
+                    }
+                ],
+                "text": "Nhưng với anh em dev, nếu nhìn vào source code (python), sẽ thấy nhiều trang web code khá dễ, có thể dùng FB AIO (javascript) để code luôn. Từ đó mở rộng khả năng tải video của FB AIO. 👀"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Nhưng quá trình này sẽ tốn rất nhiều thời gian, và kết quả mang lại có thể không bằng phiên bản gốc của YT-DLP. Chỉ được cái là có giao diện dễ dùng hơn thôi. 🥸"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 21,
+                        "offset": 29
+                    }
+                ],
+                "text": "Nên mình đăng bài hỏi anh em quan tâm nền tảng nào nhiều nhất, để mình dành thời gian làm trước 🤣"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Mong mn bình luận cho ý kiến nhé."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fb_aio",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fb_aio",
+                            "__isNode": "Hashtag",
+                            "id": "8080904801977702"
+                        },
+                        "length": 7,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fb_aio"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 7,
+            "total_count": 9,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 22,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 22,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 3,
+        "created_time": 1738643140000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1577500006238015",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2758334691004780",
+                "2758337217671194"
+            ],
+            "photo_id": "2758334691004780",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1738643140,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1577500006238015"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=LxMlEDxJ4Ln_crPCsXX_PA&_nc_ss=7a3a8&oh=00_Af2wUamtQP64392kt3_mizgr0cyKITvgb1-_gVwc-AlzMQ&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

@@ -1,0 +1,272 @@
+{
+    "result": {
+        "id": "UzpfSTE2MjcwMTI1MzEyODY3NjI6Vks6MTYyNzAxMjUzMTI4Njc2Mg==",
+        "post_id": "1627012531286762",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1627012531286762/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Hoàng này chúc bạn Hoàng kia nhiều sức khỏe và may mắn vượt qua khó khăn này. 💪\n\nMọi người nhớ giữ gìn sức khỏe nhé, kiếm xiền thì chậm chút cũng được, chứ để mất sức khỏe là khổ lắm 🥴",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 1,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 13,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 8,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 4,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "908563459236466",
+                    "count": 1,
+                    "name": "Buồn"
+                }
+            ]
+        },
+        "shares": 3,
+        "created_time": 1744864150000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1627012531286762",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1169716268499444",
+            "original_content_owner_id": "100063832440488",
+            "page_id": "108970177307778",
+            "photo_id": "1169723748498696",
+            "story_location": 9,
+            "attached_story_attachment_style": "album",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "PhotoSetAttachment",
+            "page_insights": {
+                "100063832440488": {
+                    "page_id": "100063832440488",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100063832440488",
+                        "page_id_type": "page",
+                        "actor_id": "100063832440488",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1744816656,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1169716268499444"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1627012531286762",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100063832440488",
+                            "post_id": "1169716268499444",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1169716268499444",
+                        "sharedMediaID": "1627012531286762",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1744864150,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1627012531286762"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=WwCOTQXT2dgASdXTFRHWvw&_nc_ss=7a3a8&oh=00_Af3Axhub5QfSgjMwZpqkEaWXz_7WDou6dMx3og19r_xqIg&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA2MzgzMjQ0MDQ4ODoxMTY5NzE2MjY4NDk5NDQ0OjExNjk3MTYyNjg0OTk0NDQ=",
+            "post_id": "1169716268499444",
+            "url": "https://www.facebook.com/Hanoinews.Official/posts/pfbid0ccNMGUEqgfcNVJvgAbCzPMX9bvFJdJjhHmxQHD3qVB5w7U6orYy8tnWGG7FEqQCjl",
+            "media": {
+                "mediaset_token": "pcb.1169716268499444",
+                "subAttachments": [
+                    {
+                        "id": "1169723748498696",
+                        "url": "https://www.facebook.com/photo.php?fbid=1169723748498696&set=a.640796271391449&type=3",
+                        "uri": "https://scontent.fsgn2-8.fna.fbcdn.net/v/t39.30808-6/492002001_1169723751832029_7592667571928087619_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=7b2446&_nc_ohc=F9wGqeDyu4kQ7kNvwGO-zMk&_nc_oc=AdptnIy-bDtIKDOdKnIQ0kTP8LjydOaBAoJ4vIEa7Ub37oob1ochnYF5aMqKweNBnbA&_nc_zt=23&_nc_ht=scontent.fsgn2-8.fna&_nc_gid=WwCOTQXT2dgASdXTFRHWvw&_nc_ss=7a3a8&oh=00_Af0htKEI1iHRf-G8AkgD9HuImJc1wJLCGej4FUcYeCIH3A&oe=69E73C72",
+                        "height": 1440,
+                        "width": 1080,
+                        "accessibility_caption": "Không có mô tả ảnh.",
+                        "real_width": 1080,
+                        "real_height": 1440
+                    },
+                    {
+                        "id": "1169723795165358",
+                        "url": "https://www.facebook.com/photo.php?fbid=1169723795165358&set=a.640796271391449&type=3",
+                        "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/490917710_1169723798498691_7721019364800088488_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7b2446&_nc_ohc=-RdVlgFaRiIQ7kNvwGDgJpI&_nc_oc=AdrH7n5muDPRKWzMvwRDkiEqZ495bknqnpNjliMs116iqJCJ5LIyP8yrSyujifDPgdQ&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=WwCOTQXT2dgASdXTFRHWvw&_nc_ss=7a3a8&oh=00_Af2p2T0va7xQpRBy7Lge6tQS6eaQEoYU91Zk8-EE9St1Gw&oe=69E72805",
+                        "height": 1440,
+                        "width": 1080,
+                        "accessibility_caption": "Không có mô tả ảnh.",
+                        "real_width": 1080,
+                        "real_height": 1440
+                    },
+                    {
+                        "id": "1169723855165352",
+                        "url": "https://www.facebook.com/photo.php?fbid=1169723855165352&set=a.640796271391449&type=3",
+                        "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/492040969_1169723865165351_3287698021222052413_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=7b2446&_nc_ohc=-bdGhmgELCUQ7kNvwHxSoGi&_nc_oc=Adr5WroDp6UQ_tX8LJlhwAlK241JvjP7msMCdCiIlNrrHoXSVwisgU-Vr67Ol_FERYs&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=WwCOTQXT2dgASdXTFRHWvw&_nc_ss=7a3a8&oh=00_Af2mIas8bxCJp2dsPDvbDZ40CwyThxmMyDmUBh11n7uE_A&oe=69E72739",
+                        "height": 1080,
+                        "width": 1440,
+                        "accessibility_caption": "Không có mô tả ảnh.",
+                        "real_width": 1440,
+                        "real_height": 1080
+                    },
+                    {
+                        "id": "1169723935165344",
+                        "url": "https://www.facebook.com/photo.php?fbid=1169723935165344&set=a.640796271391449&type=3",
+                        "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/490328353_1169723938498677_1250129273713616491_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=7b2446&_nc_ohc=pEi-3YCsZSIQ7kNvwGv36mQ&_nc_oc=AdrzluFxQvLTrpg5vc0XsV9fBKqM5WNy7yZkkZO-CAKFAd1pQhWeIaxn9LLkkzkSDbU&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=WwCOTQXT2dgASdXTFRHWvw&_nc_ss=7a3a8&oh=00_Af1qaOZ42YcoadH4az2ZeccdgRJsNnyqR2NAmU3pp_jESQ&oe=69E71717",
+                        "height": 1080,
+                        "width": 1440,
+                        "accessibility_caption": "Không có mô tả ảnh.",
+                        "real_width": 1440,
+                        "real_height": 1080
+                    },
+                    {
+                        "id": "1169724001832004",
+                        "url": "https://www.facebook.com/photo.php?fbid=1169724001832004&set=a.640796271391449&type=3",
+                        "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/491839152_1169724005165337_2687695610701425818_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=7b2446&_nc_ohc=zZ0f46un080Q7kNvwHG6UOm&_nc_oc=AdpqxIEvhjIArsOkoZWSRgaVThnNJ-CIewdS7Kl8GqqbZd76VousCx_lOEh8RKBtrRs&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=WwCOTQXT2dgASdXTFRHWvw&_nc_ss=7a3a8&oh=00_Af0E3uo-noYcC85l7qU3YZcxuo_0x-b-QduflNQiZWHrtw&oe=69E7297C",
+                        "height": 1440,
+                        "width": 1080,
+                        "accessibility_caption": "Không có mô tả ảnh.",
+                        "real_width": 1080,
+                        "real_height": 1440
+                    }
+                ],
+                "photo": null,
+                "video": null
+            },
+            "text": "Suy thận giai đoạn cuối ở tuổi 26 vì thói quen thức khuya, ăn mỳ tôm và nước ngọt...\n\nBạn ấy tên là Hoàng Nguyễn, năm nay mới chỉ 26 tuổi. Trên TikTok, bạn chia sẻ về hành trình chữa bệnh của mình với cái tên rất đặc biệt: Hoàng Nguyễn Chạy Thận.\n\nTrước đây, Hoàng làm MMO, một công việc khiến Hoàng thường xuyên thức khuya, sống lệch giờ sinh học. Bữa ăn chủ yếu là mỳ tôm và nước ngọt. \n\nCho đến một ngày, Hoàng bắt đầu thấy buồn nôn, chán ăn, cơ thể mệt mỏi không rõ lý do. Hoàng đi khám và nhận tin dữ: suy thận giai đoạn cuối.\n\nTừ một thanh niên trẻ đầy năng lượng, Hoàng giờ đây phải gắn liền cuộc sống với máy chạy thận đến cuối đời...",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Hà Nội News",
+                    "id": "100063832440488",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/Hanoinews.Official",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1744816656000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

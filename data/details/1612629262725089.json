@@ -1,0 +1,147 @@
+{
+    "result": {
+        "id": "UzpfSTE2MTI2MjkyNjI3MjUwODk6Vks6MTYxMjYyOTI2MjcyNTA4OQ==",
+        "post_id": "1612629262725089",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1612629262725089/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "9512600902190730",
+                "url": "https://rsvp.withgoogle.com/events/google-generative-ai-intensive_2025q1",
+                "uri": "https://external.fsgn2-7.fna.fbcdn.net/emg1/v/t13/16873644403630530653?url=https%3A%2F%2Fstorage.googleapis.com%2Fkaggle-media%2FImages%2FScreenshot%25202025-02-21%2520at%25206.20.34%25E2%2580%25AFPM.png&fb_obo=1&utld=googleapis.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p800x417_q75_tt6&_nc_gid=TQqvAvDpRLyhkIfq48TVbA&_nc_oc=Adq0USTfezEJf43VshlOMm9fdVgli1m6uHBrSrrcCqJRNO4Ci230YXMnLfalhnxw8rM&ccb=13-1&oh=06_Q3--AdaC130erMA5_G6_QgcPdY-dyKmAD2q3pssBLQVJ3gi3&oe=69E38321&_nc_sid=c97757",
+                "height": 417,
+                "width": 800,
+                "accessibility_caption": "5-Day Gen AI Intensive Course with Google"
+            },
+            "video": null
+        },
+        "text": "5️⃣ngày học “Gen AI Intensive Course” miễn phí được dạy trực tiếp bởi Google\n\nThời gian học 31.3-4.4\n- Có record\n- Có certificate \n\nKhông có qui định độ tuổi, nên ai quan tâm đều có thể học được.\n\nLinh đki nhé\n ",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100003227445795",
+                "name": "Art Pika",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/phi.long.58152"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 5,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 4,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1743173842000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1612629262725089",
+            "content_owner_id_new": "100003227445795",
+            "page_id": "407092279153345",
+            "story_location": 9,
+            "story_attachment_style": "share",
+            "ent_attachement_type": "ExternalShareAttachment",
+            "page_insights": {
+                "100003227445795": {
+                    "page_id": "100003227445795",
+                    "page_id_type": "page",
+                    "actor_id": "100003227445795",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1612629262725089",
+                        "sharedMediaOwnerID": "100003227445795"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1743173619,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1612629262725089"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100003227445795",
+                            "page_id": "100003227445795",
+                            "post_id": "1612629262725089",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100003227445795",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1612629262725089",
+                        "sharedMediaOwnerID": "100003227445795"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1743173619,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1612629262725089"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100003227445795",
+            "actrs": "100003227445795",
+            "url_id": "9482564961765213",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=TQqvAvDpRLyhkIfq48TVbA&_nc_ss=7a3a8&oh=00_Af1pBR4i_j6Lo7C71PjeHUNd4OW1ZqM8L1txLvDAS9iICw&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

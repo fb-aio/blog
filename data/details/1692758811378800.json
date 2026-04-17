@@ -1,0 +1,231 @@
+{
+    "result": {
+        "id": "UzpfSTE2OTI3NTg4MTEzNzg4MDA6Vks6MTY5Mjc1ODgxMTM3ODgwMA==",
+        "post_id": "1692758811378800",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1692758811378800/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Kiến thức cần nắm🧐",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 10,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 10,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1753098663000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1692758811378800",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1076595341225996",
+            "original_content_owner_id": "100066266210991",
+            "page_id": "410892812277692",
+            "story_location": 9,
+            "attached_story_attachment_style": "video_autoplay",
+            "video_id": "1206966081203203",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "VideoAttachment",
+            "page_insights": {
+                "100066266210991": {
+                    "page_id": "100066266210991",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100066266210991",
+                        "page_id_type": "page",
+                        "actor_id": "100066266210991",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1753072226,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1076595341225996"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1692758811378800",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100066266210991",
+                            "post_id": "1076595341225996",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1076595341225996",
+                        "sharedMediaID": "1692758811378800",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1753098663,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1692758811378800"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=2IMF0Me2KRNCI4hbbFfpAA&_nc_ss=7a3a8&oh=00_Af2Ds7CmBVe5Ic2J3wm4ubAu0lVbTpt-cCDDzyI8kptkSA&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA2NjI2NjIxMDk5MToxMDc2NTk1MzQxMjI1OTk2OjEwNzY1OTUzNDEyMjU5OTY=",
+            "post_id": "1076595341225996",
+            "url": "https://www.facebook.com/thoisuvtv/videos/1206966081203203/",
+            "media": {
+                "subAttachments": [],
+                "photo": null,
+                "video": {
+                    "id": "1206966081203203",
+                    "url": "https://www.facebook.com/thoisuvtv/videos/1206966081203203/",
+                    "thumbnail": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t15.5256-10/522671198_1274954097324796_1601322817928527130_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=50ce42&_nc_ohc=mnp1mSfZKIMQ7kNvwEx67vk&_nc_oc=AdoLAiAz4upsPKokKm7sXD0etBYBoVFN6JuWy1smycZ47C5tvgpfRcnGrGrlpcMWAW4&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=2IMF0Me2KRNCI4hbbFfpAA&_nc_ss=7a3a8&oh=00_Af1sSSInG-88poKJklhGJgKcNB_LZPYYaNBL1-p3hy2BMw&oe=69E76C2E",
+                    "duration": 86448,
+                    "width": 1080,
+                    "height": 1080,
+                    "original_width": 1080,
+                    "original_height": 1080,
+                    "publish_time": 0,
+                    "audio_availability": "AVAILABLE",
+                    "is_live_streaming": false,
+                    "is_spherical": false,
+                    "is_looping": false,
+                    "loop_count": 0,
+                    "source": {
+                        "variants": []
+                    },
+                    "sprite": {
+                        "uris": [
+                            "https://scontent.fsgn2-3.fna.fbcdn.net/v/t15.5256-10/521448478_1277254860501904_7419486765961549086_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=62976d&_nc_ohc=rLlDVIjOu3wQ7kNvwHomm9B&_nc_oc=AdqG6ElxvD5JsO2ZkFq1gLBWRAE_PZzmwuXRR-CXkqsR2EHe3_l10-azu7uEl1d3w7A&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=2IMF0Me2KRNCI4hbbFfpAA&_nc_ss=7a3a8&oh=00_Af30iOpfITEeIh3OQb18VGQ4q0Nxj9NgSymPGOtjolg3hA&oe=69E77AAA"
+                        ],
+                        "thumbnail_width": 100,
+                        "thumbnail_height": 100,
+                        "num_images_per_row": 10,
+                        "max_number_of_images_per_sprite": 100,
+                        "time_interval_between_image": 1
+                    }
+                }
+            },
+            "text": "Từ GIÓ NHẸ đến SIÊU BÃO \nHiểu để ứng phó kịp thời\n#vtv #vtvthoisu",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [
+                "#vtv",
+                "#vtvthoisu"
+            ],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Thời sự VTV",
+                    "id": "100066266210991",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/thoisuvtv",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1753072226000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

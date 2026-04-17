@@ -1,0 +1,650 @@
+{
+    "result": {
+        "id": "UzpfSTE3NzcxNTA4MDYyNzI5MzM6Vks6MTc3NzE1MDgwNjI3MjkzMw==",
+        "post_id": "1777150806272933",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1777150806272933/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "819040547522584",
+                "url": "https://www.facebook.com/photo/?fbid=819040547522584&set=gm.1777150806272933&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/578259702_819040550855917_6655700787525907468_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=108&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=YJbBAh30y44Q7kNvwEQIGQx&_nc_oc=AdoXem384qPWrRYijBrqqIXSf-heUKn2UC8WARysZhYdZz5gjahbE7kmzaux-6w_ZJ8&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=JGKkqOWFaxrBA-zoGDmKHg&_nc_ss=7a3a8&oh=00_Af3NQQk-Bla2eB9Jo2icsgoFKcyGD9qGrz2ZsOmL_61HyA&oe=69E77F3F",
+                "height": 1598,
+                "width": 1730,
+                "accessibility_caption": "Không có mô tả ảnh.",
+                "accent_color": "FF212830",
+                "real_width": 1730,
+                "real_height": 1598
+            },
+            "video": null
+        },
+        "text": "# Tiếp nối câu chuyện ro phym 🐧\n\nAnh bạn kia code thì lắm, chèn cả trash code (code ko dùng tới) cho nó nhiều, rồi dùng jsfuc* để làm rối, cuối cùng cũng chỉ để ẩn đoạn code bé tý này 😌\n\n* Tính ra chỉ sử dụng 33/642 dòng code (5%)\n* Còn lại toàn là code kiểm tra điều kiện, code rác, code chống \"ăn c*p bản quyền cờ rắc\" 🙂\n* Anh bạn còn ảo tưởng nghĩ ad mất cả đêm thức để giải mã 🤣 Dùng web de4js giải 5s bạn ơi, tại bạn cờ rắc cả FB AIO nên tui mới giúp bạn \"trả gió\"\n> Cờ rắc là sai trái, không cần biện hộ nhiều.\n> P/s: Mình đã báo cho chủ trang web, trước khi công khai code này, họ cũng xác nhận chưa ảnh hưởng lắm, nên chưa cần fix\n> P/s 2: Bài viết này nhằm mục đích chia sẻ kiến thức, tìm phương thức bảo mật tốt hơn, không khuyên mn dùng code dưới nha\n# Giờ bàn tới chuyện làm sao để chủ trang web tránh được dạng chít lỏ này 🥸\n\n## Có RẤT NHIỀU cách:\n* 🕵️ **Self-check (tamper detection)**: kiểm tra hàm `send` có phải native hay không, hay đã bị chỉnh sửa bởi bên khác.\n* 🔏 **Ký response bằng HMAC / JWT** — gửi dữ liệu kèm chữ ký (signature) do server tạo; client có thể đọc nhưng attacker không thể tạo chữ ký hợp lệ nếu không có secret\n* 🧰 **Đặt mọi quyền / logic VIP phía server **Check logic VIP theo session, không phải theo fetch => server toàn quyền check, không bao giờ tin data từ client\n* 🧩 **Dùng SRI (Subresource Integrity) + CSP (Content Security Policy)** để giảm rủi ro mã JS bị thay đổi khi tải từ CDN hoặc supply-chain — đảm bảo script bạn load không bị thay đổi trên đường truyền\n* 🧊 **Đóng băng prototype / harden môi trường tải script** — `Object.freeze(XMLHttpRequest.prototype)` hoặc defineProperty không configurable để làm khó override, nhưng **không tuyệt đối** (attacker có full control client)\n* 🔐 **TLS + HSTS + đúng CORS** để giảm MITM (man-in-the-middle) khả năng sửa payload trên đường truyền. (HTTPS / HSTS / CORS)\n* ⏳ **Token ngắn hạn + refresh flow**: nếu cần quyền đặc biệt, trả token ngắn hạn sau khi re-auth; khó cho attacker giữ token lâu để giả mạo. (short-lived token).\n* 🧾 **Kiểm tra dữ liệu trên server khi thực hiện hành động quan trọng** (authorization check) — ví dụ: trước khi cấp phép xem nội dung VIP, server kiểm tra DB/role, không chỉ đọc từ JSON client.\n\n⚠️ Những thứ **không** nên tin tưởng client:\n* ❌ **Tin hoàn toàn vào check JS trên client** (ví dụ: kiểm tra `send` có bị override) — attacker có thể sửa cả code kiểm tra.\n* ❌ **Mã hoá/obfuscate JS** để bảo vệ logic nhạy cảm —> chỉ làm khó nhẹ, không ngăn giải mã. (obfuscation ≠ security).\n\n## Bài viết trước đó:\n\nTập 1: [https://www.facebook.com/share/p/1DAJw6ZhEV/](https://www.facebook.com/share/p/1DAJw6ZhEV/)\n\nTập 2: [https://www.facebook.com/share/p/1DHRbAHxPY/](https://www.facebook.com/share/p/1DHRbAHxPY/)\n\n#fb_aio",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Tiếp nối câu chuyện ro phym 🐧"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Anh bạn kia code thì lắm, chèn cả trash code (code ko dùng tới) cho nó nhiều, rồi dùng jsfuc* để làm rối, cuối cùng cũng chỉ để ẩn đoạn code bé tý này 😌"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Tính ra chỉ sử dụng 33/642 dòng code (5%)"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Còn lại toàn là code kiểm tra điều kiện, code rác, code chống \"ăn c*p bản quyền cờ rắc\" 🙂"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Anh bạn còn ảo tưởng nghĩ ad mất cả đêm thức để giải mã 🤣 Dùng web de4js giải 5s bạn ơi, tại bạn cờ rắc cả FB AIO nên tui mới giúp bạn \"trả gió\""
+            },
+            {
+                "__typename": "ComposedBlockquoteBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                "block_type": "BLOCKQUOTE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Cờ rắc là sai trái, không cần biện hộ nhiều."
+            },
+            {
+                "__typename": "ComposedBlockquoteBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                "block_type": "BLOCKQUOTE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "P/s: Mình đã báo cho chủ trang web, trước khi công khai code này, họ cũng xác nhận chưa ảnh hưởng lắm, nên chưa cần fix"
+            },
+            {
+                "__typename": "ComposedBlockquoteBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                "block_type": "BLOCKQUOTE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "P/s 2: Bài viết này nhằm mục đích chia sẻ kiến thức, tìm phương thức bảo mật tốt hơn, không khuyên mn dùng code dưới nha"
+            },
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Giờ bàn tới chuyện làm sao để chủ trang web tránh được dạng chít lỏ này 🥸"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedHeaderTwoBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                "block_type": "HEADER_TWO",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Có RẤT NHIỀU cách:"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 29,
+                        "offset": 3
+                    },
+                    {
+                        "inline_style": "CODE",
+                        "length": 4,
+                        "offset": 47
+                    }
+                ],
+                "text": "🕵️ Self-check (tamper detection): kiểm tra hàm send có phải native hay không, hay đã bị chỉnh sửa bởi bên khác."
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 27,
+                        "offset": 2
+                    }
+                ],
+                "text": "🔏 Ký response bằng HMAC / JWT — gửi dữ liệu kèm chữ ký (signature) do server tạo; client có thể đọc nhưng attacker không thể tạo chữ ký hợp lệ nếu không có secret"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 38,
+                        "offset": 2
+                    }
+                ],
+                "text": "🧰 Đặt mọi quyền / logic VIP phía server Check logic VIP theo session, không phải theo fetch => server toàn quyền check, không bao giờ tin data từ client"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 64,
+                        "offset": 2
+                    }
+                ],
+                "text": "🧩 Dùng SRI (Subresource Integrity) + CSP (Content Security Policy) để giảm rủi ro mã JS bị thay đổi khi tải từ CDN hoặc supply-chain — đảm bảo script bạn load không bị thay đổi trên đường truyền"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 50,
+                        "offset": 2
+                    },
+                    {
+                        "inline_style": "CODE",
+                        "length": 39,
+                        "offset": 55
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 15,
+                        "offset": 161
+                    }
+                ],
+                "text": "🧊 Đóng băng prototype / harden môi trường tải script — Object.freeze(XMLHttpRequest.prototype) hoặc defineProperty không configurable để làm khó override, nhưng không tuyệt đối (attacker có full control client)"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 22,
+                        "offset": 2
+                    }
+                ],
+                "text": "🔐 TLS + HSTS + đúng CORS để giảm MITM (man-in-the-middle) khả năng sửa payload trên đường truyền. (HTTPS / HSTS / CORS)"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 29,
+                        "offset": 2
+                    }
+                ],
+                "text": "⏳ Token ngắn hạn + refresh flow: nếu cần quyền đặc biệt, trả token ngắn hạn sau khi re-auth; khó cho attacker giữ token lâu để giả mạo. (short-lived token)."
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 63,
+                        "offset": 2
+                    }
+                ],
+                "text": "🧾 Kiểm tra dữ liệu trên server khi thực hiện hành động quan trọng (authorization check) — ví dụ: trước khi cấp phép xem nội dung VIP, server kiểm tra DB/role, không chỉ đọc từ JSON client."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 5,
+                        "offset": 13
+                    }
+                ],
+                "text": "⚠️ Những thứ không nên tin tưởng client:"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 38,
+                        "offset": 2
+                    },
+                    {
+                        "inline_style": "CODE",
+                        "length": 4,
+                        "offset": 58
+                    }
+                ],
+                "text": "❌ Tin hoàn toàn vào check JS trên client (ví dụ: kiểm tra send có bị override) — attacker có thể sửa cả code kiểm tra."
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 19,
+                        "offset": 2
+                    }
+                ],
+                "text": "❌ Mã hoá/obfuscate JS để bảo vệ logic nhạy cảm —> chỉ làm khó nhẹ, không ngăn giải mã. (obfuscation ≠ security)."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedHeaderTwoBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                "block_type": "HEADER_TWO",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Bài viết trước đó:"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Tập 1: https://www.facebook.com/share/p/1DAJw6ZhEV/"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Tập 2: https://www.facebook.com/share/p/1DHRbAHxPY/"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fb_aio",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fb_aio",
+                            "__isNode": "Hashtag",
+                            "id": "8080904801977702"
+                        },
+                        "length": 7,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fb_aio"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100082499383506",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 6,
+            "total_count": 8,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Bạn đã ẩn",
+                        "description": "Hiển thị bình luận đã ẩn của bạn trong ngữ cảnh gốc của bài viết. Chỉ bạn mới nhìn thấy nội dung này.",
+                        "intent_token": "ADMIN_HIDDEN_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 50,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 39,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 7,
+                    "name": "Haha"
+                },
+                {
+                    "id": "478547315650144",
+                    "count": 3,
+                    "name": "Wow"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 9,
+        "created_time": 1762401130000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1777150806272933",
+            "content_owner_id_new": "100082499383506",
+            "page_id": "845529898638466",
+            "photo_id": "819040547522584",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "100082499383506": {
+                    "page_id": "100082499383506",
+                    "page_id_type": "page",
+                    "actor_id": "100082499383506",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1762401130,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1777150806272933"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100082499383506",
+                            "page_id": "100082499383506",
+                            "post_id": "1777150806272933",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100082499383506",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1762401130,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1777150806272933"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100082499383506",
+            "actrs": "100082499383506",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=JGKkqOWFaxrBA-zoGDmKHg&_nc_ss=7a3a8&oh=00_Af3UifaW2GBu5HlC4MRmifsG_znUloBgShrL8LmCy_Hidg&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

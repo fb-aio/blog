@@ -1,0 +1,122 @@
+{
+    "result": {
+        "id": "UzpfSTE0MzQ1NjIwNjM4NjUxNDQ6Vks6MTQzNDU2MjA2Mzg2NTE0NA==",
+        "post_id": "1434562063865144",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1434562063865144/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Nhóm dành cho các thành viên đang sử dụng extension Useful-script\n\nExtension mã nguồn mở tại: https://github.com/HoangTran0410/useful-script\n\nDonate giúp admin thêm nhiều ý tưởng và sức lực code tool: \nhttps://github.com/HoangTran0410/HoangTran0410/blob/main/DONATE.md",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2dpdGh1Yi5jb20vSG9hbmdUcmFuMDQxMC91c2VmdWwtc2NyaXB0Ojo6OjoxNDM0NTYyMDYzODY1MTQ0",
+                "name": "https://github.com/HoangTran0410/useful-script",
+                "url": "https://github.com/HoangTran0410/useful-script",
+                "length": 46,
+                "offset": 94
+            },
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2dpdGh1Yi5jb20vSG9hbmdUcmFuMDQxMC9Ib2FuZ1RyYW4wNDEwL2Jsb2IvbWFpbi9ET05BVEUubWQ6Ojo6OjE0MzQ1NjIwNjM4NjUxNDQ=",
+                "name": "https://github.com/HoangTran0410/HoangTran0410/blob/main/DONATE.md",
+                "url": "https://github.com/HoangTran0410/HoangTran0410/blob/main/DONATE.md",
+                "length": 66,
+                "offset": 202
+            }
+        ],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 3,
+            "top": [
+                {
+                    "id": "1678524932434102",
+                    "count": 2,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "1635855486666999",
+                    "count": 1,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": null,
+        "created_time": 1718900568000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1434562063865144",
+            "content_owner_id_new": "100004848287494",
+            "story_location": 9,
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupDescriptionChangeCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1718900568,
+                        "story_name": "EntGroupDescriptionChangeCreationStory",
+                        "story_fbid": [
+                            "1434562063865144"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=lMt0xLIiYcKTSeamGpXQDA&_nc_ss=7a3a8&oh=00_Af1gvYfc03_AciTkxgkzsHEcY0IApJ4ZD8yrhQyG6NbnTA&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

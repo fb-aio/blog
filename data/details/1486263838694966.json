@@ -1,0 +1,367 @@
+{
+    "result": {
+        "id": "UzpfSTE0ODYyNjM4Mzg2OTQ5NjY6Vks6MTQ4NjI2MzgzODY5NDk2Ng==",
+        "post_id": "1486263838694966",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1486263838694966/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2636624936509090",
+                "url": "https://www.facebook.com/photo/?fbid=2636624936509090&set=gm.1486263838694966&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/493464226_2839313369573578_2600728816829975101_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=Wf45veSSfIMQ7kNvwEbwvAX&_nc_oc=AdqCYBfF-kSxfIj_E12JlSQkfhISwWyiEzUfQLN2x13GwKwj9lC1t_hhzxzJvooyjok&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=s8JF3_oDBOye18d4RUSfRg&_nc_ss=7a3a8&oh=00_Af0QeuZYvmqxHdGPalIVwq5SsI05V8xqqo0BZQNz0AQSdw&oe=69E78208",
+                "height": 441,
+                "width": 627,
+                "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                "accent_color": "FF252728",
+                "real_width": 627,
+                "real_height": 441
+            },
+            "video": null
+        },
+        "text": "# Dời ngày tặng VIP\n\nGroup có mở đợt tặng VIP hồi tuần trước (05/09/2024)\n\nhttps://j2c.cc/fb-aio-tang-VIP\n\nNhưng do tuần vừa rồi bận bịu quá, **bão** rồi **sao kê**, rồi **công việc**.\n\nNên mình chưa làm xong các thứ cần thiết để có thể thống kê tặng VIP cho mọi người:\n* **Server** lưu VIP + mở VIP từ xa\n* **Tool** thống kê/xếp hạng tương tác thành viên nhóm\n\nNên mình xin phép dời ngày, sẵn mn cũng có **thêm thời gian để tăng điểm** giựt VIP nha (like/comment/share)\n\nDự là sẽ kéo ra thêm tới cuối tuần sau. Mình cũng sẽ code luôn mấy chức năng mới cho fb aio, để VIP thêm phần giá trị kkk\n\nXin cảm ơn mọi người. 🥹",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Dời ngày tặng VIP"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Group có mở đợt tặng VIP hồi tuần trước (05/09/2024)"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "IMPLICIT_LINK",
+                        "entity": {
+                            "__typename": "ExternalUrl",
+                            "__isEntity": "ExternalUrl",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fj2c.cc%2Ffb-aio-tang-VIP&h=AT5dIXbA-rxJCgpVUhwmBIJfA8GJ1YV_vOaDQqR2r_g39vyywIsYnkKxLl_vSVkd9BxicuLmXiVbEaoU40GpytHbiUwoyK3ZTHFHJeMD3BvRztJuCPcXouypky0Ka4YOq1MVv_2xsQ&s=1",
+                            "external_url": "https://j2c.cc/fb-aio-tang-VIP",
+                            "__isWebLinkable": "ExternalUrl",
+                            "web_link": {
+                                "__typename": "ExternalWebLink",
+                                "url": "https://j2c.cc/fb-aio-tang-VIP",
+                                "fbclid": "IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsTGMQ0HMh1ebxyigIc2QMEwhFjROzcUYbQ81hOagzDUcPdR4lD0fqLMalY4_aem_Nnoxop3AfnHCKzuNFth5Eg",
+                                "lynx_mode": "ASYNCLAZY"
+                            },
+                            "mobileUrl": "https://lm.facebook.com/l.php?u=https%3A%2F%2Fj2c.cc%2Ffb-aio-tang-VIP&h=AT6erCK5JPnvPuiS54fYF6RC5SLL3VdNwf6uc9TLyScSb_Dvl71b_oVl4pzNr_7-Of0CVrJ8INuId8Bowiz8tMCc5ho1c-B5__rj6xgfPbe_7sKgKUmBye2WdMiBWfBNS-LLZbbzSg&s=1",
+                            "__isNode": "ExternalUrl",
+                            "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2oyYy5jYy9mYi1haW8tdGFuZy1WSVA6Ojo6Og=="
+                        },
+                        "length": 30,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "https://j2c.cc/fb-aio-tang-VIP"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 3,
+                        "offset": 35
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 6,
+                        "offset": 43
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 9,
+                        "offset": 55
+                    }
+                ],
+                "text": "Nhưng do tuần vừa rồi bận bịu quá, bão rồi sao kê, rồi công việc."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Nên mình chưa làm xong các thứ cần thiết để có thể thống kê tặng VIP cho mọi người:"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 6,
+                        "offset": 0
+                    }
+                ],
+                "text": "Server lưu VIP + mở VIP từ xa"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 4,
+                        "offset": 0
+                    }
+                ],
+                "text": "Tool thống kê/xếp hạng tương tác thành viên nhóm"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 27,
+                        "offset": 43
+                    }
+                ],
+                "text": "Nên mình xin phép dời ngày, sẵn mn cũng có thêm thời gian để tăng điểm giựt VIP nha (like/comment/share)"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Dự là sẽ kéo ra thêm tới cuối tuần sau. Mình cũng sẽ code luôn mấy chức năng mới cho fb aio, để VIP thêm phần giá trị kkk\n\nXin cảm ơn mọi người. 🥹"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2oyYy5jYy9mYi1haW8tdGFuZy1WSVA6Ojo6Og==",
+                "name": "https://j2c.cc/fb-aio-tang-VIP",
+                "url": "https://j2c.cc/fb-aio-tang-VIP",
+                "length": 30,
+                "offset": 0
+            }
+        ],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 6,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 28,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 21,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 6,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "613557422527858",
+                    "count": 1,
+                    "name": "Thương thương"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1726542209000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1486263838694966",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2636624936509090",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1726542209,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1486263838694966"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=s8JF3_oDBOye18d4RUSfRg&_nc_ss=7a3a8&oh=00_Af2vBMKKKtvbhA8shqgkybYsNrKEV9VpwfSuxNa_HcE7_A&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

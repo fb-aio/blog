@@ -1,0 +1,369 @@
+{
+    "result": {
+        "id": "UzpfSTE1MzM5MDc4NTA1OTcyMzE6Vks6MTUzMzkwNzg1MDU5NzIzMQ==",
+        "post_id": "1533907850597231",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1533907850597231/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2706179286220321",
+                "url": "https://www.facebook.com/photo/?fbid=2706179286220321&set=gm.1533907850597231&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/504153212_2879159805588934_280796667202683105_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=GuN1yuqsyUoQ7kNvwFuDdvQ&_nc_oc=AdqAgTVCyj1f3c5lHJEuZsEuby014bY3ryPFeEUoMNHFCrLH6G96xKeKIE3oMb6yjrI&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=SUuTb9l2eVyxSUV8OeaziQ&_nc_ss=7a3a8&oh=00_Af1Y84huNatgvXKiSzMa79-Th48qt_13ML8q04fiDmMy6A&oe=69E799E4",
+                "height": 804,
+                "width": 658,
+                "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                "accent_color": "FF181818",
+                "real_width": 658,
+                "real_height": 804
+            },
+            "video": null
+        },
+        "text": "# **Chia hoa hồng FB AIO 🌹**\n\nMọi người nghĩa sao nếu mình chia **hoa hồng 20%** (của 65k/tháng) cho những ai quảng cáo được FB AIO tới bạn bè 🤔🤔\n\n1 người = 13k\n\n10 người =130k\n\n50 người = 650k\n\n...\n\nVí dụ bạn đăng bài lên threads/tiktok/youtube/fb, bất kỳ chức năng nào của FBAIO, bất cứ content nào b thấy hay, thấy có thể hút khách *(hạn chế spam là được, kẻo bị đánh giá xấu)*.\n\nNếu có khách hàng thấy, dùng thử và mua FBAIO từ mình, bạn sẽ nhận đc 20% 🌹* (mình sẽ hỏi trực tiếp khách biết tới FB AIO từ đâu)*\n\nNhư bác Ngô Quang Huy hôm bữa đăng lên Threads, nhận hơn 1k tương tác, khách mua cũng kha khá đó 👀🌟\n\nMình cũng đã tạo tiktok/threads, nhưng chưa có nhiều thời gian để đăng bài quảng bá, giờ cách hoa hồng này coi như đôi bên cùng có lợi vậy 🤣\n\nMn có thể bắt đầu ngay từ bây giờ, có thể nhắn cho mình biết trước cũng được, còn lại là nhờ khả năng và tầm ảnh hưởng của mn 🫶",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 22,
+                        "offset": 0
+                    }
+                ],
+                "text": "Chia hoa hồng FB AIO 🌹"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 12,
+                        "offset": 34
+                    }
+                ],
+                "text": "Mọi người nghĩa sao nếu mình chia hoa hồng 20% (của 65k/tháng) cho những ai quảng cáo được FB AIO tới bạn bè 🤔🤔"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "1 người = 13k"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "10 người =130k"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "50 người = 650k"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "..."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "ITALIC",
+                        "length": 43,
+                        "offset": 135
+                    }
+                ],
+                "text": "Ví dụ bạn đăng bài lên threads/tiktok/youtube/fb, bất kỳ chức năng nào của FBAIO, bất cứ content nào b thấy hay, thấy có thể hút khách (hạn chế spam là được, kẻo bị đánh giá xấu)."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "ITALIC",
+                        "length": 53,
+                        "offset": 75
+                    }
+                ],
+                "text": "Nếu có khách hàng thấy, dùng thử và mua FBAIO từ mình, bạn sẽ nhận đc 20% 🌹 (mình sẽ hỏi trực tiếp khách biết tới FB AIO từ đâu)"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Như bác Ngô Quang Huy hôm bữa đăng lên Threads, nhận hơn 1k tương tác, khách mua cũng kha khá đó 👀🌟"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Mình cũng đã tạo tiktok/threads, nhưng chưa có nhiều thời gian để đăng bài quảng bá, giờ cách hoa hồng này coi như đôi bên cùng có lợi vậy 🤣"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Mn có thể bắt đầu ngay từ bây giờ, có thể nhắn cho mình biết trước cũng được, còn lại là nhờ khả năng và tầm ảnh hưởng của mn 🫶"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 3,
+            "total_count": 7,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 15,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 12,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 3,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1732693242000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1533907850597231",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2706179286220321",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1732693242,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1533907850597231"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=SUuTb9l2eVyxSUV8OeaziQ&_nc_ss=7a3a8&oh=00_Af1AuOGoNm8CgbubK6x_pweD4bhx9RFldG7bUsNh3-l6gg&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

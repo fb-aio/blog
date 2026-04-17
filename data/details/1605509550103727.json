@@ -1,0 +1,424 @@
+{
+    "result": {
+        "id": "UzpfSTE2MDU1MDk1NTAxMDM3Mjc6Vks6MTYwNTUwOTU1MDEwMzcyNw==",
+        "post_id": "1605509550103727",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1605509550103727/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Những gương mặt trên đồng tiền của các nước trên thế giới 👀\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fbaio_share",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fbaio_share",
+                            "__isNode": "Hashtag",
+                            "id": "8771715079560378"
+                        },
+                        "length": 12,
+                        "offset": 61
+                    }
+                ],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 9,
+                        "offset": 6
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 9,
+                        "offset": 21
+                    }
+                ],
+                "text": "Những gương mặt trên đồng tiền của các nước trên thế giới 👀\n\n#fbaio_share"
+            }
+        ],
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 2,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 2,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1742279965000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1605509550103727",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "649062698608558",
+            "original_content_owner_id": "100066711103874",
+            "page_id": "356906814490816",
+            "photo_id": "649062698608558",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntComposerPhotoCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "601034940": {
+                    "page_id": 601034940,
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": 601034940,
+                        "page_id_type": "page",
+                        "actor_id": "100066711103874",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntComposerPhotoCreationStory",
+                        "role": 8,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 8,
+                    "sl": 9
+                },
+                "782895470": {
+                    "page_id": 782895470,
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": 782895470,
+                        "page_id_type": "page",
+                        "actor_id": "100066711103874",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntComposerPhotoCreationStory",
+                        "role": 8,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 8,
+                    "sl": 9
+                },
+                "1779090319": {
+                    "page_id": 1779090319,
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": 1779090319,
+                        "page_id_type": "page",
+                        "actor_id": "100066711103874",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntComposerPhotoCreationStory",
+                        "role": 8,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 8,
+                    "sl": 9
+                },
+                "100066711103874": {
+                    "page_id": "100066711103874",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100066711103874",
+                        "page_id_type": "page",
+                        "actor_id": "100066711103874",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntComposerPhotoCreationStory",
+                        "post_context": {
+                            "object_fbtype": 22,
+                            "publish_time": 1479385417,
+                            "story_name": "EntComposerPhotoCreationStory",
+                            "story_fbid": [
+                                "649062698608558"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1605509550103727",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100066711103874",
+                            "post_id": "649062698608558",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "100019043323517": {
+                    "page_id": "100019043323517",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100019043323517",
+                        "page_id_type": "page",
+                        "actor_id": "100066711103874",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntComposerPhotoCreationStory",
+                        "role": 8,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 8,
+                    "sl": 9
+                },
+                "100006452645815": {
+                    "page_id": "100006452645815",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100006452645815",
+                        "page_id_type": "page",
+                        "actor_id": "100066711103874",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntComposerPhotoCreationStory",
+                        "role": 8,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 8,
+                    "sl": 9
+                },
+                "100045545135169": {
+                    "page_id": "100045545135169",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100045545135169",
+                        "page_id_type": "page",
+                        "actor_id": "100066711103874",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntComposerPhotoCreationStory",
+                        "role": 8,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 8,
+                    "sl": 9
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "649062698608558",
+                        "sharedMediaID": "1605509550103727",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1742279965,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1605509550103727"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=vQKBzu7ymfmVa4cNmLE-Mw&_nc_ss=7a3a8&oh=00_Af06NgnLH7IAidJoXggliVZMnw8fX6leZ3NFsszhqpeLRg&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA2NjcxMTEwMzg3NDpWSzo2NDkwNjI2OTg2MDg1NTg=",
+            "post_id": "649062698608558",
+            "url": "https://www.facebook.com/photo.php?fbid=649062698608558&set=a.420695603497473&type=3",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "649062698608558",
+                    "url": "https://fb.com/649062698608558",
+                    "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/503439014_2933702550144550_5519437616567874071_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=0327a3&_nc_ohc=DjbJeLSeYN8Q7kNvwHuv_nF&_nc_oc=AdouflNdzmdQCNKZ99w2KG9fz7ALUbmw_BnjxI2hRKeFpp00nP2xePNSDEYqcplwIL0&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=vQKBzu7ymfmVa4cNmLE-Mw&_nc_ss=7a3a8&oh=00_Af1bhpLbdHzI6HHPHpYoS6RAcdgQlp_iaY1-0gIke90huQ&oe=69E732F5",
+                    "height": 1024,
+                    "width": 1024,
+                    "accessibility_caption": "Không có mô tả ảnh."
+                },
+                "video": null
+            },
+            "text": "360°\nSuivez-nous sur : https://www.instagram.com/economistes_marocains/",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [
+                {
+                    "type": "ExternalUrl",
+                    "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3d3dy5pbnN0YWdyYW0uY29tL2Vjb25vbWlzdGVzXGJtYXJvY2FpbnMvOjo6Ojo2NDkwNjI2OTg2MDg1NTg=",
+                    "name": "https://www.instagram.com/economistes_marocains/",
+                    "url": "https://www.instagram.com/economistes_marocains/",
+                    "length": 48,
+                    "offset": 23
+                }
+            ],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Economistes Marocains",
+                    "id": "100066711103874",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/EconomistesMarocains",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1479420001000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

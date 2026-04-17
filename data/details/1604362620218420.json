@@ -1,0 +1,136 @@
+{
+    "result": {
+        "id": "UzpfSTE2MDQzNjI2MjAyMTg0MjA6Vks6MTYwNDM2MjYyMDIxODQyMA==",
+        "post_id": "1604362620218420",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1604362620218420/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": {
+                "id": "1816846899072120",
+                "url": "https://www.facebook.com/9999.hoangtran/videos/1816846899072120/?idorvanity=1154059318582088",
+                "thumbnail": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t15.5256-10/485081185_2063742280797828_3601243307802431234_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=50ce42&_nc_ohc=njFSaMS3B9IQ7kNvwGH3pWs&_nc_oc=AdqXB4pcKcp2K6iLJFr2LKtf_SMQJIPcygN3b1c1IvUnzK-ytUC9-EDUoRx-vBaxGgg&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=ufCV1JEXrotx38iV4DHHxg&_nc_ss=7a3a8&oh=00_Af33PwUK0Y-rBQI73FFA9HiMwGyYqmkD7s7Em9qRgkQHMg&oe=69E790A4",
+                "duration": 20965,
+                "width": 720,
+                "height": 1280,
+                "original_width": 720,
+                "original_height": 1280,
+                "publish_time": 0,
+                "audio_availability": "AVAILABLE",
+                "is_live_streaming": false,
+                "is_spherical": false,
+                "is_looping": true,
+                "loop_count": 4,
+                "source": {
+                    "variants": []
+                },
+                "sprite": {
+                    "uris": [],
+                    "thumbnail_width": 0,
+                    "thumbnail_height": 0,
+                    "num_images_per_row": 10,
+                    "max_number_of_images_per_sprite": 100,
+                    "time_interval_between_image": 1
+                }
+            }
+        },
+        "text": "Chơi game giờ boss toàn tích hợp AI, chơi cũng nhàn 😌\n\n+ Giọng boss: AI voice\n+ Chiến thuật boss: AI response system - ưu tiên đánh mấy đứa hồi máu (healer)\n+ Tất cả chạy trên chip AI: Nvidia Geforce RTX\n\n😌😌😌\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 2,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 1,
+                    "name": "Thích"
+                },
+                {
+                    "id": "908563459236466",
+                    "count": 1,
+                    "name": "Buồn"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1742133598000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1604362620218420",
+            "content_owner_id_new": "100004848287494",
+            "story_location": 9,
+            "story_attachment_style": "fb_shorts_creation",
+            "video_id": "1816846899072120",
+            "ent_attachement_type": "FBShortsStoryAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1742133598,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1604362620218420"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=ufCV1JEXrotx38iV4DHHxg&_nc_ss=7a3a8&oh=00_Af0EF8eV8R4_K6Sqws2CKrUKLysU6cVRjswENCARsxTxcA&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

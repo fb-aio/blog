@@ -1,0 +1,358 @@
+{
+    "result": {
+        "id": "UzpfSTE4MjAxMzA2MTE5NzQ5NTI6Vks6MTgyMDEzMDYxMTk3NDk1Mg==",
+        "post_id": "1820130611974952",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1820130611974952/",
+        "media": {
+            "mediaset_token": "pcb.1820130611974952",
+            "subAttachments": [
+                {
+                    "id": "3088124434692469",
+                    "url": "https://www.facebook.com/photo.php?fbid=3088124434692469&set=gm.1820130601974953&type=3",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/612005459_3088124441359135_5942295172892260564_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=Xn0Slf3epbQQ7kNvwEiCCAG&_nc_oc=AdqmsIqt0a7_hDpQQPxJ0udlMurunK1AZAj79WXHZfXBkMXEqJsj0X_w_7ZYZYwarzY&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=MFaqmlJ13EPrqbdIV_5w1A&_nc_ss=7a3a8&oh=00_Af3y5ov0YfH49SsFh03YfJT_mfGEEzW_2eSV4J9ENYfEjg&oe=69E71E23",
+                    "height": 972,
+                    "width": 1165,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1165,
+                    "real_height": 972
+                },
+                {
+                    "id": "3088130414691871",
+                    "url": "https://www.facebook.com/photo.php?fbid=3088130414691871&set=gm.1820130608641619&type=3",
+                    "uri": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/611038096_3088130418025204_1018257591703601385_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=awXIVP6tuHQQ7kNvwFeAp8V&_nc_oc=AdqZMa1HkW_oxwnzLiJnrK2OccTZFnfkt6C_ufwo22s-L98TKaSbxppLlY1-AmFsono&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=MFaqmlJ13EPrqbdIV_5w1A&_nc_ss=7a3a8&oh=00_Af094qZaFxbSlXwFPqLCq5oaXv4PjUtmpgcUolIYjG7tgQ&oe=69E7268D",
+                    "height": 769,
+                    "width": 1153,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1153,
+                    "real_height": 769
+                },
+                {
+                    "id": "3088124908025755",
+                    "url": "https://www.facebook.com/photo.php?fbid=3088124908025755&set=gm.1820130605308286&type=3",
+                    "uri": "https://scontent.fsgn2-8.fna.fbcdn.net/v/t39.30808-6/611664638_3088124914692421_4305167319074857184_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=bX89uqd06pgQ7kNvwFlhxBD&_nc_oc=AdpmyfAdTbZ3XpyOlQNc9Hj2OoZO1EE5DFKRorXytsGRrL-t9zQDZSh3_8MGZnlacss&_nc_zt=23&_nc_ht=scontent.fsgn2-8.fna&_nc_gid=MFaqmlJ13EPrqbdIV_5w1A&_nc_ss=7a3a8&oh=00_Af3wCAiixywyFPNcgLbQxdm_4arUa4QEwXVKjFwY6dlqgw&oe=69E7214A",
+                    "height": 569,
+                    "width": 884,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 884,
+                    "real_height": 569
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# ⚡ Titan Bench - Đo sức mạnh phần cứng ngay trên trình duyệt 🤖\n\n* Đo sức mạnh Chip CPU (đơn nhân, đa nhân) + sức mạnh GPU 👀\n* Chạy trực tiếp trên trình duyệt, máy tính, điện thoại, win, mac, linux xài được hết 🌟\n* Tính tổng điểm và đưa ra kết quả, xem bạn thuộc tầng lớp thượng lưu nào 🤣\n* Hỗ trợ tạo AI Prompt 1 click, để copy đưa lên cho mấy AI khác nhận xét kết quả 🤖\n\nLưu ý:\n* **Giới hạn của trình duyệt**: không lấy đủ nhân CPU/RAM + bị hệ điều hành giới hạn truy cập => Điểm số có thể không hiển thị đúng sức mạnh thực sự của phần cứng 🫥\n* Nên tắt mọi ứng dụng khác, chỉ để lại 1 tab chạy titanbench để điểm số cao nhất 🤣\n\n> Ad flex điểm số của con mac của ad trước nhé 😎\n\nLinh dứoi còm\n\n#fb_aio",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "⚡ Titan Bench - Đo sức mạnh phần cứng ngay trên trình duyệt 🤖"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Đo sức mạnh Chip CPU (đơn nhân, đa nhân) + sức mạnh GPU 👀"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Chạy trực tiếp trên trình duyệt, máy tính, điện thoại, win, mac, linux xài được hết 🌟"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Tính tổng điểm và đưa ra kết quả, xem bạn thuộc tầng lớp thượng lưu nào 🤣"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Hỗ trợ tạo AI Prompt 1 click, để copy đưa lên cho mấy AI khác nhận xét kết quả 🤖"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Lưu ý:"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 24,
+                        "offset": 0
+                    }
+                ],
+                "text": "Giới hạn của trình duyệt: không lấy đủ nhân CPU/RAM + bị hệ điều hành giới hạn truy cập => Điểm số có thể không hiển thị đúng sức mạnh thực sự của phần cứng 🫥"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Nên tắt mọi ứng dụng khác, chỉ để lại 1 tab chạy titanbench để điểm số cao nhất 🤣"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedBlockquoteBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                "block_type": "BLOCKQUOTE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Ad flex điểm số của con mac của ad trước nhé 😎"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Linh dứoi còm"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fb_aio",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fb_aio",
+                            "__isNode": "Hashtag",
+                            "id": "8080904801977702"
+                        },
+                        "length": 7,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fb_aio"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 6,
+            "total_count": 12,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 23,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 22,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 4,
+        "created_time": 1767685300000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1820130611974952",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "3088124434692469",
+                "3088130414691871",
+                "3088124908025755"
+            ],
+            "photo_id": "3088124434692469",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1767685300,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1820130611974952"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=MFaqmlJ13EPrqbdIV_5w1A&_nc_ss=7a3a8&oh=00_Af2Ur9dNudBAif_zaB-tcJczohaURIkf3NjtzvpJbsSn5A&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

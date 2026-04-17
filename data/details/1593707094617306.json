@@ -1,0 +1,225 @@
+{
+    "result": {
+        "id": "UzpfSTE1OTM3MDcwOTQ2MTczMDY6Vks6MTU5MzcwNzA5NDYxNzMwNg==",
+        "post_id": "1593707094617306",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1593707094617306/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "1 anh trắng-xanh sắp đi đời 🥴\nĐợi zalỏ đi đời mà mãi không thấy 🤐",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 1,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 7,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 6,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 1,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1740764064000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1593707094617306",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1209045490587837",
+            "original_content_owner_id": "100044471918044",
+            "page_id": "905871509607608",
+            "photo_id": "1209098093915910",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "100044471918044": {
+                    "page_id": "100044471918044",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100044471918044",
+                        "page_id_type": "page",
+                        "actor_id": "100044471918044",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1740758133,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1209045490587837"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1593707094617306",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100044471918044",
+                            "post_id": "1209045490587837",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1209045490587837",
+                        "sharedMediaID": "1593707094617306",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1740764064,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1593707094617306"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=NVf3MOvmc11G9-7U-tV2Fg&_nc_ss=7a3a8&oh=00_Af1l6C9vKn2OoLdUGx28IynlpnJdTqmpdAjw_mRnuNpqKA&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA0NDQ3MTkxODA0NDoxMjA5MDQ1NDkwNTg3ODM3OjEyMDkwNDU0OTA1ODc4Mzc=",
+            "post_id": "1209045490587837",
+            "url": "https://www.facebook.com/daiphatthanh.sound/posts/pfbid0rxmYSSU9ZCw3sxx3ffnvGB8N9yZo83Lj1kKfLpsQqCgd99onR3UwtQbv7hM3Btiil",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "1209098093915910",
+                    "url": "https://www.facebook.com/photo/?fbid=1209098093915910&set=a.262442711914791",
+                    "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/487230212_1231016761724043_6675578323791308525_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=105&ccb=1-7&_nc_sid=13d280&_nc_ohc=OAjWOR9MVXEQ7kNvwEhG3bN&_nc_oc=AdrlKQy8a9407VfYLeAiFVibOcmwctDZ_AiUlEgBrv-_Sw4Fbnw1WSzCtn8QxdWl7IY&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=NVf3MOvmc11G9-7U-tV2Fg&_nc_ss=7a3a8&oh=00_Af122Qc_BsNQy4hlMZULN8eYHYJjzbZD38UIadimZ-iiXg&oe=69E77EF4",
+                    "height": 1080,
+                    "width": 1080,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FFFFFFFF",
+                    "real_width": 2048,
+                    "real_height": 2048
+                },
+                "video": null
+            },
+            "text": "Kể từ lần đầu ra mắt vào năm 2003, tính đến nay Skype đã hoạt động gần 22 năm. Ứng dụng được Microsoft chính thức xác nhận sẽ đóng cửa Skype vào tháng 5/2025.",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Đài Phát Thanh.",
+                    "id": "100044471918044",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/daiphatthanh.sound",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1740758133000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

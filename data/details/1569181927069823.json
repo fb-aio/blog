@@ -1,0 +1,1165 @@
+{
+    "result": {
+        "id": "UzpfSTE1NjkxODE5MjcwNjk4MjM6Vks6MTU2OTE4MTkyNzA2OTgyMw==",
+        "post_id": "1569181927069823",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1569181927069823/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Thực ra FB AIO cũng là 1 biến thể của các tiện ích lớn trên chrome store 👀\n\nMình đã dành nhiều hơn 1 năm để mày mò học hỏi các tiện ích 🤖\n\nThì mới làm ra được FB AIO như ngày nay 😅",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 10,
+                        "offset": 23
+                    }
+                ],
+                "text": "Thực ra FB AIO cũng là 1 biến thể của các tiện ích lớn trên chrome store 👀"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Mình đã dành nhiều hơn 1 năm để mày mò học hỏi các tiện ích 🤖"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Thì mới làm ra được FB AIO như ngày nay 😅"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 7,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 7,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1737538134000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1569181927069823",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1602426387211594",
+            "original_content_owner_id": 1010276030,
+            "page_id": "218322898024376",
+            "photo_id": "10229005671339057",
+            "story_location": 9,
+            "attached_story_attachment_style": "album",
+            "attached_story_type": "EntGroupMallPostCreationStory",
+            "attached_story_attachment_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1010276030": {
+                    "page_id": 1010276030,
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": 1010276030,
+                        "page_id_type": "page",
+                        "actor_id": 1010276030,
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntGroupMallPostCreationStory",
+                        "post_context": {
+                            "object_fbtype": 657,
+                            "publish_time": 1715399277,
+                            "story_name": "EntGroupMallPostCreationStory",
+                            "story_fbid": [
+                                "1602426387211594"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1569181927069823",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": 1010276030,
+                            "post_id": "1602426387211594",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1602426387211594",
+                        "sharedMediaID": "1569181927069823",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1737538134,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1569181927069823"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                },
+                "1569314343856132": {
+                    "page_id": "1569314343856132",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "1569314343856132",
+                        "page_id_type": "group",
+                        "actor_id": 1010276030,
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntGroupMallPostCreationStory",
+                        "post_context": {
+                            "object_fbtype": 657,
+                            "publish_time": 1715399277,
+                            "story_name": "EntGroupMallPostCreationStory",
+                            "story_fbid": [
+                                "1602426387211594"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1569181927069823",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=m0-uCIaDd4S7y-QjBFcFUw&_nc_ss=7a3a8&oh=00_Af25bemiqQmRI3xblyc7T7657vRqKZjKiqg4mj5JGfjp2Q&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMTAyNzYwMzA6Vks6MTYwMjQyNjM4NzIxMTU5NA==",
+            "post_id": "1602426387211594",
+            "url": "https://www.facebook.com/groups/indiehackervn/permalink/1602426387211594/",
+            "media": {
+                "mediaset_token": "pcb.1602426387211594",
+                "subAttachments": [
+                    {
+                        "id": "10229005671339057",
+                        "url": "https://www.facebook.com/photo.php?fbid=10229005671339057&set=gm.1602426380544928&type=3",
+                        "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/504425737_10233233284826752_6626986384986255034_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=vY_UFm7iSUcQ7kNvwENkdfT&_nc_oc=Adrf5j-LWTFqj3niWpV35i1ZQJYTxHuaLX0WEBgZ6WZudYb3WzWS7XYiFjTpAih9yk0&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=m0-uCIaDd4S7y-QjBFcFUw&_nc_ss=7a3a8&oh=00_Af15q4JED3LW3c-ircNWJBLqSXPAHMISta-FDrJNg_xj7A&oe=69E747C6",
+                        "height": 1080,
+                        "width": 1080,
+                        "accessibility_caption": "May be an image of text that says \"#BUILDINPUBLICVN 2024 Có nên \"clone\" lại các product của nưóc ngoài? LONG-FORM POST BYGOON BY GOON NGUYEN\"",
+                        "real_width": 1080,
+                        "real_height": 1080
+                    },
+                    {
+                        "id": "10229005673699116",
+                        "url": "https://www.facebook.com/photo.php?fbid=10229005673699116&set=gm.1602426377211595&type=3",
+                        "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/504280115_10233233279746625_4828303749946232308_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=iaG0GLzMksoQ7kNvwE-xvyQ&_nc_oc=AdoF7LPTkqcQJAZJPWzaLZ3QPMgputvnDHO5galOWHntktIdHqIjzD8vMrUsM5TRKD8&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=m0-uCIaDd4S7y-QjBFcFUw&_nc_ss=7a3a8&oh=00_Af2L_SuSmOI9jkMLwR6QtIORWN0cFeRJeIqurCK-FSue0Q&oe=69E73B2D",
+                        "height": 869,
+                        "width": 576,
+                        "accessibility_caption": "May be an image of 4 people and text that says \"Indie Hacker Another indie indiehacker hacker WA A ซ ME 101SA30 LO1 SEO Indie Hacker \"same idea, but different domain\"\"",
+                        "real_width": 576,
+                        "real_height": 869
+                    },
+                    {
+                        "id": "10229005672139077",
+                        "url": "https://www.facebook.com/photo.php?fbid=10229005672139077&set=gm.1602426383878261&type=3",
+                        "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/505364578_10233233283026707_4520723507051998045_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=L3v3XjNLD8kQ7kNvwHOXtj3&_nc_oc=Adodpbnr6QV5ftB4Pjf1RlPx4MhIh7q_YOQ3rsp09MWghGr7IXzDJsAGUinjLNQGK8I&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=m0-uCIaDd4S7y-QjBFcFUw&_nc_ss=7a3a8&oh=00_Af3neS_6427rTEO5Mn_w3jUSeYcDgrduOrCfHD2iNmAfXw&oe=69E71827",
+                        "height": 400,
+                        "width": 850,
+                        "accessibility_caption": "May be an image of 1 person and text that says \"What is originality? Undetected plagiarism. William Ralph Inge AZQUOTES\"",
+                        "real_width": 850,
+                        "real_height": 400
+                    }
+                ],
+                "photo": null,
+                "video": null
+            },
+            "text": "# **Có nên “clone” lại các product của nước ngoài?**\n\n--\n## Đôi khi bạn cần học cách “thiết kế bánh xe”\n\nHầu hết các bậc đàn anh đàn chị (seniors) đều có 1 lời khuyên đại loại như **“đừng bao giờ thiết kế lại bánh xe” (Do not reinvent the wheel)**, ý nói cái nào người ta làm rồi thì mình mang về tìm cách dùng thôi, ngồi làm lại làm cái gì cho mất thời gian công sức, mà chắc gì ngon được như mấy cái ngoài kia.\n\n**Điều này đúng, nhưng chưa đủ...**\n\nBạn còn chưa biết cách làm ra cái bánh xe như thế nào, thì làm sao ráp nó vào cả một bộ khung bộ máy được?\n\nKhi bạn “thiết kế lại bánh xe”, 99% cái bánh xe của bạn sẽ không ngon như những cái có trên thị trường. Nhưng bạn cần phải làm điều đó, vì **điểm mấu chốt ở đây ko phải là cái bánh xe, nó là kiến thức lẫn kinh nghiệm bạn có được sau khi làm điều này.**\n\n--\n## Xác nhận ý tưởng đã được kiểm chứng\n\n*Đây thường là phần khó nhất của một indie maker giai đoạn đầu.*\n\nNếu bạn đang tham gia vào một thị trường lớn với nhiều sản phẩm hiện có, nếu chọn phương án \"copy\", điều này (idea validation) về cơ bản đã được thực hiện cho bạn. Bạn có thể bỏ qua một bước rất tốn thời gian.\n\n**Một phần nhỏ của một thị trường lớn có thể là tất cả những gì bạn cần** - và thường thì nó có thể lớn hơn nhiều so với thị trường mà bạn đã cố gắng tự tạo ra.\n\n**Thị trường VN còn mới**, SaaS chỉ đang trong giai đoạn đầu, chỗ trống sẽ còn rất nhiều cho bạn lấp đầy.\n\nTuy nhiên, cũng cần lưu ý rằng: **MỚI chứ không hề DỄ nhé!** Vì mindset người Việt chưa quen với việc mua phần mềm dịch vụ như bên nước ngoài, trong một vài năm gần đây thì mình thấy việc này đang bắt đầu thay đổi dần rồi.\n\n--\n## Làm thế nào cạnh tranh với các “đối thủ” lớn?\n\nCác đối thủ cạnh tranh lớn không có bất kỳ lợi thế công nghệ nào - **ngày nay tất cả chúng ta đều đang sử dụng cùng một công nghệ như các công ty lớn.**\n\nCuộc đua không còn bất kỳ lợi thế kỹ thuật cụ thể nào nữa.\n\nCác sản phẩm của họ rồi sẽ trở nên cồng kềnh, hoặc họ tiến lên thị trường lớn hơn, xa rời các khách hàng SME (doanh nghiệp vừa & nhỏ).\n\nHơn nữa, **hầu hết bọn họ đều ko xem bạn là “đối thủ” đâu.**\n\n--\n## “Sao chép sau đó bán giá rẻ hơn! Ezvl”\n\n**Đừng. Xin đừng làm điều đó đối với sản phẩm của indie maker VN 🥺**\n\nĐiều này sẽ để lại hệ quả rất tệ cho chính bạn & cả cho cộng đồng indie maker VN.\n\nBạn nghĩ bạn copy lại sản phẩm của người khác và bán giá rẻ hơn thì ngay lập tức bạn sẽ chiếm lĩnh được thị trường sao? Trên thực tế, có rất nhiều người/tập thể/thậm chí doanh nghiệp đã áp dụng chiến lược này. **Hầu hết đều không thành công như mong đợi.**\n\n**Cạnh tranh về giá chỉ đưa đến kết cục tệ hại mà thôi.** Đấy là chưa nói đến việc bạn đang đi sao chép người khác.\n\nThử tưởng tượng “lỡ may” bạn thực sự kiếm được nhiều khách hàng bằng cách này, bạn sẽ tạo được sự chú ý trên thị trường,** liệu có ai trong số đó không phát hiện ra sản phẩm của bạn là sao chép? **Tất cả mọi thứ sẽ đổ sông đổ bể khi có crisis xảy ra, bạn có sẵn sàng chấp nhận điều này?\n\nNếu bạn làm như vậy, bạn đang đi ngược lại với ý nghĩa của việc trở thành một indie maker.\n\n**Indie maker không cạnh tranh lẫn nhau, mà cùng hỗ trợ nhau trong quá trình “build in public”.**\n\n(Thế nhưng, **việc copy sản phẩm nước ngoài để bán \"rẻ hơn\" tại thị trường VN** thì theo mình là một ý không tồi, rõ ràng mức sống tại VN thấp hơn nhiều so với nước ngoài, làm lương VN thì phải dùng dịch vụ giá VN chứ đúng không nè?)\n\nThay vào đó…\n\n--\n## HÃY Tạo ra các “biến thể”\n\nCuốn sách **Nghệ thuật \"đánh cắp\" ý tưởng** (tác giả Austin Kleon) - là một cuốn sách rất hay nói về chủ để này mà mình nghĩ các bạn nên tìm đọc, sách ngắn gọn có hình minh họa dễ hiểu (*đọc nhanh lắm đừng có lườiiii*), link sách mình để ở cuối bài (tui không có PR cho nhà sách đâu à nha).\n> ***“Nguyên bản là gì? Đạo nhái không bị phát hiện”** - William Ralph Inge\n\n(*What is originality? Undetected plagiarism.)\n\n**Trên đời này không có gì là nguyên bản**, hầu hết ý tưởng đều được “truyền cảm hứng” và “biến tấu” lại để trở thành một phiên bản mới phù hợp với một mục đích khác - **một “biến thể”**.\n\nBạn có quyền sao chép, nhưng đừng sao chép 100%, hãy biến tấu nó bằng cách thêm những “gia vị” của riêng bạn, để tạo thành một món mới và sẵn sàng nói về chúng một cách tự hào.\n\n**Ví dụ hen:**\n* Ứng dụng todo → nếu bạn tạo 1 ứng dụng Todo nữa và ko có gì đặc biệt → không cần nói nhiều, 99% bạn sẽ fail!\n* **Thử cách này nhé:** tạo ra ứng dụng Todo dành riêng cho cộng đồng “wibu” → cho phép cá nhân hóa với hình nền hay icon anime, sound effect ứ ứ é é như anime các thứ → bán các option premium cho customize cao cấp hơn như mỗi lần remind thì nhân vật đặc biệt nào đó xuất hiện + effect nổ đùng đùng chẳng hạn! \n**Bạn nghĩ ý tưởng này như thế nào?**\n\nĐó là lý do cụm từ **“niche market” (thị trường ngách)** ra đời.\n\nTạm quên cái bánh lớn đi, ai cũng muốn tranh giành miếng bánh đó, để họ đánh nhau, hãy tìm ra miếng bánh nhỏ của riêng bạn & ăn một mình!\n\n--\n## “Ông Goon đi xúi bà con đi sao chép người khác”\n\n*Haha, mình còn tệ hơn nữa ấy chứ. Biết tại sao ko?*\n\nKhi copy sản phẩm của người khác, khả năng cao bạn sẽ thất bại, bởi vì bạn ko phải là người đó, người xây dựng nên sản phẩm đó. \n\nNhưng theo mình, đây là 1 kiểu thất bại tích cực, cứ thử rồi sai rồi lại thử, bạn sẽ thấy mình tiến bộ hơn qua mỗi lần như thế. Cuối cùng bạn sẽ tạo ra được chất riêng của mình.\n\nMình muốn các bạn trải qua việc thất bại này, để hiểu được ý nghĩa thực sự của việc “build in public”:\n> ***“It will never about your product. It’s all about the process.”***\n\n**Chúc các bạn một cuối tuần hạnh phúc, nghỉ ngơi relax, tuần sau ta lại tiếp tục #buildinpublic nghen!**\n\n—\n\n👉 Link sách: https://tiki.vn/product-p77109209.html?spid=77109210\n\n#buildinpublicvn #indiehackervn",
+            "text_format": {},
+            "rich_message": [
+                {
+                    "__typename": "ComposedHeaderOneBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                    "block_type": "HEADER_ONE",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 46,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Có nên “clone” lại các product của nước ngoài?"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "--"
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Đôi khi bạn cần học cách “thiết kế bánh xe”"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 63,
+                            "offset": 75
+                        }
+                    ],
+                    "text": "Hầu hết các bậc đàn anh đàn chị (seniors) đều có 1 lời khuyên đại loại như “đừng bao giờ thiết kế lại bánh xe” (Do not reinvent the wheel), ý nói cái nào người ta làm rồi thì mình mang về tìm cách dùng thôi, ngồi làm lại làm cái gì cho mất thời gian công sức, mà chắc gì ngon được như mấy cái ngoài kia."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 31,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Điều này đúng, nhưng chưa đủ..."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Bạn còn chưa biết cách làm ra cái bánh xe như thế nào, thì làm sao ráp nó vào cả một bộ khung bộ máy được?"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 109,
+                            "offset": 139
+                        }
+                    ],
+                    "text": "Khi bạn “thiết kế lại bánh xe”, 99% cái bánh xe của bạn sẽ không ngon như những cái có trên thị trường. Nhưng bạn cần phải làm điều đó, vì điểm mấu chốt ở đây ko phải là cái bánh xe, nó là kiến thức lẫn kinh nghiệm bạn có được sau khi làm điều này."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "--"
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Xác nhận ý tưởng đã được kiểm chứng"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "ITALIC",
+                            "length": 62,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Đây thường là phần khó nhất của một indie maker giai đoạn đầu."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Nếu bạn đang tham gia vào một thị trường lớn với nhiều sản phẩm hiện có, nếu chọn phương án \"copy\", điều này (idea validation) về cơ bản đã được thực hiện cho bạn. Bạn có thể bỏ qua một bước rất tốn thời gian."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 69,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Một phần nhỏ của một thị trường lớn có thể là tất cả những gì bạn cần - và thường thì nó có thể lớn hơn nhiều so với thị trường mà bạn đã cố gắng tự tạo ra."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 21,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Thị trường VN còn mới, SaaS chỉ đang trong giai đoạn đầu, chỗ trống sẽ còn rất nhiều cho bạn lấp đầy."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 24,
+                            "offset": 32
+                        }
+                    ],
+                    "text": "Tuy nhiên, cũng cần lưu ý rằng: MỚI chứ không hề DỄ nhé! Vì mindset người Việt chưa quen với việc mua phần mềm dịch vụ như bên nước ngoài, trong một vài năm gần đây thì mình thấy việc này đang bắt đầu thay đổi dần rồi."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "--"
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Làm thế nào cạnh tranh với các “đối thủ” lớn?"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 81,
+                            "offset": 67
+                        }
+                    ],
+                    "text": "Các đối thủ cạnh tranh lớn không có bất kỳ lợi thế công nghệ nào - ngày nay tất cả chúng ta đều đang sử dụng cùng một công nghệ như các công ty lớn."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Cuộc đua không còn bất kỳ lợi thế kỹ thuật cụ thể nào nữa."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Các sản phẩm của họ rồi sẽ trở nên cồng kềnh, hoặc họ tiến lên thị trường lớn hơn, xa rời các khách hàng SME (doanh nghiệp vừa & nhỏ)."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 47,
+                            "offset": 9
+                        }
+                    ],
+                    "text": "Hơn nữa, hầu hết bọn họ đều ko xem bạn là “đối thủ” đâu."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "--"
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "“Sao chép sau đó bán giá rẻ hơn! Ezvl”"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 64,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Đừng. Xin đừng làm điều đó đối với sản phẩm của indie maker VN 🥺"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Điều này sẽ để lại hệ quả rất tệ cho chính bạn & cả cho cộng đồng indie maker VN."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 42,
+                            "offset": 210
+                        }
+                    ],
+                    "text": "Bạn nghĩ bạn copy lại sản phẩm của người khác và bán giá rẻ hơn thì ngay lập tức bạn sẽ chiếm lĩnh được thị trường sao? Trên thực tế, có rất nhiều người/tập thể/thậm chí doanh nghiệp đã áp dụng chiến lược này. Hầu hết đều không thành công như mong đợi."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 53,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Cạnh tranh về giá chỉ đưa đến kết cục tệ hại mà thôi. Đấy là chưa nói đến việc bạn đang đi sao chép người khác."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 73,
+                            "offset": 120
+                        }
+                    ],
+                    "text": "Thử tưởng tượng “lỡ may” bạn thực sự kiếm được nhiều khách hàng bằng cách này, bạn sẽ tạo được sự chú ý trên thị trường, liệu có ai trong số đó không phát hiện ra sản phẩm của bạn là sao chép? Tất cả mọi thứ sẽ đổ sông đổ bể khi có crisis xảy ra, bạn có sẵn sàng chấp nhận điều này?"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Nếu bạn làm như vậy, bạn đang đi ngược lại với ý nghĩa của việc trở thành một indie maker."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 93,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Indie maker không cạnh tranh lẫn nhau, mà cùng hỗ trợ nhau trong quá trình “build in public”."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 63,
+                            "offset": 12
+                        }
+                    ],
+                    "text": "(Thế nhưng, việc copy sản phẩm nước ngoài để bán \"rẻ hơn\" tại thị trường VN thì theo mình là một ý không tồi, rõ ràng mức sống tại VN thấp hơn nhiều so với nước ngoài, làm lương VN thì phải dùng dịch vụ giá VN chứ đúng không nè?)"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Thay vào đó…"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "--"
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "HÃY Tạo ra các “biến thể”"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 29,
+                            "offset": 10
+                        },
+                        {
+                            "inline_style": "ITALIC",
+                            "length": 29,
+                            "offset": 182
+                        }
+                    ],
+                    "text": "Cuốn sách Nghệ thuật \"đánh cắp\" ý tưởng (tác giả Austin Kleon) - là một cuốn sách rất hay nói về chủ để này mà mình nghĩ các bạn nên tìm đọc, sách ngắn gọn có hình minh họa dễ hiểu (đọc nhanh lắm đừng có lườiiii), link sách mình để ở cuối bài (tui không có PR cho nhà sách đâu à nha)."
+                },
+                {
+                    "__typename": "ComposedBlockquoteBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                    "block_type": "BLOCKQUOTE",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "ITALIC",
+                            "length": 71,
+                            "offset": 0
+                        },
+                        {
+                            "inline_style": "BOLD",
+                            "length": 47,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "“Nguyên bản là gì? Đạo nhái không bị phát hiện” - William Ralph Inge\n\n(What is originality? Undetected plagiarism.)"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 38,
+                            "offset": 0
+                        },
+                        {
+                            "inline_style": "BOLD",
+                            "length": 14,
+                            "offset": 164
+                        }
+                    ],
+                    "text": "Trên đời này không có gì là nguyên bản, hầu hết ý tưởng đều được “truyền cảm hứng” và “biến tấu” lại để trở thành một phiên bản mới phù hợp với một mục đích khác - một “biến thể”."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Bạn có quyền sao chép, nhưng đừng sao chép 100%, hãy biến tấu nó bằng cách thêm những “gia vị” của riêng bạn, để tạo thành một món mới và sẵn sàng nói về chúng một cách tự hào."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 10,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Ví dụ hen:"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Ứng dụng todo → nếu bạn tạo 1 ứng dụng Todo nữa và ko có gì đặc biệt → không cần nói nhiều, 99% bạn sẽ fail!"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 17,
+                            "offset": 0
+                        },
+                        {
+                            "inline_style": "BOLD",
+                            "length": 33,
+                            "offset": 305
+                        }
+                    ],
+                    "text": "Thử cách này nhé: tạo ra ứng dụng Todo dành riêng cho cộng đồng “wibu” → cho phép cá nhân hóa với hình nền hay icon anime, sound effect ứ ứ é é như anime các thứ → bán các option premium cho customize cao cấp hơn như mỗi lần remind thì nhân vật đặc biệt nào đó xuất hiện + effect nổ đùng đùng chẳng hạn! \nBạn nghĩ ý tưởng này như thế nào?"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 33,
+                            "offset": 19
+                        }
+                    ],
+                    "text": "Đó là lý do cụm từ “niche market” (thị trường ngách) ra đời."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Tạm quên cái bánh lớn đi, ai cũng muốn tranh giành miếng bánh đó, để họ đánh nhau, hãy tìm ra miếng bánh nhỏ của riêng bạn & ăn một mình!"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "--"
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "“Ông Goon đi xúi bà con đi sao chép người khác”"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "ITALIC",
+                            "length": 50,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Haha, mình còn tệ hơn nữa ấy chứ. Biết tại sao ko?"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Khi copy sản phẩm của người khác, khả năng cao bạn sẽ thất bại, bởi vì bạn ko phải là người đó, người xây dựng nên sản phẩm đó. "
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Nhưng theo mình, đây là 1 kiểu thất bại tích cực, cứ thử rồi sai rồi lại thử, bạn sẽ thấy mình tiến bộ hơn qua mỗi lần như thế. Cuối cùng bạn sẽ tạo ra được chất riêng của mình."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Mình muốn các bạn trải qua việc thất bại này, để hiểu được ý nghĩa thực sự của việc “build in public”:"
+                },
+                {
+                    "__typename": "ComposedBlockquoteBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                    "block_type": "BLOCKQUOTE",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "ITALIC",
+                            "length": 63,
+                            "offset": 0
+                        },
+                        {
+                            "inline_style": "BOLD",
+                            "length": 63,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "“It will never about your product. It’s all about the process.”"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [
+                        {
+                            "entity_type": "HASHTAG",
+                            "entity": {
+                                "__typename": "Hashtag",
+                                "__isEntity": "Hashtag",
+                                "url": "https://www.facebook.com/hashtag/buildinpublic",
+                                "mobileUrl": "https://m.facebook.com/hashtag/buildinpublic",
+                                "__isNode": "Hashtag",
+                                "id": "645561275518909"
+                            },
+                            "length": 14,
+                            "offset": 80
+                        }
+                    ],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 101,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Chúc các bạn một cuối tuần hạnh phúc, nghỉ ngơi relax, tuần sau ta lại tiếp tục #buildinpublic nghen!"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "—"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "👉 Link sách: https://tiki.vn/product-p77109209.html?spid=77109210"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [
+                        {
+                            "entity_type": "HASHTAG",
+                            "entity": {
+                                "__typename": "Hashtag",
+                                "__isEntity": "Hashtag",
+                                "url": "https://www.facebook.com/hashtag/buildinpublicvn",
+                                "mobileUrl": "https://m.facebook.com/hashtag/buildinpublicvn",
+                                "__isNode": "Hashtag",
+                                "id": "7586094391423863"
+                            },
+                            "length": 16,
+                            "offset": 0
+                        },
+                        {
+                            "entity_type": "HASHTAG",
+                            "entity": {
+                                "__typename": "Hashtag",
+                                "__isEntity": "Hashtag",
+                                "url": "https://www.facebook.com/hashtag/indiehackervn",
+                                "mobileUrl": "https://m.facebook.com/hashtag/indiehackervn",
+                                "__isNode": "Hashtag",
+                                "id": "7474880935902215"
+                            },
+                            "length": 14,
+                            "offset": 17
+                        }
+                    ],
+                    "inline_style_ranges": [],
+                    "text": "#buildinpublicvn #indiehackervn"
+                }
+            ],
+            "hashtags": [
+                "#buildinpublic",
+                "#buildinpublicvn",
+                "#indiehackervn"
+            ],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "id": "1010276030",
+                    "name": "Duy Nguyen",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/mrgoonie"
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1715399277000,
+            "privacy_scope": "Nhóm công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": "Group",
+                "id": "1569314343856132",
+                "url": "https://www.facebook.com/groups/indiehackervn/",
+                "name": "Build in Public VN",
+                "avatar": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/509443918_10233522779463937_6884554539542802636_n.jpg?stp=c264.0.432.432a_cp0_dst-jpg_s110x80_tt6&_nc_cat=105&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=r-o0j_4vFg8Q7kNvwEWK4vQ&_nc_oc=AdqioOtjwAdzJ9NfMyiqAbanzvYd8yZMXSFrkQiSTT6X9sVfmff7wpvBDfR1Aiv24KE&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=m0-uCIaDd4S7y-QjBFcFUw&_nc_ss=7a3a8&oh=00_Af19s-HkiifpuTxNIdkaNxN74Pg832f1e1UjOY2FcEkePg&oe=69E7145E"
+            },
+            "attached_post": null
+        }
+    }
+}

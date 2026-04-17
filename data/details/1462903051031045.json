@@ -1,0 +1,467 @@
+{
+    "result": {
+        "id": "UzpfSTE0NjI5MDMwNTEwMzEwNDU6Vks6MTQ2MjkwMzA1MTAzMTA0NQ==",
+        "post_id": "1462903051031045",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1462903051031045/",
+        "media": {
+            "mediaset_token": "pcb.1462903051031045",
+            "subAttachments": [
+                {
+                    "id": "2602939259877658",
+                    "url": "https://www.facebook.com/photo.php?fbid=2602939259877658&set=gm.1462903047697712&type=3",
+                    "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/490343066_2823668287804753_3851623113552040412_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=Zy3AMoiShB0Q7kNvwHd6dcY&_nc_oc=AdqjSlbjZF3fFNlbpdcXS4J8MZv220keD6e7vBheJDRRZNAgSn7lQ1l8ssJHAFbdS04&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=oIUTKXSbNpJgSNOP6JuK4Q&_nc_ss=7a3a8&oh=00_Af3KsJTarHZ_UVeAt9vimutU902uxtlirHeqeKUNOl7BoQ&oe=69E73FC7",
+                    "height": 831,
+                    "width": 1410,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1410,
+                    "real_height": 831
+                },
+                {
+                    "id": "2602941903210727",
+                    "url": "https://www.facebook.com/photo.php?fbid=2602941903210727&set=gm.1462903044364379&type=3",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/490736336_2823668427804739_537131731978514192_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=Ot_o3Ci4wZMQ7kNvwFDoi8h&_nc_oc=AdpPLO24uVAsZ9SAGp7z49Rtd2VRMNQZXXIGDNFSNVg75kdUQlf7wJWrZUGDm2c-otQ&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=oIUTKXSbNpJgSNOP6JuK4Q&_nc_ss=7a3a8&oh=00_Af0_tVGDEt2J2M5esnJMncksSMDmyYbIxrxYSIeGsoa5UQ&oe=69E7385C",
+                    "height": 628,
+                    "width": 1207,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1207,
+                    "real_height": 628
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Tách dữ liệu từ json nhanh chóng không cần code\n\nTrang web này sẽ giúp bạn **tách thông tin** từ file json.\n\nhttps://jsonpath.com/\n\nDo json thường chứa r**ất nhiều thông tin**, muốn lấy ra 1 nội dung cụ thể nào đó thì **copy từng **cái hoặc phải code **rất mất thời gian.**\n\nVới trang web này,  chỉ cần nhập vào **đường dẫn (path)** tới nội dung ban muốn tách, tool sẽ **tách hàng loạt** cho bạn.\n\nVí dụ bên dứoi mình muốn tách **<caption> **của các bài post trên instagram. Dùng file json tải từ facebook all in one.\n\nChỉ cần nhập path: **$[:].raw.caption**\n\nLà ra được hết caption.\n\nCách để viết được path trên thì có hướng dẫn ở hình thứ 2, học xíu là làm được, không quá khó.\n\n> Sắp tới mình sẽ tích hợp tách dữ liệu vào nút tải Json của fb all in one luôn cho nhanh nhé.\n\n#ufs_share",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Tách dữ liệu từ json nhanh chóng không cần code"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 14,
+                        "offset": 26
+                    }
+                ],
+                "text": "Trang web này sẽ giúp bạn tách thông tin từ file json."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "IMPLICIT_LINK",
+                        "entity": {
+                            "__typename": "ExternalUrl",
+                            "__isEntity": "ExternalUrl",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fjsonpath.com%2F&h=AT7DoMv6uoYurAR5mrAHiQCR8ycoNzXzSb0TAuN3ItNLTsKve6rQGc85JDCAixmrktwNtiD8uSusXUouwAHI956mOhl9wXbiOsVeUEhVC-YnaXhzF07MlPA9D0CITcHn_2ik7TS6og&s=1",
+                            "external_url": "https://jsonpath.com/",
+                            "__isWebLinkable": "ExternalUrl",
+                            "web_link": {
+                                "__typename": "ExternalWebLink",
+                                "url": "https://jsonpath.com/",
+                                "fbclid": "IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvy-yfDt8IDYeY2Sh2GCJkyiO8E5JDdFSaIWGdsFecx8X3GdT0VplOCjcfKd_aem_n3hC28RHbq20mpTqljXVbA",
+                                "lynx_mode": "ASYNCLAZY"
+                            },
+                            "mobileUrl": "https://lm.facebook.com/l.php?u=https%3A%2F%2Fjsonpath.com%2F&h=AT7SHyQdf5_4mnSI2ZUJXR2t-BKKAHUZsFHHBpFRG2x8sZiLkgO2l8SFzItUBQ3iAJAT84npw42EE7EQwsSXLNYXh3vhYdeJKLwybJDrMhfiopL7UQE8HeQjrFuQH9yqUkRoMEnjsg&s=1",
+                            "__isNode": "ExternalUrl",
+                            "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2pzb25wYXRoLmNvbS86Ojo6Og=="
+                        },
+                        "length": 21,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "https://jsonpath.com/"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 18,
+                        "offset": 21
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 10,
+                        "offset": 82
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 18,
+                        "offset": 111
+                    }
+                ],
+                "text": "Do json thường chứa rất nhiều thông tin, muốn lấy ra 1 nội dung cụ thể nào đó thì copy từng cái hoặc phải code rất mất thời gian."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 16,
+                        "offset": 37
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 14,
+                        "offset": 90
+                    }
+                ],
+                "text": "Với trang web này,  chỉ cần nhập vào đường dẫn (path) tới nội dung ban muốn tách, tool sẽ tách hàng loạt cho bạn."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 10,
+                        "offset": 30
+                    }
+                ],
+                "text": "Ví dụ bên dứoi mình muốn tách <caption> của các bài post trên instagram. Dùng file json tải từ facebook all in one."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 16,
+                        "offset": 19
+                    }
+                ],
+                "text": "Chỉ cần nhập path: $[:].raw.caption"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Là ra được hết caption."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Cách để viết được path trên thì có hướng dẫn ở hình thứ 2, học xíu là làm được, không quá khó."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedBlockquoteBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                "block_type": "BLOCKQUOTE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Sắp tới mình sẽ tích hợp tách dữ liệu vào nút tải Json của fb all in one luôn cho nhanh nhé."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/ufs_share",
+                            "mobileUrl": "https://m.facebook.com/hashtag/ufs_share",
+                            "__isNode": "Hashtag",
+                            "id": "8156434557722932"
+                        },
+                        "length": 10,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#ufs_share"
+            }
+        ],
+        "hashtags": [
+            "#ufs_share"
+        ],
+        "mentions": [
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2pzb25wYXRoLmNvbS86Ojo6Og==",
+                "name": "https://jsonpath.com/",
+                "url": "https://jsonpath.com/",
+                "length": 21,
+                "offset": 0
+            }
+        ],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 11,
+            "top": [
+                {
+                    "id": "1678524932434102",
+                    "count": 6,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "1635855486666999",
+                    "count": 5,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1723171994000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1462903051031045",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2602939259877658",
+                "2602941903210727"
+            ],
+            "photo_id": "2602939259877658",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1723171994,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1462903051031045"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=oIUTKXSbNpJgSNOP6JuK4Q&_nc_ss=7a3a8&oh=00_Af3PFk2izs_UCGVsz_CmnjJIjDCbPZuos8Ndhw4Fp6QHXA&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

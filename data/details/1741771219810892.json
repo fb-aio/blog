@@ -1,0 +1,241 @@
+{
+    "result": {
+        "id": "UzpfSTE3NDE3NzEyMTk4MTA4OTI6Vks6MTc0MTc3MTIxOTgxMDg5Mg==",
+        "post_id": "1741771219810892",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1741771219810892/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Khó lói 👀",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 9,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 13,
+            "top": [
+                {
+                    "id": "115940658764963",
+                    "count": 10,
+                    "name": "Haha"
+                },
+                {
+                    "id": "1635855486666999",
+                    "count": 3,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1758704275000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1741771219810892",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "122180333924373456",
+            "original_content_owner_id": "61561203689461",
+            "page_id": "355116294350771",
+            "photo_id": "122180333900373456",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "61561203689461": {
+                    "page_id": "61561203689461",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "61561203689461",
+                        "page_id_type": "page",
+                        "actor_id": "61561203689461",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1758540044,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "122180333924373456"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1741771219810892",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "61561203689461",
+                            "post_id": "122180333924373456",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "122180333924373456",
+                        "sharedMediaID": "1741771219810892",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1758704275,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1741771219810892"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=xUct4cvPP4YLukJTFHeVKQ&_nc_ss=7a3a8&oh=00_Af0UUNjnM7DgOE7_xzKs8lOdmpioY6dU9jBNYve1jgRDzA&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTYxNTYxMjAzNjg5NDYxOjEyMjE4MDMzMzkyNDM3MzQ1NjoxMjIxODAzMzM5MjQzNzM0NTY=",
+            "post_id": "122180333924373456",
+            "url": "https://www.facebook.com/tovotri18/posts/pfbid0ShGYrTSkjGJEVUcX57JaGNrDhoGXfM5L3jpmup7mkbqdJ6NyJv4bNKxyHNPN13iCl",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "122180333900373456",
+                    "url": "https://www.facebook.com/photo/?fbid=122180333900373456&set=a.122112671102373456",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/550254264_122180304812373456_129053841581731890_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=7b2446&_nc_ohc=FjJKCpfVqjwQ7kNvwGBaJap&_nc_oc=AdqzbZ-lA3No-rpU10_cQGYzaZ2if1VwBMKJNzMfdR3KXK0b0MR_f-Nh4Fp_IPcbDl8&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=xUct4cvPP4YLukJTFHeVKQ&_nc_ss=7a3a8&oh=00_Af18-L6sHs8itvqXtaKduOswkjc_4hqgBa5aMxqw1rL2QQ&oe=69E76CDF",
+                    "height": 1080,
+                    "width": 1080,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FFFEFEFE",
+                    "real_width": 1080,
+                    "real_height": 1080
+                },
+                "video": null
+            },
+            "text": "Ái chà chà #viral #reelsviral #reels #reelsvideoシ #thinhhanh #fypシ゚viralシ #xuhuong #tovotri #giaitri #haihuoc #funnyvideos #funnyreels #funnymoments #funny #hàihước",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [
+                "#viral",
+                "#reelsviral",
+                "#reels",
+                "#reelsvideo",
+                "#thinhhanh",
+                "#fyp",
+                "#xuhuong",
+                "#tovotri",
+                "#giaitri",
+                "#haihuoc",
+                "#funnyvideos",
+                "#funnyreels",
+                "#funnymoments",
+                "#funny",
+                "#ha"
+            ],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Tổ vô tri",
+                    "id": "61561203689461",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/tovotri18",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1758540044000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

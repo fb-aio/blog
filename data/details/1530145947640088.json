@@ -1,0 +1,271 @@
+{
+    "result": {
+        "id": "UzpfSTE1MzAxNDU5NDc2NDAwODg6Vks6MTUzMDE0NTk0NzY0MDA4OA==",
+        "post_id": "1530145947640088",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1530145947640088/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Thời 2000 mà có ảnh này đúng là tuyệt tác 🤯\n\nGiờ AI art phát triển nên mn thấy quen, thấy bình thường chứ 2000 nhìn vô thấy ảo diệu vô cùng 🤣",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 6,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 5,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1732181157000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1530145947640088",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "122129906480462792",
+            "original_content_owner_id": "61563883787971",
+            "page_id": "391111940756797",
+            "photo_id": "122129905622462792",
+            "story_location": 9,
+            "attached_story_attachment_style": "album",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "PhotoSetAttachment",
+            "page_insights": {
+                "61563883787971": {
+                    "page_id": "61563883787971",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "61563883787971",
+                        "page_id_type": "page",
+                        "actor_id": "61563883787971",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1731845039,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "122129906480462792"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1530145947640088",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "61563883787971",
+                            "post_id": "122129906480462792",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "122129906480462792",
+                        "sharedMediaID": "1530145947640088",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1732181157,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1530145947640088"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=5XEo3QvT2-dyqW4K1jdDng&_nc_ss=7a3a8&oh=00_Af1kCGNRBatsT-u4Y0K_TeLJ6CQi0rjXW1wrb_wozFztUA&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTYxNTYzODgzNzg3OTcxOjEyMjEyOTkwNjQ4MDQ2Mjc5MjoxMjIxMjk5MDY0ODA0NjI3OTI=",
+            "post_id": "122129906480462792",
+            "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid034EPb4Bf8R8Lc2QwMyrB38AjykyfXihawtpFTCFRRE7EYGnX8G3tFq9Xyhy4jsvJ3l&id=61563883787971",
+            "media": {
+                "mediaset_token": "pcb.122129906480462792",
+                "subAttachments": [
+                    {
+                        "id": "122129905622462792",
+                        "url": "https://www.facebook.com/photo.php?fbid=122129905622462792&set=a.122108834102462792&type=3",
+                        "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/471831607_122138412044462792_7496028282177917368_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=nfvroxO05psQ7kNvwGpNXSs&_nc_oc=AdozpV3UH6WblwRE-JSsRUCdMd5WewtsGX15-NlibRJ_adZ1osTcmvSmeY-375cwzk0&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=5XEo3QvT2-dyqW4K1jdDng&_nc_ss=7a3a8&oh=00_Af2ln25QwnC0zHXgmkuYsGC8C_wPRn8z36tTDyTiTKcBOg&oe=69E726CA",
+                        "height": 1200,
+                        "width": 1600,
+                        "accessibility_caption": "Có thể là hình ảnh về 1 người",
+                        "real_width": 1600,
+                        "real_height": 1200
+                    },
+                    {
+                        "id": "122129905574462792",
+                        "url": "https://www.facebook.com/photo.php?fbid=122129905574462792&set=a.122108834102462792&type=3",
+                        "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/471875263_122138412278462792_5587819868304290325_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=13d280&_nc_ohc=aLzjOmsBOLsQ7kNvwFuJPYN&_nc_oc=AdplKX20AurXKvj_P6JgCej0C-Rizka-lEqKqEw5S2pZcyDStWa0g_zcDMST0OUrNqU&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=5XEo3QvT2-dyqW4K1jdDng&_nc_ss=7a3a8&oh=00_Af1FoSuDv5pk3xDLz9JAfz6wshwstAqhYRBsMOfqERoXAg&oe=69E73A56",
+                        "height": 1200,
+                        "width": 1600,
+                        "accessibility_caption": "Có thể là hình ảnh về 1 người và văn bản",
+                        "real_width": 1600,
+                        "real_height": 1200
+                    },
+                    {
+                        "id": "122129905664462792",
+                        "url": "https://www.facebook.com/photo.php?fbid=122129905664462792&set=a.122108834102462792&type=3",
+                        "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/471857713_122138412008462792_4428260898604924775_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=13d280&_nc_ohc=kMrpo_1KIScQ7kNvwFEXh_w&_nc_oc=AdrfBAVNvNTPZRfKotPEoCWuY2JmSysnLZh4VM1n2dUWKUphohLFNNorQiMJqjgsbrA&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=5XEo3QvT2-dyqW4K1jdDng&_nc_ss=7a3a8&oh=00_Af1D6xX-ZuKBjvrgrNR094d73GHj2yLURdVBWC1cySKwmw&oe=69E71F32",
+                        "height": 1200,
+                        "width": 1600,
+                        "accessibility_caption": "Có thể là hình minh họa về 1 người",
+                        "real_width": 1600,
+                        "real_height": 1200
+                    },
+                    {
+                        "id": "122129905742462792",
+                        "url": "https://www.facebook.com/photo.php?fbid=122129905742462792&set=a.122108834102462792&type=3",
+                        "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/471752369_122138411660462792_9022818826459334542_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=13d280&_nc_ohc=_f0bErIOx70Q7kNvwEnc0F_&_nc_oc=AdqhzMnqKJtMWhJ5MufyTPxTeGtSrQsXFoBsFNIGDQCFCltEUN7BpXWMS23ApX71m34&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=5XEo3QvT2-dyqW4K1jdDng&_nc_ss=7a3a8&oh=00_Af3Mmcbex3273DSAodbKleEUY51lTNJ3KbuF-wzbXnBccA&oe=69E72EA6",
+                        "height": 1200,
+                        "width": 1600,
+                        "accessibility_caption": "Có thể là hình ảnh về 5 người",
+                        "real_width": 1600,
+                        "real_height": 1200
+                    },
+                    {
+                        "id": "122129905706462792",
+                        "url": "https://www.facebook.com/photo.php?fbid=122129905706462792&set=a.122108834102462792&type=3",
+                        "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/471950440_122138412110462792_8082448358504023547_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=13d280&_nc_ohc=utzzNiXoUuoQ7kNvwGqwwXc&_nc_oc=Adpt88aDOAsfbyYo2KLPPSY93ypr8v39tkvwNlkVSch5eGzmGoEgGegnuEWrwHYfLkA&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=5XEo3QvT2-dyqW4K1jdDng&_nc_ss=7a3a8&oh=00_Af0rI7LLAJqISJGut2lnqyWjOdfD1yvxp_cMdW6kNhb3zA&oe=69E7262F",
+                        "height": 1200,
+                        "width": 1600,
+                        "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                        "real_width": 1600,
+                        "real_height": 1200
+                    }
+                ],
+                "photo": null,
+                "video": null
+            },
+            "text": "Những bức digital art huyền thoại của họa sĩ Kagaya Yutaka\n\nĐây là những bức digital art huyền thoại gắn liền với tuổi thơ 8x, 9x… gợi nhớ về những ngày “cứu net” ở tiệm, một thời là wallpaper của rất nhiều máy tính, theme Yahoo 360, được chia sẻ trên nhiều forum và cả những chiếc CD room và đĩa mềm.\n\nSinh năm 1968 tại Saitama, phía bắc thủ đô Tokyo (Nhật Bản), Kagaya ngay từ nhỏ đã là một chú bé khác thường. Kagaya không thích những trò chơi của những đứa trẻ cùng lứa tuổi. Niềm đam mê lớn nhất của Kagaya là nhìn lên bầu trời, một buổi tối tuyệt vời của Kagaya sẽ là khi trời trong, trăng sáng. Bởi khi đó, ông có thể thỏa thích ngắm nhìn bầu trời Tokyo và các vì sao. Với trí tưởng tượng phong phú của một chú bé, Kagaya có thể vẽ ra trong đầu hình những thiên thần trên bầu trời từ các ngôi sao.\n\nPhong cách của Kagaya rất dễ nhận ra với những bức tranh được chăm chút công phu tỉ mỉ đến từng chi tiết và màu sắc lộng lẫy tuyệt vời. Tuổi thơ của ông luôn gắn liền với bầu trời đầy sao. Đó cũng chính là cảm hứng bất tận cho những sáng tác của ông và ông chưa bao giờ ngừng vẽ về chúng\n\nVia toskadiman / Maybe.vn\n#digitalart #artcollect #artcollection #kagayayutaka",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [
+                "#digitalart",
+                "#artcollect",
+                "#artcollection",
+                "#kagayayutaka"
+            ],
+            "mentions": [
+                {
+                    "type": "ExternalUrl",
+                    "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBcYS8vTWF5YmUudm4vOjpEZWZhdWx0Ojo6MTIyMTI5OTA2NDgwNDYyNzky",
+                    "name": "http://Maybe.vn/",
+                    "url": "http://Maybe.vn/",
+                    "length": 8,
+                    "offset": 1112
+                }
+            ],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Cụk Súk Mắc Vẽ",
+                    "id": "61563883787971",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/profile.php?id=61563883787971",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1731845039000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

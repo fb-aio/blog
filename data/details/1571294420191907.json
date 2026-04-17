@@ -1,0 +1,164 @@
+{
+    "result": {
+        "id": "UzpfSTE1NzEyOTQ0MjAxOTE5MDc6Vks6MTU3MTI5NDQyMDE5MTkwNw==",
+        "post_id": "1571294420191907",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1571294420191907/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Anh em yên tâm\nT đang gói quà tết cho anh em 🤖",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 7,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 7,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1737820669000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1571294420191907",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "2750991198405796",
+            "original_content_owner_id": "100004848287494",
+            "photo_id": "2750991161739133",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "2750991198405796",
+                        "sharedMediaID": "1571294420191907",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1737820669,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1571294420191907"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=MaxUZbOxurQCatvdek0IOg&_nc_ss=7a3a8&oh=00_Af31gtRDMjpSvz3INc8ydP-lCutxkfogT9p7t9-VpJtGbg&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDAwNDg0ODI4NzQ5NDoyNzUwOTkxMTk4NDA1Nzk2OjI3NTA5OTExOTg0MDU3OTY=",
+            "post_id": "2750991198405796",
+            "url": "https://www.facebook.com/9999.hoangtran/posts/pfbid02f6k7JQjqPzH9WsEGWw7sadcbzhTEJT2U79HASqaFfTLtUecSLYLtuTBKwGRZtuhTl",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "2750991161739133",
+                    "url": "https://www.facebook.com/photo/?fbid=2750991161739133&set=a.284190331752574",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/503467174_2879510202220561_8340248302712348305_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=7b2446&_nc_ohc=-WcZtIbPSQQQ7kNvwH5kgSp&_nc_oc=AdqzfPC8mvoNBMDILqhdi1IxPqrUjcazHbBYEkfBR7xMbCyjf-WsXOYTjiXhgfi8ZvA&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=MaxUZbOxurQCatvdek0IOg&_nc_ss=7a3a8&oh=00_Af0XvZiCdJjgzXYOx1Q9pQsCsb3F4N5apE7VdoHQPNqUDg&oe=69E77550",
+                    "height": 1536,
+                    "width": 2048,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FF0E0906",
+                    "real_width": 2048,
+                    "real_height": 1536
+                },
+                "video": null
+            },
+            "text": "Người ta về nhà ăn tết 🎇\nTôi về nhà chạy deadline 😌\nTV của nhà cũng không tha 🙈\nChỉ là 1 cái màn hình máy tính to hơn thôi 😬",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Hoang Tran",
+                    "id": "100004848287494",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/9999.hoangtran",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1737820176000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

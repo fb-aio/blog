@@ -1,0 +1,208 @@
+{
+    "result": {
+        "id": "UzpfSTE2NTUzNjE2MDg0NTE4NTQ6Vks6MTY1NTM2MTYwODQ1MTg1NA==",
+        "post_id": "1655361608451854",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1655361608451854/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": {
+                "id": "720568717112439",
+                "url": "https://www.facebook.com/hieu.no.te.chin/videos/720568717112439/?idorvanity=1154059318582088",
+                "thumbnail": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t15.5256-10/501230041_1203552134419175_5392425137507485736_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=50ce42&_nc_ohc=HhjFOHzR7SMQ7kNvwGGlaSh&_nc_oc=Ado5YeTRWfE2BG3PteykGpetHsCWcEkKQ8DircHGWJdwIkxGo-SRTUloKw3y0jPIfrQ&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=_G7Six-q0Dvcu6x1aYLV8w&_nc_ss=7a3a8&oh=00_Af215rBJS-wEcDpWGFAuOSDy6ZtXx3hKBmQVHE9-XsOQGg&oe=69E75E34",
+                "duration": 69940,
+                "width": 1236,
+                "height": 1078,
+                "original_width": 1236,
+                "original_height": 1078,
+                "publish_time": 0,
+                "audio_availability": "AVAILABLE",
+                "is_live_streaming": false,
+                "is_spherical": false,
+                "is_looping": false,
+                "loop_count": 0,
+                "source": {
+                    "variants": []
+                },
+                "sprite": {
+                    "uris": [
+                        "https://scontent.fsgn2-5.fna.fbcdn.net/v/t15.5256-10/501709995_1222374909674541_4932424056914706681_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=62976d&_nc_ohc=reOZQMPHya8Q7kNvwFyhd7y&_nc_oc=AdoDRMIaKWuXa3b5ElUUT5UrCElRNGB8fCyvdB7tj3_0kvZfvlrJm-9G4HTzOT4z06k&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=_G7Six-q0Dvcu6x1aYLV8w&_nc_ss=7a3a8&oh=00_Af2LDqRY9W__fq1Zv5JAxwYDGwDMxerywXu_wk8AISR4Wg&oe=69E79208"
+                    ],
+                    "thumbnail_width": 100,
+                    "thumbnail_height": 86,
+                    "num_images_per_row": 10,
+                    "max_number_of_images_per_sprite": 100,
+                    "time_interval_between_image": 1
+                }
+            }
+        },
+        "text": "chào mọi người, mình rất rất cay cần ai thông thái chỉ với. mình đang dùng win 10, bị 2 lỗi mà suốt 2 năm nay tìm mãi không ra giải pháp.\n1. Đang bình thường, TỰ DƯNG gõ chữ xuất hiện dấu gạch chân ở chữ và chữ đảo vị trí tùm lum hết. Nghĩ do unikey tắt mở lại vẫn thế, vọc nát cài đặt uni cũng thế luôn. 1 ngày sẽ bị 1,2 lần phải khởi động lại máy. Nó bị như clip e gởi, ban đầu còn tưởng do nút INSERT hoặc 1,2 nút gần đó tại khi ấn cũng có dấu hiệu tương tự nhưng ko phải.\n2. sẵn tiện e hỏi luôn hic. kiểu do việc, đôi lúc cần thao tác nhanh, kiểu mở khoảng 20 profile chorme cùng lúc, rồi thao tác nhanh từng cái luân phiên. NẾU mở 1 cái lên và ẩn xuống ngay rồi đến tab khác thì không sao, còn nếu mở thẳng lên, vẫn để đó rồi thao tác tiếp tục tab khác, thì đến khoảng cái tab thứ 10 là máy e.... RỚT CMN MẠNG (icon hình máy tính mạng vẫn còn nhưng rớt mạng), lúc này sẽ chờ 1-3 phút hên xui 50-50, hên thì trở lại bình thường, còn xui thì VỀ HÌNH TRÁI ĐẤT phải khởi động lại máy luôn. \n\n=>> Vấn đề cay cú ở đây là e bị RỚT MẠNG chứ không phải máy chạy không nổi. trong thời gian rớt mạng vẫn đang bật đống việc như thế xem task thông số vẫn ở phân nửa thao tác bình thường, nó chỉ là RỚT MẠNG T.T \n\nMong cao nhân nào pro biết chỉ e với chứ lúc tập trung việc quan trọng có ngày chắc đập máy thật @@",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "chào mọi người, mình rất rất cay cần ai thông thái chỉ với. mình đang dùng win 10, bị 2 lỗi mà suốt 2 năm nay tìm mãi không ra giải pháp."
+            },
+            {
+                "__typename": "ComposedOrderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                "block_type": "ORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Đang bình thường, TỰ DƯNG gõ chữ xuất hiện dấu gạch chân ở chữ và chữ đảo vị trí tùm lum hết. Nghĩ do unikey tắt mở lại vẫn thế, vọc nát cài đặt uni cũng thế luôn. 1 ngày sẽ bị 1,2 lần phải khởi động lại máy. Nó bị như clip e gởi, ban đầu còn tưởng do nút INSERT hoặc 1,2 nút gần đó tại khi ấn cũng có dấu hiệu tương tự nhưng ko phải."
+            },
+            {
+                "__typename": "ComposedOrderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                "block_type": "ORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "sẵn tiện e hỏi luôn hic. kiểu do việc, đôi lúc cần thao tác nhanh, kiểu mở khoảng 20 profile chorme cùng lúc, rồi thao tác nhanh từng cái luân phiên. NẾU mở 1 cái lên và ẩn xuống ngay rồi đến tab khác thì không sao, còn nếu mở thẳng lên, vẫn để đó rồi thao tác tiếp tục tab khác, thì đến khoảng cái tab thứ 10 là máy e.... RỚT CMN MẠNG (icon hình máy tính mạng vẫn còn nhưng rớt mạng), lúc này sẽ chờ 1-3 phút hên xui 50-50, hên thì trở lại bình thường, còn xui thì VỀ HÌNH TRÁI ĐẤT phải khởi động lại máy luôn. "
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "=>> Vấn đề cay cú ở đây là e bị RỚT MẠNG chứ không phải máy chạy không nổi. trong thời gian rớt mạng vẫn đang bật đống việc như thế xem task thông số vẫn ở phân nửa thao tác bình thường, nó chỉ là RỚT MẠNG T.T "
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Mong cao nhân nào pro biết chỉ e với chứ lúc tập trung việc quan trọng có ngày chắc đập máy thật @@ "
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "61573465088178",
+                "name": "nk nguyen",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/hieu.no.te.chin"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 6,
+            "total_count": 18,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 3,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 2,
+                    "name": "Thích"
+                },
+                {
+                    "id": "908563459236466",
+                    "count": 1,
+                    "name": "Buồn"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1748520556000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1655361608451854",
+            "content_owner_id_new": "61573465088178",
+            "story_location": 9,
+            "story_attachment_style": "video_autoplay",
+            "video_id": "720568717112439",
+            "ent_attachement_type": "VideoAttachment",
+            "app_id": "2392950137",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "61573465088178",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1748514056,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1655361608451854"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "61573465088178",
+            "actrs": "61573465088178",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=_G7Six-q0Dvcu6x1aYLV8w&_nc_ss=7a3a8&oh=00_Af1c4A-LpX_7TkY_JDRNPNWE3rBRh-s4bGrTZQydYHmEBA&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

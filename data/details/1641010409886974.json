@@ -1,0 +1,225 @@
+{
+    "result": {
+        "id": "UzpfSTE2NDEwMTA0MDk4ODY5NzQ6Vks6MTY0MTAxMDQwOTg4Njk3NA==",
+        "post_id": "1641010409886974",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1641010409886974/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Đọc chi tiết vụ án trong bình luận mà khóc hết nước mắt 🐧\n\nKhóc vì mình không có xiền cho tụi đào lửa lùa🐧",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 1,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 13,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 8,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 5,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1746593445000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1641010409886974",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "9811673638876391",
+            "original_content_owner_id": "100001015588147",
+            "page_id": "105132772397379",
+            "photo_id": "9811671278876627",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "100001015588147": {
+                    "page_id": "100001015588147",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100001015588147",
+                        "page_id_type": "page",
+                        "actor_id": "100001015588147",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1746259656,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "9811673638876391"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1641010409886974",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100001015588147",
+                            "post_id": "9811673638876391",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "9811673638876391",
+                        "sharedMediaID": "1641010409886974",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1746593445,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1641010409886974"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=qxZTYEyvGbKq9IWbr-DLvw&_nc_ss=7a3a8&oh=00_Af1er746Gh2tyIhgEIeE4jRVZv5cnGRNEbfwQS9XreVThw&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDAwMTAxNTU4ODE0Nzo5ODExNjczNjM4ODc2MzkxOjk4MTE2NzM2Mzg4NzYzOTE=",
+            "post_id": "9811673638876391",
+            "url": "https://www.facebook.com/boydongtrieu/posts/pfbid02QaJCM2iMxAsQASMouMD3QUbTu131kSr88APLJqqyr8t4asD6HpjXZKiusMB72UNJl",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "9811671278876627",
+                    "url": "https://www.facebook.com/photo/?fbid=9811671278876627&set=a.165597940150724",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/556217827_24781964331420743_4496076380923484000_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=7b2446&_nc_ohc=pkAvxFSG3mAQ7kNvwEZRX_c&_nc_oc=Adpts2JNw4DpaHlfbh8x9XdFFeDZpuMxquZHgIPudCXlPgNiiE9jtyPq3gW3hD3S6kQ&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=qxZTYEyvGbKq9IWbr-DLvw&_nc_ss=7a3a8&oh=00_Af0PVvQ4GIg98jclHkmKmn7TFXLwTM9YN8cMgddYEi5t-A&oe=69E795D6",
+                    "height": 654,
+                    "width": 826,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FFD1D2C4",
+                    "real_width": 826,
+                    "real_height": 654
+                },
+                "video": null
+            },
+            "text": "🆘 ĐƯỢC SHIPPER GỌI BẢO CÓ ĐƠN HÀNG OĐ, PHÍ SHIP 16K. CHỊ GÁI LIỀN BANK 16K NHƯNG SAU KHI LẰNG NHĂNG QUA LẠI THÌ CHỊ GÁI ĐÃ BANK ĐẾN 200 TRIỆU.\n\n\"RẤT MAY\" SAU ĐÓ CÓ 1 ANH 👮‍♀️ Ở CAM ĐÃ CHỦ ĐỘNG GỌI ĐIỆN CHO CHỊ ĐỂ HỖ TRỢ XỬ LÝ, VÀ SAU KHI KẾT THÚC CUỘC GỌI. CHỊ MẤT THÊM 200 TRIỆU, TỔNG HƠN 400 TRIỆU",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Thành Cậm Cạch",
+                    "id": "100001015588147",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/boydongtrieu",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1746259656000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

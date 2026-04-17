@@ -1,0 +1,152 @@
+{
+    "result": {
+        "id": "UzpfSTE4NzI3NzIwMjAwNDQxNDQ6Vks6MTg3Mjc3MjAyMDA0NDE0NA==",
+        "post_id": "1872772020044144",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1872772020044144/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Cho mình hỏi có cách nào khi bạn bè đăng bài nhận được thông báo nhanh không\nCủa fb nó không hiệu quả",
+        "text_format": {
+            "preset_id": "1430040581593723",
+            "background_color": "FF386283",
+            "background_image": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.10873-6/536586505_1430040591593722_8712969926483765012_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=1&ccb=1-7&_nc_sid=4bb800&_nc_ohc=binxn702ZKcQ7kNvwHoHStu&_nc_oc=Adp2GC_P1wV6inzO7Y1ntJoeBQZRVgNtEDiIoBawOcKd6siI-AoAE3T8ULFff5gzPOU&_nc_zt=14&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=bDUS9b8v_RkqoLEKqneVag&_nc_ss=7a3a8&oh=00_Af3boVKwPcrP_h5XgblMb7H7_WlmO9SM79jVvRQt_gPFaA&oe=69E73F26",
+            "portrait_background_image": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.10873-6/536586505_1430040591593722_8712969926483765012_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=1d2e01&_nc_ohc=binxn702ZKcQ7kNvwHoHStu&_nc_oc=Adp2GC_P1wV6inzO7Y1ntJoeBQZRVgNtEDiIoBawOcKd6siI-AoAE3T8ULFff5gzPOU&_nc_zt=14&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=bDUS9b8v_RkqoLEKqneVag&_nc_ss=7a3a8&oh=00_Af1Wn9iDH-x2nztIaAeq3X-K-0YcjaoaUSHR45uWa5vdzg&oe=69E73F26",
+            "color": "FFFFFFFF",
+            "font_weight": "BOLD",
+            "font_style": "NORMAL",
+            "text_align": "CENTER"
+        },
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100010366783361",
+                "name": "Hậu Ngô",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/hau.ngo.2468"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 3,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 2,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 2,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1774183327000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1872772020044144",
+            "content_owner_id_new": "100010366783361",
+            "page_id": "675415715654820",
+            "text_formatting": "1430040581593723",
+            "story_location": 9,
+            "page_insights": {
+                "100010366783361": {
+                    "page_id": "100010366783361",
+                    "page_id_type": "page",
+                    "actor_id": "100010366783361",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1773670880,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1872772020044144"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100010366783361",
+                            "page_id": "100010366783361",
+                            "post_id": "1872772020044144",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100010366783361",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1773670880,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1872772020044144"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100010366783361",
+            "actrs": "100010366783361",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=bDUS9b8v_RkqoLEKqneVag&_nc_ss=7a3a8&oh=00_Af088Ou6NfC6GA9X8ez8ea7x8TuKFHW2xzMXepnH5Iunhg&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

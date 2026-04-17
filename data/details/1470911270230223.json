@@ -1,0 +1,269 @@
+{
+    "result": {
+        "id": "UzpfSTE0NzA5MTEyNzAyMzAyMjM6Vks6MTQ3MDkxMTI3MDIzMDIyMw==",
+        "post_id": "1470911270230223",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1470911270230223/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Hình nền Windows XP, giờ cài làm hình nền vẫn đẹp 🤣😂\n\n#ufs_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#ufs_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 1,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 13,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 10,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 3,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1724341774000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1470911270230223",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1225835342147719",
+            "original_content_owner_id": "100041637951822",
+            "page_id": "517510415030906",
+            "photo_id": "1225834998814420",
+            "story_location": 9,
+            "attached_story_attachment_style": "album",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "PhotoSetAttachment",
+            "page_insights": {
+                "100041637951822": {
+                    "page_id": "100041637951822",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100041637951822",
+                        "page_id_type": "page",
+                        "actor_id": "100041637951822",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1723997311,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1225835342147719"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1470911270230223",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100041637951822",
+                            "post_id": "1225835342147719",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1225835342147719",
+                        "sharedMediaID": "1470911270230223",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1724341774,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1470911270230223"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=jxwAZL-akSnZ5mDV8s3S2Q&_nc_ss=7a3a8&oh=00_Af2Ik7XP0RBqXhHSC6rgoWf6seco7nCifuc6X6oW6bBOqg&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA0MTYzNzk1MTgyMjoxMjI1ODM1MzQyMTQ3NzE5OjEyMjU4MzUzNDIxNDc3MTk=",
+            "post_id": "1225835342147719",
+            "url": "https://www.facebook.com/ComputerLoveRecords/posts/pfbid0x81BtWoXSugQxHSWfSD1q6pV6BSMpbsyVMcuE3WhtZMbVLZ7CgeDREjtfjgUt6Wdl",
+            "media": {
+                "mediaset_token": "pcb.1225835342147719",
+                "subAttachments": [
+                    {
+                        "id": "1225834998814420",
+                        "url": "https://www.facebook.com/photo.php?fbid=1225834998814420&set=a.934188851312371&type=3",
+                        "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/486675902_1392474472150471_817559225136406333_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=7b2446&_nc_ohc=Fl35DeH1d3kQ7kNvwGQQJJW&_nc_oc=AdoIaf0hbjsIpvW-SbhA8nErBVlzKmD-dAUZv8tOq2LlHcvYoHvVqL9SJbSPu8l1bb4&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=jxwAZL-akSnZ5mDV8s3S2Q&_nc_ss=7a3a8&oh=00_Af2n3c8C9ulZ899_2LOnmjej6CCQSds2J6ZQHYZZEUeGKg&oe=69E72324",
+                        "height": 600,
+                        "width": 800,
+                        "accessibility_caption": "Không có mô tả ảnh.",
+                        "real_width": 800,
+                        "real_height": 600
+                    },
+                    {
+                        "id": "1225835142147739",
+                        "url": "https://www.facebook.com/photo.php?fbid=1225835142147739&set=a.934188851312371&type=3",
+                        "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/487077075_1392474468817138_216398536258048643_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=7b2446&_nc_ohc=EhVZWdItJHQQ7kNvwG0ykp8&_nc_oc=Adr7CodU7EEQM5A4xljsAHhKbogg6F8fr30Ud-bUi4POR6mEph2mm6iBb_J0vLrKcjk&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=jxwAZL-akSnZ5mDV8s3S2Q&_nc_ss=7a3a8&oh=00_Af26NnLnUwpfrrbx-IrSLSTSsrhncjFWAy7WQC2lGFli8Q&oe=69E735FD",
+                        "height": 600,
+                        "width": 800,
+                        "accessibility_caption": "Không có mô tả ảnh.",
+                        "real_width": 800,
+                        "real_height": 600
+                    },
+                    {
+                        "id": "1225835132147740",
+                        "url": "https://www.facebook.com/photo.php?fbid=1225835132147740&set=a.934188851312371&type=3",
+                        "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/487604755_1392474678817117_2629800267675916812_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=7b2446&_nc_ohc=6ZCYzrVNyf0Q7kNvwGN_z3v&_nc_oc=Adp3IlRK-th9pZuyfM_LwoWK8uhXRDQ5m--rGKD_u84j6Z_3vlGCp19XZGcRLYslM-4&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=jxwAZL-akSnZ5mDV8s3S2Q&_nc_ss=7a3a8&oh=00_Af0tm_Q_BkmVOkfz-KoheoMNTjZfRL3jC46LL3w8kaTmeg&oe=69E740B5",
+                        "height": 600,
+                        "width": 800,
+                        "accessibility_caption": "Không có mô tả ảnh.",
+                        "real_width": 800,
+                        "real_height": 600
+                    },
+                    {
+                        "id": "1225835078814412",
+                        "url": "https://www.facebook.com/photo.php?fbid=1225835078814412&set=a.934188851312371&type=3",
+                        "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/487814027_1392474475483804_7627870028968178530_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=7b2446&_nc_ohc=8j0ZIFHtEzsQ7kNvwEV-ns5&_nc_oc=AdoCkCM8jhTr7MsPv_YK8Qnin-xG4XARimcVemxdUML7l6M3V7Q340C9BwllBOghitU&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=jxwAZL-akSnZ5mDV8s3S2Q&_nc_ss=7a3a8&oh=00_Af1-jCShRaIDpxp_3gqK49PYvS7weMfI_uq99RU4Ght_7Q&oe=69E74225",
+                        "height": 600,
+                        "width": 800,
+                        "accessibility_caption": "Không có mô tả ảnh.",
+                        "real_width": 800,
+                        "real_height": 600
+                    },
+                    {
+                        "id": "1225835028814417",
+                        "url": "https://www.facebook.com/photo.php?fbid=1225835028814417&set=a.934188851312371&type=3",
+                        "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/487521348_1392474772150441_7279405537655651520_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=7b2446&_nc_ohc=F76JcicdGe8Q7kNvwEtXcSs&_nc_oc=AdoEtIJGcB3Q-iaikWhAsF4GeNXcxRcuNCjCTLNs1yKVy79Y7j87__JDAJOmWjLaa80&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=jxwAZL-akSnZ5mDV8s3S2Q&_nc_ss=7a3a8&oh=00_Af2MCpHXFkA6yOc_A7oFlxRFjEVyil8ir1wOjRhzNbys5A&oe=69E72855",
+                        "height": 600,
+                        "width": 800,
+                        "accessibility_caption": "Không có mô tả ảnh.",
+                        "real_width": 800,
+                        "real_height": 600
+                    }
+                ],
+                "photo": null,
+                "video": null
+            },
+            "text": "Windows XP wallpapers in 2001",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Computer Love Records",
+                    "id": "100041637951822",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/ComputerLoveRecords",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1723997311000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

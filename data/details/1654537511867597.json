@@ -1,0 +1,302 @@
+{
+    "result": {
+        "id": "UzpfSTE2NTQ1Mzc1MTE4Njc1OTc6Vks6MTY1NDUzNzUxMTg2NzU5Nw==",
+        "post_id": "1654537511867597",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1654537511867597/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Mong anh mark đừng chú ý đến nhóm  mình 🐧",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 6,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 2,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 2,
+                    "name": "Haha"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "908563459236466",
+                    "count": 1,
+                    "name": "Buồn"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1748409371000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1654537511867597",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "10233044366263906",
+            "original_content_owner_id": 1010276030,
+            "page_id": "218322898024376",
+            "photo_id": "10233043909252481",
+            "story_location": 9,
+            "attached_story_attachment_style": "album",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1010276030": {
+                    "page_id": 1010276030,
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": 1010276030,
+                        "page_id_type": "page",
+                        "actor_id": 1010276030,
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1748406286,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "10233044366263906"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1654537511867597",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": 1010276030,
+                            "post_id": "10233044366263906",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "100064860875397": {
+                    "page_id": "100064860875397",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100064860875397",
+                        "page_id_type": "page",
+                        "actor_id": 1010276030,
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "role": 16,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "10233044366263906",
+                        "sharedMediaID": "1654537511867597",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1748409371,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1654537511867597"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=Qq-ATsvZ1LbCsA4abZeXTw&_nc_ss=7a3a8&oh=00_Af2BxLgWxKLLJl_RxhjtHyQkr92Yuaq1Vd74dtC0xmqhjw&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMTAyNzYwMzA6MTAyMzMwNDQzNjYyNjM5MDY6MTAyMzMwNDQzNjYyNjM5MDY=",
+            "post_id": "10233044366263906",
+            "url": "https://www.facebook.com/mrgoonie/posts/pfbid0QERQi8cSafZ7rizxvAnCfgpwEjLpemWVppxfXC4aFZCFYkrRwQFkyuPyA4Nk9jVel",
+            "media": {
+                "mediaset_token": "pcb.10233044366263906",
+                "subAttachments": [
+                    {
+                        "id": "10233043909252481",
+                        "url": "https://www.facebook.com/photo.php?fbid=10233043909252481&set=a.1269421888228&type=3",
+                        "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/518409175_10234183098851509_8713816172654790317_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_ohc=55okaZcF8pwQ7kNvwHn3i7L&_nc_oc=Adq21eYwUIIYUmHYMZBIywMi2yUAy_UlunHMcydSMlESDo8bstjXBK28Ki_JsEmkaqs&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=Qq-ATsvZ1LbCsA4abZeXTw&_nc_ss=7a3a8&oh=00_Af2ZiRL61bDljxE2rD9a2nByXBgIB6Z_3ju9j1VBSJbbTQ&oe=69E73F7D",
+                        "height": 752,
+                        "width": 749,
+                        "accessibility_caption": "Không có mô tả ảnh.",
+                        "real_width": 749,
+                        "real_height": 752
+                    },
+                    {
+                        "id": "10233043910652516",
+                        "url": "https://www.facebook.com/photo.php?fbid=10233043910652516&set=a.1269421888228&type=3",
+                        "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/518948310_10234183099651529_9179330139810791550_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=6-13nwiBXfgQ7kNvwHH8JMi&_nc_oc=AdrloHe6y90rmAinIwOVNWJOLPJpfFESDKbKBFnPLy6tb_qv-vvQBmkO3ZFOpe7yL-s&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=Qq-ATsvZ1LbCsA4abZeXTw&_nc_ss=7a3a8&oh=00_Af07NZ9iDz_7Y_5u2G8ww1f8KNaEmktrJ4uAO8HrcUHSNg&oe=69E736D0",
+                        "height": 627,
+                        "width": 595,
+                        "accessibility_caption": "Không có mô tả ảnh.",
+                        "real_width": 595,
+                        "real_height": 627
+                    },
+                    {
+                        "id": "10233043913572589",
+                        "url": "https://www.facebook.com/photo.php?fbid=10233043913572589&set=a.1269421888228&type=3",
+                        "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/518344640_10234183096491450_1796873726869007898_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=3AD3o0kYaYAQ7kNvwGYtHfw&_nc_oc=Adp_RWAy6vEnF-hn4l1GmHI7Z9rLkI-UImYFVfZ_yCPWGS3g33FibTQ8tUT_d595rAs&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=Qq-ATsvZ1LbCsA4abZeXTw&_nc_ss=7a3a8&oh=00_Af3dCVsdVb8vW6mEgyYHo1QDLAofI-os4HLTkoGguewVjg&oe=69E712C1",
+                        "height": 852,
+                        "width": 848,
+                        "accessibility_caption": "Không có mô tả ảnh.",
+                        "real_width": 848,
+                        "real_height": 852
+                    },
+                    {
+                        "id": "10233043921092777",
+                        "url": "https://www.facebook.com/photo.php?fbid=10233043921092777&set=a.1269421888228&type=3",
+                        "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/518292045_10234183099051514_2523611144365114124_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=13d280&_nc_ohc=tP9Fr8T3-B4Q7kNvwEXUvqq&_nc_oc=AdqOHy8xNDIuIFd0WY76aCxn0Dt_yqUSzvFHNsRWRnqj2LKAPtXK_FsBUUR-_tAv1gw&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=Qq-ATsvZ1LbCsA4abZeXTw&_nc_ss=7a3a8&oh=00_Af0IoFhVfwNmu8a55E9lPlY9scAwzeatPV2g3v9PRiXjNQ&oe=69E73B46",
+                        "height": 908,
+                        "width": 656,
+                        "accessibility_caption": "Không có mô tả ảnh.",
+                        "real_width": 656,
+                        "real_height": 908
+                    }
+                ],
+                "photo": null,
+                "video": null
+            },
+            "text": "Facebook what the hell?\n\nTự nhiên cho bay màu group Build in public VN zậy cha...\n\nLý do mà FB đưa ra là: \"Hình cover và description của nhóm có dấu hiệu nguy hiểm và quảng bá cho tội phạm\"\n\nSau khi request review lại thì đã mở lại group, nhưng group's status vẫn trong tình trạng \"At risk\"\n\nKhó chịu vô cùng... 😡",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [
+                {
+                    "type": "User",
+                    "id": "100064860875397",
+                    "name": "Facebook",
+                    "url": "https://www.facebook.com/facebook",
+                    "length": 8,
+                    "offset": 0
+                },
+                {
+                    "type": "Group",
+                    "id": "1569314343856132",
+                    "name": "https://www.facebook.com/groups/indiehackervn/",
+                    "url": "https://www.facebook.com/groups/indiehackervn/",
+                    "length": 18,
+                    "offset": 52
+                }
+            ],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Duy Nguyen",
+                    "id": "1010276030",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/mrgoonie",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1748406286000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

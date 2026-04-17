@@ -1,0 +1,311 @@
+{
+    "result": {
+        "id": "UzpfSTE3NzE4MDEwNDM0NzQ1NzY6Vks6MTc3MTgwMTA0MzQ3NDU3Ng==",
+        "post_id": "1771801043474576",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1771801043474576/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": {
+                "id": "1229909918972676",
+                "url": "https://www.facebook.com/999.hoangtran/videos/1229909918972676/?idorvanity=1154059318582088",
+                "thumbnail": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t15.5256-10/568315442_1315576876922154_5821251106190698502_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=50ce42&_nc_ohc=204aE5s2tT0Q7kNvwFOOoFD&_nc_oc=Adp6MiXO6RG0bsDvagY7Hs00aEiETLHb2gtDdz3fpMWKAF05J0TIoDAr_wpcVM6p64s&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=rh3rUt1kL08Iie2PhlcO4A&_nc_ss=7a3a8&oh=00_Af03cMD7TcIcsU_r445LptsJEYfilROH1216GlCsdjkusA&oe=69E77ED8",
+                "duration": 92050,
+                "width": 1240,
+                "height": 830,
+                "original_width": 1242,
+                "original_height": 830,
+                "publish_time": 0,
+                "audio_availability": "UNAVAILABLE",
+                "is_live_streaming": false,
+                "is_spherical": false,
+                "is_looping": false,
+                "loop_count": 0,
+                "source": {
+                    "variants": []
+                },
+                "sprite": {
+                    "uris": [
+                        "https://scontent.fsgn2-3.fna.fbcdn.net/v/t15.5256-10/568276356_2039347780201910_373652352825487780_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=62976d&_nc_ohc=lrYKN0zcX0kQ7kNvwGC3mBE&_nc_oc=AdozFEMKCgvqdEH2vBrLv_Ik-4rlaO3_ZRRlqHqk2gaboWKbMxDr9YKrcYTbT35Dq9M&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=rh3rUt1kL08Iie2PhlcO4A&_nc_ss=7a3a8&oh=00_Af1Tnh5X28vvKplSB5GAmWpwFDUUGBYOknklZpABdJOjLQ&oe=69E76302"
+                    ],
+                    "thumbnail_width": 120,
+                    "thumbnail_height": 80,
+                    "num_images_per_row": 10,
+                    "max_number_of_images_per_sprite": 100,
+                    "time_interval_between_image": 1
+                }
+            }
+        },
+        "text": "# Anh em chán quá thì vô LOL2D xả stress nè 😇\n\nChế độ 1 cho tất cả luôn\n\n[https://hoangtran99.is-a.dev/LOL2D](https://hoangtran99.is-a.dev/LOL2D)\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Anh em chán quá thì vô LOL2D xả stress nè 😇"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Chế độ 1 cho tất cả luôn"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "LINK",
+                        "entity": {
+                            "__typename": "ExternalUrl",
+                            "__isEntity": "ExternalUrl",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fhoangtran99.is-a.dev%2FLOL2D&h=AT7JlAUcr-lPC5o7T1wohosIca1SswlIsNPzhe93RZgIAcQW4GONXqskaaYDfKlD253NpO4JYA7o_bYe1E1arGAGZW9QqiJDWTgSz2IOq3CCdueuH0DL4g0PHLE10VDfOfUrWWk1Vg&s=1",
+                            "external_url": "https://hoangtran99.is-a.dev/LOL2D",
+                            "__isWebLinkable": "ExternalUrl",
+                            "web_link": {
+                                "__typename": "ExternalWebLink",
+                                "url": "https://hoangtran99.is-a.dev/LOL2D",
+                                "fbclid": "IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsNjmwVxWukGVwi_gG0c-ozYTCVKfMmK72-nd9nVK-ZBBA8liiXN632SBL1J_aem_cQHVZ2z9TbbKsTs_BDUjIA",
+                                "lynx_mode": "ASYNCLAZY"
+                            },
+                            "mobileUrl": "https://lm.facebook.com/l.php?u=https%3A%2F%2Fhoangtran99.is-a.dev%2FLOL2D&h=AT4H0MAdUbI9eSzdfF-RBLbz_9s4IlEnp2YIf91FAaO5cpKZ9TCC_sYPKL7ugpuPUqKr0XMQISZap8IQ-veOWcsc2bTnuOJtRjEnvKhaRy9P3ExaPDBa_HdFHMw2WOYK7A1L15RSxw&s=1",
+                            "__isNode": "ExternalUrl",
+                            "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2hvYW5ndHJhbjk5LmlzLWEuZGV2L0xPTDJEOjo6Ojo="
+                        },
+                        "length": 34,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "https://hoangtran99.is-a.dev/LOL2D"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fbaio_share",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fbaio_share",
+                            "__isNode": "Hashtag",
+                            "id": "8771715079560378"
+                        },
+                        "length": 12,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fbaio_share "
+            }
+        ],
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2hvYW5ndHJhbjk5LmlzLWEuZGV2L0xPTDJEOjo6Ojo=",
+                "name": "https://hoangtran99.is-a.dev/LOL2D",
+                "url": "https://hoangtran99.is-a.dev/LOL2D",
+                "length": 34,
+                "offset": 0
+            }
+        ],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100082499383506",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 2,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Bạn đã ẩn",
+                        "description": "Hiển thị bình luận đã ẩn của bạn trong ngữ cảnh gốc của bài viết. Chỉ bạn mới nhìn thấy nội dung này.",
+                        "intent_token": "ADMIN_HIDDEN_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 3,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 3,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 2,
+        "created_time": 1761844300000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1771801043474576",
+            "content_owner_id_new": "100082499383506",
+            "page_id": "845529898638466",
+            "story_location": 9,
+            "story_attachment_style": "video_autoplay",
+            "video_id": "1229909918972676",
+            "ent_attachement_type": "VideoAttachment",
+            "app_id": "2392950137",
+            "page_insights": {
+                "100082499383506": {
+                    "page_id": "100082499383506",
+                    "page_id_type": "page",
+                    "actor_id": "100082499383506",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1761844300,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1771801043474576"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100082499383506",
+                            "page_id": "100082499383506",
+                            "post_id": "1771801043474576",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100082499383506",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1761844300,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1771801043474576"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100082499383506",
+            "actrs": "100082499383506",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=rh3rUt1kL08Iie2PhlcO4A&_nc_ss=7a3a8&oh=00_Af16zY0G39pFxGl33h4tW2TMNMLQcPe2rRAE-uAYAVXOpg&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "result": {
+        "id": "UzpfSTE4MzAxNjg5MDA5NzExMjM6Vks6MTgzMDE2ODkwMDk3MTEyMw==",
+        "post_id": "1830168900971123",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1830168900971123/",
+        "media": {
+            "mediaset_token": "pcb.1830168900971123",
+            "subAttachments": [
+                {
+                    "id": "3101513880020191",
+                    "url": "https://www.facebook.com/photo.php?fbid=3101513880020191&set=gm.1830193747635305&type=3",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/615883554_3101513883353524_7779363216999257326_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=bRzSBwwxknUQ7kNvwGFjO0-&_nc_oc=AdptCug0_zN4nzaddo12p1YddoW11Jn0KAM0TTCzG_9HsygYFR4vx_kNw42TYYl26Qk&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=aorJaHRsdWatZW457CQXNg&_nc_ss=7a3a8&oh=00_Af0LoAcPbPR6BvwtO9QE3xiGLA0kYYPS9co8F2dmfBXj8A&oe=69E72451",
+                    "height": 886,
+                    "width": 1223,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản cho biết 'Backto Droplets fbaio-apis in AIO 512 MB Memory ipv4: Disk/ SGP1 NodeJS on Ubuntu 24 04 ipv6: Get started Graphs Access Upsize Droplet Private IP: Power ON period hour C Volumes Reserved P: Enable now Resize Cu ％ Console 0 Networking 8% Backups Snapshots 6% Kernel History 4% Learn 国 Destroy Tags 2% Recovery 0% 21:25 21:30 21:35 Load (1/5/15) 21:40 0.300 21:45 21:50 21:55 22:00 0.200 22.05 22:10 22:15 22:20 0.100 0 21:25 21:30 21:35 21:40 21:45 21:50 21:55 22:00 22:05 22:10 22:15 22:20'",
+                    "real_width": 1223,
+                    "real_height": 886
+                },
+                {
+                    "id": "3101547803350132",
+                    "url": "https://www.facebook.com/photo.php?fbid=3101547803350132&set=gm.1830193744301972&type=3",
+                    "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/616083673_3101547806683465_8382550427198302254_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=e1jZWssYDFgQ7kNvwFdNGWV&_nc_oc=AdpAtZz46daGAs56tFDuNYgefSt2f-Arm5fBBsU9hjJfEqax-yCJOhrW48kaCLKrqxs&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=aorJaHRsdWatZW457CQXNg&_nc_ss=7a3a8&oh=00_Af3juwS-WVvO786p59GrIYTn1A2BqllIgpYflIymTmhLcQ&oe=69E7404F",
+                    "height": 479,
+                    "width": 960,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                    "real_width": 960,
+                    "real_height": 479
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Server FB AIO đang gặp lỗi tý, ae đợi ad fix nhé 🫥\n\nGần 1 tháng chưa update gì cho em nó, cái em nó giận hay sao ấy 👀\n\n#fb_aio",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Server FB AIO đang gặp lỗi tý, ae đợi ad fix nhé 🫥"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Gần 1 tháng chưa update gì cho em nó, cái em nó giận hay sao ấy 👀"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fb_aio",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fb_aio",
+                            "__isNode": "Hashtag",
+                            "id": "8080904801977702"
+                        },
+                        "length": 7,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fb_aio"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 2,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 14,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 14,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1768922605000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1830168900971123",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "3101513880020191",
+                "3101547803350132"
+            ],
+            "photo_id": "3101513880020191",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1768922605,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1830168900971123"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=aorJaHRsdWatZW457CQXNg&_nc_ss=7a3a8&oh=00_Af0batM7xwtka0Cl-d5ALeznNb7bb2P_3aYQ_oqN71MpWA&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

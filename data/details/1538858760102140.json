@@ -1,0 +1,438 @@
+{
+    "result": {
+        "id": "UzpfSTE1Mzg4NTg3NjAxMDIxNDA6Vks6MTUzODg1ODc2MDEwMjE0MA==",
+        "post_id": "1538858760102140",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1538858760102140/",
+        "media": {
+            "mediaset_token": "pcb.1538858760102140",
+            "subAttachments": [
+                {
+                    "id": "2712050505633199",
+                    "url": "https://www.facebook.com/photo.php?fbid=2712050505633199&set=gm.1538858756768807&type=3",
+                    "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/503892015_2879173205587594_2981155247027360805_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=Wi4rzyyyH1kQ7kNvwFh1wy0&_nc_oc=Adr5Mh2AELO5xsNHQIwE13Z_1l42FfimjB1WrQJfoQveuBJjnYKwOG7OdbIOoOkf3mM&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=zkKuKTrelISlazNMO9xIMw&_nc_ss=7a3a8&oh=00_Af2rIu_b6APjG73uNWK77kytlFyBYhdu4RLyzf_FH_xzkQ&oe=69E72AE3",
+                    "height": 902,
+                    "width": 1242,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                    "real_width": 1242,
+                    "real_height": 902
+                },
+                {
+                    "id": "2712053305632919",
+                    "url": "https://www.facebook.com/photo.php?fbid=2712053305632919&set=gm.1538858750102141&type=3",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/504346364_2879173275587587_7550138290375442659_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=ZYoUkwKa5DIQ7kNvwHMXwRo&_nc_oc=Adpg4VmpyAlBUvWq8Z8ud_ulLn1_nsB26RlKLRYIXGtvPhBBxNodgOmGiwFoDHkPd_0&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=zkKuKTrelISlazNMO9xIMw&_nc_ss=7a3a8&oh=00_Af3CYJvHuK-35R8PfYZqJYrFg-aiqHB8DY87tw0DHnFDTg&oe=69E712BF",
+                    "height": 614,
+                    "width": 818,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                    "real_width": 818,
+                    "real_height": 614
+                },
+                {
+                    "id": "2712055362299380",
+                    "url": "https://www.facebook.com/photo.php?fbid=2712055362299380&set=gm.1538858753435474&type=3",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/503314949_2879173055587609_6058901378352221902_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=gX18ro9FezAQ7kNvwGpoGWt&_nc_oc=AdqFw1SuoIKbCQPPyUssjtiGALnte-8WfOSTOwR234Ri_bmsj5ucUIA5BfdqX4SxnM4&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=zkKuKTrelISlazNMO9xIMw&_nc_ss=7a3a8&oh=00_Af22yAfZQ9fCQ__sKo70hMHPinKTKk1HmzbZMfGEwpyGTg&oe=69E73A93",
+                    "height": 739,
+                    "width": 870,
+                    "accessibility_caption": "Có thể là đồ họa về văn bản cho biết '.is-a.dev dey is-0. DOMAINS 5.5K ISSUES PULL REQUESTS ဂ Publish passing 10 is-a-dev is is-a.dev service that allows developers to get Announcements & Status Updates sweet-looking sweet- .is-a.dev\" domain for their personal websites. Please join our Discord server for announcements, updates & upgrades, and downtimes regarding the service. Not all these will be posted on GitHub, however they will always be posted in our Discord server. YOU'VE BEEN INVITED τo JOIN SERVER is-a.dev •254Online 254 Online 2,565 Members Join'",
+                    "real_width": 870,
+                    "real_height": 739
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Tạo domain** .is-a .dev** miễn phí 🌍\n\nNếu bạn là lập trình viên, có 1 domain dạng **<tên bạn>.is-a.dev** là 1 cách tuyệt vời để flex với người khác. 💪\n\nVí dụ mình vừa tạo xong **hoangtran99.is-a.dev**\n* Miễn phí luôn\n* Code để trên **github **(host free)\n* domain thì của **is-a-dev **(domain free)\n\nCó thể tạo bao nhiêu domain/host đều được, 1 cái làm blog, 1 cái làm cv online, 1 cái làm porfolio, ... 🤯\n\nCách làm cũng đơn giản:\n* 🌐 Truy cập https://github.com/is-a-dev/register\n* 💾 Clone về github của bạn\n* 📂 Tạo file <tên domain>.json trong folder domains, *ví dụ hoangtran99.json*\n* 📝 Viết json config theo hướng dẫn *(trỏ về repo github bạn, hoặc trỏ về IP của bạn, ...)*\n* 🚀 Tạo merge request theo hướng dẫn\n* ✅ Đợi họ merge code vào là bạn có ngay domain để dùng\n\nNhư hình bên dứoi mình đang trỏ http://hoangtran99.is-a.dev/ (domain mới) về https://hoangtran0410.github.io/ (domain gốc của github pages) 🤝",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 11,
+                        "offset": 10
+                    }
+                ],
+                "text": "Tạo domain .is-a .dev miễn phí 🌍"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 18,
+                        "offset": 44
+                    }
+                ],
+                "text": "Nếu bạn là lập trình viên, có 1 domain dạng <tên bạn>.is-a.dev là 1 cách tuyệt vời để flex với người khác. 💪"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 20,
+                        "offset": 24
+                    }
+                ],
+                "text": "Ví dụ mình vừa tạo xong hoangtran99.is-a.dev"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Miễn phí luôn"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 7,
+                        "offset": 13
+                    }
+                ],
+                "text": "Code để trên github (host free)"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 9,
+                        "offset": 15
+                    }
+                ],
+                "text": "domain thì của is-a-dev (domain free)"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Có thể tạo bao nhiêu domain/host đều được, 1 cái làm blog, 1 cái làm cv online, 1 cái làm porfolio, ... 🤯"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Cách làm cũng đơn giản:"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "🌐 Truy cập https://github.com/is-a-dev/register"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "💾 Clone về github của bạn"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "ITALIC",
+                        "length": 22,
+                        "offset": 51
+                    }
+                ],
+                "text": "📂 Tạo file <tên domain>.json trong folder domains, ví dụ hoangtran99.json"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "ITALIC",
+                        "length": 53,
+                        "offset": 34
+                    }
+                ],
+                "text": "📝 Viết json config theo hướng dẫn (trỏ về repo github bạn, hoặc trỏ về IP của bạn, ...)"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "🚀 Tạo merge request theo hướng dẫn"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "✅ Đợi họ merge code vào là bạn có ngay domain để dùng"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Như hình bên dứoi mình đang trỏ http://hoangtran99.is-a.dev/ (domain mới) về https://hoangtran0410.github.io/ (domain gốc của github pages) 🤝"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 8,
+            "total_count": 16,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 57,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 50,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 7,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 31,
+        "created_time": 1733371097000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1538858760102140",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2712050505633199",
+                "2712053305632919",
+                "2712055362299380"
+            ],
+            "photo_id": "2712050505633199",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1733371097,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1538858760102140"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=zkKuKTrelISlazNMO9xIMw&_nc_ss=7a3a8&oh=00_Af2v9PG9uzxuvPmMjarWh5gqnBm6mmxnyrTktv0i6gY6MQ&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

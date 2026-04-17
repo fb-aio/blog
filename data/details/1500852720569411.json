@@ -1,0 +1,414 @@
+{
+    "result": {
+        "id": "UzpfSTE1MDA4NTI3MjA1Njk0MTE6Vks6MTUwMDg1MjcyMDU2OTQxMQ==",
+        "post_id": "1500852720569411",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1500852720569411/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2657556117749305",
+                "url": "https://www.facebook.com/photo/?fbid=2657556117749305&set=gm.1500852720569411&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/496860236_2855235247981390_1068305451564002455_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=4duJDAJshEIQ7kNvwHvgW04&_nc_oc=Ado4CBmd6Ht8QGfbmeEnM5vCYnlIErdDpzKrcVN_0NVpurQhjvyano5KdP2tDDleh2A&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=Wyg6BRuSkROLNzYwgwKCcQ&_nc_ss=7a3a8&oh=00_Af0PEkporGCIXm8nOF05N88OzE-C9GgRGbl0VNjm8Ka1eg&oe=69E762EF",
+                "height": 623,
+                "width": 494,
+                "accessibility_caption": "Không có mô tả ảnh.",
+                "accent_color": "FF212830",
+                "real_width": 494,
+                "real_height": 623
+            },
+            "video": null
+        },
+        "text": "# Code 1 mình khổ lắm ai ơi !\n\nBên dưới là 3 biểu đồ hoạt động của 2 dự án của nhóm:\n* FB AIO Extension\n* Useful Script Extension\n\nTới hiện tại vẫn chỉ có mình là dev/maintain chính, có vài bác contributors tạo pull request fix bug nhưng lâu lắm mới có 1 bác.\n\nTừ khi FB AIO ra đời thì Useful Script bị lơ hẳn 🥹 không ai maintain, hoạt động (đường màu xanh) tụt không phanh.\n\nMình tập trung cho Useful script cũng được gần 2 năm. Nhưng giờ phải tập trung vào FB AIO trước, do sau này FB AIO có thể ...  nuôi mình 👀\n\nUseful Script thì mã nguồn mở hoàn toàn, ai cũng có thể xem, copy, lấy code về viết thành extension riêng của họ, ... Nên mình không thể kiếm gạo từ đó được, chủ yếu để nâng cao tay nghề và kiến thức thôi. Còn đợi mọi người donate ủng hộ thì ... hên xui lắm. kk 🥹\n\nBởi mới nói nghề lập trình có đam mê thôi là chưa đủ, đam mê đó phải *đi liền với khúc ruột *nữa 🥹\n\n#ufs #fbaio",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Code 1 mình khổ lắm ai ơi !"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 7,
+                        "offset": 36
+                    }
+                ],
+                "text": "Bên dưới là 3 biểu đồ hoạt động của 2 dự án của nhóm:"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "FB AIO Extension"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Useful Script Extension"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 11,
+                        "offset": 17
+                    }
+                ],
+                "text": "Tới hiện tại vẫn chỉ có mình là dev/maintain chính, có vài bác contributors tạo pull request fix bug nhưng lâu lắm mới có 1 bác."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 23,
+                        "offset": 25
+                    }
+                ],
+                "text": "Từ khi FB AIO ra đời thì Useful Script bị lơ hẳn 🥹 không ai maintain, hoạt động (đường màu xanh) tụt không phanh."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 12,
+                        "offset": 83
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 9,
+                        "offset": 127
+                    }
+                ],
+                "text": "Mình tập trung cho Useful script cũng được gần 2 năm. Nhưng giờ phải tập trung vào FB AIO trước, do sau này FB AIO có thể ...  nuôi mình 👀"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 17,
+                        "offset": 169
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 9,
+                        "offset": 190
+                    }
+                ],
+                "text": "Useful Script thì mã nguồn mở hoàn toàn, ai cũng có thể xem, copy, lấy code về viết thành extension riêng của họ, ... Nên mình không thể kiếm gạo từ đó được, chủ yếu để nâng cao tay nghề và kiến thức thôi. Còn đợi mọi người donate ủng hộ thì ... hên xui lắm. kk 🥹"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "ITALIC",
+                        "length": 22,
+                        "offset": 69
+                    }
+                ],
+                "text": "Bởi mới nói nghề lập trình có đam mê thôi là chưa đủ, đam mê đó phải đi liền với khúc ruột nữa 🥹"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/ufs",
+                            "mobileUrl": "https://m.facebook.com/hashtag/ufs",
+                            "__isNode": "Hashtag",
+                            "id": "551849011515907"
+                        },
+                        "length": 4,
+                        "offset": 0
+                    },
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fbaio",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fbaio",
+                            "__isNode": "Hashtag",
+                            "id": "774125919270420"
+                        },
+                        "length": 6,
+                        "offset": 5
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#ufs #fbaio"
+            }
+        ],
+        "hashtags": [
+            "#ufs",
+            "#fbaio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 6,
+            "total_count": 16,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 49,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 36,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 10,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "908563459236466",
+                    "count": 3,
+                    "name": "Buồn"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1728374430000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1500852720569411",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2657556117749305",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1728374430,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1500852720569411"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=Wyg6BRuSkROLNzYwgwKCcQ&_nc_ss=7a3a8&oh=00_Af1T8VhcR5S6Ncnbn1u8lNPNUt0fjwHZrPQG7RClca1x_w&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

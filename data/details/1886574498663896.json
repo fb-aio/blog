@@ -1,0 +1,239 @@
+{
+    "result": {
+        "id": "UzpfSTE4ODY1NzQ0OTg2NjM4OTY6Vks6MTg4NjU3NDQ5ODY2Mzg5Ng==",
+        "post_id": "1886574498663896",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1886574498663896/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Ae học security học hỏi nè 🐧\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 1,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 19,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 15,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 4,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1775201572000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1886574498663896",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1408913937947857",
+            "original_content_owner_id": "100064877913198",
+            "page_id": "426544150717102",
+            "photo_id": "1408912201281364",
+            "story_location": 9,
+            "attached_story_attachment_style": "album",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "PhotoSetAttachment",
+            "page_insights": {
+                "100064877913198": {
+                    "page_id": "100064877913198",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100064877913198",
+                        "page_id_type": "page",
+                        "actor_id": "100064877913198",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1775183178,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1408913937947857"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1886574498663896",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100064877913198",
+                            "post_id": "1408913937947857",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1408913937947857",
+                        "sharedMediaID": "1886574498663896",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1775201572,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1886574498663896"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=7NbVfpKQ3gu1NzNW-Zwg2A&_nc_ss=7a3a8&oh=00_Af1qCoQrwY9ZlJ95M0BM-GKUV9g0pCCXmhWlH9B4aLSHYQ&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA2NDg3NzkxMzE5ODoxNDA4OTEzOTM3OTQ3ODU3OjE0MDg5MTM5Mzc5NDc4NTc=",
+            "post_id": "1408913937947857",
+            "url": "https://www.facebook.com/VnReview/posts/pfbid0WUfvuchypkRKSVHppVjrmEtvowfbfgWt2vhQLooB3WghXzoAd8ZqSW2PhvVxAuuul",
+            "media": {
+                "mediaset_token": "pcb.1408913937947857",
+                "subAttachments": [
+                    {
+                        "id": "1408912201281364",
+                        "url": "https://www.facebook.com/photo.php?fbid=1408912201281364&set=a.647196617452930&type=3",
+                        "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/658981279_1408912204614697_5645312545666131717_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=13d280&_nc_ohc=LbLrXnmPoXoQ7kNvwFxa3S1&_nc_oc=AdpdhNGlfX5tQYze5aC489NmrzTLF3y8vY-35US9n9bDH7P6kT5ZAI_FE3bA-9xcr0Y&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=7NbVfpKQ3gu1NzNW-Zwg2A&_nc_ss=7a3a8&oh=00_Af0fO9zOzvDZi1FErcKMG67-Nh54As_0WOjQesICYS-TOA&oe=69E71FF3",
+                        "height": 1658,
+                        "width": 1642,
+                        "accessibility_caption": "Có thể là hình ảnh về kính mắt",
+                        "real_width": 1642,
+                        "real_height": 1658
+                    },
+                    {
+                        "id": "1408913807947870",
+                        "url": "https://www.facebook.com/photo.php?fbid=1408913807947870&set=a.647196617452930&type=3",
+                        "uri": "https://scontent.fsgn2-8.fna.fbcdn.net/v/t39.30808-6/661234528_1408913817947869_1849520392300447504_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=13d280&_nc_ohc=WZnmGjxmmF0Q7kNvwHpAfrA&_nc_oc=AdrwnNj0WSmL-Cduukq_LK94YpPFatXq9NqgQ_L9eHpVOTVXbA94x05Ksd0tzl9epXE&_nc_zt=23&_nc_ht=scontent.fsgn2-8.fna&_nc_gid=7NbVfpKQ3gu1NzNW-Zwg2A&_nc_ss=7a3a8&oh=00_Af0hYS8uQOMICgd4OrktEKghNQP4JvWaxIOOMf4pkukD8w&oe=69E740DC",
+                        "height": 1658,
+                        "width": 1752,
+                        "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                        "real_width": 1752,
+                        "real_height": 1658
+                    }
+                ],
+                "photo": null,
+                "video": null
+            },
+            "text": "Một số thông tin về thanh niên đã phát hiện ra vụ rò rỉ mã nguồn Claude Code của Anthropic:\n\nTên: Chaofan Shou, 25 tuổi, người Trung Quốc.\n\nLinkedIn của anh ta: Tốt nghiệp UCSB trong 3 năm, điểm GPA 4.0. Bình luận: \"Quá dễ.\"\n\nBỏ học tiến sĩ tại Berkeley sau 2-3 năm. Bình luận: \"Haha.\"\n\nLà hacker mũ trắng. Tìm thấy lỗi trong X, Chrome. Nhận được 1,9 triệu đô la tiền thưởng.\n\nNăm ngoái, anh ta đã tố cáo Anthropic vì thu thập mã người dùng dưới danh nghĩa \"đánh giá an toàn.\"\n\nSau vụ rò rỉ, nhận xét của anh ta: \"Mã của Claude không thú vị bằng mã của OpenCode.\"\n\nKhét đấy!",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "VnReview.vn",
+                    "id": "100064877913198",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/VnReview",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1775183178000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

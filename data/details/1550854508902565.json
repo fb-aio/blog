@@ -1,0 +1,371 @@
+{
+    "result": {
+        "id": "UzpfSTE1NTA4NTQ1MDg5MDI1NjU6Vks6MTU1MDg1NDUwODkwMjU2NQ==",
+        "post_id": "1550854508902565",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1550854508902565/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Mọi người biết những robot được lập trình như nào để có thể chạy như này không 🏃💨\n\nĐa số là họ sẽ huấn luyện AI đấy, nhưng cho AI tập luyện trong môi trường máy tính giả lập vật lý 🤯, 1 lúc có thể tập cho hàng triệu con robot ảo khác nhau. 👨‍💻 Những con AI này sẽ học cách chạy trên nhiều loại điạ hình. \n\nDo huấn luyện song song hàng triệu con, nên kết quả tốt sẽ tới nhanh hơn đáng kể (từ vài trăm năm xuống còn vài tháng ...) 🤖\n\nKhi kết quả đã đủ tốt, họ mới bắt đầu gắn não AI 🧠 vào robot thật, và chúng ta có 1 con robot chạy còn nhanh hơn người yêu cũ bỏ bạn như bên dưới 😎",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 9,
+                        "offset": 32
+                    }
+                ],
+                "text": "Mọi người biết những robot được lập trình như nào để có thể chạy như này không 🏃💨"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 13,
+                        "offset": 15
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 14,
+                        "offset": 83
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 10,
+                        "offset": 122
+                    }
+                ],
+                "text": "Đa số là họ sẽ huấn luyện AI đấy, nhưng cho AI tập luyện trong môi trường máy tính giả lập vật lý 🤯, 1 lúc có thể tập cho hàng triệu con robot ảo khác nhau. 👨‍💻 Những con AI này sẽ học cách chạy trên nhiều loại điạ hình. "
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 17,
+                        "offset": 63
+                    }
+                ],
+                "text": "Do huấn luyện song song hàng triệu con, nên kết quả tốt sẽ tới nhanh hơn đáng kể (từ vài trăm năm xuống còn vài tháng ...) 🤖"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 10,
+                        "offset": 38
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 10,
+                        "offset": 55
+                    }
+                ],
+                "text": "Khi kết quả đã đủ tốt, họ mới bắt đầu gắn não AI 🧠 vào robot thật, và chúng ta có 1 con robot chạy còn nhanh hơn người yêu cũ bỏ bạn như bên dưới 😎"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 4,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 10,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 8,
+                    "name": "Thích"
+                },
+                {
+                    "id": "478547315650144",
+                    "count": 2,
+                    "name": "Wow"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1735019229000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1550854508902565",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "993114449509332",
+            "original_content_owner_id": "100064323593914",
+            "page_id": "161308227279419",
+            "story_location": 9,
+            "attached_story_attachment_style": "video_autoplay",
+            "video_id": "599553469231118",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "VideoAttachment",
+            "page_insights": {
+                "100064323593914": {
+                    "page_id": "100064323593914",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100064323593914",
+                        "page_id_type": "page",
+                        "actor_id": "100064323593914",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1734961196,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "993114449509332"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1550854508902565",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100064323593914",
+                            "post_id": "993114449509332",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "993114449509332",
+                        "sharedMediaID": "1550854508902565",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1735019229,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1550854508902565"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=UzQoR2Kxz0yDvb6zdsuBQg&_nc_ss=7a3a8&oh=00_Af2K44xhqswJaMlMjSwk_L8yLUw1Lc8VlD6VaUBY95khKg&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA2NDMyMzU5MzkxNDo5OTMxMTQ0NDk1MDkzMzI6OTkzMTE0NDQ5NTA5MzMy",
+            "post_id": "993114449509332",
+            "url": "https://www.facebook.com/WevolverApp/videos/599553469231118/",
+            "media": {
+                "subAttachments": [],
+                "photo": null,
+                "video": {
+                    "id": "599553469231118",
+                    "url": "https://www.facebook.com/WevolverApp/videos/599553469231118/",
+                    "thumbnail": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t15.5256-10/470936380_1147189113503607_5549248191142064070_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=be8305&_nc_ohc=2RLIF0kI-_oQ7kNvwH5gZ4d&_nc_oc=AdpWHpThihvEdsBos0hPqWuLmoOBRdXhG2CS9JocClRAJ3fmtO2KIt2rUVOslk3E2KU&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=UzQoR2Kxz0yDvb6zdsuBQg&_nc_ss=7a3a8&oh=00_Af3D669EIiuZUctYB5_RdwODHLOQ-CGQCrcmO0Lrqe4eDw&oe=69E774E9",
+                    "duration": 114543,
+                    "width": 1920,
+                    "height": 1080,
+                    "original_width": 1920,
+                    "original_height": 1080,
+                    "publish_time": 0,
+                    "audio_availability": "AVAILABLE",
+                    "is_live_streaming": false,
+                    "is_spherical": false,
+                    "is_looping": false,
+                    "loop_count": 0,
+                    "source": {
+                        "variants": []
+                    },
+                    "sprite": {
+                        "uris": [],
+                        "thumbnail_width": 0,
+                        "thumbnail_height": 0,
+                        "num_images_per_row": 10,
+                        "max_number_of_images_per_sprite": 100,
+                        "time_interval_between_image": 1
+                    }
+                }
+            },
+            "text": "Unitree’s B2-W Industrial Wheel has been upgraded.\n\nThoughts?\n\nVideo Credit: @UnitreeRobotics \n\n#robotics #robots #engineering #technology #unitree",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [
+                "#robotics",
+                "#robots",
+                "#engineering",
+                "#technology",
+                "#unitree"
+            ],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Wevolver.com",
+                    "id": "100064323593914",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/WevolverApp",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1734961196000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

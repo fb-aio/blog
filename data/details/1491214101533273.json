@@ -1,0 +1,254 @@
+{
+    "result": {
+        "id": "UzpfSTE0OTEyMTQxMDE1MzMyNzM6Vks6MTQ5MTIxNDEwMTUzMzI3Mw==",
+        "post_id": "1491214101533273",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1491214101533273/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "2 AI giúp mọi người check var thông tin trên mạng 🤡🤐\n\n#fb_aio_tip",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fb_aio_tip"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 9,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 19,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 14,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 2,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 2,
+                    "name": "Haha"
+                },
+                {
+                    "id": "478547315650144",
+                    "count": 1,
+                    "name": "Wow"
+                }
+            ]
+        },
+        "shares": 6,
+        "created_time": 1727175602000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1491214101533273",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "2643724309132486",
+            "original_content_owner_id": "100004848287494",
+            "photo_id": "2643722952465955",
+            "story_location": 9,
+            "attached_story_attachment_style": "album",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "2643724309132486",
+                        "sharedMediaID": "1491214101533273",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1727175602,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1491214101533273"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=d2VsRgvRtZ-xVcl3rq26nw&_nc_ss=7a3a8&oh=00_Af1-aMPf1bhl_evbyHO0gVepsJjI-toxI_G8mbkowI5tig&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDAwNDg0ODI4NzQ5NDoyNjQzNzI0MzA5MTMyNDg2OjI2NDM3MjQzMDkxMzI0ODY=",
+            "post_id": "2643724309132486",
+            "url": "https://www.facebook.com/9999.hoangtran/posts/pfbid0CcvWPWoRAga1eVC4rEz5pmaB7dnPRKKu9wrzeLJyV9Y5NcabGrDELBBwtBusJNW3l",
+            "media": {
+                "mediaset_token": "pcb.2643724309132486",
+                "subAttachments": [
+                    {
+                        "id": "2643722952465955",
+                        "url": "https://www.facebook.com/photo.php?fbid=2643722952465955&set=a.283939495110991&type=3",
+                        "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/494498291_2841714092666839_6123345412982253720_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_ohc=2Ag36mdVqmwQ7kNvwG5Ujou&_nc_oc=AdrfTSp1DRWAqnAA2OWTduxQPHc8D3Xo55_msDNOTgTbN5u65crTLxVsEjONiZI4fts&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=d2VsRgvRtZ-xVcl3rq26nw&_nc_ss=7a3a8&oh=00_Af3u-ZpubfWnUDxHbWaXAPSZo_o7v_DJOKuYVNF-deP8VA&oe=69E7381B",
+                        "height": 720,
+                        "width": 556,
+                        "accessibility_caption": "Có thể là hình ảnh về 7 người và văn bản",
+                        "real_width": 556,
+                        "real_height": 720
+                    },
+                    {
+                        "id": "2643722985799285",
+                        "url": "https://www.facebook.com/photo.php?fbid=2643722985799285&set=a.283939495110991&type=3",
+                        "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/494229716_2841714199333495_8826963980243755032_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=13d280&_nc_ohc=vQW_jOOMyzcQ7kNvwHuO56q&_nc_oc=AdolBF-Kl01MYIDDGtK-tyVDR7Oe018wHq88FPe1I2PyJwaNODRaZbEqfauGIoYPQBA&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=d2VsRgvRtZ-xVcl3rq26nw&_nc_ss=7a3a8&oh=00_Af2dkt3K1PH7P8ZxrIUQ2Iwr6y-KOWVCke2P0ObPEQgPjA&oe=69E741A5",
+                        "height": 621,
+                        "width": 1141,
+                        "accessibility_caption": "Có thể là đồ họa về 3 người và văn bản cho biết 'Detect AI- Al-generated images at scale SPECIAL PRIZE EVERYDAT Likely Al-generated GenAl Face manipulation 99% 99% 99% Diffusion ? MidJourney GAN? ? Stable Diffusion 69% Flux StyleGAN 19% Stable Diffusion XL Dall-E AVAILABLE24/7 10% 1% Other ? 59K Cindertend 44EPASTEUR,DIS +84)90-1379-388 84)80-137 1% Other Face manipulation 1% Firefly Tryanotherimage Try another image 0% 99% 0% Drop image anywhere or upload one from your device to check it's Al-generated.'",
+                        "real_width": 1141,
+                        "real_height": 621
+                    },
+                    {
+                        "id": "2643722822465968",
+                        "url": "https://www.facebook.com/photo.php?fbid=2643722822465968&set=a.283939495110991&type=3",
+                        "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/494507498_2841714106000171_1879448477985635951_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=13d280&_nc_aid=0&_nc_ohc=fisspBDXmjoQ7kNvwF_PXYP&_nc_oc=AdpX9AjO6_EBfUA1IUrFSbSDXIvzS7CumFD4S7L4dQqtB30XS3fFCGPzE17hm3TSnYs&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=d2VsRgvRtZ-xVcl3rq26nw&_nc_ss=7a3a8&oh=00_Af3-TRMvYRBeSyhGLz0TfhrzTcAc24uMPiBNjWjsbKJdzA&oe=69E7413E",
+                        "height": 653,
+                        "width": 1170,
+                        "accessibility_caption": "Có thể là hình ảnh về ô tô và văn bản cho biết 'Detect Al-generated images at scale Likely Al-generated GenAl Face manipulation 99% 99% 0% Diffusion ? MidJourney Other GAN ? 99% Stable Diffusion XL StyleGAN 0% Stable Diffusion Try another Tryanotherimage image 0% Flux 0% Other ? 0% Firefly Dall-E 0% Face manipulation 0% 0% 0% Drop an image anywhere or upload one from your device to check fit's Al-generated.'",
+                        "real_width": 1170,
+                        "real_height": 653
+                    },
+                    {
+                        "id": "2643722862465964",
+                        "url": "https://www.facebook.com/photo.php?fbid=2643722862465964&set=a.283939495110991&type=3",
+                        "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/494418459_2841714189333496_4347812623549361343_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=13d280&_nc_ohc=CpjbyIBq55gQ7kNvwE_8DCz&_nc_oc=Adq64nGMBhh4EcJrwHuEKp6cdUVJJEt8wLXwGkVEFLP_2FoqJ1PA0rYMXzplQhzm3B0&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=d2VsRgvRtZ-xVcl3rq26nw&_nc_ss=7a3a8&oh=00_Af0JjOq9mnVVuUwepaEcno8kCGzifj4mxGGbVBUIFhQwfw&oe=69E72568",
+                        "height": 635,
+                        "width": 1141,
+                        "accessibility_caption": "Không có mô tả ảnh.",
+                        "real_width": 1141,
+                        "real_height": 635
+                    },
+                    {
+                        "id": "2643723092465941",
+                        "url": "https://www.facebook.com/photo.php?fbid=2643723092465941&set=a.283939495110991&type=3",
+                        "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/494428178_2841714079333507_5121981344066033163_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=13d280&_nc_ohc=sTyUdr8ZvrsQ7kNvwHikuZ8&_nc_oc=Adq8r9-C-W-i1Hq7lukzEnQo4v-zcPnVOTf1YqKQRtq70behpCLCEvrh20EgIfymhro&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=d2VsRgvRtZ-xVcl3rq26nw&_nc_ss=7a3a8&oh=00_Af3ON3zg02sb4hHoGBUoP9k69w9nhnjnPDFBfOxStJ_bBg&oe=69E73489",
+                        "height": 629,
+                        "width": 1143,
+                        "accessibility_caption": "Có thể là hình ảnh về 2 người và văn bản",
+                        "real_width": 1143,
+                        "real_height": 629
+                    }
+                ],
+                "photo": null,
+                "video": null
+            },
+            "text": "🌐 Thời đại AI phát triển: Cảnh giác thông tin trên mạng! 🤖\n\nTrong thời đại AI bùng nổ hiện nay, việc kiểm chứng thông tin trên mạng trở nên vô cùng quan trọng. \n\nNhững bài viết kiểu \"xin lỗi bằng ChatGPT\" hay \"đăng ảnh lũ lụt bằng MidJourney\" nhằm câu view, câu like, thậm chí là lợi dụng lòng thương cảm của cộng đồng mạng không còn hiếm gặp. 😕\n\nAI không xấu, nhưng người lạm dụng AI mới là điều đáng lo. Rất may mắn, đã có những công cụ AI được phát triển để \"trị\" lại những hành vi này. ⚡️\n\n🔍 Kiểm tra hình ảnh tạo bằng AI: https://sightengine.com/detect-ai-generated-images\n🖋️ Kiểm tra nội dung viết bằng AI: https://undetectable.ai/\n\nHãy sử dụng những công cụ này để phân biệt đâu là sản phẩm của con người và đâu là do AI tạo ra. Cùng nhau tạo ra môi trường mạng an toàn và đáng tin cậy hơn! 🌟\n\n#AI #KiểmChứngThôngTin #ĐừngLạmDụngAI #ÝThứcCộngĐồng #AnToanMang",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [
+                "#AI",
+                "#Ki",
+                "#AnToanMang"
+            ],
+            "mentions": [
+                {
+                    "type": "ExternalUrl",
+                    "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3NpZ2h0ZW5naW5lLmNvbS9kZXRlY3QtYWktZ2VuZXJhdGVkLWltYWdlczo6RGVmYXVsdDo6OjI2NDM3MjQzMDkxMzI0ODY=",
+                    "name": "https://sightengine.com/detect-ai-generated-images",
+                    "url": "https://sightengine.com/detect-ai-generated-images",
+                    "length": 50,
+                    "offset": 527
+                },
+                {
+                    "type": "ExternalUrl",
+                    "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3VuZGV0ZWN0YWJsZS5haS86OkRlZmF1bHQ6OjoyNjQzNzI0MzA5MTMyNDg2",
+                    "name": "https://undetectable.ai/",
+                    "url": "https://undetectable.ai/",
+                    "length": 24,
+                    "offset": 613
+                }
+            ],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Hoang Tran",
+                    "id": "100004848287494",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/9999.hoangtran",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1727174128000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "result": {
+        "id": "UzpfSTE1NzM1MzcxNDY2MzQzMDE6Vks6MTU3MzUzNzE0NjYzNDMwMQ==",
+        "post_id": "1573537146634301",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1573537146634301/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Hôm qua bận nên chưa coi hết, nay coi lại 🤣",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 3,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 3,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1738112513000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1573537146634301",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "2753627874808795",
+            "original_content_owner_id": "100004848287494",
+            "story_location": 9,
+            "attached_story_attachment_style": "share",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "ExternalShareAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "2753627874808795",
+                        "sharedMediaID": "1573537146634301",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1738112513,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1573537146634301"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=PPHEJOCeq2KRaYCShY6pPg&_nc_ss=7a3a8&oh=00_Af052sAjKd4mJvbQKkf_vNAZx82EsL5HrbDj13ocSf7moA&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDAwNDg0ODI4NzQ5NDoyNzUzNjI3ODc0ODA4Nzk1OjI3NTM2Mjc4NzQ4MDg3OTU=",
+            "post_id": "2753627874808795",
+            "url": "https://www.facebook.com/9999.hoangtran/posts/pfbid0rTpxZVpmhTpxiiGg1HU3Bh4AZAfbep6BcJnntuL7FrjMcryjGGpXh52xuwSz4hvwl",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "2753627868142129",
+                    "url": "https://vtvgo.vn/vod/934902",
+                    "uri": "https://external.fsgn2-9.fna.fbcdn.net/emg1/v/t13/18374835011448725059?url=https%3A%2F%2Fvtvgo-images.vtvdigital.vn%2Fimages%2F20250128%2Fadc9b8e9-9872-4fa4-aa46-7614e55d25d2.jpg&fb_obo=1&utld=vtvdigital.vn&stp=c0.5000x0.5000f_dst-jpg_flffffff_p1000x522_q75_tt6&_nc_gid=PPHEJOCeq2KRaYCShY6pPg&_nc_oc=Adqzhe-TBFBiPW9pqySy8cS9FCWAN_7gJO3benNPN-sQ8doyWte7g9tZ84jV4gVGXiU&ccb=13-1&oh=06_Q3--AfkJm5AOBTADWh3T-DNTmC-P554otGbu5sTLTh46BNJU&oe=69E38083&_nc_sid=c97757",
+                    "height": 522,
+                    "width": 1000,
+                    "accessibility_caption": "Gặp nhau cuối năm | Táo quân 2025 (Bản full chỉ có trên VTVgo) | VTVgo"
+                },
+                "video": null
+            },
+            "text": "Táo quân full trên vtv go nè 😎 ",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Hoang Tran",
+                    "id": "100004848287494",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/9999.hoangtran",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1738112482000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

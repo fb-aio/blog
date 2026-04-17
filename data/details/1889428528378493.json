@@ -1,0 +1,209 @@
+{
+    "result": {
+        "id": "UzpfSTE4ODk0Mjg1MjgzNzg0OTM6Vks6MTg4OTQyODUyODM3ODQ5Mw==",
+        "post_id": "1889428528378493",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1889428528378493/",
+        "media": {
+            "mediaset_token": "pcb.1889428528378493",
+            "subAttachments": [
+                {
+                    "id": "3179439555560956",
+                    "url": "https://www.facebook.com/photo.php?fbid=3179439555560956&set=gm.1889428535045159&type=3",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/667581748_3179439558894289_708703696957002222_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=111&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=tEkIkmeh-JsQ7kNvwEdOUGe&_nc_oc=Adq8-Mc09dm8JUg3RmQiJ7p4k8IVLtpLpv1ZMX6bfM4clrlf7_iMQXhdQ8qfmbepP68&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=sRYfh2r-SGJkHurH4Mn98g&_nc_ss=7a3a8&oh=00_Af2SvQ8CKvPzY6UjiBuGixdWdqQCQemfXnZECGSDlDA8pA&oe=69E71DEF",
+                    "height": 1173,
+                    "width": 2048,
+                    "accessibility_caption": "Có thể là đồ họa về ‎bản thiết kế, sơ đồ tầng và ‎văn bản cho biết '‎OpenRouter Search openrouter.ailmodels?max_price- Input Modalities Fusion Context length Models Chat Models Rankings Apps Docs Promptpricing Prompt pricing ق 27 Personal Search Image Model Name Embeddings Audio ছাত Compare $0.5 $10+ Video Cohere: Rerank Reset Weekly Pro ↑ Rerank Input (S/1M) Newest 담ㅁ Series Output ($/1M) Cohere:Rerank4Fasi Context $0 Cohere: Released $0 Categories 32,768 $0 Apr 2026 $0 <1> Supported Parameters 32,768 $0 2026 $0 5.67T 스 Distillable 4,096 $0 Apr 2026 109M $0 Clip Preview 1,000,000 Zero Data Retention $0 Apr 2026 $0 65.2M Alibaba:Wan2.6_(experimental) 1,048,576 $0 31, $0 Seedance $0 1,048,576 Mar 31, 2026 $0 2026 2026‎'‎‎",
+                    "real_width": 2048,
+                    "real_height": 1173
+                },
+                {
+                    "id": "3179438865561025",
+                    "url": "https://www.facebook.com/photo.php?fbid=3179438865561025&set=gm.1889428531711826&type=3",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/666045324_3179438875561024_558611261448221070_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=O5yBFJMNPw4Q7kNvwG_LFLM&_nc_oc=Adr-XB6qzHqtGPAcAL7Ugru0E5puuWUKUuYh_Ff1DxJ3cMZ9zViucLUC4CBZvipuGGY&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=sRYfh2r-SGJkHurH4Mn98g&_nc_ss=7a3a8&oh=00_Af2HTbLxYeagXU0-a5OZ5Q8iqre8NKCMwD-8qg7Pv2T_Eg&oe=69E73BC8",
+                    "height": 1254,
+                    "width": 2000,
+                    "accessibility_caption": "Có thể là hình minh họa về văn bản",
+                    "real_width": 2000,
+                    "real_height": 1254
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# A bạn china vừa ra mắt **Qwen 3.6 plus**, benchmarks ngon \n\nTrên O**penrouter** còn đang free cho xài luôn, mn có thể config vào claude code cli,** **openclaw, kilo code, hoặc bất kỳ tool local nào để xài model này free\n\nOpenrouter còn hàng chục models free khác mà b có thể xài ngay, giờ ad mới biết luôn á :v \n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 13,
+                        "offset": 23
+                    }
+                ],
+                "text": "A bạn china vừa ra mắt Qwen 3.6 plus, benchmarks ngon "
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 9,
+                        "offset": 7
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 1,
+                        "offset": 82
+                    }
+                ],
+                "text": "\nTrên Openrouter còn đang free cho xài luôn, mn có thể config vào claude code cli, openclaw, kilo code, hoặc bất kỳ tool local nào để xài model này free\n\nOpenrouter còn hàng chục models free khác mà b có thể xài ngay, giờ ad mới biết luôn á :v \n"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fbaio_share",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fbaio_share",
+                            "__isNode": "Hashtag",
+                            "id": "8771715079560378"
+                        },
+                        "length": 12,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fbaio_share"
+            }
+        ],
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 7,
+            "total_count": 10,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 21,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 21,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 9,
+        "created_time": 1775533305000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1889428528378493",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "3179439555560956",
+                "3179438865561025"
+            ],
+            "photo_id": "3179439555560956",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1775533305,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1889428528378493"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=sRYfh2r-SGJkHurH4Mn98g&_nc_ss=7a3a8&oh=00_Af2QVQuu9hd_yUJUcweFGcyoPQ8hVNA-fSV9ahRXqwjONA&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

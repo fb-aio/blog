@@ -1,0 +1,252 @@
+{
+    "result": {
+        "id": "UzpfSTE2NDU1MDg0NTI3NzA1MDM6Vks6MTY0NTUwODQ1Mjc3MDUwMw==",
+        "post_id": "1645508452770503",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1645508452770503/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2856312721206976",
+                "url": "https://page.momoapp.vn/dR6N2OFdtUn",
+                "uri": "https://external.fsgn2-7.fna.fbcdn.net/emg1/v/t13/6028625368513301396?url=https%3A%2F%2Fstatic.momocdn.net%2Fapp%2Fimg%2Fremittance%2Ficon%2Fic_folder_remittances.png&fb_obo=1&utld=momocdn.net&stp=c0.5000x0.5000f_dst-jpg_flffffff_p120x120_q75_tt6&_nc_gid=XoWAcgVfhTrXHgiQthgH-Q&_nc_oc=AdplyGSTnMihnnXnNmIQ7u6L1Md4BCMSjL3TXhWgau8mxERlfN-9c_Z2hmZ7DUgdud0&ccb=13-1&oh=06_Q3--AfijuI9aJd0G75CXZleM65Lz2mPzG9WdDKbZhZFI67o0&oe=69E39DD7&_nc_sid=c97757",
+                "height": 120,
+                "width": 120,
+                "accessibility_caption": "Nhận tiền Quốc tế trên MoMo",
+                "real_width": 120,
+                "real_height": 120
+            },
+            "video": null
+        },
+        "text": "FB AIO - thêm phương thức thanh toán quốc tế - bằng Western Union nha mọi người 🌌\n\nNghe nói phí ít hơn paypal nhiều, không cần đăng ký kinh doanh, không cần sđt/mail nước ngoài, ... 🤯 hỗ trợ hơn 200 quốc gia luôn 💎\n\nNgười gửi (nước ngoài) chỉ cần gửi qua chi nhánh Western Union ở nơi họ sống, điền đúng thông tin của bạn: 💁\n\n+ Họ và Tên trong cccd\n+ SĐT đăng ký MoMo\n+ Thành phố, Quốc gia bạn đang sống\n\nChuyển xong sẽ có bill, với mã nhận tiền 💵, bạn chỉ cần vào MoMo tìm Western Union, rồi nhập mã là tiền về MoMo luôn 💹💯\n\nNgon vậy mà trước giờ mình không biết luôn á 😬\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "FB AIO - thêm phương thức thanh toán quốc tế - bằng Western Union nha mọi người 🌌"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Nghe nói phí ít hơn paypal nhiều, không cần đăng ký kinh doanh, không cần sđt/mail nước ngoài, ... 🤯 hỗ trợ hơn 200 quốc gia luôn 💎"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Người gửi (nước ngoài) chỉ cần gửi qua chi nhánh Western Union ở nơi họ sống, điền đúng thông tin của bạn: 💁"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Họ và Tên trong cccd"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "SĐT đăng ký MoMo"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Thành phố, Quốc gia bạn đang sống"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Chuyển xong sẽ có bill, với mã nhận tiền 💵, bạn chỉ cần vào MoMo tìm Western Union, rồi nhập mã là tiền về MoMo luôn 💹💯"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Ngon vậy mà trước giờ mình không biết luôn á 😬"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fbaio_share",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fbaio_share",
+                            "__isNode": "Hashtag",
+                            "id": "8771715079560378"
+                        },
+                        "length": 12,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fbaio_share"
+            }
+        ],
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 5,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 19,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 17,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 2,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 6,
+        "created_time": 1747228863000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1645508452770503",
+            "content_owner_id_new": "100004848287494",
+            "story_location": 9,
+            "story_attachment_style": "share",
+            "ent_attachement_type": "ExternalShareAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1645508452770503",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1747228863,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1645508452770503"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "url_id": "29124548923859944",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=XoWAcgVfhTrXHgiQthgH-Q&_nc_ss=7a3a8&oh=00_Af0_BswIxwK-2tpdF79UHBQEKEYP4Rfor35aNMAfe2urKw&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

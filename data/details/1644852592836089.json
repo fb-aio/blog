@@ -1,0 +1,217 @@
+{
+    "result": {
+        "id": "UzpfSTE2NDQ4NTI1OTI4MzYwODk6Vks6MTY0NDg1MjU5MjgzNjA4OQ==",
+        "post_id": "1644852592836089",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1644852592836089/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Mỗi ngày 1 kiến thức mới 🤪🤔\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 11,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 10,
+                    "name": "Thích"
+                },
+                {
+                    "id": "478547315650144",
+                    "count": 1,
+                    "name": "Wow"
+                }
+            ]
+        },
+        "shares": 4,
+        "created_time": 1747134647000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1644852592836089",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "2167328373720916",
+            "original_content_owner_id": "100013313221081",
+            "page_id": "113400645089125",
+            "photo_id": "2167327860387634",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "100013313221081": {
+                    "page_id": "100013313221081",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100013313221081",
+                        "page_id_type": "page",
+                        "actor_id": "100013313221081",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1747047197,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "2167328373720916"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1644852592836089",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100013313221081",
+                            "post_id": "2167328373720916",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "2167328373720916",
+                        "sharedMediaID": "1644852592836089",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1747134647,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1644852592836089"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=FSoY0pZxjCKSSLcThKAzug&_nc_ss=7a3a8&oh=00_Af0wbKl5xF3EUHGCHa0M_DiPRqaCTl6mjKUSHdw07F6IoA&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDAxMzMxMzIyMTA4MToyMTY3MzI4MzczNzIwOTE2OjIxNjczMjgzNzM3MjA5MTY=",
+            "post_id": "2167328373720916",
+            "url": "https://www.facebook.com/aaron.amrak/posts/pfbid0364YR9BG4nsu5zVbXq7UcSBE1WSGCpMpNUyNdh8w3zmVFCuGzKDR7Unv3cVmkrcSrl",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "2167327860387634",
+                    "url": "https://www.facebook.com/photo/?fbid=2167327860387634&set=a.306214196499019",
+                    "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/496130072_2167327863720967_1989118644701336437_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=103&ccb=1-7&_nc_sid=7b2446&_nc_ohc=LHc5KRAGddQQ7kNvwGURVk8&_nc_oc=Adpiffk3gFNWFWE44oK_4NKrOR9ceUDuz9RQXqfAfz-BL_DswjrAT6ZtOjlGHd_SZ-0&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=FSoY0pZxjCKSSLcThKAzug&_nc_ss=7a3a8&oh=00_Af1KPIQhGhGWg40wpGclpb1YZ3GpKonuw15IDuFqE_hsyg&oe=69E78EA0",
+                    "height": 1165,
+                    "width": 1080,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FFC5CD3A",
+                    "real_width": 1290,
+                    "real_height": 1392
+                },
+                "video": null
+            },
+            "text": "Trông như một món đồ chơi trẻ con, nhưng đây là thiết bị đơn giản để kiểm tra quá trình vận chuyển của các thùng hàng dễ vỡ và nhạy cảm yêu cầu phải giữ đúng hướng, nếu qua tay của các anh bốc xếp dỡ hàng ẩu tả lật thùng hay nghiêng hàng quá mức, khi đến nơi khui ra nhìn vào cái này là biết ngay khỏi chối cãi. \nBảng đo này ko chỉ dùng để bắt lỗi người ta mà còn dùng để theo dõi hiện trạng của hàng hóa để biết đảm bảo nó không bị xô lệch. Thùng hàng này cần giữ chiều trên dưới trái phải trước sau, dành cho những ai bảo bi lệch thì lắc nó về vị trí cũ để che giấu thì chuyện đó không thể được, vị trí ban đầu của bi trên và dưới là ở số 30, giả sử một viên bi ở trên rơi về số 50 do thùng nghiêng về bên trái, nếu muốn lấp liếm thì phải ngửa tấm bảng này và nghiêng lên trên để hai viên bi chạy ra, nhưng không thể làm cả hai bi về lại 30 vì hai bi bị ngược chiều, và khi đó không chỉ hàng hóa bên trong sẽ nát bét đổ vỡ vụn mà viên bi thứ 3 ở vòng 180 cũng sẽ chạy ra ngoài, đó chính là chốt chặn dành cho bọn khôn lỏi đấy !",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Dinh Phong Nguyen",
+                    "id": "100013313221081",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/aaron.amrak",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1747047197000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

@@ -1,0 +1,660 @@
+{
+    "result": {
+        "id": "UzpfSTE4NTc5MTg0MTgxOTYxNzE6Vks6MTg1NzkxODQxODE5NjE3MQ==",
+        "post_id": "1857918418196171",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1857918418196171/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Xịn đó ae \n#fbaio_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 3,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 16,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 16,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 8,
+        "created_time": 1771930025000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1857918418196171",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "2089834038470824",
+            "original_content_owner_id": "100001343622919",
+            "page_id": "1016654634868535",
+            "photo_id": "25899700456324721",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntGroupMallPostCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "100001343622919": {
+                    "page_id": "100001343622919",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100001343622919",
+                        "page_id_type": "page",
+                        "actor_id": "100001343622919",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntGroupMallPostCreationStory",
+                        "post_context": {
+                            "object_fbtype": 657,
+                            "publish_time": 1771913981,
+                            "story_name": "EntGroupMallPostCreationStory",
+                            "story_fbid": [
+                                "2089834038470824"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1857918418196171",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100001343622919",
+                            "post_id": "2089834038470824",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "2089834038470824",
+                        "sharedMediaID": "1857918418196171",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1771930025,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1857918418196171"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                },
+                "1569314343856132": {
+                    "page_id": "1569314343856132",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "1569314343856132",
+                        "page_id_type": "group",
+                        "actor_id": "100001343622919",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntGroupMallPostCreationStory",
+                        "post_context": {
+                            "object_fbtype": 657,
+                            "publish_time": 1771913981,
+                            "story_name": "EntGroupMallPostCreationStory",
+                            "story_fbid": [
+                                "2089834038470824"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1857918418196171",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=5kMpF-1aN8KldQTDyCYj1A&_nc_ss=7a3a8&oh=00_Af3UBaDRf5BQABSuvHDxcT1eVyVnHkJepWlpBChifq8erQ&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDAwMTM0MzYyMjkxOTpWSzoyMDg5ODM0MDM4NDcwODI0",
+            "post_id": "2089834038470824",
+            "url": "https://www.facebook.com/groups/indiehackervn/permalink/2089834038470824/",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "25899700456324721",
+                    "url": "https://www.facebook.com/photo/?fbid=25899700456324721&set=gm.2089834038470824&idorvanity=1569314343856132",
+                    "uri": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/639413443_25899700472991386_2001947615248761173_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=Mo7tmL969zIQ7kNvwHWv7VW&_nc_oc=AdqVqEX8RSD79CXyP136ZusWajPvZQ0mhJMklPH815p0GLpxAH2T3TQwt2BtSoui_eA&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=5kMpF-1aN8KldQTDyCYj1A&_nc_ss=7a3a8&oh=00_Af11OhdhpswGS96hO24EiE1Y1dA0-JOhGo79aOO2LlX-ZA&oe=69E740B4",
+                    "height": 720,
+                    "width": 505,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản cho biết 'Default plan goes steps architectural don\" just building ambiguity decisions) keep pushing Strategy exploration, and per context window clean subagent focused subagents via subagents Loop that Review prevent same mistake start mistake relevant pattern drops Before between without proving engineer works when relevant this? Demand Elegance there \"Knowing everything obvious ement more elegant way?\" the elegant solution\" presenting Bug bug tests for tests olding them Managenent told Firstak **Verify Check **Explain starting checkable itens *#Document **Capture Lessons step Principles after corrections *Simplicity Firsta* Laziness** *Minimat Make every change temporary touch Changes should possible. Impact minima developer standards. Avoid introducing'",
+                    "accent_color": "FF10131A",
+                    "real_width": 505,
+                    "real_height": 720
+                },
+                "video": null
+            },
+            "text": "Dạo gần đây cộng đồng X truyền nhau file CLAUDE.md được shared bởi Boris Cherny (người đứng sau Claude Code).\n\nBộ \"rules\" dành cho AI agent này được xem là mỏ vàng với những người xài Claude. Trong khi mọi người viết prompt cho 1 con AI thì Boris mở đến tận 5 terminal, 5 - 10 claude code website khác và tất cả cùng đồng thời ship code.\n\nKhông phải prompt engineering, không câu lệnh system prompt phức tạp. Mọi thứ được viết thành một bộ nguyên tắc rõ ràng, viết ra như thể đang hướng dẫn onboard cho junior dev mới vào team.\n\nMình tóm tắt một số ý chính từ file này, bạn có thể copy và dán thẳng vào CLAUDE.md của bạn dựa trên workflow này:\n\n## Plan trước, luôn luôn Plan trước\n* Boris luôn bắt đầu với Plan mode. \n* Bất kỳ task hơn 3 bước đều cần viết plan trước khi thực thi\n* Không phải để rờm rà, bạn dùng plan để kiểm tra từng bước, giảm thiểu việc hiểu sai đề bài của agent.\n* Không có plan, một khi bạn phát hiện ra agent build sai, bạn sẽ phải bắt đầu lại từ đầu. Chi phí tạo ra phần mềm sẽ bị đội lên 2-3 lần, và có những \"Technical Debt\" tồn đọng về sau.\n\n## \"done\" KHÔNG PHẢI LÀ \"APP CHẠY ĐƯỢC\"\n* \"Done\" = chạy được + pass test + kiểm tra tất cả logs + bạn đóng vai trò \"senior engineer thì có approve cho app này go live không?\" \n* Nếu 1 trong những thành phần trên failed thì có vẻ là \"CHƯA DONE\"\n\n## self-improvement loop không phải tự nhiên mà có\n* Agent của bạn có thể tự học các lỗi sai từ những lần trước nếu bạn ghi nhận nó kĩ càng.\n* Mỗi lần sửa lỗi, ghi lại pattern. Mỗi lần agent bị sửa sai, viết rule để lần sau không lặp lại.\n* Không có cái này, cứ mỗi project, agent của bạn sẽ mắc cùng một lỗi sai mà bạn thấy nó từ ngày này qua ngày khác.\n\n## Điều mình thấy hay nhất: agent tự sửa bug\n* Để tự động hóa quá trình này, setup flow cho agent: khi có bug report, đừng hỏi, tự vào kiểm tra log, tự trace, tự fix.\n* Bạn không cần phải gửi request và hướng dẫn mỗi lần phát hiện bug\n* Điều này làm cho agent của bạn trở nên proactive hơn so với agent chỉ tự biết trả lời câu hỏi (chatbot)\n* Ngoài ra, mình còn áp dụng workflow sau khi viết xong app hoặc định kỳ yêu cầu agent tự audit code, điều tra xem có những bug ẩn nào, sắp xếp theo thứ tự ưu tiên từ Critical -> Low. Sau đó kích hoạt workflow tự sửa trên. \n\nĐọc xong thì bạn có thấy những cái rules này nghe rất cơ bản đúng không. Vì nó được viết để hướng dẫn một người onboard vào tổ chức, follow những yêu cầu, những chuẩn mực và có feedback rõ ràng để họ tự cải thiện. Hãy xem AI agent của bạn như một intern/ junior team member, viết những rule, request rõ ràng. \n\nNếu bạn là non-developer, một user bình thường, thì tài liệu này chắc chắn là mỏ vàng vì nó được viết bởi một senior dev hướng dẫn cho đồng nghiệp AI agent của anh ấy.\n\n#buildinpublic #bip #bipvn",
+            "text_format": {},
+            "rich_message": [
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Dạo gần đây cộng đồng X truyền nhau file CLAUDE.md được shared bởi Boris Cherny (người đứng sau Claude Code)."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "\nBộ \"rules\" dành cho AI agent này được xem là mỏ vàng với những người xài Claude. Trong khi mọi người viết prompt cho 1 con AI thì Boris mở đến tận 5 terminal, 5 - 10 claude code website khác và tất cả cùng đồng thời ship code."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "\nKhông phải prompt engineering, không câu lệnh system prompt phức tạp. Mọi thứ được viết thành một bộ nguyên tắc rõ ràng, viết ra như thể đang hướng dẫn onboard cho junior dev mới vào team.\n"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Mình tóm tắt một số ý chính từ file này, bạn có thể copy và dán thẳng vào CLAUDE.md của bạn dựa trên workflow này:\n"
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Plan trước, luôn luôn Plan trước"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Boris luôn bắt đầu với Plan mode. "
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Bất kỳ task hơn 3 bước đều cần viết plan trước khi thực thi"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Không phải để rờm rà, bạn dùng plan để kiểm tra từng bước, giảm thiểu việc hiểu sai đề bài của agent."
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Không có plan, một khi bạn phát hiện ra agent build sai, bạn sẽ phải bắt đầu lại từ đầu. Chi phí tạo ra phần mềm sẽ bị đội lên 2-3 lần, và có những \"Technical Debt\" tồn đọng về sau."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "\"done\" KHÔNG PHẢI LÀ \"APP CHẠY ĐƯỢC\""
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "\"Done\" = chạy được + pass test + kiểm tra tất cả logs + bạn đóng vai trò \"senior engineer thì có approve cho app này go live không?\" "
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Nếu 1 trong những thành phần trên failed thì có vẻ là \"CHƯA DONE\""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "self-improvement loop không phải tự nhiên mà có"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Agent của bạn có thể tự học các lỗi sai từ những lần trước nếu bạn ghi nhận nó kĩ càng."
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Mỗi lần sửa lỗi, ghi lại pattern. Mỗi lần agent bị sửa sai, viết rule để lần sau không lặp lại."
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Không có cái này, cứ mỗi project, agent của bạn sẽ mắc cùng một lỗi sai mà bạn thấy nó từ ngày này qua ngày khác."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Điều mình thấy hay nhất: agent tự sửa bug"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Để tự động hóa quá trình này, setup flow cho agent: khi có bug report, đừng hỏi, tự vào kiểm tra log, tự trace, tự fix."
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Bạn không cần phải gửi request và hướng dẫn mỗi lần phát hiện bug"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Điều này làm cho agent của bạn trở nên proactive hơn so với agent chỉ tự biết trả lời câu hỏi (chatbot)"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Ngoài ra, mình còn áp dụng workflow sau khi viết xong app hoặc định kỳ yêu cầu agent tự audit code, điều tra xem có những bug ẩn nào, sắp xếp theo thứ tự ưu tiên từ Critical -> Low. Sau đó kích hoạt workflow tự sửa trên. "
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Đọc xong thì bạn có thấy những cái rules này nghe rất cơ bản đúng không. Vì nó được viết để hướng dẫn một người onboard vào tổ chức, follow những yêu cầu, những chuẩn mực và có feedback rõ ràng để họ tự cải thiện. Hãy xem AI agent của bạn như một intern/ junior team member, viết những rule, request rõ ràng. "
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Nếu bạn là non-developer, một user bình thường, thì tài liệu này chắc chắn là mỏ vàng vì nó được viết bởi một senior dev hướng dẫn cho đồng nghiệp AI agent của anh ấy."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [
+                        {
+                            "entity_type": "HASHTAG",
+                            "entity": {
+                                "__typename": "Hashtag",
+                                "__isEntity": "Hashtag",
+                                "url": "https://www.facebook.com/hashtag/buildinpublic",
+                                "mobileUrl": "https://m.facebook.com/hashtag/buildinpublic",
+                                "__isNode": "Hashtag",
+                                "id": "645561275518909"
+                            },
+                            "length": 14,
+                            "offset": 0
+                        },
+                        {
+                            "entity_type": "HASHTAG",
+                            "entity": {
+                                "__typename": "Hashtag",
+                                "__isEntity": "Hashtag",
+                                "url": "https://www.facebook.com/hashtag/bip",
+                                "mobileUrl": "https://m.facebook.com/hashtag/bip",
+                                "__isNode": "Hashtag",
+                                "id": "125116324337549"
+                            },
+                            "length": 4,
+                            "offset": 15
+                        },
+                        {
+                            "entity_type": "HASHTAG",
+                            "entity": {
+                                "__typename": "Hashtag",
+                                "__isEntity": "Hashtag",
+                                "url": "https://www.facebook.com/hashtag/bipvn",
+                                "mobileUrl": "https://m.facebook.com/hashtag/bipvn",
+                                "__isNode": "Hashtag",
+                                "id": "870132389719742"
+                            },
+                            "length": 6,
+                            "offset": 20
+                        }
+                    ],
+                    "inline_style_ranges": [],
+                    "text": "#buildinpublic #bip #bipvn"
+                }
+            ],
+            "hashtags": [
+                "#buildinpublic",
+                "#bip",
+                "#bipvn"
+            ],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "id": "100001343622919",
+                    "name": "Sang Nguyen",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/ngphusang"
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1771914349000,
+            "privacy_scope": "Nhóm công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": "Group",
+                "id": "1569314343856132",
+                "url": "https://www.facebook.com/groups/indiehackervn/",
+                "name": "Build in Public VN",
+                "avatar": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/509443918_10233522779463937_6884554539542802636_n.jpg?stp=c264.0.432.432a_cp0_dst-jpg_s110x80_tt6&_nc_cat=105&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=r-o0j_4vFg8Q7kNvwEWK4vQ&_nc_oc=AdqioOtjwAdzJ9NfMyiqAbanzvYd8yZMXSFrkQiSTT6X9sVfmff7wpvBDfR1Aiv24KE&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=5kMpF-1aN8KldQTDyCYj1A&_nc_ss=7a3a8&oh=00_Af0Tf2YSNdBOJGlGdSmqvILeLVxA9K77GDaMZIfk4ahAeg&oe=69E7145E"
+            },
+            "attached_post": null
+        }
+    }
+}

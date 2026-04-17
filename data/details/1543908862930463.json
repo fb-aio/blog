@@ -1,0 +1,359 @@
+{
+    "result": {
+        "id": "UzpfSTE1NDM5MDg4NjI5MzA0NjM6Vks6MTU0MzkwODg2MjkzMDQ2Mw==",
+        "post_id": "1543908862930463",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1543908862930463/",
+        "media": {
+            "mediaset_token": "pcb.1543908862930463",
+            "subAttachments": [
+                {
+                    "id": "2718089168362666",
+                    "url": "https://www.facebook.com/photo.php?fbid=2718089168362666&set=gm.1543908866263796&type=3",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/504779513_2879321232239458_9002728444696863880_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=8ub-Ko9lfmsQ7kNvwH3u6PB&_nc_oc=AdptqlJtVCaQzfhd-tHZZfuN6qXknshQpZ-SGum_Sm-vOoNUiP7o5SwevmL7n2iMOmg&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=50m7Ng3DzPfpoq_DAMk0pA&_nc_ss=7a3a8&oh=00_Af3eSma5MI_N4gpUyBVjAqKOUb3gCgT5TAybLmxqSOgDvQ&oe=69E7138B",
+                    "height": 1001,
+                    "width": 899,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 899,
+                    "real_height": 1001
+                },
+                {
+                    "id": "2718089355029314",
+                    "url": "https://www.facebook.com/photo.php?fbid=2718089355029314&set=gm.1543908859597130&type=3",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/504081071_2879321252239456_4524277311129781653_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=kSeToNjItegQ7kNvwH7Mk40&_nc_oc=Ado3hoMbgOJauinJcDay5ZfirRFXZA_2al0dQHpO-1LMT9xA1KCObNkTdGbt81pW4MY&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=50m7Ng3DzPfpoq_DAMk0pA&_nc_ss=7a3a8&oh=00_Af0-D1Poio8mZZWEGbowMZ_IPTUyeIUqNNwo7Al3nw4rMg&oe=69E729E9",
+                    "height": 833,
+                    "width": 901,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 901,
+                    "real_height": 833
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# **Cách làm thám tử Sherlock 🕵️‍♂️**\n\nThám tử thường thu thập mọi thông tin về một đối tượng nào đó, để đưa ra đánh giá, phân tích. Thường tốn rất nhiều thời gian và chất xám. 🤔\n\nNhưng với tiện ích này b sẽ có mọi thông tin trong chưa tới 1 phút. ⌛\n\nCách hoạt động rất đơn giản: \n* Nhập vào username bạn muốn tìm, ví dụ hoangtran99 (nick fb của mình) 👤\n* Công cụ sẽ tự động tìm các tài khoản cùng tên trên gần 3000 trang web 🌍\n* Trả về danh sách những thông tin thu thập được 💻\n\nĐa số mọi người sẽ dùng chung 1 username trên web, nên khả năng cao bạn sẽ tìm ra nhiều thông tin hơn của người bạn đang tìm hiểu. ℹ️\n\nSherlock cũng có 1 biến thể (folk) khá nổi tiếng là Maigret, biến thể này được mở rộng tìm trên nhiều trang web hơn. Và có sẵn telegram b.ot để mọi người sử dụng ngay không cần cài đặt.\n\nLinh dưới còm nhé 💬",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 31,
+                        "offset": 0
+                    }
+                ],
+                "text": "Cách làm thám tử Sherlock 🕵️‍♂️"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Thám tử thường thu thập mọi thông tin về một đối tượng nào đó, để đưa ra đánh giá, phân tích. Thường tốn rất nhiều thời gian và chất xám. 🤔"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Nhưng với tiện ích này b sẽ có mọi thông tin trong chưa tới 1 phút. ⌛"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Cách hoạt động rất đơn giản: "
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 8,
+                        "offset": 9
+                    }
+                ],
+                "text": "Nhập vào username bạn muốn tìm, ví dụ hoangtran99 (nick fb của mình) 👤"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 8,
+                        "offset": 37
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 14,
+                        "offset": 55
+                    }
+                ],
+                "text": "Công cụ sẽ tự động tìm các tài khoản cùng tên trên gần 3000 trang web 🌍"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Trả về danh sách những thông tin thu thập được 💻"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Đa số mọi người sẽ dùng chung 1 username trên web, nên khả năng cao bạn sẽ tìm ra nhiều thông tin hơn của người bạn đang tìm hiểu. ℹ️"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 21,
+                        "offset": 119
+                    }
+                ],
+                "text": "Sherlock cũng có 1 biến thể (folk) khá nổi tiếng là Maigret, biến thể này được mở rộng tìm trên nhiều trang web hơn. Và có sẵn telegram b.ot để mọi người sử dụng ngay không cần cài đặt."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Linh dưới còm nhé 💬"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 4,
+            "total_count": 5,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 43,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 36,
+                    "name": "Thích"
+                },
+                {
+                    "id": "478547315650144",
+                    "count": 4,
+                    "name": "Wow"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 3,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 16,
+        "created_time": 1734083176000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1543908862930463",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2718089168362666",
+                "2718089355029314"
+            ],
+            "photo_id": "2718089168362666",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1734083176,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1543908862930463"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=50m7Ng3DzPfpoq_DAMk0pA&_nc_ss=7a3a8&oh=00_Af2ZoqerqSxt8LyQ9ByKBdoP3XqK0kaCp7UoqQc-3NSOFw&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

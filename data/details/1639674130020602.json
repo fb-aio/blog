@@ -1,0 +1,174 @@
+{
+    "result": {
+        "id": "UzpfSTE2Mzk2NzQxMzAwMjA2MDI6Vks6MTYzOTY3NDEzMDAyMDYwMg==",
+        "post_id": "1639674130020602",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1639674130020602/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Có anh em nào vô MoMo không 😎",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 5,
+            "total_count": 9,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 6,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 6,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1746424043000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1639674130020602",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "2847178692120379",
+            "original_content_owner_id": "100004848287494",
+            "photo_id": "2847178642120384",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "2847178692120379",
+                        "sharedMediaID": "1639674130020602",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1746424043,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1639674130020602"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=WWIoq9NUX8x-iqmKmACm-w&_nc_ss=7a3a8&oh=00_Af1obb3A0v-vtKCLAuFzLpN4IT4OFY-AVmLjkBIP2hLocQ&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDAwNDg0ODI4NzQ5NDoyODQ3MTc4NjkyMTIwMzc5OjI4NDcxNzg2OTIxMjAzNzk=",
+            "post_id": "2847178692120379",
+            "url": "https://www.facebook.com/9999.hoangtran/posts/pfbid0ozKrzRk1fDoqPBwD1jNp6x63sbXQmDBb7WuNY1KAu5JCDqvnvARPFVbcVCc7Cna4l",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "2847178642120384",
+                    "url": "https://www.facebook.com/photo/?fbid=2847178642120384&set=a.284190331752574",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/504471269_2880519455452969_4474370648071910110_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7b2446&_nc_ohc=lHeXivcVxYcQ7kNvwEbq8IK&_nc_oc=Adr7231UTHx731av5lvvdVLuZ8bzIQ4ghx-jq1_ZaD70o_qXrgbuY-gygjeR9G72viw&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=WWIoq9NUX8x-iqmKmACm-w&_nc_ss=7a3a8&oh=00_Af2oY-cAxi-MwM7XK8ipGkBOfNbAqILAWYYSL3Rds5IxeQ&oe=69E77C57",
+                    "height": 1536,
+                    "width": 2048,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FFB1B2D0",
+                    "real_width": 2048,
+                    "real_height": 1536
+                },
+                "video": null
+            },
+            "text": "Momo tuyển Thực tập sinh, có anh chị em nào muốn vô không gửi CV mình đưa HR cho 🤣",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Hoang Tran",
+                    "id": "100004848287494",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/9999.hoangtran",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1746423983000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

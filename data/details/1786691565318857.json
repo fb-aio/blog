@@ -1,0 +1,227 @@
+{
+    "result": {
+        "id": "UzpfSTE3ODY2OTE1NjUzMTg4NTc6Vks6MTc4NjY5MTU2NTMxODg1Nw==",
+        "post_id": "1786691565318857",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1786691565318857/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Nhà nhà đi ngủ, người người đi ngủ 🛌\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 7,
+            "total_count": 7,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 20,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 17,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 3,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1763470940000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1786691565318857",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1380152893466247",
+            "original_content_owner_id": "100044146478519",
+            "page_id": "116529085375415",
+            "photo_id": "1380148140133389",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "100044146478519": {
+                    "page_id": "100044146478519",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100044146478519",
+                        "page_id_type": "page",
+                        "actor_id": "100044146478519",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1763470027,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1380152893466247"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1786691565318857",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100044146478519",
+                            "post_id": "1380152893466247",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1380152893466247",
+                        "sharedMediaID": "1786691565318857",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1763470940,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1786691565318857"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=CFIyf8TiVpRLxL0QadIRZg&_nc_ss=7a3a8&oh=00_Af170F-qMGjt5PyHeDNJ4IQfB3uKq-uQO9J5YgPc8yyCJA&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA0NDE0NjQ3ODUxOToxMzgwMTUyODkzNDY2MjQ3OjEzODAxNTI4OTM0NjYyNDc=",
+            "post_id": "1380152893466247",
+            "url": "https://www.facebook.com/toidicodedao/posts/pfbid0M2sem2xT7ssP3QToqJkVEt2s59N6XAMUgJp3XXnpEVqA9YExAa78uAXJv2mSKfmHl",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "1380148140133389",
+                    "url": "https://www.facebook.com/photo/?fbid=1380148140133389&set=a.333619431452937",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/586015875_1380148143466722_4900034074207458606_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=BNjpso5Je8AQ7kNvwFuAJQk&_nc_oc=AdpsWJ0bF8W_bGWG74Xo69rOf924SLOPiPqwPswaq3w0-pWZPvZkqSD3RUoqUG_cfrw&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=CFIyf8TiVpRLxL0QadIRZg&_nc_ss=7a3a8&oh=00_Af1kvRKbNSAPtDuwN_KshEbvETqJRcE8jRq4rLoC6SapoQ&oe=69E788D4",
+                    "height": 1036,
+                    "width": 1274,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FFFFFFFF",
+                    "real_width": 1274,
+                    "real_height": 1036
+                },
+                "video": null
+            },
+            "text": "Cloudflare là gì? Tại sao nó kéo vài trăm trang web to nhỏ tạch theo?\n\nCloudflare vừa sập làm hàng loạt hệ thống te tua nên mình lên tut giải thích nhé!\n\nNói ngắn gọn, Cloudflare là Reverse Proxy kiêm CDN lớn nhất hành tinh. Mục đích chính của nó là đứng ra làm lá chắn, che giấu IP của server gốc, đồng thời hứng hết các request \"bẩn\" và DDoS, lọc hết trước khi tới server. \nNếu không có cloudflare, mình có thể biết IP của roph*m nằm ở nước nào, cá nhân trang này cũng phải có hạ tầng lưu và serve phim, với băng thông rất lớn để người dùng xem. \nVới cloudflare, chỉ cloudflare biết IP đằng sau là gì, còn người dùng và hacker thì không. Hệ thống firewall nó khá ngon, chấp được 69.96% các thể loại ddos. Hạ tầng CDN của nó cũng tự động cache file ảnh/phim v...v ở server gần người dùng nhất, nhanh mà giá gần như free.\n\nVấn đề là tất cả các trang web này (và 90% Internet) đều dùng Cloudflare vì nó ngon và miễn phí. Khi server của Cloudflare tèo vì lỗi config, thì request của anh em sẽ kẹt cứng, không tới được server gốc.\n\nLúc này, muốn sửa chỉ có cách trỏ DNS về server chính thay vì server của Cloudflare. Tất nhiên là có bị hết bandwidth hay DDoS thì cũng ko được bảo vệ gì đâu nhé.\n\nGiờ thì đừng hỏi tại sao web phim hay ứng dụng sập, tắt máy đi ngủ đi. Đến cả ChatGPT còn đang sập kìa! \n\nChờ họ fix lỗi rồi tính tiếp anh em nhé!",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Tôi đi code dạo",
+                    "id": "100044146478519",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/toidicodedao",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1763470027000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

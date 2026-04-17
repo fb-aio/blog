@@ -1,0 +1,357 @@
+{
+    "result": {
+        "id": "UzpfSTE2Mjg1ODg4OTc3OTU3OTI6Vks6MTYyODU4ODg5Nzc5NTc5Mg==",
+        "post_id": "1628588897795792",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1628588897795792/",
+        "media": {
+            "mediaset_token": "pcb.1628588897795792",
+            "subAttachments": [
+                {
+                    "id": "2830316073806641",
+                    "url": "https://www.facebook.com/photo.php?fbid=2830316073806641&set=gm.1628588894462459&type=3",
+                    "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/504493528_2880430208795227_2693230025390480867_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=a2sM7cCGtxQQ7kNvwGMJvjz&_nc_oc=AdqT-u14HGwWzZ0FqEQuanlGZHCHAnmCN_qpbxskDlHbaBEq69ZWSYD7JVBSMjmvKC8&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=hhPiQs49xPIUUF375ex-Gg&_nc_ss=7a3a8&oh=00_Af21W4ZOJlINR7L3IRx6GaxJ7VTjDiqVWSOc8T9xd0gHJw&oe=69E74281",
+                    "height": 854,
+                    "width": 1314,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản cho biết 'SIMGILIN Ngôn ngữ hồ Elements Console Filter Default levels 99+ công khai và URL Hoang Tran Software Engineer Founder Creator fFB AIO ERCELLENCE Thông Promoted Đang tim việc Phẩn Thêm chrome-extenston://Lnvr shreme-extension://tnvaltd/ net::ERR_FAILED รซ Hoang, explore relevant opportunities with Generali so and industry Cho làm tuyến dụng tháy bạn đang dược nhìn thây Follow việc เล็น Những người mà người xem cua bạn cũng xem Phân tích shreme-extension://inwalid net::ERR_FAILED net::ERR_FAILED Khải Nguyen Hoàng Studenta Foreign Trade University đã SƠ cua ban. Nhắn Kiếm hiển bài đăng ai tương tác Mai MSc chrome-cextension://invalid Khoi Data Science chrome-extension: :ERR_FAILED'",
+                    "real_width": 1314,
+                    "real_height": 854
+                },
+                {
+                    "id": "2830315293806719",
+                    "url": "https://www.facebook.com/photo.php?fbid=2830315293806719&set=gm.1628588891129126&type=3",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/504331978_2880430618795186_7151720998329043582_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=YMfxbMTx1qcQ7kNvwH7KeIS&_nc_oc=AdqxP5lePq5HcYtw-PQVCMsrpnvDyxCjb888fEbP7VpFPNGKvqtiLp0PoK95fmerEbw&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=hhPiQs49xPIUUF375ex-Gg&_nc_ss=7a3a8&oh=00_Af3mCeD73Y0y4Wl9xZsuhXqh-LsU7eBD1izo6UhiFpqJrQ&oe=69E7156E",
+                    "height": 716,
+                    "width": 859,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản cho biết 'Page Elements Console top Sources Network www.linkedin.com kai5n86i9pi9wt0ivktznjrz Application file: in/99- hoangtran 99-hoangtran/ main.min.js view.css\" Performance AIO id: anechnknhcnhlctetglhjlcbn, ftle: styles/render.css Useful Scripts media.licdn.com dms/image/v2 media merchantpool1.inkedin.com ads. linkedin.com \"mpbjkejclgfgadiennefgebj jfooflfhl\". file: src/base/solver- List extension id revert. id: lhlgpdndaddmmml nhdeapb file: ኑ, id: *graingaionInlflkjjacebokpb file: file path ads. s.linkedin. .com 8457 function licdn. aero-v1/sc/h about:blank undefined function typeof 8458 && \"node dtag fpt_frame (merchantpoof1.link index.html --n (e window) async function const vold nul - 8459 return fetch extension file content 8468 fetch( chrome-extension: return (awatt ${t) ${n} Prom 8461 )).forEach(((t )イ t.status && oid !== t.value) 0[] e.push(t.td) function'",
+                    "real_width": 859,
+                    "real_height": 716
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Ê linkedin đang ăn cắp thông tin gì vậy 🧐\n\nChả là mình vừa mở linkedin xem profile xíu\n\nTự nhiên lại không thấy load được avatar của ai hết 👀\n\nMáu dev thích fix bug nổi lên, mình mò mở F12 xem bug gì 🫥\n\nKết quả chưa thấy bug nhưng thấy 1 danh sách dài error ghi fetch không được tới *chrome-extension://invalid/ *👀\n\nMình mò tiếp, ra được đoạn code đang cố gắng kết nối tới 1 danh sách hàng trăm id extension chrome, với mỗi id nó lại cố gắng lấy source code 1 file nào đó trong extension ấy 👀\n\nNhưng do mình chưa cài, nên đa số fetch đều báo lỗi. Vấn đề là tại sao linkedin lại phải làm như vậy 👀 Để biết user cài extension nào, mà không cần cấp quyền sao ? 🤖\n\nÊ ê nha \n\n#fb_aio",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Ê linkedin đang ăn cắp thông tin gì vậy 🧐"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Chả là mình vừa mở linkedin xem profile xíu"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Tự nhiên lại không thấy load được avatar của ai hết 👀"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Máu dev thích fix bug nổi lên, mình mò mở F12 xem bug gì 🫥"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "ITALIC",
+                        "length": 28,
+                        "offset": 80
+                    }
+                ],
+                "text": "Kết quả chưa thấy bug nhưng thấy 1 danh sách dài error ghi fetch không được tới chrome-extension://invalid/ 👀"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Mình mò tiếp, ra được đoạn code đang cố gắng kết nối tới 1 danh sách hàng trăm id extension chrome, với mỗi id nó lại cố gắng lấy source code 1 file nào đó trong extension ấy 👀"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Nhưng do mình chưa cài, nên đa số fetch đều báo lỗi. Vấn đề là tại sao linkedin lại phải làm như vậy 👀 Để biết user cài extension nào, mà không cần cấp quyền sao ? 🤖"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Ê ê nha "
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fb_aio",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fb_aio",
+                            "__isNode": "Hashtag",
+                            "id": "8080904801977702"
+                        },
+                        "length": 7,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fb_aio"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 5,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 33,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 25,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 4,
+                    "name": "Haha"
+                },
+                {
+                    "id": "908563459236466",
+                    "count": 3,
+                    "name": "Buồn"
+                },
+                {
+                    "id": "478547315650144",
+                    "count": 1,
+                    "name": "Wow"
+                }
+            ]
+        },
+        "shares": 5,
+        "created_time": 1745061038000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1628588897795792",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2830316073806641",
+                "2830315293806719"
+            ],
+            "photo_id": "2830316073806641",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1745061038,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1628588897795792"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=hhPiQs49xPIUUF375ex-Gg&_nc_ss=7a3a8&oh=00_Af3Cp71e2HhCvYR-p7LPJCNa0Rfp63A-s4FURkE5zOWE9Q&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

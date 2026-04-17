@@ -1,0 +1,171 @@
+{
+    "result": {
+        "id": "UzpfSTE1MjE4MTYwMzUxMzk3NDY6Vks6MTUyMTgxNjAzNTEzOTc0Ng==",
+        "post_id": "1521816035139746",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1521816035139746/",
+        "media": {
+            "mediaset_token": "pcb.1521816035139746",
+            "subAttachments": [
+                {
+                    "id": "2691763284328588",
+                    "url": "https://www.facebook.com/photo.php?fbid=2691763284328588&set=gm.1521816028473080&type=3",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/504132634_2879104895594425_4215995344258206683_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=CtCQ9FsXSzQQ7kNvwEykNoI&_nc_oc=Adq2KJuxnUG41p_qDcacDZ89tLI0jbcQZi5OPgB8rN1U8ZXJBNoT3v1u76v4V2fnXzU&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=z3a2JZ7JRqRWgXhZcw1Syw&_nc_ss=7a3a8&oh=00_Af3U0w77Twz_G1DIQUeopA1AevgiS603fRjZW3AHN4valA&oe=69E735AC",
+                    "height": 1024,
+                    "width": 1024,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1024,
+                    "real_height": 1024
+                },
+                {
+                    "id": "2691763370995246",
+                    "url": "https://www.facebook.com/photo.php?fbid=2691763370995246&set=gm.1521816038473079&type=3",
+                    "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/504348293_2879104928927755_5338077130108876065_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=yfsUnETkRycQ7kNvwETtjl2&_nc_oc=Adpu9So0xctFi4UpNuXrJd0lAR-7P-qqn2ljs_jwnx8iULibi9dyb5zhMlvslkeO79A&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=z3a2JZ7JRqRWgXhZcw1Syw&_nc_ss=7a3a8&oh=00_Af24o-xxrEzixnnKdJ8cgpEf1v2xoQ2aiKDAuj7Mza3vpw&oe=69E73908",
+                    "height": 1024,
+                    "width": 1024,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1024,
+                    "real_height": 1024
+                },
+                {
+                    "id": "2691763510995232",
+                    "url": "https://www.facebook.com/photo.php?fbid=2691763510995232&set=gm.1521816031806413&type=3",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/504101974_2879104768927771_4277193847227957535_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=Tcz0r7QVLxkQ7kNvwHvD5_1&_nc_oc=Adp2hc4TqudyC5AAYxo9fRqc7tA0XfjJVZcE1EMaQOB5fwt_789Iy98odP7_oC4jZzc&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=z3a2JZ7JRqRWgXhZcw1Syw&_nc_ss=7a3a8&oh=00_Af1h0KgUNMsaLmXaePWK6dZWtRhibIGjfTqjPrFZruGEFw&oe=69E7226B",
+                    "height": 611,
+                    "width": 798,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 798,
+                    "real_height": 611
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "ChatGPT vẽ phong cảnh hay con người thì còn dễ nhận ra là AI vẽ. 🖼\n\nChứ vẽ kiểu vải nỉ này thì khỏi nhận ra luôn, như thật 👀",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "ChatGPT vẽ phong cảnh hay con người thì còn dễ nhận ra là AI vẽ. 🖼"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 6,
+                        "offset": 12
+                    }
+                ],
+                "text": "Chứ vẽ kiểu vải nỉ này thì khỏi nhận ra luôn, như thật 👀"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 2,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 2,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1731055940000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1521816035139746",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2691763284328588",
+                "2691763370995246",
+                "2691763510995232"
+            ],
+            "photo_id": "2691763284328588",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1731055940,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1521816035139746"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=z3a2JZ7JRqRWgXhZcw1Syw&_nc_ss=7a3a8&oh=00_Af2SqOX3BltmduGpMhUevUOxglzf6xuSD_DsO2yD5K8emg&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

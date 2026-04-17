@@ -1,0 +1,257 @@
+{
+    "result": {
+        "id": "UzpfSTE4NTg2OTY3MjQ3ODUwMDc6Vks6MTg1ODY5NjcyNDc4NTAwNw==",
+        "post_id": "1858696724785007",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1858696724785007/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Cũng đáng dùng thử nè ae 🤪\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 6,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 6,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 5,
+        "created_time": 1772014152000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1858696724785007",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1945939522983344",
+            "original_content_owner_id": "100006847333620",
+            "page_id": "103767272756300",
+            "photo_id": "4175123299392540",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntGroupMallPostCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "100006847333620": {
+                    "page_id": "100006847333620",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100006847333620",
+                        "page_id_type": "page",
+                        "actor_id": "100006847333620",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntGroupMallPostCreationStory",
+                        "post_context": {
+                            "object_fbtype": 657,
+                            "publish_time": 1771990778,
+                            "story_name": "EntGroupMallPostCreationStory",
+                            "story_fbid": [
+                                "1945939522983344"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1858696724785007",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100006847333620",
+                            "post_id": "1945939522983344",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1945939522983344",
+                        "sharedMediaID": "1858696724785007",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1772014152,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1858696724785007"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                },
+                "1736980107212621": {
+                    "page_id": "1736980107212621",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "1736980107212621",
+                        "page_id_type": "group",
+                        "actor_id": "100006847333620",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntGroupMallPostCreationStory",
+                        "post_context": {
+                            "object_fbtype": 657,
+                            "publish_time": 1771990778,
+                            "story_name": "EntGroupMallPostCreationStory",
+                            "story_fbid": [
+                                "1945939522983344"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1858696724785007",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=7247Vk6qAyolYEoNSk028Q&_nc_ss=7a3a8&oh=00_Af2h3YEcDXvuT1p-Sebg_AwaVXBA7huocQQmK3BFq2TONQ&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDAwNjg0NzMzMzYyMDpWSzoxOTQ1OTM5NTIyOTgzMzQ0",
+            "post_id": "1945939522983344",
+            "url": "https://www.facebook.com/groups/j2team.community.official/permalink/1945939522983344/",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "4175123299392540",
+                    "url": "https://www.facebook.com/photo/?fbid=4175123299392540&set=gm.1945939522983344&idorvanity=1736980107212621",
+                    "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/640295843_4175123302725873_1223067585055909377_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=zzdZfB4WDoUQ7kNvwFe13SE&_nc_oc=AdoW82GsWF7iMiTh75gyOZTxg0LfAbU1vqxu85wI2YBo8iOIhpcnI0GrJmSgp4nmd-w&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=7247Vk6qAyolYEoNSk028Q&_nc_ss=7a3a8&oh=00_Af2OtupSBi5dgW-luprKetIyKLv_Z6YY1i3NGvfY5EtGzA&oe=69E73179",
+                    "height": 1281,
+                    "width": 2048,
+                    "accessibility_caption": "Có thể là đồ họa về văn bản cho biết 'Knowns Features Story Demo Installation Team Docs Changelog Get Started V0.12: Search What your AI should have knowns. Give your AI persistent memory of your project context. No more repeating yourself. ON Product Hunt 96 B npm V0.12.1 GitHub Stars 95 AI Workflow YouHorkontask42 42 You Work on task AI Reading task Add user 土 Knowns V0.12.1 Anewversion Anewversionisava Savailabl able uthentication\" View changelog'",
+                    "accent_color": "FF0A0A0A",
+                    "real_width": 2048,
+                    "real_height": 1281
+                },
+                "video": null
+            },
+            "text": "Mấy nay thấy nhiều anh em chia sẻ sản phẩm cá nhân nên tui cũng muốn giới thiệu một Open Source tui đã build từ tháng 12/2025: Knowns.\n\nTrong quá trình làm việc với AI, tui nhận ra một vấn đề rất rõ: AI chỉ thông minh trong context hiện tại. Sau mỗi session là gần như nó quên hết. Muốn tiếp tục task, tui lại phải giải thích lại kiến trúc, copy lại docs, hoặc nhắc lại những gì đã làm trước đó.\n\nTui từng dùng backlog.md để quản lý công việc, khá gọn và tiện. Nhưng AI vẫn không thể tự hiểu và liên kết các docs với nhau. Mỗi lần làm việc vẫn phải nhập tay lại context.\n\nVì vậy tui build Knowns — một layer nằm giữa dev và AI, giúp lưu trữ và liên kết knowledge của project. Thay vì giải thích lại, chỉ cần dùng cú pháp như @task-42 hoặc @doc/spec/auth, AI có thể tự đọc và hiểu đúng context.\n\nHiện tại project đang ở version v0.12.x, với một số tính năng chính:\n• Quản lý Task và Doc bằng CLI hoặc MCP  \n• Workflow theo hướng Spec-Driven Development  \n• Reference Task/Doc trực tiếp bằng cú pháp @...\n• Semantic search local cho knowledge của project  \n• Web UI để quản lý trực quan hơn  \n• Import và sync docs từ repo khác  \n\nMục tiêu của Knowns là giúp AI thực sự trở thành một phần của workflow, không chỉ là một chat tool.\n\nAnh em có thể xem tại: https://cli.knowns.dev  \n\nNếu thấy hữu ích, anh em cho tui xin một star ⭐ hoặc feedback nhé. Tui sẽ tiếp tục cải thiện nó.\n\n#j2team_share #j2team_opensource",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [
+                "#j2team_share",
+                "#j2team_opensource"
+            ],
+            "mentions": [
+                {
+                    "type": "ExternalUrl",
+                    "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2NsaS5rbm93bnMuZGV2Lzo6Ojo6MTk0NTkzOTUyMjk4MzM0NA==",
+                    "name": "https://cli.knowns.dev/",
+                    "url": "https://cli.knowns.dev/",
+                    "length": 22,
+                    "offset": 1253
+                }
+            ],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "id": "100006847333620",
+                    "name": "Nguyễn Duy",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/howznguyen"
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1771998797000,
+            "privacy_scope": "Nhóm công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": "Group",
+                "id": "1736980107212621",
+                "url": "https://www.facebook.com/groups/j2team.community.official/",
+                "name": "J2TEAM Community 🇻🇳",
+                "avatar": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/637853140_3477831689022812_671738483188422173_n.jpg?stp=c905.0.1333.1333a_cp0_dst-jpg_s110x80_tt6&_nc_cat=104&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=ouK0MxbQio0Q7kNvwFgh1wF&_nc_oc=AdqBgC_-4Wv2wy02e-VyNwHWiLSkCGy7SeIe0i0occFa-Kc4x1DIYwqu8av5uXMaJKI&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=7247Vk6qAyolYEoNSk028Q&_nc_ss=7a3a8&oh=00_Af1nGL6pr-8czDgTEm6jOuZDp9kyRp3owP5myWQ5IaFR_g&oe=69E715A5"
+            },
+            "attached_post": null
+        }
+    }
+}

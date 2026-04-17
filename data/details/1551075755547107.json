@@ -1,0 +1,203 @@
+{
+    "result": {
+        "id": "UzpfSTE1NTEwNzU3NTU1NDcxMDc6Vks6MTU1MTA3NTc1NTU0NzEwNw==",
+        "post_id": "1551075755547107",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1551075755547107/",
+        "media": {
+            "mediaset_token": "pcb.1551075755547107",
+            "subAttachments": [
+                {
+                    "id": "2726583817513201",
+                    "url": "https://www.facebook.com/photo.php?fbid=2726583817513201&set=gm.1551075762213773&type=3",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/504422067_2879369412234640_8729683496605635717_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=wPXoeWLogSMQ7kNvwE0NFKC&_nc_oc=Adrtxv7995PsKCVaJbgoLDtPf95piKUJsd9emk9BV51GVPDDnmYNeh1LP16U6nlRkTQ&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=unGBgnxTacQqetsfcU8UDg&_nc_ss=7a3a8&oh=00_Af2FsRyOv1UBhlwElpIyf6F1WO7xmmDiTM16EM0s-MFBrA&oe=69E717D4",
+                    "height": 792,
+                    "width": 1185,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1185,
+                    "real_height": 792
+                },
+                {
+                    "id": "2726584184179831",
+                    "url": "https://www.facebook.com/photo.php?fbid=2726584184179831&set=gm.1551075758880440&type=3",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/504011658_2879369652234616_4490563289138558822_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=5WLodn3vYMcQ7kNvwEtFb3V&_nc_oc=AdrbqxKeEdCGriQf8ToMZwM-Kddqp9kxjlCBc0I5vMNBTUT1WegJpR1GNa3bOUfpBDM&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=unGBgnxTacQqetsfcU8UDg&_nc_ss=7a3a8&oh=00_Af14O8waXgx7qMiegMWzOnh2fnVMmubU6p-jfewS2udqMA&oe=69E72620",
+                    "height": 902,
+                    "width": 1211,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1211,
+                    "real_height": 902
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Vào xem **Ông già Noel** đã đi tới đâu nè 🤣\n\nhttps://santatracker.google.com",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 12,
+                        "offset": 8
+                    }
+                ],
+                "text": "Vào xem Ông già Noel đã đi tới đâu nè 🤣"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "IMPLICIT_LINK",
+                        "entity": {
+                            "__typename": "ExternalUrl",
+                            "__isEntity": "ExternalUrl",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fsantatracker.google.com%2F&h=AT5bKclSw4MYM9G2J1j1Li7MPmWQROCFg3r3F2cmhs06r2nyK6S0irnWQcBXD9UavqAM8jOfc8xkpYvKSpjpX62DXZcOBNCst0zY7dJEDrW9D-maKXUcSdRup7-wnh4Sqq7CCv-SpQ&s=1",
+                            "external_url": "https://santatracker.google.com/",
+                            "__isWebLinkable": "ExternalUrl",
+                            "web_link": {
+                                "__typename": "ExternalWebLink",
+                                "url": "https://santatracker.google.com/",
+                                "fbclid": "IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlxiPiQARDvP5WCsfHLsMcCUpB4VSMOGRtNo1bgR_feOcsjmg37GHUDyNrUX_aem_utI4bv6QKjXM5SWFbGUH8Q",
+                                "lynx_mode": "ASYNCLAZY"
+                            },
+                            "mobileUrl": "https://lm.facebook.com/l.php?u=https%3A%2F%2Fsantatracker.google.com%2F&h=AT5A3jtC0n9PnuXFwVZ9K7Yg2LvwW1XlpmXWyBmomlyerMtACbL3RnjyQQq5BYkc6C2nfxRyUBEyhnlhzPEWiOGfYcxGjt4JQtYuSwEQnLrvIeT_kxHyhVa-zIuGbhcvXCno4DuSaA&s=1",
+                            "__isNode": "ExternalUrl",
+                            "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3NhbnRhdHJhY2tlci5nb29nbGUuY29tLzo6Ojo6"
+                        },
+                        "length": 31,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "https://santatracker.google.com"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3NhbnRhdHJhY2tlci5nb29nbGUuY29tLzo6Ojo6",
+                "name": "https://santatracker.google.com/",
+                "url": "https://santatracker.google.com/",
+                "length": 31,
+                "offset": 0
+            }
+        ],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 6,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 6,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1735049043000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1551075755547107",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2726583817513201",
+                "2726584184179831"
+            ],
+            "photo_id": "2726583817513201",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1735049043,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1551075755547107"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=unGBgnxTacQqetsfcU8UDg&_nc_ss=7a3a8&oh=00_Af1nQVB3qXu_aDoO7j1FGmycdyvsYE6dS6GMMnrul1zV7g&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

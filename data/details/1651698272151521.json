@@ -1,0 +1,263 @@
+{
+    "result": {
+        "id": "UzpfSTE2NTE2OTgyNzIxNTE1MjE6Vks6MTY1MTY5ODI3MjE1MTUyMQ==",
+        "post_id": "1651698272151521",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1651698272151521/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Còn ai nhận ra những video này được tạo bằng AI nữa không 🐧",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Còn ai nhận ra những video này được tạo bằng AI nữa không 🐧"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 1,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 4,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 2,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "478547315650144",
+                    "count": 1,
+                    "name": "Wow"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1748047552000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1651698272151521",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1236073391306861",
+            "original_content_owner_id": "100047126350934",
+            "page_id": "693504594115135",
+            "story_location": 9,
+            "attached_story_attachment_style": "video_autoplay",
+            "video_id": "1468324667636957",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "VideoAttachment",
+            "page_insights": {
+                "100047126350934": {
+                    "page_id": "100047126350934",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100047126350934",
+                        "page_id_type": "page",
+                        "actor_id": "100047126350934",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1747997999,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1236073391306861"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1651698272151521",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100047126350934",
+                            "post_id": "1236073391306861",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1236073391306861",
+                        "sharedMediaID": "1651698272151521",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1748047552,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1651698272151521"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=e-mu7YuoYPRM_1TsRKT19A&_nc_ss=7a3a8&oh=00_Af3XF7ClEwXNyU1faJtgikOUoXtT1rAfa0890vTPPVnANQ&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA0NzEyNjM1MDkzNDoxMjM2MDczMzkxMzA2ODYxOjEyMzYwNzMzOTEzMDY4NjE=",
+            "post_id": "1236073391306861",
+            "url": "https://www.facebook.com/ScienceNaturePage/videos/1468324667636957/",
+            "media": {
+                "subAttachments": [],
+                "photo": null,
+                "video": {
+                    "id": "1468324667636957",
+                    "url": "https://www.facebook.com/ScienceNaturePage/videos/1468324667636957/",
+                    "thumbnail": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t15.5256-10/499827465_9902836669783326_7222939264395821471_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=be8305&_nc_ohc=FUIWc2DbzjwQ7kNvwE_-vnQ&_nc_oc=Adq0Of0Xu8eSZpDMwalb8bIT2YLSa0W0yroRULGj0L48hrwBeIvgYMHw31l8_LNvVNA&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=e-mu7YuoYPRM_1TsRKT19A&_nc_ss=7a3a8&oh=00_Af2yYl9ubiSXh6gfNGaWFsjIHvNLoahCclCSsWDkpJPZrA&oe=69E7903C",
+                    "duration": 252625,
+                    "width": 1080,
+                    "height": 1920,
+                    "original_width": 1080,
+                    "original_height": 1920,
+                    "publish_time": 0,
+                    "audio_availability": "AVAILABLE",
+                    "is_live_streaming": false,
+                    "is_spherical": false,
+                    "is_looping": false,
+                    "loop_count": 0,
+                    "source": {
+                        "variants": []
+                    },
+                    "sprite": {
+                        "uris": [
+                            "https://scontent.fsgn2-9.fna.fbcdn.net/v/t15.5256-10/502627181_1647775325878537_8493892576028793781_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=62976d&_nc_ohc=6l7clmnFtKAQ7kNvwHZQh29&_nc_oc=AdpGxEGr3zMguK7opWznF9ChAIMhKzq1St4APKcOtn57raYU7AuXPg4I-q3DVLgJJGA&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=e-mu7YuoYPRM_1TsRKT19A&_nc_ss=7a3a8&oh=00_Af2misFsKwzsfVV4YksX8tizDOzLJF8xENiCED6kuHXcMw&oe=69E76AAD",
+                            "https://scontent.fsgn2-5.fna.fbcdn.net/v/t15.5256-10/503084022_1269082331888718_3451904788732847139_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=62976d&_nc_ohc=Vh-eBDaz0ugQ7kNvwHCj3CL&_nc_oc=AdoDgStTC2_ZIZB5KV1uc-_tbDBnOWpFdIDH24cr5kO2QOuk-floqPegHR3NsgEObKw&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=e-mu7YuoYPRM_1TsRKT19A&_nc_ss=7a3a8&oh=00_Af3Qu58cAS3McN6EmDKRaJiU7qBHrSt1GH0Wd6yPl_7XEg&oe=69E7814B",
+                            "https://scontent.fsgn2-7.fna.fbcdn.net/v/t15.5256-10/502627539_1043186017759536_6413741762780817337_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=62976d&_nc_ohc=Llh5W011qEgQ7kNvwFOHilu&_nc_oc=AdoWvndP0DWl_yIEiS2GZf1yTs8qT0-0UhmmrZ0gJx1DHOxM8lcttXujNkB_N8w4mxA&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=e-mu7YuoYPRM_1TsRKT19A&_nc_ss=7a3a8&oh=00_Af0pBZZJYRnPU8Hto9rh9hON4aA8VAHb_ej770OKB310FQ&oe=69E77765"
+                        ],
+                        "thumbnail_width": 100,
+                        "thumbnail_height": 176,
+                        "num_images_per_row": 10,
+                        "max_number_of_images_per_sprite": 100,
+                        "time_interval_between_image": 1
+                    }
+                }
+            },
+            "text": "Absolutely mind-blowing how far AI video generation has come. I created this entire video using Google’s new AI model, Veo 3.",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Hashem Al-Ghaili",
+                    "id": "100047126350934",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/ScienceNaturePage",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1747997999000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

@@ -1,0 +1,464 @@
+{
+    "result": {
+        "id": "UzpfSTE1ODg5MDg2NjUwOTcxNDk6Vks6MTU4ODkwODY2NTA5NzE0OQ==",
+        "post_id": "1588908665097149",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1588908665097149/",
+        "media": {
+            "mediaset_token": "pcb.1588908665097149",
+            "subAttachments": [
+                {
+                    "id": "2772679312903651",
+                    "url": "https://www.facebook.com/photo.php?fbid=2772679312903651&set=gm.1588908658430483&type=3",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/503566530_2879709252200656_7809110729163789319_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=6xjQ2yCb1s4Q7kNvwFaaLqa&_nc_oc=AdokWKkU2GmA56h35NleQeO3Ui8dUZKZVssz00BJoqVcMsHxs3x6agFuF95xEkgs0js&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=ODYq3e_YEGi8VaXNB6yT2Q&_nc_ss=7a3a8&oh=00_Af2CMA_oENIF7e2Ktf6MKVVDMa9kPSDUl90bD0ntJnmdWw&oe=69E731EC",
+                    "height": 275,
+                    "width": 320,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                    "real_width": 320,
+                    "real_height": 275
+                },
+                {
+                    "id": "2772679086237007",
+                    "url": "https://www.facebook.com/photo.php?fbid=2772679086237007&set=gm.1588908661763816&type=3",
+                    "uri": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/503717363_2879709218867326_8682828775958624118_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=HE4QQuI3V-sQ7kNvwHV59SG&_nc_oc=AdpqSbS_UjIw2IAnELMCfXFHUL-INepHaOGrSbqhBsZSUpchD-txoinNwVch7D-e0Ms&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=ODYq3e_YEGi8VaXNB6yT2Q&_nc_ss=7a3a8&oh=00_Af0JpLirUakOlzPYKi8AydTQKEaKNX8Iqh1Ts6flm_98ww&oe=69E72474",
+                    "height": 668,
+                    "width": 814,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                    "real_width": 814,
+                    "real_height": 668
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Đào bitcoin trên điện thoại !? 👀\n\nMình không chơi coin, chỉ tìm hiểu sơ về bitcoin, nhưng thấy video hướng dẫn này hài quá phải share 😂\n\nTóm tắt video:\n* Tải app\n* Mở app cho điện thoại tự đào coin\n* Đào theo hợp đồng 24h\n* Muốn đào nhanh thì tạo nhiều hợp đồng, đào song song\n* Muốn tạo hợp đồng chỉ cần xem quảng cáo 30s\n* Có thể rút coin bất cứ lúc nào, nhưng cần tối thiểu A coin, tối đa B coin, .. (**xác nhận là rút được**)\n\nTưởng ngon nhưng có nhiều vấn đề: 🫥\n* Muốn đào coin thì thiết bị phải giải toán, toán khó, giải ra thì mới được nhận tiền công bằng lượng nhỏ bitcoin (*đã đơn giản hoá*) -> cần phần cứng mạnh, điện thoại quá yếu không đủ sức giải 😌\n* Nhìn sơ là biết cách hoạt động của app là lấy 1 phần nhỏ thu nhập từ quảng cáo để trả cho user, chứ không hề đào ra tý bitcoin nào cả 🥸\n* Coin tăng rất chậm, để chạm được mức tối thiểu A coin, phải xem quảng cáo cả trăm lần, hoặc chờ coin <tự tăng> lên cả năm mới đủ 👀\n\nTóm gọn là giờ nhiều chiêu trò lừa đảo, tinh vi lắm, mn chú ý cẩn thận nhé 😇\n\nBên dứoi mình thử hỏi ChatGPT có đào coin trên đt được không 🤖\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Đào bitcoin trên điện thoại !? 👀"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Mình không chơi coin, chỉ tìm hiểu sơ về bitcoin, nhưng thấy video hướng dẫn này hài quá phải share 😂"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Tóm tắt video:"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Tải app"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Mở app cho điện thoại tự đào coin"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Đào theo hợp đồng 24h"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Muốn đào nhanh thì tạo nhiều hợp đồng, đào song song"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Muốn tạo hợp đồng chỉ cần xem quảng cáo 30s"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 16,
+                        "offset": 42
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 20,
+                        "offset": 79
+                    }
+                ],
+                "text": "Có thể rút coin bất cứ lúc nào, nhưng cần tối thiểu A coin, tối đa B coin, .. (xác nhận là rút được)"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Tưởng ngon nhưng có nhiều vấn đề: 🫥"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "ITALIC",
+                        "length": 15,
+                        "offset": 113
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 15,
+                        "offset": 137
+                    }
+                ],
+                "text": "Muốn đào coin thì thiết bị phải giải toán, toán khó, giải ra thì mới được nhận tiền công bằng lượng nhỏ bitcoin (đã đơn giản hoá) -> cần phần cứng mạnh, điện thoại quá yếu không đủ sức giải 😌"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 21,
+                        "offset": 57
+                    }
+                ],
+                "text": "Nhìn sơ là biết cách hoạt động của app là lấy 1 phần nhỏ thu nhập từ quảng cáo để trả cho user, chứ không hề đào ra tý bitcoin nào cả 🥸"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 18,
+                        "offset": 0
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 16,
+                        "offset": 37
+                    }
+                ],
+                "text": "Coin tăng rất chậm, để chạm được mức tối thiểu A coin, phải xem quảng cáo cả trăm lần, hoặc chờ coin <tự tăng> lên cả năm mới đủ 👀"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Tóm gọn là giờ nhiều chiêu trò lừa đảo, tinh vi lắm, mn chú ý cẩn thận nhé 😇"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Bên dứoi mình thử hỏi ChatGPT có đào coin trên đt được không 🤖"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fbaio_share",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fbaio_share",
+                            "__isNode": "Hashtag",
+                            "id": "8771715079560378"
+                        },
+                        "length": 12,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fbaio_share"
+            }
+        ],
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 1,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 6,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 4,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 2,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 2,
+        "created_time": 1740137297000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1588908665097149",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2772679312903651",
+                "2772679086237007"
+            ],
+            "photo_id": "2772679312903651",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1740137297,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1588908665097149"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=ODYq3e_YEGi8VaXNB6yT2Q&_nc_ss=7a3a8&oh=00_Af0X1ibHOiB6Ris1N3JWL7AzYBBu3ffmI_Ktk-PSk8Gwug&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

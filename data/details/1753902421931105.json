@@ -1,0 +1,227 @@
+{
+    "result": {
+        "id": "UzpfSTE3NTM5MDI0MjE5MzExMDU6Vks6MTc1MzkwMjQyMTkzMTEwNQ==",
+        "post_id": "1753902421931105",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1753902421931105/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Thái Nguyên vẫn đỏ rực những yêu cầu cứu hộ 🆘\n\nMọi người chia sẻ ai ở gần thì mong giúp được bà con 😥\n\nthongtincuuho .org\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 1,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 8,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 7,
+                    "name": "Thích"
+                },
+                {
+                    "id": "908563459236466",
+                    "count": 1,
+                    "name": "Buồn"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1759963450000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1753902421931105",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1127773652871069",
+            "original_content_owner_id": "100069153349307",
+            "page_id": "1509435412435707",
+            "photo_id": "1127769656204802",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "100069153349307": {
+                    "page_id": "100069153349307",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100069153349307",
+                        "page_id_type": "page",
+                        "actor_id": "100069153349307",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1759919107,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1127773652871069"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1753902421931105",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100069153349307",
+                            "post_id": "1127773652871069",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1127773652871069",
+                        "sharedMediaID": "1753902421931105",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1759963450,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1753902421931105"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=EX5Erc6XOHZpCYWYQTGcww&_nc_ss=7a3a8&oh=00_Af0UrZ670bJG0tLkn2thqtwvKotR95yZGBPoiPivf-2fCg&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA2OTE1MzM0OTMwNzoxMTI3NzczNjUyODcxMDY5OjExMjc3NzM2NTI4NzEwNjk=",
+            "post_id": "1127773652871069",
+            "url": "https://www.facebook.com/Theanh28/posts/pfbid027kcYwAGk4J5d29E1XyVtmvpf3rttesLrRbA3yqsqnhd9QSHBm8jshZUPV8qxjC9il",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "1127769656204802",
+                    "url": "https://www.facebook.com/photo/?fbid=1127769656204802&set=a.563707935944313",
+                    "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/560020723_1127769662871468_5556428291399281878_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=106&ccb=1-7&_nc_sid=13d280&_nc_ohc=i1pvYZekqooQ7kNvwEMSpGP&_nc_oc=AdrFSVmWHyVZgHapZxGuVEvZNmHHMTnHzfknl0Cq-ceIMQcwKppwb5X-Ur4UtXYR1Ss&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=EX5Erc6XOHZpCYWYQTGcww&_nc_ss=7a3a8&oh=00_Af1GRc5RUE4eCAzMN1Pe4u2VMslBaU-QKx-lbRtjnxf6SQ&oe=69E7937F",
+                    "height": 1080,
+                    "width": 1080,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FFD3F8E2",
+                    "real_width": 1920,
+                    "real_height": 1920
+                },
+                "video": null
+            },
+            "text": "🛑CHẠY ĐUA VỚI THỜI GIAN TRƯỚC KHI TRỜI TỐI\n\nBản đồ yêu cầu được cứu hộ lúc này vẫn đỏ rực ở Thái Nguyên. \n\nTối qua, khi chứng kiến hàng nghìn lời kêu cứu (SOS) từ Thái Nguyên giữa đợt lũ nghiêm trọng, hai bạn Tất Huân và Mai Anh Nguyễn đã nhanh chóng xây dựng một nền tảng thu thập và tổng hợp các yêu cầu cứu hộ khẩn cấp tại địa phương.\n\nKhông chỉ dừng lại ở việc ghi nhận thông tin, nhóm còn phát triển bản đồ nhiệt (HeatMap) để hiển thị trực quan các khu vực có nhiều người cần hỗ trợ. Nhờ đó, các lực lượng cứu hộ và cơ quan chức năng có thể dễ dàng xác định điểm nóng, tối ưu hoá việc phân bổ nhân lực và phương tiện ứng cứu.\n\nChia sẻ về dự án, nhóm cho biết: “Cứu hộ không đơn giản là đọc tin nhắn rồi chạy đi giúp. Chúng mình muốn tạo ra một công cụ giúp nhìn rõ bức tranh tổng thể để hỗ trợ hiệu quả hơn.”\n\nCre: Tất Huân",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Theanh28 Entertainment",
+                    "id": "100069153349307",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/Theanh28",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1759919107000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

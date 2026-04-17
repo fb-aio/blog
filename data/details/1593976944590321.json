@@ -1,0 +1,313 @@
+{
+    "result": {
+        "id": "UzpfSTE1OTM5NzY5NDQ1OTAzMjE6Vks6MTU5Mzk3Njk0NDU5MDMyMQ==",
+        "post_id": "1593976944590321",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1593976944590321/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2779789648859284",
+                "url": "https://youtu.be/FW2XOIxaNqg?si=uAa5SUkcObBXmyxC",
+                "uri": "https://external.fsgn2-9.fna.fbcdn.net/emg1/v/t13/12786315010145307990?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FFW2XOIxaNqg%2Fmaxresdefault.jpg&fb_obo=1&utld=ytimg.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p1000x522_q75_tt6&_nc_gid=ssbSOpTpI12gFNFnnz08AQ&_nc_oc=AdoBaF3xbhBdocmxzZHueizoYniQI2Ql6BSoZsZgkjKWGrRj9hDb4TDWPocoWQ0Alak&ccb=13-1&oh=06_Q3--AYCCmyxxylFCvJTOHhEhpWkS6Y6EoWwD8G3Hc1d5htGS&oe=69E380BF&_nc_sid=c97757",
+                "height": 522,
+                "width": 1000,
+                "accessibility_caption": "GPT-4.5 shocks the world with its lack of intelligence..."
+            },
+            "video": null
+        },
+        "text": "# 📢 **THÔNG BÁO GÂY SỐC: GPT-4.5 THẤT VỌNG VỀ MỌI MẶT!**\n> Mình tóm tắt lại video bằng Tiếng Việt nè 👇\n\n🔥 **3 ĐIỂM CHÍNH CẦN BIẾT:**\n1. **Chi phí \"cắt c:ổ\"** 💸 Bản nâng cấp đắt đỏ nhưng hiệu suất không tương xứng. Không cải tiến đáng kể so với GPT-4.\n2. **Hiệu năng \"lẹt đẹt\":** 😩 Xử lý ngôn ngữ tự nhiên kém hơn mong đợi. Tốc độ phản hồi chậm hơn phiên bản cũ.\n3. **Bế tắc công nghệ** 🚧 OpenAI có vẻ đang chậm lại trong đua AI. Dấu hiệu cho thấy AI đạt \"ngưỡng trần\" phát triển.\n\n💬 **Tại sao bạn nên quan tâm?**\n* Nếu đang dùng GPT-4: **KHÔNG CẦN nâng cấp**!\n* Nhà phát triển: Cân nhắc chi phí/tính năng kỹ hơn.\n* Người dùng cuối: Đừng kỳ vọng \"bước nhảy vọt\"!\n\n#fb_aio",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 48,
+                        "offset": 2
+                    }
+                ],
+                "text": "📢 THÔNG BÁO GÂY SỐC: GPT-4.5 THẤT VỌNG VỀ MỌI MẶT!"
+            },
+            {
+                "__typename": "ComposedBlockquoteBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                "block_type": "BLOCKQUOTE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Mình tóm tắt lại video bằng Tiếng Việt nè 👇"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 22,
+                        "offset": 2
+                    }
+                ],
+                "text": "🔥 3 ĐIỂM CHÍNH CẦN BIẾT:"
+            },
+            {
+                "__typename": "ComposedOrderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                "block_type": "ORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 17,
+                        "offset": 0
+                    }
+                ],
+                "text": "Chi phí \"cắt c:ổ\" 💸 Bản nâng cấp đắt đỏ nhưng hiệu suất không tương xứng. Không cải tiến đáng kể so với GPT-4."
+            },
+            {
+                "__typename": "ComposedOrderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                "block_type": "ORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 20,
+                        "offset": 0
+                    }
+                ],
+                "text": "Hiệu năng \"lẹt đẹt\": 😩 Xử lý ngôn ngữ tự nhiên kém hơn mong đợi. Tốc độ phản hồi chậm hơn phiên bản cũ."
+            },
+            {
+                "__typename": "ComposedOrderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                "block_type": "ORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 16,
+                        "offset": 0
+                    }
+                ],
+                "text": "Bế tắc công nghệ 🚧 OpenAI có vẻ đang chậm lại trong đua AI. Dấu hiệu cho thấy AI đạt \"ngưỡng trần\" phát triển.\n"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 25,
+                        "offset": 2
+                    }
+                ],
+                "text": "💬 Tại sao bạn nên quan tâm?"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 18,
+                        "offset": 21
+                    }
+                ],
+                "text": "Nếu đang dùng GPT-4: KHÔNG CẦN nâng cấp!"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Nhà phát triển: Cân nhắc chi phí/tính năng kỹ hơn."
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Người dùng cuối: Đừng kỳ vọng \"bước nhảy vọt\"!"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fb_aio",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fb_aio",
+                            "__isNode": "Hashtag",
+                            "id": "8080904801977702"
+                        },
+                        "length": 7,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fb_aio"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 4,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 4,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1740801520000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1593976944590321",
+            "content_owner_id_new": "100004848287494",
+            "story_location": 9,
+            "story_attachment_style": "share",
+            "ent_attachement_type": "ExternalShareAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1593976944590321",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1740801520,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1593976944590321"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "url_id": "9645191758846699",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=ssbSOpTpI12gFNFnnz08AQ&_nc_ss=7a3a8&oh=00_Af3be9KfHdfIeFmz5z7aeLh4C-MFZGzZHqiDOXvgdvEyrg&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

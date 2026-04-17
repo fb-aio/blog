@@ -1,0 +1,120 @@
+{
+    "result": {
+        "id": "UzpfSTE2NTY1NzUwMzQ5OTcxNzg6Vks6MTY1NjU3NTAzNDk5NzE3OA==",
+        "post_id": "1656575034997178",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1656575034997178/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2872395699598678",
+                "url": "https://www.facebook.com/photo/?fbid=2872395699598678&set=gm.1656575034997178&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/514412156_2901360950035486_1425642211976797810_n.jpg?stp=dst-jpg_p1080x2048_tt6&_nc_cat=105&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=dH0Q5vHL9UQQ7kNvwEP4Ulq&_nc_oc=AdrFODpDF1R9F-9y6sINWa2d1SEkX_kD5__dcaooBoCQUMo11rk4XkRJaUjOinj_4tU&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=ZPeJ_VldRT4Hd2dqKU7-CA&_nc_ss=7a3a8&oh=00_Af3_zTyRGiPYJbZRuoH94epFAS2NHCoSn6jnZ93xZMU4HA&oe=69E76DD0",
+                "height": 2337,
+                "width": 1080,
+                "accessibility_caption": "Không có mô tả ảnh.",
+                "accent_color": "FFFFFFFF",
+                "real_width": 1284,
+                "real_height": 2778
+            },
+            "video": null
+        },
+        "text": "AI Pháp Luật 🤯 - Các Bác ở trên đang rất tích cực tích hợp AI vào mọi lĩnh vực đời sống 🤣💯🇻🇳🌟\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 9,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 6,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 3,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1748666224000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1656575034997178",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2872395699598678",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1748666224,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1656575034997178"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=ZPeJ_VldRT4Hd2dqKU7-CA&_nc_ss=7a3a8&oh=00_Af0CgOcx-dH4RsPOmliCeRPCLHSBrNS84UTses-sc5L8ag&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

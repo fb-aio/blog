@@ -1,0 +1,295 @@
+{
+    "result": {
+        "id": "UzpfSTE2MDgxOTM1NDk4MzUzMjc6Vks6MTYwODE5MzU0OTgzNTMyNw==",
+        "post_id": "1608193549835327",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1608193549835327/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2800132736824975",
+                "url": "https://www.facebook.com/photo/?fbid=2800132736824975&set=gm.1608193549835327&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/504700255_2879881308850117_7837805841974073779_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=lrCKMyeYnYoQ7kNvwFi4XgA&_nc_oc=AdrEJDrb_kWd32akh_y1TPPzVBqX865hVd3clNPccaHEiykMdud68pI-xu6kIbZ_ZQI&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=uS4UMnxj3zBx4TwaY9NQFw&_nc_ss=7a3a8&oh=00_Af0AMwYe5_cpexHTF38YrzFpkGqknp6NtMt7Ujzzxg5yfA&oe=69E775BE",
+                "height": 900,
+                "width": 405,
+                "accessibility_caption": "Có thể là hình ảnh về văn bản cho biết '10:47:44 13.0 I 17% NHẪN DIỆN BỞI TRUECALLER G Giả Dạng C.A C.A Cuộc gọi Tin Nhắn Lưu Chặn 024 7777 4054 Vietn am GOIMỘT GỢI MỘT TÊNPHÙ TÊNPHUHỢPHƠN HỢP HƠN Vietnam Lịch sử cuộc gọi 10:43 Cuộcgoiđen.0247774054 Cuộcgo gọi đên 0247777 4054 18s 10:42 1Cuộginhỡ goinhỡ 0247777 4054'",
+                "accent_color": "FF000000",
+                "real_width": 405,
+                "real_height": 900
+            },
+            "video": null
+        },
+        "text": "# A: Có phải anh Hoàng đang nghe máy không?\n* B: Ai vậy?\n* A: Chào anh Hoàng, tôi là trung uý  ̶N̶g̶u̶y̶ễ̶n̶ ̶T̶h̶à̶n̶h̶ ̶L̶u̶â̶n̶, đang công tác tại phòng điều tra tổng hợp ...\n* B: Tút tút tút ...\n\nNghe tới đó là mn cứ bấm nút đỏ, cho họ nghe tút tút là họ sẽ sợ không gọi nữa nhé. 😇\n\nChỉ cần nhớ 1 điều là: \n* Việc quan trọng không c.a nào làm việc qua điện thoại 🚫\n* Nếu cần thì cứ tới tận nhà bê đi 😂\n\n> Tiếc quá quên mở ghi âm 🤖\n\n#fb_aio",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "A: Có phải anh Hoàng đang nghe máy không?"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "B: Ai vậy?"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "A: Chào anh Hoàng, tôi là trung uý  ̶N̶g̶u̶y̶ễ̶n̶ ̶T̶h̶à̶n̶h̶ ̶L̶u̶â̶n̶, đang công tác tại phòng điều tra tổng hợp ..."
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "B: Tút tút tút ..."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 6,
+                        "offset": 25
+                    }
+                ],
+                "text": "Nghe tới đó là mn cứ bấm nút đỏ, cho họ nghe tút tút là họ sẽ sợ không gọi nữa nhé. 😇"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "\nChỉ cần nhớ 1 điều là: "
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 37,
+                        "offset": 16
+                    }
+                ],
+                "text": "Việc quan trọng không c.a nào làm việc qua điện thoại 🚫"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 11,
+                        "offset": 15
+                    }
+                ],
+                "text": "Nếu cần thì cứ tới tận nhà bê đi 😂\n"
+            },
+            {
+                "__typename": "ComposedBlockquoteBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                "block_type": "BLOCKQUOTE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Tiếc quá quên mở ghi âm 🤖"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fb_aio",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fb_aio",
+                            "__isNode": "Hashtag",
+                            "id": "8080904801977702"
+                        },
+                        "length": 7,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fb_aio"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 4,
+            "total_count": 9,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 15,
+            "top": [
+                {
+                    "id": "115940658764963",
+                    "count": 10,
+                    "name": "Haha"
+                },
+                {
+                    "id": "1635855486666999",
+                    "count": 5,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1742615292000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1608193549835327",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2800132736824975",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1742615292,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1608193549835327"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=uS4UMnxj3zBx4TwaY9NQFw&_nc_ss=7a3a8&oh=00_Af24ickUZ0SKySsK35cpW51HL9Z5KuX6rWiQHJ4D1EROpA&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

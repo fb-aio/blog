@@ -1,0 +1,325 @@
+{
+    "result": {
+        "id": "UzpfSTE1MDU3Mzg1NjAwODA4Mjc6Vks6MTUwNTczODU2MDA4MDgyNw==",
+        "post_id": "1505738560080827",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1505738560080827/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2666184000219850",
+                "url": "https://www.facebook.com/photo/?fbid=2666184000219850&set=gm.1505738560080827&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/502549802_2874317899406458_4865403601893524472_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=NugVzQN2x-MQ7kNvwFKqADe&_nc_oc=Adpo092NKKDG1b0WJTxtpJDzv6XrihKa2eWmPn1No96TnrKNa1vahUWeQAS67alfD3o&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=YJ1vH93nhvFo5wOS1IFa-A&_nc_ss=7a3a8&oh=00_Af353NoIoOF6nMtrS87S9Pre8AsuO4QoZJPBfO8f03xK2A&oe=69E77812",
+                "height": 787,
+                "width": 692,
+                "accessibility_caption": "Có thể là hình ảnh về điện thoại và văn bản",
+                "accent_color": "FFFFFFFF",
+                "real_width": 692,
+                "real_height": 787
+            },
+            "video": null
+        },
+        "text": "# FB AIO thuộc top 17 tiện ích được Xếp hạng cao nhất\n\nTừ lúc có mặt trên webstore hôm **27/8**, tới giờ là được đúng** 7 7 49 ngày **🤣\n\nTrong mục Công cụ, sắp xếp theo Xếp hạng cao nhất, mn sẽ thấy FB AIO ở vị trí 17, và đang tăng dần xếp hạng mỗi ngày 👀\n\nLúc đầu cũng vui, nhưng xem thử mấy tiện ích đứng đầu, toàn là **chạy bot **để viết **review ảo** 😂 ví dụ top 1 có **1000 lượt tải **mà được tận **500 review,** vô đọc review toàn **tiếng anh,** và nghe **giống chatgpt **hơn là người viết. 🫥\n\nĐúng là giờ nhiều chiêu trò câu khách, riêng **FB AIO toàn người thật review thật** nha mn 🫶\n\nMọi người vô review FB AIO để được 2 tuần VIP nha kkk 😁",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 6,
+                        "offset": 13
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 17,
+                        "offset": 34
+                    }
+                ],
+                "text": "FB AIO thuộc top 17 tiện ích được Xếp hạng cao nhất"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 4,
+                        "offset": 32
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 13,
+                        "offset": 58
+                    }
+                ],
+                "text": "Từ lúc có mặt trên webstore hôm 27/8, tới giờ là được đúng 7 7 49 ngày 🤣"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Trong mục Công cụ, sắp xếp theo Xếp hạng cao nhất, mn sẽ thấy FB AIO ở vị trí 17, và đang tăng dần xếp hạng mỗi ngày 👀"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 9,
+                        "offset": 63
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 9,
+                        "offset": 80
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 14,
+                        "offset": 107
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 11,
+                        "offset": 133
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 10,
+                        "offset": 164
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 14,
+                        "offset": 183
+                    }
+                ],
+                "text": "Lúc đầu cũng vui, nhưng xem thử mấy tiện ích đứng đầu, toàn là chạy bot để viết review ảo 😂 ví dụ top 1 có 1000 lượt tải mà được tận 500 review, vô đọc review toàn tiếng anh, và nghe giống chatgpt hơn là người viết. 🫥"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 34,
+                        "offset": 45
+                    }
+                ],
+                "text": "Đúng là giờ nhiều chiêu trò câu khách, riêng FB AIO toàn người thật review thật nha mn 🫶"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Mọi người vô review FB AIO để được 2 tuần VIP nha kkk 😁"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 1,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 22,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 16,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 4,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 2,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1728961192000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1505738560080827",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2666184000219850",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1728961192,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1505738560080827"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=YJ1vH93nhvFo5wOS1IFa-A&_nc_ss=7a3a8&oh=00_Af0sL2rK94Y0atC-UIPzmY4CDZW-u0xC5DpG4tL8_NuvyQ&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

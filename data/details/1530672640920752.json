@@ -1,0 +1,259 @@
+{
+    "result": {
+        "id": "UzpfSTE1MzA2NzI2NDA5MjA3NTI6Vks6MTUzMDY3MjY0MDkyMDc1Mg==",
+        "post_id": "1530672640920752",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1530672640920752/",
+        "media": {
+            "mediaset_token": "pcb.1530672640920752",
+            "subAttachments": [
+                {
+                    "id": "2702230589948524",
+                    "url": "https://www.facebook.com/photo.php?fbid=2702230589948524&set=gm.1530672644254085&type=3",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/504513014_2879140582257523_6854556256079430982_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=P1_EQ4r1WEoQ7kNvwF-qf2E&_nc_oc=AdrbiZNcF1uulHA8-HLgVTDcyuj9dzszUMb0B0fdnkBSgSbTotmI6UcT08WT7T0OrUw&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=dBgwrClwiFe6L-YQTJv2EQ&_nc_ss=7a3a8&oh=00_Af2J3vmnK4BOa90qCxRvkltllyUupUSIqqkYn0y3kGzydQ&oe=69E74ACB",
+                    "height": 205,
+                    "width": 717,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                    "real_width": 717,
+                    "real_height": 205
+                },
+                {
+                    "id": "2702231799948403",
+                    "url": "https://www.facebook.com/photo.php?fbid=2702231799948403&set=gm.1530672637587419&type=3",
+                    "uri": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/503819175_2879141022257479_591796441601411933_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=0TQ7z_RV6KwQ7kNvwG-bFtM&_nc_oc=AdqAmJ0ea4omp9rfbhFWdrluc34HY6UZ7Vcny0IlxM_CsEzK-DCiWKtw5srAm55Nw-8&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=dBgwrClwiFe6L-YQTJv2EQ&_nc_ss=7a3a8&oh=00_Af1-Km7_kjFIwwA18LU9jj7XGeaYrYQB1IMQED8wLu751A&oe=69E74660",
+                    "height": 905,
+                    "width": 1108,
+                    "accessibility_caption": "Có thể là hình ảnh về ‎văn bản cho biết '‎Tai Hàng Loạt f Facebook O Instagram Mới Threads 100004848287494 a HoangTran Lượttag C Ảnh Video Albums c Reels a Tảithêm Thích bái 山 Xuất 25 Nhóm MỚI của Hoang Tran? Người tag Check in Nội dung HàQuangMinhĐü BuiNam caidanhglacuaem 1 đánh Thời gian nhà thêm người VUHoangAnh Hành động ውድ 1ngày 19:0820/11/2024 Ibanh 乙 4ngày- 4ngày-11:2518/11/2024 11:251 11:2518/11/2024 ok inboxnhé he HoangTran 4ngày 10:59 18/11/2024 TháiBinhNguyễn 4ngày Làmquenvdidinguquahtwenca quản 0:24 18/11/2024 ૯ nhân TháiBinhNguyễn 00049880407 chắc sao cùng ีา 4ngày 9:31 18/11/2024 ip L TânNguyễn nàytilęcaophisingr:)) cac hisingr:)) 4ngày 8:37 18/11/2024 قا 4ngày 8:34 18/11/2024 L‎'‎",
+                    "real_width": 1108,
+                    "real_height": 905
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# 🚨Thông báo: api lấy token đang lỗi\n> **Cập nhật**: Đã fix xem Lượt Tag lúc 18h 22/11\n\nNên các chức năng sau hiện tại không ổn định (lỗi ngẫu nhiên tuỳ nick)\n1. Lọc bạn bè > chức năng **quét like/comment** bài viết  \n2. T.ải hàng loạt > chức năng **xem lượt tag**\n3. T.ải hàng loạt > chức năng **xem album** của **group\n**\n\nAdmin đang cố hết sức tìm cách fix nha mn 🥹",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "🚨Thông báo: api lấy token đang lỗi"
+            },
+            {
+                "__typename": "ComposedBlockquoteBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                "block_type": "BLOCKQUOTE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 8,
+                        "offset": 0
+                    }
+                ],
+                "text": "Cập nhật: Đã fix xem Lượt Tag lúc 18h 22/11"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 13,
+                        "offset": 31
+                    }
+                ],
+                "text": "Nên các chức năng sau hiện tại không ổn định (lỗi ngẫu nhiên tuỳ nick)"
+            },
+            {
+                "__typename": "ComposedOrderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                "block_type": "ORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 17,
+                        "offset": 23
+                    }
+                ],
+                "text": "Lọc bạn bè > chức năng quét like/comment bài viết  "
+            },
+            {
+                "__typename": "ComposedOrderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                "block_type": "ORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 12,
+                        "offset": 27
+                    }
+                ],
+                "text": "T.ải hàng loạt > chức năng xem lượt tag"
+            },
+            {
+                "__typename": "ComposedOrderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                "block_type": "ORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 9,
+                        "offset": 27
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 6,
+                        "offset": 41
+                    }
+                ],
+                "text": "T.ải hàng loạt > chức năng xem album của group\n"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Admin đang cố hết sức tìm cách fix nha mn 🥹"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 4,
+            "total_count": 5,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 10,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 10,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1732250912000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1530672640920752",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2702230589948524",
+                "2702231799948403"
+            ],
+            "photo_id": "2702230589948524",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1732250912,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1530672640920752"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=dBgwrClwiFe6L-YQTJv2EQ&_nc_ss=7a3a8&oh=00_Af3CCKTErDxrcDUL4lZtdhtd7Em3W1qSW1Pd9l_jxvD_1g&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

@@ -1,0 +1,227 @@
+{
+    "result": {
+        "id": "UzpfSTE2NjI5MzAyMTc2OTQ5OTM6Vks6MTY2MjkzMDIxNzY5NDk5Mw==",
+        "post_id": "1662930217694993",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1662930217694993/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "AI sắp xâm chiếm trái đất 🌏\nCũng là AI: 🐧\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 3,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 8,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 7,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1749457594000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1662930217694993",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "702224232416454",
+            "original_content_owner_id": "100078866492608",
+            "page_id": "110720714804636",
+            "photo_id": "702224155749795",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "100078866492608": {
+                    "page_id": "100078866492608",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100078866492608",
+                        "page_id_type": "page",
+                        "actor_id": "100078866492608",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1749290427,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "702224232416454"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1662930217694993",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100078866492608",
+                            "post_id": "702224232416454",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "702224232416454",
+                        "sharedMediaID": "1662930217694993",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1749457594,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1662930217694993"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=SK2iQx6-YURszZaldH_i8Q&_nc_ss=7a3a8&oh=00_Af1PvQo8Wf2uggB5W6Cge_JysCT3dDQ-y3Yg5YlyJxQL4A&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA3ODg2NjQ5MjYwODo3MDIyMjQyMzI0MTY0NTQ6NzAyMjI0MjMyNDE2NDU0",
+            "post_id": "702224232416454",
+            "url": "https://www.facebook.com/kienkhongngu.vn/posts/pfbid0LHBxCjRVwCGxjd5D7srhcFBtwpEiUsq7xiSGtegZQ8sJYpVXLDXMxN9HVfQCTREvl",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "702224155749795",
+                    "url": "https://www.facebook.com/photo/?fbid=702224155749795&set=a.183686904270192",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/505205698_702224159083128_3144321266292367108_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=nGGvi8OGYcYQ7kNvwEG-g7z&_nc_oc=AdrgZFiT9Bk7EOn83bTybziZzSZtoKc4SbXfmyKYXFRFduPlgYWGVYF_5jSQ10Oy6to&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=SK2iQx6-YURszZaldH_i8Q&_nc_ss=7a3a8&oh=00_Af2F6F_SzBNSl-uMVPyxA1w7C0n-L4ZwO-JP3hVl0MKvew&oe=69E78376",
+                    "height": 648,
+                    "width": 1327,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FF1C2533",
+                    "real_width": 1327,
+                    "real_height": 648
+                },
+                "video": null
+            },
+            "text": "TẾU VÃI: ẢNH AI TẠO RA CÓ XU HƯỚNG NGÀY CÀNG CÓ TONE MÀU VÀNG VÀNG =))))\n\nNhiều người cho rằng vấn đề là do con AI nó đang \"luận loan\" với chính nó. \n\nBình thường thì mấy con AI sẽ \"hốc\" dữ liệu từ tranh, ảnh trên mạng để huấn luyện cho mình và vì cái trend \"tạo ảnh AI theo phong cách Ghibli\" trước đó quá bùng nổ... mà ảnh AI tạo ra từ trend này nó lại cứ vàng vàng 😃 \n\nThành ra cái con AI nó lại dùng chính cái tranh vàng vàng mà nó đã tạo ra để \"hốc\", dần dần tranh nào về sau nó tạo ra cũng có xu hướng vàng vàng hay mang sắc thái vàng. \n\nNghe hơi ảo ma. \n\nNhưng hiện tại đã có người phải tạo ra công cụ để sửa lại ảnh AI cho nó bớt vàng đi 🤡",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Kiến Không Ngủ",
+                    "id": "100078866492608",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/kienkhongngu.vn",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1749290427000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

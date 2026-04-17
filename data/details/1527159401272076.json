@@ -1,0 +1,72 @@
+{
+    "result": {
+        "id": "UzpfSTE1MjcxNTk0MDEyNzIwNzY6Vks6MTUyNzE1OTQwMTI3MjA3Ng==",
+        "post_id": "1527159401272076",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1527159401272076/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": null,
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "name": "Hoang Tran",
+                "id": "100004848287494",
+                "__isActor": "User",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran",
+                "work_foreign_entity_info": null,
+                "work_info": null
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 0,
+            "top": []
+        },
+        "shares": null,
+        "created_time": 1731768709000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1527159401272076",
+            "content_owner_id_new": "100004848287494",
+            "story_location": 9,
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494"
+        },
+        "posted_to": {
+            "type": null,
+            "id": null,
+            "url": null,
+            "name": null,
+            "avatar": null
+        },
+        "attached_post": null
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "result": {
+        "id": "UzpfSTE3NTE1NDUwMDIxNjY4NDc6Vks6MTc1MTU0NTAwMjE2Njg0Nw==",
+        "post_id": "1751545002166847",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1751545002166847/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2997859003719013",
+                "url": "https://www.facebook.com/photo/?fbid=2997859003719013&set=gm.1751545002166847&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/558831570_2997859007052346_8743730296392645930_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=5e6TYYNyoLYQ7kNvwEEfb8C&_nc_oc=AdpyEBBglIOJbGuqI3yFZt7Jx8bXBsI6zhIgl5Tj46QN5lns2ZSAnDqyk-pgWY93s7w&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=-0EtqMHpXxTPdNi8Dg9ydw&_nc_ss=7a3a8&oh=00_Af0rkP6QxymUcMwjmHxEM556046D3dGEbvNB74U8jZYy3g&oe=69E77FA2",
+                "height": 1397,
+                "width": 875,
+                "accessibility_caption": "Không có mô tả ảnh.",
+                "accent_color": "FF000000",
+                "real_width": 875,
+                "real_height": 1397
+            },
+            "video": null
+        },
+        "text": "Mình chỉ làm công cụ hữu ích\n\nCòn dùng với mục đích tốt hay xấu, mọi người tự chịu trách nhiệm nha 🐧\n\n#fb_aio",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 7,
+            "total_count": 11,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 33,
+            "top": [
+                {
+                    "id": "115940658764963",
+                    "count": 20,
+                    "name": "Haha"
+                },
+                {
+                    "id": "1635855486666999",
+                    "count": 9,
+                    "name": "Thích"
+                },
+                {
+                    "id": "908563459236466",
+                    "count": 3,
+                    "name": "Buồn"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1759729799000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1751545002166847",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2997859003719013",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1759729799,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1751545002166847"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=-0EtqMHpXxTPdNi8Dg9ydw&_nc_ss=7a3a8&oh=00_Af23027W5Pi86fv_65fPm0jSiKyTkxAQUQ0xmrN0EFdHGg&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

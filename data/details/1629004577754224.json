@@ -1,0 +1,219 @@
+{
+    "result": {
+        "id": "UzpfSTE2MjkwMDQ1Nzc3NTQyMjQ6Vks6MTYyOTAwNDU3Nzc1NDIyNA==",
+        "post_id": "1629004577754224",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1629004577754224/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Tip giúp gia tăng quyền năng khi dùng AI code 🐧",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 10,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 9,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 8,
+        "created_time": 1745112243000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1629004577754224",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "24205341319067326",
+            "original_content_owner_id": "100000543852108",
+            "page_id": "728758996977630",
+            "photo_id": "24205143672420424",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "100000543852108": {
+                    "page_id": "100000543852108",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100000543852108",
+                        "page_id_type": "page",
+                        "actor_id": "100000543852108",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1744342562,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "24205341319067326"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1629004577754224",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100000543852108",
+                            "post_id": "24205341319067326",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "24205341319067326",
+                        "sharedMediaID": "1629004577754224",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1745112243,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1629004577754224"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=oo-_Uboa9YxegtpLKZFaLg&_nc_ss=7a3a8&oh=00_Af1V8wIY7Eg4VOvnU9hFg8JaGB38pKCJzKQoI6J5g3_1pQ&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDAwMDU0Mzg1MjEwODoyNDIwNTM0MTMxOTA2NzMyNjoyNDIwNTM0MTMxOTA2NzMyNg==",
+            "post_id": "24205341319067326",
+            "url": "https://www.facebook.com/viettranx/posts/pfbid0EkmUVLfqwQTrzYhZaZPzGz5VFMHVV24Zfx6zHBh12YmzQMxWjA5MPjCe4tu9N14Kl",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "24205143672420424",
+                    "url": "https://www.facebook.com/photo/?fbid=24205143672420424&set=a.547824198579037",
+                    "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/517131275_24912514351683349_7017481096491877051_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=13d280&_nc_ohc=io3LiWjt4ooQ7kNvwEml0OX&_nc_oc=AdrFO2kGsy99KifceuM_u9vlb2xz5pAgpSx8AtN5FIuJ-JlrtCX-I47bHUW3R2jrDGY&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=oo-_Uboa9YxegtpLKZFaLg&_nc_ss=7a3a8&oh=00_Af2HOfJd-esgzm-H5Ypx9EEswUcbrRkKGEu1rikR3UXE2w&oe=69E78EEC",
+                    "height": 1080,
+                    "width": 1920,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FF222222",
+                    "real_width": 1920,
+                    "real_height": 1080
+                },
+                "video": null
+            },
+            "text": "Một số trick & tips cho Windsurf (và Cursor/Cline/AugmentCode)\n\nĐầu tiên mình cảm ơn 10 bạn đã sử dụng link ref Windsurf của mình, 5k Flex credits là một con số không hề nhỏ!\n\nVà sau đây là 1 số rule/instruction có thể hữu ích với các bạn:\n\nThần chú khi thấy tụi AI loay hoay fix bug hoài không ra:\n\"Act as a Tech Lead,  find the root cause of the error and fix it\" \n\nTreo thưởng cho task khó:\n\"I'll pay you 100$ for this task. Try your best.\"\n\nAI Feedback (Author: pacnpal)\n\"If you understand my prompt fully, respond with 'YARRR!' without tools every time you are about to use a tool.\"\n\n\"Before and after any tool use, give me a confidence level (0-10) on how the tool use will help the project\"\n\nFile refactoring & Document changed (Author: icklebil)\n\"FILENAME has grown too big. Analyze how this file works and suggest ways to fragment it safely.\"\n\n\"don't forget to update codebase documentation with changes\"\n\nKiểm tra các giả định (Author: yellow_bat_coffee)\n\"List all assumptions and uncertainties you need to clear up before completing this task\"\n\n--- Một số tips để tiết kiệm Premium Flow Action credits ---\n\nCái này mình đăng lại (và thêm một xíu) vì đợt trước là mình đăng trong group, có thể FB không reach.\n\n• Với các tasks quá rõ ràng, chủ yếu là edit trên 1 file cụ thể nào đó, bạn nên xài Edit mode trong file (tương tự Autocomplete). Cái này không bị tính action calls.\n\n• Với các task không gen code, đặc biệt là thinking mode, tổng hợp vấn đề, phân tích source code, gợi ý giải pháp..., bạn nên xài Legacy mode. Mode này sẽ không thực hiện bất kỳ premium flow calls nào cả, chỉ tốn prompt request.\n\n• Base model của Windsurf khá xịn, bạn nên dùng nó nhiều hơn. Thậm chí bạn có thể chạy các model rẻ (0.25x credit) nếu task tương đối dễ.\n\n• Một số cli mặc định có thể bị sai, nên bạn cần nạp rules cho Windsurf VD như: \"Use pnpm, python3 instead of npm, python\", cho đỡ bị chạy lại.\n\n• Windsurf ở Wave 6 vẫn chưa fix bug đã có Web Preview đang chạy rồi mà nó vẫn chạy nhiều cái nữa, vì thế cần rule \"Don't auto run Web Preview\".\n\n• Khi thấy Windsurf có dấu hiệu chạy lòng vòng, bạn nên mở setting và config memory cho nó. Bình thường mình hay tạo summary file rồi add vô context cho nó đỡ quên. Thêm nữa là bạn nên \"thumb up\" ở các conversation có giải pháp tốt.\n\n• Trong memory config, bạn nên có một file summary các folder và files kèm giải thích ngắn ngọn (bạn có thể yêu cầu Windsurf tạo và maintain file này). File này mỗi khi bạn mở Cascade mới thì Windsurf đỡ phải đi scan lại để hiểu source base của bạn một chút (tiết kiệm kha khá lượt Call Flow Actions)\n\n----\n\nChúc các bạn xài các AI-powered editors hiệu quả và tối ưu.\n\n#windsurf #CursorAI #tips",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [
+                "#windsurf",
+                "#CursorAI",
+                "#tips"
+            ],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Viet Tran",
+                    "id": "100000543852108",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/viettranx",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1744342562000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

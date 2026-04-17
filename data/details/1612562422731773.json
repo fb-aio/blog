@@ -1,0 +1,215 @@
+{
+    "result": {
+        "id": "UzpfSTE2MTI1NjI0MjI3MzE3NzM6Vks6MTYxMjU2MjQyMjczMTc3Mw==",
+        "post_id": "1612562422731773",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1612562422731773/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Tác dụng mới của AI 🐧",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 7,
+            "top": [
+                {
+                    "id": "115940658764963",
+                    "count": 5,
+                    "name": "Haha"
+                },
+                {
+                    "id": "1635855486666999",
+                    "count": 2,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1743166468000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1612562422731773",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1112578427562982",
+            "original_content_owner_id": "100064325064331",
+            "page_id": "108804609142280",
+            "photo_id": "1112578400896318",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "100064325064331": {
+                    "page_id": "100064325064331",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100064325064331",
+                        "page_id_type": "page",
+                        "actor_id": "100064325064331",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1743128127,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1112578427562982"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1612562422731773",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100064325064331",
+                            "post_id": "1112578427562982",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1112578427562982",
+                        "sharedMediaID": "1612562422731773",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1743166468,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1612562422731773"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=0hrDVMooBAj6NACW-e-xcg&_nc_ss=7a3a8&oh=00_Af3MeBvKuEWKps0m_xyH-UaG0cWrky08BzlymmesecaE9Q&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA2NDMyNTA2NDMzMToxMTEyNTc4NDI3NTYyOTgyOjExMTI1Nzg0Mjc1NjI5ODI=",
+            "post_id": "1112578427562982",
+            "url": "https://www.facebook.com/CafeF/posts/pfbid02GcEEGJnpBXC3stDZPYinsRbdGxcAHgaLNq1vNudRCd6qfRLcjcNAfcyoZM9Gmkaql",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "1112578400896318",
+                    "url": "https://www.facebook.com/photo/?fbid=1112578400896318&set=a.632860208868142",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/493733126_1137767891710702_3104285299591636747_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=7b2446&_nc_ohc=-XQ6FUipCOoQ7kNvwEZygEC&_nc_oc=Adqupgwc5XykLbf1os50xJBRSgwECtIOhuM_c_w92oDlbt7svSye0hr3tujkTapNwvk&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=0hrDVMooBAj6NACW-e-xcg&_nc_ss=7a3a8&oh=00_Af1e5Bct_4pcyBc_adFs9hwE9MYotIuLZJ_MkR30MyLlUw&oe=69E768C0",
+                    "height": 900,
+                    "width": 520,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản cho biết 'ChatGPT ๑ Chồng tôi nói cục màu đen này mua 2 triệu có đúng không? Đây là kính Sony FE E24-70mm f/2.8 GM II, thuộc dòng G Master cao cấp của Sony. Giá của nó không phải 2 triệu mà thường dao động khoảng 40-50 triệu VNĐ tùy nơi bán. Nếu chồng bạn nói 2 triệu thì chắc chỉ là cái nắp che bụi thôi! Hỏi bất kỳ điều gì +0... +'",
+                    "accent_color": "FF202020",
+                    "real_width": 520,
+                    "real_height": 900
+                },
+                "video": null
+            },
+            "text": "Tôi là nạn nhân của AI 🤣\n\nẢnh: j2team",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "CafeF",
+                    "id": "100064325064331",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/CafeF",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1743128127000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

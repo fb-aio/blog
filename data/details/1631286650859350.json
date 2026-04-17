@@ -1,0 +1,160 @@
+{
+    "result": {
+        "id": "UzpfSTE2MzEyODY2NTA4NTkzNTA6Vks6MTYzMTI4NjY1MDg1OTM1MA==",
+        "post_id": "1631286650859350",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1631286650859350/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2834023876769194",
+                "url": "https://www.facebook.com/photo/?fbid=2834023876769194&set=gm.1631286650859350&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/504974475_2880463125458602_5869331472688268703_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=a4ViHJDJHyQQ7kNvwFD6LOy&_nc_oc=Adrp2HVTiQUDoUGMmpmVjr0h8DcvgXlc2AAFXRUxFwsjkyBqzAiDFRN9mqER3RPMEMA&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=5red-BHnrnetQ9848foDSQ&_nc_ss=7a3a8&oh=00_Af3I5c2FYfpkwYzcIUVb3FuBpFicD9YyxHkr2kIMXaOAhQ&oe=69E78A0F",
+                "height": 2400,
+                "width": 1080,
+                "accessibility_caption": "Có thể là hình ảnh về ‎điện thoại và ‎văn bản cho biết '‎13:44:16 5.00 75% Jiwon (지원) last seen lastseenrecently recently ADD BLOCK BLOCKUSER USER Jiwon (지원) Not contact Phone number =ئ Togo Registration July 2023 Not an official accour User updated photo a day ago User updated name a month ago April 23 Sorry, anh Vũ phải không 12:42 Ko phải b 13:25 Oh xin lỗi bạn, có lẽ tôi lưu nhầm số điện thoại, tôi đang có định đi du lịch Việt Nam nên vô tình gửi nhầm tin nhắn cho bạn 13:42 Message‎'‎‎",
+                "accent_color": "FF131B28",
+                "real_width": 1080,
+                "real_height": 2400
+            },
+            "video": null
+        },
+        "text": "# Chỉ với 2 câu chat, theo bạn đây có phải đào lửa không 🔥🤔😁\n\n#fb_aio",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Chỉ với 2 câu chat, theo bạn đây có phải đào lửa không 🔥🤔😁\n"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "#fb_aio"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 11,
+            "total_count": 17,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 26,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 14,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 11,
+                    "name": "Haha"
+                },
+                {
+                    "id": "908563459236466",
+                    "count": 1,
+                    "name": "Buồn"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1745390722000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1631286650859350",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2834023876769194",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1745390722,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1631286650859350"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=5red-BHnrnetQ9848foDSQ&_nc_ss=7a3a8&oh=00_Af2uXikOxAQdUCyH03UgwnL8u6DzeevI76Xp9v9f49evmg&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

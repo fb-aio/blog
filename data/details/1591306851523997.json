@@ -1,0 +1,276 @@
+{
+    "result": {
+        "id": "UzpfSTE1OTEzMDY4NTE1MjM5OTc6Vks6MTU5MTMwNjg1MTUyMzk5Nw==",
+        "post_id": "1591306851523997",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1591306851523997/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2775999845904931",
+                "url": "https://www.facebook.com/photo/?fbid=2775999845904931&set=gm.1591306851523997&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/504649914_2879721988866049_1082958068636109390_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=TpChyrlbzxsQ7kNvwFJ9CD2&_nc_oc=AdrMuz1aSSXIIYpGrrG3XL-k6_pwIJUOwOCcBf6H3ueEIwJwDLb7CkrIrxe4numWYt0&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=eR8JiS0rvt-_XkNEMLUDyA&_nc_ss=7a3a8&oh=00_Af0DmImLDz-kLCe5UNmOf_JGF3gN3yNtoYgmzPQu8buB7A&oe=69E77DE0",
+                "height": 995,
+                "width": 1208,
+                "accessibility_caption": "Có thể là hình ảnh về văn bản cho biết 'F Trangchũ Irang HangLoạt Hot VIP Hoang Tran 10000484B207494 Hot TMxK Thanh toán ©Khamphá ีอก MỠ asa au Cách DonFacebook hanh Μό app ngân hàng và quét công Tiệnch QR Cách Cửahàng SePay Chuyến khoản theo thông tin Mua VPBank Ngân hàng: VPBank Moi STK: Hưỡngdẩn Mdi 0765423185 FAQ L Chủ khoản Trăn Vän Hoàng ្រ 5ốtiên: VND 247 VPBank lung IETOR VIP100004848287494 TăiănhQR Trạnghái Chothanhtoan hanh nội P100004848287494 thông nhận thanh toán Thủ công Các phương thức dưỡidã Vui lònggủ hình chụp hưa Tên ĐỘNG ĐỘNGVIP Admi đểđượcmVIP Thông tin QR Code ©2025 Cretead'",
+                "accent_color": "FF000000",
+                "real_width": 1208,
+                "real_height": 995
+            },
+            "video": null
+        },
+        "text": "# FB AIO: Tích hợp Thanh toán Tự động 💎\n\nTừ giờ mọi người có thể thanh toán để mở khoá VIP tự động rồi nhé.\n* Hỗ trợ chuyển từ mọi ngân hàng / ví điện tử 🤖\n* Hỗ trợ mở VIP cho tài khoản fb bất kỳ 🥳\n* Hỗ trợ chọn số lượng tháng muốn nâng VIP 🌟\n* Thanh toán xong sẽ được nâng VIP tự động, không cần nhắn tin báo admin nữa 🫶\n\n> Nếu mn có nhu cầu khác, ví dụ nâng VIP cho nhiều nick fb, VIP trọn đời, ... thì cứ nhắn mình nhé 👀\n\n#fb_aio",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "FB AIO: Tích hợp Thanh toán Tự động 💎"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 10,
+                        "offset": 24
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 19,
+                        "offset": 38
+                    }
+                ],
+                "text": "Từ giờ mọi người có thể thanh toán để mở khoá VIP tự động rồi nhé."
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Hỗ trợ chuyển từ mọi ngân hàng / ví điện tử 🤖"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Hỗ trợ mở VIP cho tài khoản fb bất kỳ 🥳"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Hỗ trợ chọn số lượng tháng muốn nâng VIP 🌟"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Thanh toán xong sẽ được nâng VIP tự động, không cần nhắn tin báo admin nữa 🫶\n"
+            },
+            {
+                "__typename": "ComposedBlockquoteBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                "block_type": "BLOCKQUOTE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Nếu mn có nhu cầu khác, ví dụ nâng VIP cho nhiều nick fb, VIP trọn đời, ... thì cứ nhắn mình nhé 👀"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fb_aio",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fb_aio",
+                            "__isNode": "Hashtag",
+                            "id": "8080904801977702"
+                        },
+                        "length": 7,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fb_aio"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 6,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 11,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 9,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 2,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1740456553000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1591306851523997",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2775999845904931",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1740456553,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1591306851523997"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=eR8JiS0rvt-_XkNEMLUDyA&_nc_ss=7a3a8&oh=00_Af1VovJSO7xlgoJkH1T5W8g2z2EyBGVLsgLfLXfJSUO9jg&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

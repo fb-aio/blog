@@ -1,0 +1,241 @@
+{
+    "result": {
+        "id": "UzpfSTE2OTcxNTIxOTQyNzI3OTU6Vks6MTY5NzE1MjE5NDI3Mjc5NQ==",
+        "post_id": "1697152194272795",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1697152194272795/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Phá kỷ lục của giải PNC (PUBG Nations Cup) cùng đội tuyển Việt Nam, tiện tay nâng luôn chiếc cup vô địch 💗",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100009820695732",
+                "name": "Hoàng Hào",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/kemsadboiz"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 1,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 1,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1753651955000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1697152194272795",
+            "content_owner_id_new": "100009820695732",
+            "original_content_id": "1060261092977701",
+            "original_content_owner_id": "100069814602640",
+            "page_id": "1109467198906183",
+            "photo_id": "1060260826311061",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "100009820695732": {
+                    "page_id": "100009820695732",
+                    "page_id_type": "page",
+                    "actor_id": "100009820695732",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1060261092977701",
+                        "sharedMediaID": "1697152194272795",
+                        "sharedMediaOwnerID": "100009820695732"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1753622551,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1697152194272795"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100009820695732",
+                            "page_id": "100009820695732",
+                            "post_id": "1697152194272795",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "100069814602640": {
+                    "page_id": "100069814602640",
+                    "page_id_type": "page",
+                    "actor_id": "100009820695732",
+                    "attached_story": {
+                        "page_id": "100069814602640",
+                        "page_id_type": "page",
+                        "actor_id": "100069814602640",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1753620814,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1060261092977701"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1697152194272795",
+                        "sharedMediaOwnerID": "100009820695732"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100009820695732",
+                            "page_id": "100069814602640",
+                            "post_id": "1060261092977701",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100009820695732",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1060261092977701",
+                        "sharedMediaID": "1697152194272795",
+                        "sharedMediaOwnerID": "100009820695732"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1753622551,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1697152194272795"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100009820695732",
+            "actrs": "100009820695732",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=Q8dM5pPIISd2WlWRX1ggvQ&_nc_ss=7a3a8&oh=00_Af04YTNJjKxKLI9r9Ruxr_PLkjaIqX6qDf4-dh46V55Lqw&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA2OTgxNDYwMjY0MDoxMDYwMjYxMDkyOTc3NzAxOjEwNjAyNjEwOTI5Nzc3MDE=",
+            "post_id": "1060261092977701",
+            "url": "https://www.facebook.com/pubg.battlegrounds.vietnam/posts/pfbid0277bHbh4FBSqvgCQxnJHqHbhKuuDmfefqfAmkQebTjftzSTBYXcbfTRnsPcEX7b31l",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "1060260826311061",
+                    "url": "https://www.facebook.com/photo/?fbid=1060260826311061&set=a.558608733142942",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/524372301_1060260832977727_3668483978529454278_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=kWb8qG2_PsMQ7kNvwHxwPdn&_nc_oc=AdqHE16vLi4F_p0KlBROkMZi2n2Wb4fzM0Nwo1xOlZUFJqqOyCgTBet17X12n8GZgwk&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=Q8dM5pPIISd2WlWRX1ggvQ&_nc_ss=7a3a8&oh=00_Af3BAD7WoUCoON_PC73PUdS6fg2XvLf5UUYHQhOcYRO-Pg&oe=69E78C75",
+                    "height": 1400,
+                    "width": 1000,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FF000000",
+                    "real_width": 1000,
+                    "real_height": 1400
+                },
+                "video": null
+            },
+            "text": "🏆 🇻🇳 VIỆT NAM LÀ NHÀ VÔ ĐỊCH PUBG NATIONS CUP 2025.\n\n💵 Team 🇻🇳 Việt Nam sẽ mang về 150,000 USD (~3.92 Tỷ VNĐ) + Crowdfunding.\n\n❤️ Lần đầu tiên trong lịch sử PUBG Nations Cup, lá cờ đỏ sao vàng kiêu hãnh tung bay trên bục cao nhất thế giới — nơi mà giấc mơ của hàng triệu người hâm mộ PUBG Việt Nam nay đã trở thành hiện thực!\n\n❤️ Với đội hình mạnh nhất lịch sử PNC:\n🇻🇳 HLV DjChip\n🇻🇳 Himass\n🇻🇳 TanVuu\n🇻🇳 Delwyn\n🇻🇳 Sololzy\n\n❤️ Đây không chỉ là chiến thắng của 5 con người, mà là chiến thắng của niềm tin, của khát vọng và của hàng triệu trái tim fan PUBG Việt Nam! 🇻🇳 Tự hào hát mãi lên Việt Nam ơi!",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "PUBG: BATTLEGROUNDS",
+                    "id": "100069814602640",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/pubg.battlegrounds.vietnam",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1753620814000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "result": {
+        "id": "UzpfSTE1Nzg3NjI5MjYxMTE3MjM6Vks6MTU3ODc2MjkyNjExMTcyMw==",
+        "post_id": "1578762926111723",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1578762926111723/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2760003380837911",
+                "url": "https://youtube.com/watch?v=88bMVbx1dzM",
+                "uri": "https://external.fsgn2-9.fna.fbcdn.net/emg1/v/t13/5241411318857353035?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F88bMVbx1dzM%2Fmaxresdefault.jpg&fb_obo=1&utld=ytimg.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p1000x522_q75_tt6&_nc_gid=EKKeZScwsGDcYezFR2DUuw&_nc_oc=AdowDU3kBNIenmDPQJwJFUytqmXacASFKAcDYhBRyqvENoHrR9bK_FDXthtIGtoqG2c&ccb=13-1&oh=06_Q3--AfQsAwjKj-PLR1G7JtnBRlV4VhAjq9K0ckPBFxSvE-9a&oe=69E39F1A&_nc_sid=c97757",
+                "height": 522,
+                "width": 1000,
+                "accessibility_caption": "What if you just keep zooming in?"
+            },
+            "video": null
+        },
+        "text": "# Chụp ảnh nguyên tử? ⚛️ \n\nTrước khi vào nghề lập trình, mình là Nhà Vật Lý Học 😁\nÀ lộn mình là người ngồi Nhà Học Vật Lý 🤪\nVật lý hay lắm, nó giúp mình nhìn nhận và giải thích mọi thứ về thế giới 🗺\nVà đây là bản chất của mọi thứ xung quanh bạn: đều cấu tạo từ Nguyên tử ⚛️ \n\nNhưng làm sao con người có thể nhìn thấy nguyên tử? 🤔 Nó rất nhỏ và thậm chí không thể dùng ánh sáng để nhìn, phải dùng electron 🤯\n\nVideo dưới đây giải thích tường tận mọi thứ, từ những ý tưởng ban đầu, lịch sử hình thành và phát triển của \"Máy chụp ảnh nguyên tử\" 📸\n\n#fb_aio_share",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Chụp ảnh nguyên tử? ⚛️ "
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fb_aio_share",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fb_aio_share",
+                            "__isNode": "Hashtag",
+                            "id": "8933942653295760"
+                        },
+                        "length": 13,
+                        "offset": 517
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "Trước khi vào nghề lập trình, mình là Nhà Vật Lý Học 😁\nÀ lộn mình là người ngồi Nhà Học Vật Lý 🤪\nVật lý hay lắm, nó giúp mình nhìn nhận và giải thích mọi thứ về thế giới 🗺\nVà đây là bản chất của mọi thứ xung quanh bạn: đều cấu tạo từ Nguyên tử ⚛️ \n\nNhưng làm sao con người có thể nhìn thấy nguyên tử? 🤔 Nó rất nhỏ và thậm chí không thể dùng ánh sáng để nhìn, phải dùng electron 🤯\n\nVideo dưới đây giải thích tường tận mọi thứ, từ những ý tưởng ban đầu, lịch sử hình thành và phát triển của \"Máy chụp ảnh nguyên tử\" 📸\n\n#fb_aio_share"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 7,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 6,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1738820882000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1578762926111723",
+            "content_owner_id_new": "100004848287494",
+            "story_location": 9,
+            "story_attachment_style": "share",
+            "ent_attachement_type": "ExternalShareAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1578762926111723",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1738820882,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1578762926111723"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "url_id": "8625518700887418",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=EKKeZScwsGDcYezFR2DUuw&_nc_ss=7a3a8&oh=00_Af2-mev0eF8O8t9ej6NFDMeB3mnsW4K20VAAKb7IViGnng&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

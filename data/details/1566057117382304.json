@@ -1,0 +1,225 @@
+{
+    "result": {
+        "id": "UzpfSTE1NjYwNTcxMTczODIzMDQ6Vks6MTU2NjA1NzExNzM4MjMwNA==",
+        "post_id": "1566057117382304",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1566057117382304/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Anh em nào còn FA thì thử cảm giác được ngắm nè 😜",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 2,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 4,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 2,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 2,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1737117816000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1566057117382304",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "122140999526379966",
+            "original_content_owner_id": "61561398982344",
+            "page_id": "346000221930277",
+            "photo_id": "122140999496379966",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "61561398982344": {
+                    "page_id": "61561398982344",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "61561398982344",
+                        "page_id_type": "page",
+                        "actor_id": "61561398982344",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1736606232,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "122140999526379966"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1566057117382304",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "61561398982344",
+                            "post_id": "122140999526379966",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "122140999526379966",
+                        "sharedMediaID": "1566057117382304",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1737117816,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1566057117382304"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=GvAkebZJqAcmEJA_1TSQ7g&_nc_ss=7a3a8&oh=00_Af2hWAJLdVYkssLLMHCwewbmXTOd3_IHZeFQnnteZnvrfQ&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTYxNTYxMzk4OTgyMzQ0OjEyMjE0MDk5OTUyNjM3OTk2NjoxMjIxNDA5OTk1MjYzNzk5NjY=",
+            "post_id": "122140999526379966",
+            "url": "https://www.facebook.com/divinelegendsvideos/posts/pfbid032sKcUDbCSEDK6vifbS2gvoDk7kkfsuLBcqSD9GJNjVgFB2UsoiX6RwavJ7QPMRgRl",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "122140999496379966",
+                    "url": "https://www.facebook.com/photo/?fbid=122140999496379966&set=a.122094066746379966",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/473274915_122140999502379966_5192158004754235223_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=7b2446&_nc_ohc=yuAyHj6jk-EQ7kNvwEbuQd1&_nc_oc=AdpAOZ6L1eWVZHGVJwalkqZiP8vlRhaV72tNfzHuKR9Ed9kvdYIeJZNH_rCX3jfuyGk&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=GvAkebZJqAcmEJA_1TSQ7g&_nc_ss=7a3a8&oh=00_Af0UsLS0SJLjs-MfKIUGz-0xBlRb8shEbrPLqngneMIUOg&oe=69E788B9",
+                    "height": 1270,
+                    "width": 1080,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FFFFFFFF",
+                    "real_width": 1080,
+                    "real_height": 1270
+                },
+                "video": null
+            },
+            "text": null,
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Divine Legends",
+                    "id": "61561398982344",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/divinelegendsvideos",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1736606232000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "result": {
+        "id": "UzpfSTE0NzQ0NzIzNzY1NDA3Nzk6Vks6MTQ3NDQ3MjM3NjU0MDc3OQ==",
+        "post_id": "1474472376540779",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1474472376540779/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2619476138223970",
+                "url": "https://youtube.com/watch?v=iOlehM5kNSk",
+                "uri": "https://external.fsgn2-9.fna.fbcdn.net/emg1/v/t13/8496571961901817529?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FiOlehM5kNSk%2Fmaxresdefault.jpg%3Fsqp%3D-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGC4gUyhyMA8%3D%26rs%3DAOn4CLAnMu66e0L2jPZJwbGWROpzLlJdSg&fb_obo=1&utld=ytimg.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p1000x522_q75_tt6&_nc_gid=hTluSdIthG_n5JW6h386JQ&_nc_oc=AdrY7n6vOFqBJ0fNQOrIN7clee51-WI6lM4xCf7vS9VqKYFa1zoMZgPnCvLQTSQ9EJQ&ccb=13-1&oh=06_Q3--ATmTH73VrhAkKFzG1m0cvZRBEBUiLyjNaLJLyEZ_7ZmL&oe=69E39AFB&_nc_sid=c97757",
+                "height": 522,
+                "width": 1000,
+                "accessibility_caption": "What Makes Computer Generated Images Look Real? Exploring Ray Tracing and CGI"
+            },
+            "video": null
+        },
+        "text": "test: tự động share bài lên nhiều group",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 9,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 13,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 8,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 5,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1724851981000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1474472376540779",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "2612330595605191",
+            "original_content_owner_id": "100004848287494",
+            "story_location": 9,
+            "story_attachment_style": "share",
+            "ent_attachement_type": "ExternalShareAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "2612330595605191",
+                        "sharedMediaID": "1474472376540779",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1724851981,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1474472376540779"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "url_id": "7910911619026930",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=hTluSdIthG_n5JW6h386JQ&_nc_ss=7a3a8&oh=00_Af0rRHZibM6kVwiebssFKtj3zIqhSlaeyfSas5o1GEIDNg&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

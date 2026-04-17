@@ -1,0 +1,1085 @@
+{
+    "result": {
+        "id": "UzpfSTE2MjcwMjUyMDQ2MTg4Mjg6Vks6MTYyNzAyNTIwNDYxODgyOA==",
+        "post_id": "1627025204618828",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1627025204618828/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Mình đi kiếm thêm thành viên về nhóm đây 😁",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 13,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 12,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 1,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 3,
+        "created_time": 1744865789000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1627025204618828",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1838671130253784",
+            "original_content_owner_id": "100004848287494",
+            "photo_id": "2827132287458353",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntGroupMallPostCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1838671130253784",
+                        "sharedMediaID": "1627025204618828",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1744865789,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1627025204618828"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                },
+                "1569314343856132": {
+                    "page_id": "1569314343856132",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "1569314343856132",
+                        "page_id_type": "group",
+                        "actor_id": "100004848287494",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntGroupMallPostCreationStory",
+                        "post_context": {
+                            "object_fbtype": 657,
+                            "publish_time": 1744780647,
+                            "story_name": "EntGroupMallPostCreationStory",
+                            "story_fbid": [
+                                "1838671130253784"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1627025204618828",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=A75XEe5Rg73h7ZpQxsXyoA&_nc_ss=7a3a8&oh=00_Af29IjeEtlfnBSxSotqvTtE7_RyVe0i7L6813u5qR33OKA&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDAwNDg0ODI4NzQ5NDpWSzoxODM4NjcxMTMwMjUzNzg0",
+            "post_id": "1838671130253784",
+            "url": "https://www.facebook.com/groups/indiehackervn/permalink/1838671130253784/",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "2827132287458353",
+                    "url": "https://www.facebook.com/photo/?fbid=2827132287458353&set=gm.1838671130253784&idorvanity=1569314343856132",
+                    "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/504473261_2880423722129209_7516685636908304864_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=cgX83FbiPpQQ7kNvwHBWcsv&_nc_oc=AdpL87yEb0P2D0vabaIvzhk5NR9QZMF-XUjtbrGJj1MAyUtxRCLQH0c8Ng31TxME700&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=A75XEe5Rg73h7ZpQxsXyoA&_nc_ss=7a3a8&oh=00_Af3sgYYsWMoCjx7vXELyz8rvOD9LUizrnnm9RXNNvK6kmg&oe=69E7607C",
+                    "height": 866,
+                    "width": 1275,
+                    "accessibility_caption": "Có thể là đồ họa về bản đồ và văn bản",
+                    "accent_color": "FFFFFFFF",
+                    "real_width": 1275,
+                    "real_height": 866
+                },
+                "video": null
+            },
+            "text": "# ✅ **Checklist Founder Lần Đầu Làm Sản Phẩm Phần Mềm**\n> Dưới đây là checklist mình đúc kết được sau gần 1 năm làm extension chrome. \n> Có thể không đúng với tất cả mọi người, nhưng đây là hướng đi giúp mình bước tiếp tới thành công mỗi ngày. \n\n---\n## 🔥 1. **“Problem Obsession” trước “Product Obsession”**\n\nTôi không xây “vì thấy hay” mà đang giải quyết 1 nỗi đau mà người dùng *chủ động tìm cách xử lý* mỗi ngày.\n\nCó ít nhất **5–10 người** sẵn sàng **dùng thử / trả tiền / bỏ thời gian phản hồi**.\n\nTôi biết rõ: **khách hàng dùng tool gì, workaround ra sao**, họ ghét điểm nào nhất trong quy trình đó.\n\n---\n## 🧠 2. **Sản phẩm giải quyết 1 việc rõ ràng**\n\nOne-liner định nghĩa sản phẩm của tôi dễ hiểu đến mức **người không tech đọc cũng hiểu trong 5s**.\n\nTính năng cốt lõi = **giúp người dùng tiết kiệm thời gian / tăng thu nhập / giải quyết task cụ thể**.\n\n---\n## 🛠 3. **Xây bản MVP “thô mà đỡ mất công nhất”**\n\nMVP đầu không cần code nhiều: có thể là **Chrome Extension**, Notion tool, Zapier, Webflow, script nhỏ.\n\nKhông scale vội: dùng **manual backend**, **Google Sheets**, làm tay cũng được nếu vẫn học được từ user.\n\n---\n## 💰 4. **Có người trả tiền càng sớm càng tốt**\n\nCó ít nhất **1 người trả tiền hoặc offer trả tiền**, dù chỉ là 50k VNĐ.\n\nKhông cần “full tính năng” – chỉ cần **1 case dùng thật sự có giá trị** với họ là đủ để học.\n\n---\n## 🎯 5. **Làm marketing từ ngày 1**\n\nTạo trang giới thiệu (Notion/Landing Page) & nhử người đăng ký/đặt chỗ.\n\nTạo Twitter/LinkedIn/Facebook cá nhân để kể chuyện hành trình build.\n\nNhắm 1 kênh có network effect để scale sau này (group FB, cộng đồng niche, plugin store, marketplace...).\n\n---\n## 🔁 6. **Tối ưu & lặp liên tục**\n\nSau mỗi đợt user dùng thử, tôi rút ra được **1 điều mới có thể cải thiện hoặc xoá tính năng**.\n\nKhông thêm tính năng theo cảm hứng. Chỉ thêm nếu **người dùng chặn bước hoặc trả tiền khi có**.\n\n---\n## 📊 7. **Biết mình đang track gì**\n\nTôi có ít nhất 1 chỉ số mình **theo dõi mỗi tuần**: retention, số người active, % người share, % upgrade.\n\nKhông dùng vanity metric (lượt like, số user đăng ký không active,...)\n\n---\n## 👥 8. **Không đi 1 mình**\n\nCó người đồng hành hoặc mentor để feedback, giữ tỉnh táo.\n\nJoin cộng đồng founder (VD: Build in Public, Indie Hacker, FB groups...) để học từ người thật việc thật.\n\n---\n## ⚠️ 9. **Biết “Fail Fast” không phải là xấu**\n\nTôi chấp nhận bỏ/kill idea nếu **sau 3–4 vòng test user vẫn không trả tiền hoặc không quay lại dùng.**\n\nPivot = thông minh. Không pivot = liều mạng. Tôi chọn thông minh.\n\n---\n## 📦 10. **Tập trung shipping thay vì suy nghĩ**\n\nTừ ngày idea đến bản public đầu tiên < **2 tuần**.\n\nMỗi tuần **có 1 thứ ship ra được**: fix bug, tính năng nhỏ, hoặc post marketing nhỏ.\n\n#bipvn #buildinpublic #bip_share",
+            "text_format": {},
+            "rich_message": [
+                {
+                    "__typename": "ComposedHeaderOneBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                    "block_type": "HEADER_ONE",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 47,
+                            "offset": 2
+                        }
+                    ],
+                    "text": "✅ Checklist Founder Lần Đầu Làm Sản Phẩm Phần Mềm"
+                },
+                {
+                    "__typename": "ComposedBlockquoteBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                    "block_type": "BLOCKQUOTE",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Dưới đây là checklist mình đúc kết được sau gần 1 năm làm extension chrome. "
+                },
+                {
+                    "__typename": "ComposedBlockquoteBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                    "block_type": "BLOCKQUOTE",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Có thể không đúng với tất cả mọi người, nhưng đây là hướng đi giúp mình bước tiếp tới thành công mỗi ngày. "
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "---"
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 45,
+                            "offset": 5
+                        }
+                    ],
+                    "text": "🔥 1. “Problem Obsession” trước “Product Obsession”"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "ITALIC",
+                            "length": 23,
+                            "offset": 71
+                        }
+                    ],
+                    "text": "Tôi không xây “vì thấy hay” mà đang giải quyết 1 nỗi đau mà người dùng chủ động tìm cách xử lý mỗi ngày."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 10,
+                            "offset": 11
+                        },
+                        {
+                            "inline_style": "BOLD",
+                            "length": 43,
+                            "offset": 31
+                        }
+                    ],
+                    "text": "Có ít nhất 5–10 người sẵn sàng dùng thử / trả tiền / bỏ thời gian phản hồi."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 42,
+                            "offset": 13
+                        }
+                    ],
+                    "text": "Tôi biết rõ: khách hàng dùng tool gì, workaround ra sao, họ ghét điểm nào nhất trong quy trình đó."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "---"
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 34,
+                            "offset": 5
+                        }
+                    ],
+                    "text": "🧠 2. Sản phẩm giải quyết 1 việc rõ ràng"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 39,
+                            "offset": 54
+                        }
+                    ],
+                    "text": "One-liner định nghĩa sản phẩm của tôi dễ hiểu đến mức người không tech đọc cũng hiểu trong 5s."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 76,
+                            "offset": 20
+                        }
+                    ],
+                    "text": "Tính năng cốt lõi = giúp người dùng tiết kiệm thời gian / tăng thu nhập / giải quyết task cụ thể."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "---"
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 37,
+                            "offset": 5
+                        }
+                    ],
+                    "text": "🛠 3. Xây bản MVP “thô mà đỡ mất công nhất”"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 16,
+                            "offset": 40
+                        }
+                    ],
+                    "text": "MVP đầu không cần code nhiều: có thể là Chrome Extension, Notion tool, Zapier, Webflow, script nhỏ."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 14,
+                            "offset": 22
+                        },
+                        {
+                            "inline_style": "BOLD",
+                            "length": 13,
+                            "offset": 38
+                        }
+                    ],
+                    "text": "Không scale vội: dùng manual backend, Google Sheets, làm tay cũng được nếu vẫn học được từ user."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "---"
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 35,
+                            "offset": 5
+                        }
+                    ],
+                    "text": "💰 4. Có người trả tiền càng sớm càng tốt"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 36,
+                            "offset": 11
+                        }
+                    ],
+                    "text": "Có ít nhất 1 người trả tiền hoặc offer trả tiền, dù chỉ là 50k VNĐ."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 30,
+                            "offset": 37
+                        }
+                    ],
+                    "text": "Không cần “full tính năng” – chỉ cần 1 case dùng thật sự có giá trị với họ là đủ để học."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "---"
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 23,
+                            "offset": 5
+                        }
+                    ],
+                    "text": "🎯 5. Làm marketing từ ngày 1"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Tạo trang giới thiệu (Notion/Landing Page) & nhử người đăng ký/đặt chỗ."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Tạo Twitter/LinkedIn/Facebook cá nhân để kể chuyện hành trình build."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Nhắm 1 kênh có network effect để scale sau này (group FB, cộng đồng niche, plugin store, marketplace...)."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "---"
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 21,
+                            "offset": 5
+                        }
+                    ],
+                    "text": "🔁 6. Tối ưu & lặp liên tục"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 46,
+                            "offset": 43
+                        }
+                    ],
+                    "text": "Sau mỗi đợt user dùng thử, tôi rút ra được 1 điều mới có thể cải thiện hoặc xoá tính năng."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 41,
+                            "offset": 49
+                        }
+                    ],
+                    "text": "Không thêm tính năng theo cảm hứng. Chỉ thêm nếu người dùng chặn bước hoặc trả tiền khi có."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "---"
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 23,
+                            "offset": 5
+                        }
+                    ],
+                    "text": "📊 7. Biết mình đang track gì"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 17,
+                            "offset": 29
+                        }
+                    ],
+                    "text": "Tôi có ít nhất 1 chỉ số mình theo dõi mỗi tuần: retention, số người active, % người share, % upgrade."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Không dùng vanity metric (lượt like, số user đăng ký không active,...)"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "---"
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 15,
+                            "offset": 5
+                        }
+                    ],
+                    "text": "👥 8. Không đi 1 mình"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Có người đồng hành hoặc mentor để feedback, giữ tỉnh táo."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Join cộng đồng founder (VD: Build in Public, Indie Hacker, FB groups...) để học từ người thật việc thật."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "---"
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 34,
+                            "offset": 6
+                        }
+                    ],
+                    "text": "⚠️ 9. Biết “Fail Fast” không phải là xấu"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 67,
+                            "offset": 31
+                        }
+                    ],
+                    "text": "Tôi chấp nhận bỏ/kill idea nếu sau 3–4 vòng test user vẫn không trả tiền hoặc không quay lại dùng."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Pivot = thông minh. Không pivot = liều mạng. Tôi chọn thông minh."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "---"
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 35,
+                            "offset": 6
+                        }
+                    ],
+                    "text": "📦 10. Tập trung shipping thay vì suy nghĩ"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 6,
+                            "offset": 39
+                        }
+                    ],
+                    "text": "Từ ngày idea đến bản public đầu tiên < 2 tuần."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 21,
+                            "offset": 9
+                        }
+                    ],
+                    "text": "Mỗi tuần có 1 thứ ship ra được: fix bug, tính năng nhỏ, hoặc post marketing nhỏ."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [
+                        {
+                            "entity_type": "HASHTAG",
+                            "entity": {
+                                "__typename": "Hashtag",
+                                "__isEntity": "Hashtag",
+                                "url": "https://www.facebook.com/hashtag/bipvn",
+                                "mobileUrl": "https://m.facebook.com/hashtag/bipvn",
+                                "__isNode": "Hashtag",
+                                "id": "870132389719742"
+                            },
+                            "length": 6,
+                            "offset": 0
+                        },
+                        {
+                            "entity_type": "HASHTAG",
+                            "entity": {
+                                "__typename": "Hashtag",
+                                "__isEntity": "Hashtag",
+                                "url": "https://www.facebook.com/hashtag/buildinpublic",
+                                "mobileUrl": "https://m.facebook.com/hashtag/buildinpublic",
+                                "__isNode": "Hashtag",
+                                "id": "645561275518909"
+                            },
+                            "length": 14,
+                            "offset": 7
+                        },
+                        {
+                            "entity_type": "HASHTAG",
+                            "entity": {
+                                "__typename": "Hashtag",
+                                "__isEntity": "Hashtag",
+                                "url": "https://www.facebook.com/hashtag/bip_share",
+                                "mobileUrl": "https://m.facebook.com/hashtag/bip_share",
+                                "__isNode": "Hashtag",
+                                "id": "8780396568709655"
+                            },
+                            "length": 10,
+                            "offset": 22
+                        }
+                    ],
+                    "inline_style_ranges": [],
+                    "text": "#bipvn #buildinpublic #bip_share"
+                }
+            ],
+            "hashtags": [
+                "#bipvn",
+                "#buildinpublic",
+                "#bip_share"
+            ],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "id": "100004848287494",
+                    "name": "Hoang Tran",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/9999.hoangtran"
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1744787881000,
+            "privacy_scope": "Nhóm công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": "Group",
+                "id": "1569314343856132",
+                "url": "https://www.facebook.com/groups/indiehackervn/",
+                "name": "Build in Public VN",
+                "avatar": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/509443918_10233522779463937_6884554539542802636_n.jpg?stp=c264.0.432.432a_cp0_dst-jpg_s110x80_tt6&_nc_cat=105&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=r-o0j_4vFg8Q7kNvwFWCL7w&_nc_oc=Adp3ViSm7ls1qMq1BvHexKPU3npmJS1SGQo5NKqYjZ9ooeIusCuQFyVUShpqYksjogk&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=A75XEe5Rg73h7ZpQxsXyoA&_nc_ss=7a3a8&oh=00_Af1E4sQkSuYhHfNIXdbhrU2hPQSe2W-PdSGY9MIHG7NHGQ&oe=69E784DE"
+            },
+            "attached_post": null
+        }
+    }
+}

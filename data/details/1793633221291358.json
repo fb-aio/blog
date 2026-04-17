@@ -1,0 +1,239 @@
+{
+    "result": {
+        "id": "UzpfSTE3OTM2MzMyMjEyOTEzNTg6Vks6MTc5MzYzMzIyMTI5MTM1OA==",
+        "post_id": "1793633221291358",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1793633221291358/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Tự hào ké kkk 😝",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Tự hào ké kkk 😝"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 10,
+            "total_count": 11,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 25,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 20,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 4,
+                    "name": "Haha"
+                },
+                {
+                    "id": "613557422527858",
+                    "count": 1,
+                    "name": "Thương thương"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1764311036000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1793633221291358",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1311454157686028",
+            "original_content_owner_id": "100064643681682",
+            "page_id": "912918568785331",
+            "story_location": 9,
+            "attached_story_type": "EntStatusCreationStory",
+            "page_insights": {
+                "100064643681682": {
+                    "page_id": "100064643681682",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100064643681682",
+                        "page_id_type": "page",
+                        "actor_id": "100064643681682",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1764306990,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1311454157686028"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1793633221291358",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100064643681682",
+                            "post_id": "1311454157686028",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1311454157686028",
+                        "sharedMediaID": "1793633221291358",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1764311036,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1793633221291358"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=DGyWPedyrC31LOvylTg_qA&_nc_ss=7a3a8&oh=00_Af2prdmNS49VnZluNlJOwKvPoTi6ClYK9yPnPFbPoy4WJQ&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA2NDY0MzY4MTY4MjoxMzExNDU0MTU3Njg2MDI4OjEzMTE0NTQxNTc2ODYwMjg=",
+            "post_id": "1311454157686028",
+            "url": "https://www.facebook.com/thongtinchinhphu/posts/pfbid02BcbzW4sbz7MBiZ4VW1fJsPEezNg9QrLAfZCkjmwM4tm89wdcA4Yr6X4G3LsYi7R2l",
+            "media": {
+                "subAttachments": [],
+                "photo": null,
+                "video": null
+            },
+            "text": "📲 MoMo hiện là một trong những nền tảng thanh toán cho hơn 90% dịch vụ hành chính công trên toàn quốc. \n\nGiai đoạn 2024–2025, đã tích hợp thanh toán và xác thực điện tử của MoMo trực tiếp trên VNeID, tạo thêm lựa chọn thuận tiện cho người dân.\n\nNăm 2024, giao dịch thanh toán qua MoMo chiếm ~35% tổng giao dịch không dùng tiền mặt trên Cổng Dịch vụ công Quốc gia và gần 50% giao dịch nộp lệ phí xét tuyển đại học trực tuyến của Bộ Giáo dục và Đào tạo.\n\nHơn 200 bệnh viện, cơ sở y tế và cơ sở khám chữa bệnh bao gồm cả khu vực công và tư trên cả nước đã triển khai tiếp nhận thanh toán chi phí khám chữa bệnh qua MoMo. Gần 9.000 trường học và các cơ sở giáo dục, đào tạo các cấp trên cả nước đã kết nối và tiếp nhận thanh toán học phí qua MoMo.\n\nViệc triển khai các giải pháp thanh toán điện tử trong dịch vụ công của MoMo là bước hiện thực hóa tinh thần chỉ đạo tại Nghị quyết 57-NQ/TW, với vai trò của Tập đoàn Công nghệ Tài chính tiên phong trong cải cách thủ tục hành chính, phát triển hạ tầng số và mở rộng dịch vụ số, hướng tới Chính phủ số – Xã hội số – Kinh tế số.\n\n---\n✨ Qua 15 năm hoạt động và phát triển, MoMo tích cực cam kết tiếp tục đồng hành cùng Chính phủ và các cơ quan chức năng trong mục tiêu thúc đẩy chuyển đổi số quốc gia và kiến tạo tài chính toàn diện cho mọi người dân.",
+            "text_format": {
+                "preset_id": "838428734606379",
+                "background_color": "FFFF90BD",
+                "background_image": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.10873-6/386719980_838428744606378_1377031773119359831_n.jpg?stp=dst-jpg_p235x350_tt6&_nc_cat=1&ccb=1-7&_nc_sid=4bb800&_nc_ohc=B_-gkV_EYmUQ7kNvwEi-cVD&_nc_oc=AdrT3wEtYYQAiUJxq5-2mvUM7qIYMlUaZEqj-8t-S2D_zdTJdDG936L8sctB8ea1VXE&_nc_zt=14&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=DGyWPedyrC31LOvylTg_qA&_nc_ss=7a3a8&oh=00_Af3oQIdB9M3y-fSDH_jaP17-neyeqnYlfleqZRPsnkVGzQ&oe=69E70F29",
+                "portrait_background_image": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.10873-6/386719980_838428744606378_1377031773119359831_n.jpg?stp=dst-jpg_p235x350_tt6&_nc_cat=1&ccb=1-7&_nc_sid=4bb800&_nc_ohc=B_-gkV_EYmUQ7kNvwEi-cVD&_nc_oc=AdrT3wEtYYQAiUJxq5-2mvUM7qIYMlUaZEqj-8t-S2D_zdTJdDG936L8sctB8ea1VXE&_nc_zt=14&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=DGyWPedyrC31LOvylTg_qA&_nc_ss=7a3a8&oh=00_Af3oQIdB9M3y-fSDH_jaP17-neyeqnYlfleqZRPsnkVGzQ&oe=69E70F29",
+                "color": "FFB9005F",
+                "font_weight": "BOLD",
+                "font_style": "NORMAL",
+                "text_align": "CENTER"
+            },
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Thông tin Chính phủ",
+                    "id": "100064643681682",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/thongtinchinhphu",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1764306990000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

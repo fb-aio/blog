@@ -1,0 +1,318 @@
+{
+    "result": {
+        "id": "UzpfSTE0NTM4Mjc5MDg2MDUyMjY6Vks6MTQ1MzgyNzkwODYwNTIyNg==",
+        "post_id": "1453827908605226",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1453827908605226/",
+        "media": {
+            "mediaset_token": "pcb.1453827908605226",
+            "subAttachments": [
+                {
+                    "id": "2590789241092660",
+                    "url": "https://www.facebook.com/photo.php?fbid=2590789241092660&set=gm.1453827911938559&type=3",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/489869934_2819682081536707_5468279047967794212_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=qsX2j54AWMkQ7kNvwGlSg9G&_nc_oc=AdobI6QRx4yjU0Y9BYDVdMZrb6t38lCaeTJM8aYIelH2JkF4aLhPFZAVtI8DSqdSw8w&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=C4tVqmsJmj1JCGPOfAudUg&_nc_ss=7a3a8&oh=00_Af2DhevZIP15GnCFRIHEEMq1zfKaHBHGzmYvADGEf9xOyg&oe=69E737B5",
+                    "height": 903,
+                    "width": 1896,
+                    "accessibility_caption": "Có thể là hình ảnh về 5 người và văn bản",
+                    "real_width": 1896,
+                    "real_height": 903
+                },
+                {
+                    "id": "2590789511092633",
+                    "url": "https://www.facebook.com/photo.php?fbid=2590789511092633&set=gm.1453827915271892&type=3",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/490020181_2819681968203385_1862435129222672863_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=nx7EhyjqGikQ7kNvwHz5qVA&_nc_oc=AdrQm4apUXlmOsSv_ftlaF4O3mWqyZMt1JTW-9a3Lwin50xuz_9PuC59umsaFJeFwpU&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=C4tVqmsJmj1JCGPOfAudUg&_nc_ss=7a3a8&oh=00_Af1LvYZJzBA7RYPjYR6ArKhf9iZ75isgM2zIseNL3Skg3Q&oe=69E73D1A",
+                    "height": 904,
+                    "width": 1027,
+                    "accessibility_caption": "Có thể là hình ảnh về 4 người và văn bản",
+                    "real_width": 1027,
+                    "real_height": 904
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Bản cập nhật Useful-script 1.7 sắp tới\n\nVà sẽ không khiến mọi người thất vọng :)))\n\nAi quan tâm tải hàng loạt tiktok dơ tay lên nào.\n\n* Nâng cấp nhanh gấp x1000 lần luôn (không cần gọi api bên thứ 3).\n* Hỗ trợ tải video không watermark, Full HD\n* Tải cả nhạc và cover + avatar Full HD luôn\n* Tự động bắt mọi video tiktok hiển thị, từ trang cá nhân ra tới trang chủ, trang khám phá, ...\n* Lọc theo người dùng, theo tên, sắp xếp theo view cao nhất, video dài nhất, ...\n\nMình tìm thử hầu hết tool trên mạng đều tèo hoặc phải trả phí + cài đặt rườm rà. Khó chịu quá làm luôn vào Useful-script cho nóng.\n\nCùng chờ đón bản 1.7 sắp tới nhé. 😎 Không chỉ có thằng tiktok này đâu, còn nhiều thứ hay ho nữa.",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Bản cập nhật Useful-script 1.7 sắp tới"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Và sẽ không khiến mọi người thất vọng :)))"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Ai quan tâm tải hàng loạt tiktok dơ tay lên nào."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Nâng cấp nhanh gấp x1000 lần luôn (không cần gọi api bên thứ 3)."
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Hỗ trợ tải video không watermark, Full HD"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Tải cả nhạc và cover + avatar Full HD luôn"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Tự động bắt mọi video tiktok hiển thị, từ trang cá nhân ra tới trang chủ, trang khám phá, ..."
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Lọc theo người dùng, theo tên, sắp xếp theo view cao nhất, video dài nhất, ..."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Mình tìm thử hầu hết tool trên mạng đều tèo hoặc phải trả phí + cài đặt rườm rà. Khó chịu quá làm luôn vào Useful-script cho nóng."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Cùng chờ đón bản 1.7 sắp tới nhé. 😎 Không chỉ có thằng tiktok này đâu, còn nhiều thứ hay ho nữa."
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 5,
+            "total_count": 6,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 37,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 20,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 16,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "478547315650144",
+                    "count": 1,
+                    "name": "Wow"
+                }
+            ]
+        },
+        "shares": 2,
+        "created_time": 1721849989000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1453827908605226",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2590789241092660",
+                "2590789511092633"
+            ],
+            "photo_id": "2590789241092660",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1721849989,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1453827908605226"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=C4tVqmsJmj1JCGPOfAudUg&_nc_ss=7a3a8&oh=00_Af2wDNP9wcXpKTNODuvhGWQZ6Ulp2Br9XXWj5ikIeK6HeA&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

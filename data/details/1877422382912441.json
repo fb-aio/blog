@@ -1,0 +1,171 @@
+{
+    "result": {
+        "id": "UzpfSTE4Nzc0MjIzODI5MTI0NDE6Vks6MTg3NzQyMjM4MjkxMjQ0MQ==",
+        "post_id": "1877422382912441",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1877422382912441/",
+        "media": {
+            "mediaset_token": "pcb.1877422382912441",
+            "subAttachments": [
+                {
+                    "id": "2387444838361890",
+                    "url": "https://www.facebook.com/photo.php?fbid=2387444838361890&set=gm.1877422379579108&type=3",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/656211106_2387444845028556_8443771235696053692_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=M5KXpeY35sYQ7kNvwHz59_Q&_nc_oc=AdoWB7UZmRmuYUcCjD3EDiUIlgVWRbsGeFdkb-vhjG58Yuvsjs2vpW9yvctfbp4lnVI&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=tlxUE9yoDiVzYALAiSn_XQ&_nc_ss=7a3a8&oh=00_Af2j1fs4A5heoiDNT29u4CsGdG1Bne7CNYbJaG4tZmE2kg&oe=69E7368E",
+                    "height": 501,
+                    "width": 666,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản cho biết 'Mã hóa tin nhắn Messenger Yêu cầu Cό thể bật/tắt tính năng tin nhắn tàng hình Messenger trực tiếp trên trình duyệt, giúp bảo mật thông tin cá nhân. 56 giây'",
+                    "real_width": 666,
+                    "real_height": 501
+                },
+                {
+                    "id": "2387444871695220",
+                    "url": "https://www.facebook.com/photo.php?fbid=2387444871695220&set=gm.1877422386245774&type=3",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/655776406_2387444875028553_4320545717354429348_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=hKHx4TQFsxIQ7kNvwGCb1CU&_nc_oc=AdrsF1oQwb5chfmoktDa0tnLltFIYEdqqpOBX09s5cGTjLe_5aBIfYIRN3xu4qEiSD8&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=tlxUE9yoDiVzYALAiSn_XQ&_nc_ss=7a3a8&oh=00_Af3rODmGQ3bdCE2fwGosaKaeMY4FeWi96y5MMsKW9jPcqQ&oe=69E71E6F",
+                    "height": 296,
+                    "width": 600,
+                    "accessibility_caption": "Có thể là hình ảnh về ‎văn bản cho biết '‎Khi tắt hoặc không cài Sun 5 30PM Khi bật tính năng Tốinay Tối nay qua nhà anh code ý tưỡng hôm trước không? Encrypted message: Tổinay nay Tối qua nhà anh code ل tường hôm trước không? >tổi nhậu không< Sent 18h ago Aa Sent 18h ago Aa‎'‎",
+                    "real_width": 600,
+                    "real_height": 296
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "Ae nghĩ sao về việc nâng cấp tính năng chữ tàng hình có sẵn của F.B AIO có thể xài trực tiếp ở Messenger trên trình duyệt 😃😃😃\nP/s: Ae thấy hay vote mình với nhé để AD sớm ra tính năng này 🤭🤭🤭",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100012891908773",
+                "name": "Nguyễn Văn Nam",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/fanboymtpyps.namnguyen"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 2,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 8,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 8,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1774259648000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1877422382912441",
+            "content_owner_id_new": "100012891908773",
+            "page_id": "735592392970782",
+            "photo_attachments_list": [
+                "2387444838361890",
+                "2387444871695220"
+            ],
+            "photo_id": "2387444838361890",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "100012891908773": {
+                    "page_id": "100012891908773",
+                    "page_id_type": "page",
+                    "actor_id": "100012891908773",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1774185248,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1877422382912441"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100012891908773",
+                            "page_id": "100012891908773",
+                            "post_id": "1877422382912441",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100012891908773",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1774185248,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1877422382912441"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100012891908773",
+            "actrs": "100012891908773",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=tlxUE9yoDiVzYALAiSn_XQ&_nc_ss=7a3a8&oh=00_Af199FlZTCuRbxJb6L6Y6FljFK-EAPz96urnVwLxzrBMNw&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

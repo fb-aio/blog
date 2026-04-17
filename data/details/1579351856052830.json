@@ -1,0 +1,282 @@
+{
+    "result": {
+        "id": "UzpfSTE1NzkzNTE4NTYwNTI4MzA6Vks6MTU3OTM1MTg1NjA1MjgzMA==",
+        "post_id": "1579351856052830",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1579351856052830/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "🔥 SCI-HUB: CỬA NGÕ TRI THỨC MIỄN PHÍ 🔥\n\n📚 Bạn muốn đọc các bài báo khoa học nhưng bị chặn bởi tường phí?\n🔑 Sci-Hub chính là chìa khóa mở ra kho tri thức mà không tốn một xu!\n\n✨ Tại sao nên dùng Sci-Hub?\n✅ Miễn phí 100% – Không cần trả tiền, không cần đăng ký.\n✅ Truy cập không giới hạn – Hàng triệu bài báo khoa học từ các tạp chí lớn.\n✅ Hỗ trợ nghiên cứu – Giúp sinh viên, giảng viên, và nhà nghiên cứu dễ dàng tiếp cận tài liệu.\n✅ Thúc đẩy khoa học mở – Tri thức nên được chia sẻ, không bị độc quyền!\n\n> viết bởi chatGPT <",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 1,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 18,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 13,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 5,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 6,
+        "created_time": 1738903682000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1579351856052830",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1002694948582432",
+            "original_content_owner_id": "100065258071482",
+            "page_id": "701085256602987",
+            "photo_id": "1002694915249102",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "100065258071482": {
+                    "page_id": "100065258071482",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100065258071482",
+                        "page_id_type": "page",
+                        "actor_id": "100065258071482",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1738492605,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1002694948582432"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1579351856052830",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100065258071482",
+                            "post_id": "1002694948582432",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1002694948582432",
+                        "sharedMediaID": "1579351856052830",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1738903682,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1579351856052830"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=ozj14w2GDpwkwq-YuV0MgQ&_nc_ss=7a3a8&oh=00_Af0q4nkyq8q2vuo71dFpaW4x1Gd-64_ac49stuFnfL7iaw&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA2NTI1ODA3MTQ4MjoxMDAyNjk0OTQ4NTgyNDMyOjEwMDI2OTQ5NDg1ODI0MzI=",
+            "post_id": "1002694948582432",
+            "url": "https://www.facebook.com/Dr.Wboukhili/posts/pfbid07aMCRLE6E1fMpgv6fhKdPdD55KU59w292vgFax6ppParJymTZ5Le3UUTw3zwiUpdl",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "1002694915249102",
+                    "url": "https://www.facebook.com/photo/?fbid=1002694915249102&set=a.474234761428456",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/482207669_1023869539798306_115236159357820656_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7b2446&_nc_ohc=HrHLeDtceD8Q7kNvwE3K-Kb&_nc_oc=AdqtMCG1UnHaeerdjMjF-85OW95N9Ch2u6sVWC85YGc9s6egAwSYfgXxE2xIbUq32Ro&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=ozj14w2GDpwkwq-YuV0MgQ&_nc_ss=7a3a8&oh=00_Af2uYXtAlxi9ei7MyLCIdy7AV3eAtbsV4uiN4drqJyUr7Q&oe=69E76F4D",
+                    "height": 483,
+                    "width": 800,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FFFFFFFF",
+                    "real_width": 800,
+                    "real_height": 483
+                },
+                "video": null
+            },
+            "text": "7 Sci-Hub Alternative Websites\n\nPaper you need to ask for payment & can't use sci-hub? \n \nYou don't have to pay to read academic papers. \n \nThese are 7 sci-hub alternative websites to download papers for free. \n \n👉 Unpaywall --> https://unpaywall.org/\nInstall this browser extension on Chrome and read the paper directly on the journal website legally and for free. \n \n👉 Open Access Button (OAB) --> https://lnkd.in/dXVVQpUf\nCopy and paste the link paper or DOI on the OAB website. This will be accessible on the next page. Legal. \n \n👉 PaperPanda --> https://paperpanda.app/\nLike Unpaywall, this Chrome extension allows you to access millions of research papers in one click. \n \n👉 DOAJ --> https://doaj.org/\nAs the name implies, DOAJ (Directory of Open Access Journals) provides access to millions of scientific papers from around the world for free. \n \n👉 OA[.]mg--> https://oa.mg/\nLike Google which is made specifically to search for academic papers. There are more than 250 million papers available for access. \n \n👉 Core --> https://core.ac.uk/\nThe world's largest database of research papers with more than 298 million papers from around the world that can be accessed for free. \n \n👉 arXiv --> https://arxiv.org/\nEspecially for lovers of natural sciences and economics, this website provides access to 2.4 million academic papers for free. \n Copied",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [
+                {
+                    "type": "ExternalUrl",
+                    "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3VucGF5d2FsbC5vcmcvOjpEZWZhdWx0Ojo6MTAwMjY5NDk0ODU4MjQzMg==",
+                    "name": "https://unpaywall.org/",
+                    "url": "https://unpaywall.org/",
+                    "length": 22,
+                    "offset": 229
+                },
+                {
+                    "type": "ExternalUrl",
+                    "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2xua2QuaW4vZFhWVlFwVWY6OkRlZmF1bHQ6OjoxMDAyNjk0OTQ4NTgyNDMy",
+                    "name": "https://lnkd.in/dXVVQpUf",
+                    "url": "https://lnkd.in/dXVVQpUf",
+                    "length": 24,
+                    "offset": 400
+                },
+                {
+                    "type": "ExternalUrl",
+                    "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3BhcGVycGFuZGEuYXBwLzo6RGVmYXVsdDo6OjEwMDI2OTQ5NDg1ODI0MzI=",
+                    "name": "https://paperpanda.app/",
+                    "url": "https://paperpanda.app/",
+                    "length": 23,
+                    "offset": 551
+                },
+                {
+                    "type": "ExternalUrl",
+                    "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2RvYWoub3JnLzo6RGVmYXVsdDo6OjEwMDI2OTQ5NDg1ODI0MzI=",
+                    "name": "https://doaj.org/",
+                    "url": "https://doaj.org/",
+                    "length": 17,
+                    "offset": 690
+                },
+                {
+                    "type": "ExternalUrl",
+                    "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL29hLm1nLzo6RGVmYXVsdDo6OjEwMDI2OTQ5NDg1ODI0MzI=",
+                    "name": "https://oa.mg/",
+                    "url": "https://oa.mg/",
+                    "length": 14,
+                    "offset": 867
+                },
+                {
+                    "type": "ExternalUrl",
+                    "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2NvcmUuYWMudWsvOjpEZWZhdWx0Ojo6MTAwMjY5NDk0ODU4MjQzMg==",
+                    "name": "https://core.ac.uk/",
+                    "url": "https://core.ac.uk/",
+                    "length": 19,
+                    "offset": 1027
+                },
+                {
+                    "type": "ExternalUrl",
+                    "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2FyeGl2Lm9yZy86OkRlZmF1bHQ6OjoxMDAyNjk0OTQ4NTgyNDMy",
+                    "name": "https://arxiv.org/",
+                    "url": "https://arxiv.org/",
+                    "length": 18,
+                    "offset": 1197
+                }
+            ],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Scientific Research & Publications",
+                    "id": "100065258071482",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/Dr.Wboukhili",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1738492605000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

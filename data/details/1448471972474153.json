@@ -1,0 +1,373 @@
+{
+    "result": {
+        "id": "UzpfSTE0NDg0NzE5NzI0NzQxNTM6Vks6MTQ0ODQ3MTk3MjQ3NDE1Mw==",
+        "post_id": "1448471972474153",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1448471972474153/",
+        "media": {
+            "mediaset_token": "pcb.1448471972474153",
+            "subAttachments": [
+                {
+                    "id": "2583727948465456",
+                    "url": "https://www.facebook.com/photo.php?fbid=2583727948465456&set=gm.1448471962474154&type=3",
+                    "uri": "https://scontent.fsgn2-8.fna.fbcdn.net/v/t39.30808-6/489054222_2818131815025067_6693571363577481419_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=jTDj5T3wR-AQ7kNvwFg6r0I&_nc_oc=AdqdzLu4Wtk7yruStBLO46LIZHn0Pgysp1lqvJj5r5__PVR_zRaaxpTkjZu8OlVFBZs&_nc_zt=23&_nc_ht=scontent.fsgn2-8.fna&_nc_gid=5-PRQA8cVSvRfb8S0z6ixg&_nc_ss=7a3a8&oh=00_Af1Dhh5pf5dRC7ub3zPFS1prUEVHNFJQVC38jROQiYCJIA&oe=69E74B98",
+                    "height": 807,
+                    "width": 378,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 378,
+                    "real_height": 807
+                },
+                {
+                    "id": "2583728281798756",
+                    "url": "https://www.facebook.com/photo.php?fbid=2583728281798756&set=gm.1448471969140820&type=3",
+                    "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/489491424_2818131481691767_1218330740698806408_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=3RAY5rzuKIUQ7kNvwG8f0Yy&_nc_oc=AdoqpGDM28I8wPiXWr5D_2YR7af1GYz4rF_latbAeGczAvY6-gj2ql98F2T8U-sIX2g&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=5-PRQA8cVSvRfb8S0z6ixg&_nc_ss=7a3a8&oh=00_Af0_wmzjGqsjXYqcm-4aQqVIN99dEwo5e9coZUsIgCmXew&oe=69E71816",
+                    "height": 809,
+                    "width": 377,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 377,
+                    "real_height": 809
+                },
+                {
+                    "id": "2583728791798705",
+                    "url": "https://www.facebook.com/photo.php?fbid=2583728791798705&set=gm.1448471965807487&type=3",
+                    "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/489102309_2818131751691740_3203071137541528309_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=6qb4Wnhe3TMQ7kNvwGUPIbV&_nc_oc=Adq2rzocahCFN9-4ovqXlN45_ECFytSCN01yXofmIfzr2gbpL2inWUpG2u3yR_TavGk&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=5-PRQA8cVSvRfb8S0z6ixg&_nc_ss=7a3a8&oh=00_Af2TAnIUvoSMWfVmvF5CdwqAfG-BhJQLkrWUqI0206Rfmw&oe=69E72781",
+                    "height": 891,
+                    "width": 944,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 944,
+                    "real_height": 891
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Cách gửi ảnh/video/file cho người khác nhanh chóng\n\nhttps://www.sharedrop.io\n\nWeb này sử dụng công nghệ P2P - kết nối trực tiếp bạn và người nhận, không thông qua bên trung gian nào cả.\n\n* **Không bị theo dõi** hay **bị lưu file** bởi bên thứ 3\n* Nhanh chóng **không cần cài đặt hay đăng nhập** (như zalo, google drive, ...)\n* Tự động nhìn thấy nhau khi **dùng chung mạng** wifi/3g (giống chức năng AirDrop của macbook, iphone)\n* Nếu khác mạng thì có thể **gửi link/mã QR** để tham gia phòng, rồi gửi file cho nhau. Xa nửa vòng trái đất cũng được.\n\nMã nguồn mở tại: https://github.com/szimek/sharedrop\n\n#ufs_share",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Cách gửi ảnh/video/file cho người khác nhanh chóng"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "IMPLICIT_LINK",
+                        "entity": {
+                            "__typename": "ExternalUrl",
+                            "__isEntity": "ExternalUrl",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.sharedrop.io%2F&h=AT5lBlZS9YAyS8kpv_MiU7OtntjbWYtR6jAD6AmadjAqfFdP2ARnBI46LabxI15wkBX4G9POSXt_uOjko36jTJK6ED6acR6yuMGmmVxbdwiLEwiE7fZ6kzcRg1jrgKbpDLKN60qchw&s=1",
+                            "external_url": "https://www.sharedrop.io/",
+                            "__isWebLinkable": "ExternalUrl",
+                            "web_link": {
+                                "__typename": "ExternalWebLink",
+                                "url": "https://www.sharedrop.io/",
+                                "fbclid": "IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgxrYRObi9SiV-veg3RRazCJb-W-ox2BOqS6Hz9bCrUHjjJtydIIHPk0edQc_aem_13hn5pJYF6d63sn7OEIb8A",
+                                "lynx_mode": "ASYNCLAZY"
+                            },
+                            "mobileUrl": "https://lm.facebook.com/l.php?u=https%3A%2F%2Fwww.sharedrop.io%2F&h=AT4-zNSHe8UFQi_gprgSBZi7n-MK7E0c9WTO6rHfn7i09XodGHBZm1hVDAZB5L2DOqUsx8oeWHSmRK_aE36hbuKX3GQnHK-wthg5SBn61yx3Nwh_P9ktO3dokk0J-lPVid0P2Q6_eQ&s=1",
+                            "__isNode": "ExternalUrl",
+                            "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3d3dy5zaGFyZWRyb3AuaW8vOjo6Ojo="
+                        },
+                        "length": 24,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "https://www.sharedrop.io"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Web này sử dụng công nghệ P2P - kết nối trực tiếp bạn và người nhận, không thông qua bên trung gian nào cả.\n"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 17,
+                        "offset": 0
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 11,
+                        "offset": 22
+                    }
+                ],
+                "text": "Không bị theo dõi hay bị lưu file bởi bên thứ 3"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 31,
+                        "offset": 12
+                    }
+                ],
+                "text": "Nhanh chóng không cần cài đặt hay đăng nhập (như zalo, google drive, ...)"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 15,
+                        "offset": 27
+                    }
+                ],
+                "text": "Tự động nhìn thấy nhau khi dùng chung mạng wifi/3g (giống chức năng AirDrop của macbook, iphone)"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 14,
+                        "offset": 25
+                    }
+                ],
+                "text": "Nếu khác mạng thì có thể gửi link/mã QR để tham gia phòng, rồi gửi file cho nhau. Xa nửa vòng trái đất cũng được."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Mã nguồn mở tại: https://github.com/szimek/sharedrop"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/ufs_share",
+                            "mobileUrl": "https://m.facebook.com/hashtag/ufs_share",
+                            "__isNode": "Hashtag",
+                            "id": "8156434557722932"
+                        },
+                        "length": 10,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#ufs_share"
+            }
+        ],
+        "hashtags": [
+            "#ufs_share"
+        ],
+        "mentions": [
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3d3dy5zaGFyZWRyb3AuaW8vOjo6Ojo=",
+                "name": "https://www.sharedrop.io/",
+                "url": "https://www.sharedrop.io/",
+                "length": 24,
+                "offset": 0
+            }
+        ],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 6,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 6,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1721020656000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1448471972474153",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2583727948465456",
+                "2583728281798756",
+                "2583728791798705"
+            ],
+            "photo_id": "2583727948465456",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1721020656,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1448471972474153"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=5-PRQA8cVSvRfb8S0z6ixg&_nc_ss=7a3a8&oh=00_Af25lQCRrcW67QWTDmQ8gfC778NuEftsWyZGReaOm1lR3A&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

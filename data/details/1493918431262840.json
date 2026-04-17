@@ -1,0 +1,118 @@
+{
+    "result": {
+        "id": "UzpfSTE0OTM5MTg0MzEyNjI4NDA6Vks6MTQ5MzkxODQzMTI2Mjg0MA==",
+        "post_id": "1493918431262840",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1493918431262840/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2647550658749851",
+                "url": "https://www.facebook.com/photo/?fbid=2647550658749851&set=gm.1493918431262840&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/494645217_2843250819179833_5875897698162595361_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=2tpjA5gp8psQ7kNvwF7JJ6Q&_nc_oc=AdpcwiCtJD5LqJBFrDDbe1NBWEKIovMRuxUyYbEV8IuSKCEjGP7-YTUvrDTU6XtePjQ&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=NX1me0bDMDTvW2SlSIBmQA&_nc_ss=7a3a8&oh=00_Af21LYIr15SOpfzU692vbYPDONyNwSWWXV_5buXj9k-BJw&oe=69E79B21",
+                "height": 719,
+                "width": 1610,
+                "accessibility_caption": "Có thể là hình ảnh về văn bản cho biết 'Toàn cầu Tim kičm rên Bảng tin ccbook Tất cả phím tắt trên Facebook Hiến phím tát Viet bình luận t1 Hiển thị phím lất Album ảnh Xem Tim kiếm Vaohoğr thoát chế Chuyến รชทาน Cộng đồng toàn nàn hình κ Anh theo Rài Tạo trưước ้ quả trước Thích Anh p theo thích Video trước dó viết Mở Thích ảnh đinh kèm cU tiếp viết 0 Tạo viết Nhóm dã ghim trưướic ለሽ nT liên p trên ghim Chia q viết Tìm kiếm trong cộng đồng Phím tắtmộtkýtự tmotkytEthực sưdunghimt&LmdtytwoEthst.hinha nhành treriFacebxraknharnhhcn Ghim phăn trợ giúp về phím'",
+                "accent_color": "FF252728",
+                "real_width": 1610,
+                "real_height": 719
+            },
+            "video": null
+        },
+        "text": "Những phím tắt khi dùng facebook trên máy tính có thể bạn đã biết 🫶",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 4,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 3,
+                    "name": "Thích"
+                },
+                {
+                    "id": "613557422527858",
+                    "count": 1,
+                    "name": "Thương thương"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1727510324000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1493918431262840",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2647550658749851",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1727510324,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1493918431262840"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=NX1me0bDMDTvW2SlSIBmQA&_nc_ss=7a3a8&oh=00_Af3efZb_lzTiquSRO_njLli1m6t4kUSQ9ZLLTRyU3JBAJQ&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

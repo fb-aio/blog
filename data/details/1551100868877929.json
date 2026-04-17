@@ -1,0 +1,405 @@
+{
+    "result": {
+        "id": "UzpfSTE1NTExMDA4Njg4Nzc5Mjk6Vks6MTU1MTEwMDg2ODg3NzkyOQ==",
+        "post_id": "1551100868877929",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1551100868877929/",
+        "media": {
+            "mediaset_token": "pcb.1551100868877929",
+            "subAttachments": [
+                {
+                    "id": "2726609660843950",
+                    "url": "https://www.facebook.com/photo.php?fbid=2726609660843950&set=gm.1551100872211262&type=3",
+                    "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/503978937_2879369705567944_7061621035163053266_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=exmrkoXq2IoQ7kNvwFtOFmv&_nc_oc=Adox6eAx739o9IAqMnHCCC0hiyemf54QlKNUi5FtgHJe9aFtcKjQ3eJeRmQ6ifelANo&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=jcVuUEltKYmA27U6k3mqhA&_nc_ss=7a3a8&oh=00_Af0pqUp-PP4g5JrbjSBGH6cjPoxy3FfwS41AkwXtpqezCg&oe=69E749A5",
+                    "height": 579,
+                    "width": 896,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 896,
+                    "real_height": 579
+                },
+                {
+                    "id": "2726612104177039",
+                    "url": "https://www.facebook.com/photo.php?fbid=2726612104177039&set=gm.1551100875544595&type=3",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/504213836_2879369318901316_5349294657784479711_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=3h5FwFsyKYAQ7kNvwEv6NQt&_nc_oc=Adr934JV95lTstU5Wf0bleCbQs-ETB52rqOvpzbRmmnNaEVv-F4R1iqto04-Ww5QHvE&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=jcVuUEltKYmA27U6k3mqhA&_nc_ss=7a3a8&oh=00_Af0ZJJo8ci4PIq7z7sW7dGEAWt_UiTyeMsGT1hc0d6o-Dg&oe=69E73AB3",
+                    "height": 436,
+                    "width": 830,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 830,
+                    "real_height": 436
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# **Awesome Privacy** - Danh sách ứng dụng thay thế ngon 👀 \n\nRepo này tổng hợp rất nhiều ứng dụng f.ree, mã nguồn mở, có thể thay thế cho những ứng dụng trả phí trên thị trường. 🤯\n\nHơn nữa còn đề cao tiêu chí bảo mật người dùng (privacy), không theo dõi, không mã độc \n\nVới mỗi thể loại ứng dụng, sẽ có:\n\n⛔ **Avoid: **Ứng dụng gốc - không nên dùng\n\n✅ **Instead use: **Ứng dụng thay thế - nên dùng\n\nMột vài ví dụ như:\n* ⛔ ChatGPT  => ✅ Jan \n* ⛔** **Google Photos =>** **✅ Aves\n* ⛔ Midjourney => ✅ Stable Diffusion\n* ...\n\nLinh dưới còm",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 15,
+                        "offset": 0
+                    }
+                ],
+                "text": "Awesome Privacy - Danh sách ứng dụng thay thế ngon 👀 "
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 14,
+                        "offset": 28
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 8,
+                        "offset": 64
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 16,
+                        "offset": 83
+                    }
+                ],
+                "text": "Repo này tổng hợp rất nhiều ứng dụng f.ree, mã nguồn mở, có thể thay thế cho những ứng dụng trả phí trên thị trường. 🤯"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 7,
+                        "offset": 28
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 30,
+                        "offset": 57
+                    }
+                ],
+                "text": "Hơn nữa còn đề cao tiêu chí bảo mật người dùng (privacy), không theo dõi, không mã độc "
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Với mỗi thể loại ứng dụng, sẽ có:"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 7,
+                        "offset": 2
+                    }
+                ],
+                "text": "⛔ Avoid: Ứng dụng gốc - không nên dùng"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 13,
+                        "offset": 2
+                    }
+                ],
+                "text": "✅ Instead use: Ứng dụng thay thế - nên dùng"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Một vài ví dụ như:"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "⛔ ChatGPT  => ✅ Jan "
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 1,
+                        "offset": 1
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 1,
+                        "offset": 18
+                    }
+                ],
+                "text": "⛔ Google Photos => ✅ Aves"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "⛔ Midjourney => ✅ Stable Diffusion"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "..."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Linh dưới còm"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 1,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 29,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 27,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 2,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 7,
+        "created_time": 1735051750000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1551100868877929",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2726609660843950",
+                "2726612104177039"
+            ],
+            "photo_id": "2726609660843950",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1735051750,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1551100868877929"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=jcVuUEltKYmA27U6k3mqhA&_nc_ss=7a3a8&oh=00_Af2VinP2eLQHjVjyZhmVfOAkrLq1ld-WD9qreyseFaaKiQ&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

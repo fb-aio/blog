@@ -1,0 +1,278 @@
+{
+    "result": {
+        "id": "UzpfSTE0OTAzNjQ4MjE2MTgyMDE6Vks6MTQ5MDM2NDgyMTYxODIwMQ==",
+        "post_id": "1490364821618201",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1490364821618201/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2642513755920208",
+                "url": "https://www.facebook.com/photo/?fbid=2642513755920208&set=gm.1490364821618201&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/494646051_2841375662700682_5918887035113117777_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=jfcZW6kTyNoQ7kNvwESmlA8&_nc_oc=Ado9Wy6yGPU8jfzvWW6ecvPKIV0OiLIWZMWV6Jutvr8VG5DDVkWWKYUPSuXazAG_N_k&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=riVNljGukAk4ha-HFicExw&_nc_ss=7a3a8&oh=00_Af2sgEb8u-LNno-Z62ARcVLnJ557NH9XIpR0JQXmoWKaDA&oe=69E77EE4",
+                "height": 875,
+                "width": 1159,
+                "accessibility_caption": "Có thể là đồ họa về 6 người và văn bản",
+                "accent_color": "FF1C1F24",
+                "real_width": 1159,
+                "real_height": 875
+            },
+            "video": null
+        },
+        "text": "# Linkedin Premium 2 tháng cho nguời nhanh tay nhất 😁\n\n***Update:** Đã được lụm bởi bác Minh Tuấn (trong bình luận)*\n\n**Chỉ 1 slot**, và hạn chót lấy tới 6/10 nhá.\n\nI’d like to share a free 2-month trial of LinkedIn Premium Business with you. Join millions of members who use Premium to achieve their goals faster with exclusive access to insights, search tools, and direct messaging.\n\nHurry! Offer expires on Oct 6, 2024 at 12:00 AM (PDT). Terms apply.\n\nhttp://www.linkedin.com/premium/redeem/?planType=professional&_ed=lVVMT7D6K8W6lbTZl5_Ma2WxOjG&redeemType=REFERRAL_COUPON&upsellOrderOrigin=premium_referrals_my_premium",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Linkedin Premium 2 tháng cho nguời nhanh tay nhất 😁"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "ITALIC",
+                        "length": 55,
+                        "offset": 1
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 7,
+                        "offset": 1
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 55,
+                        "offset": 1
+                    }
+                ],
+                "text": "\nUpdate: Đã được lụm bởi bác Minh Tuấn (trong bình luận)\n"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 10,
+                        "offset": 0
+                    }
+                ],
+                "text": "Chỉ 1 slot, và hạn chót lấy tới 6/10 nhá."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "\nI’d like to share a free 2-month trial of LinkedIn Premium Business with you. Join millions of members who use Premium to achieve their goals faster with exclusive access to insights, search tools, and direct messaging."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Hurry! Offer expires on Oct 6, 2024 at 12:00 AM (PDT). Terms apply."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "IMPLICIT_LINK",
+                        "entity": {
+                            "__typename": "ExternalUrl",
+                            "__isEntity": "ExternalUrl",
+                            "url": "https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.linkedin.com%2Fpremium%2Fredeem%2F%3FplanType%3Dprofessional%26_ed%3DlVVMT7D6K8W6lbTZl5_Ma2WxOjG%26redeemType%3DREFERRAL_COUPON%26upsellOrderOrigin%3Dpremium_referrals_my_premium&h=AT4Im0pwYZItBfyc97FkNYSo_u1Gvwg_PMRdX2mNKYD5C_C4EvYc-1kRgFWHQy7-KUkhe7Jbc8KN-NRSXc9QsJyJ6vf4PT3-LEZbf0b1GtxC73GLMAu83eNisswBszbXH-RzCnzFdw&s=1",
+                            "external_url": "http://www.linkedin.com/premium/redeem/?planType=professional&_ed=lVVMT7D6K8W6lbTZl5_Ma2WxOjG&redeemType=REFERRAL_COUPON&upsellOrderOrigin=premium_referrals_my_premium",
+                            "__isWebLinkable": "ExternalUrl",
+                            "web_link": {
+                                "__typename": "ExternalWebLink",
+                                "url": "http://www.linkedin.com/premium/redeem/?planType=professional&_ed=lVVMT7D6K8W6lbTZl5_Ma2WxOjG&redeemType=REFERRAL_COUPON&upsellOrderOrigin=premium_referrals_my_premium",
+                                "fbclid": "IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrpxkR58WFDP2kDI9sh-7nx8pEhjlW3Se9HN30OrMwbGtiAgJy29XM_6gBXb_aem_w_XRzmIbxlVkOKSKtk2phQ",
+                                "lynx_mode": "ASYNCLAZY"
+                            },
+                            "mobileUrl": "https://lm.facebook.com/l.php?u=http%3A%2F%2Fwww.linkedin.com%2Fpremium%2Fredeem%2F%3FplanType%3Dprofessional%26_ed%3DlVVMT7D6K8W6lbTZl5_Ma2WxOjG%26redeemType%3DREFERRAL_COUPON%26upsellOrderOrigin%3Dpremium_referrals_my_premium&h=AT4Tjbf4sIDaTZBbbiDUjqzmb3Oh5aMPJ4gP-dC-mmNwVZZbTQ64cEEU-wiFCnU5rzNKCp2u-LQIkaW2U7XN8xqHorfyefiQ8in3_fwMX-I9av2krFdd-xqYVRZxefFDuL1yDfritw&s=1",
+                            "__isNode": "ExternalUrl",
+                            "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBcYS8vd3d3LmxpbmtlZGluLmNvbS9wcmVtaXVtL3JlZGVlbS8/cGxhblR5cGU9cHJvZmVzc2lvbmFsJlxiZWQ9bFZWTVQ3RDZLOFc2bGJUWmw1XGJNYTJXeE9qRyZyZWRlZW1UeXBlPVJFRkVSUkFMXGJDT1VQT04mdXBzZWxsT3JkZXJPcmlnaW49cHJlbWl1bVxicmVmZXJyYWxzXGJteVxicHJlbWl1bTo6Ojo6"
+                        },
+                        "length": 167,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "http://www.linkedin.com/premium/redeem/?planType=professional&_ed=lVVMT7D6K8W6lbTZl5_Ma2WxOjG&redeemType=REFERRAL_COUPON&upsellOrderOrigin=premium_referrals_my_premium"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBcYS8vd3d3LmxpbmtlZGluLmNvbS9wcmVtaXVtL3JlZGVlbS8/cGxhblR5cGU9cHJvZmVzc2lvbmFsJlxiZWQ9bFZWTVQ3RDZLOFc2bGJUWmw1XGJNYTJXeE9qRyZyZWRlZW1UeXBlPVJFRkVSUkFMXGJDT1VQT04mdXBzZWxsT3JkZXJPcmlnaW49cHJlbWl1bVxicmVmZXJyYWxzXGJteVxicHJlbWl1bTo6Ojo6",
+                "name": "http://www.linkedin.com/premium/redeem/?planType=professional&_ed=lVVMT7D6K8W6lbTZl5_Ma2WxOjG&redeemType=REFERRAL_COUPON&upsellOrderOrigin=premium_referrals_my_premium",
+                "url": "http://www.linkedin.com/premium/redeem/?planType=professional&_ed=lVVMT7D6K8W6lbTZl5_Ma2WxOjG&redeemType=REFERRAL_COUPON&upsellOrderOrigin=premium_referrals_my_premium",
+                "length": 167,
+                "offset": 0
+            }
+        ],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 4,
+            "total_count": 11,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 7,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 5,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 2,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1727066460000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1490364821618201",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2642513755920208",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1727066460,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1490364821618201"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=riVNljGukAk4ha-HFicExw&_nc_ss=7a3a8&oh=00_Af1sJ09PhFfoeL9qoAvU4o_Pl2YmAr5aHd2kVpFQ6-9cwg&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

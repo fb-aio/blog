@@ -1,0 +1,130 @@
+{
+    "result": {
+        "id": "UzpfSTE4ODIwNjc0OTI0NDc5MzA6Vks6MTg4MjA2NzQ5MjQ0NzkzMA==",
+        "post_id": "1882067492447930",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1882067492447930/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "3169780579860187",
+                "url": "https://www.facebook.com/photo/?fbid=3169780579860187&set=gm.1882067492447930&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/657465703_3169780583193520_3016965538418833355_n.jpg?stp=dst-jpg_p1080x2048_tt6&_nc_cat=105&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=jfD5Ei8CiP8Q7kNvwFBMDG4&_nc_oc=AdqvYs60B_ruFnYHCOUkjvX85xQk59u7aT8oO180zhckHvi4L3n9o84MBMYndrQHa20&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=CqNHpmaojfJpSQ2cXWyccQ&_nc_ss=7a3a8&oh=00_Af2Y3pQ6spfNLIMyME1HrF_Ph7UHlONJdMnTOgFAdCBjww&oe=69E718DB",
+                "height": 2401,
+                "width": 1080,
+                "accessibility_caption": "Có thể là hình ảnh về điện thoại và văn bản cho biết '14:56 168 KBis 6 3 Tim nội dung liên quan E ETranghú|FBAIO hú|FBAIO Tìm kiếm fb-aio.github.io Incognito F FBAIO FB AIO Mới thiệu ο Video Chrome Firefox hr ၅ြိ) Tìm tương tự> 236 24 extension này có khá nhiều người SỬ dụng 63 11 Mai Trung Đức 4 giờ trước Họ làm điều này với devtool như thế nào? #coding #programming #tren.. #tren...thêm thêm Tìm kiếm devtools Thêm bình luận...'",
+                "accent_color": "FF000000",
+                "real_width": 1220,
+                "real_height": 2712
+            },
+            "video": null
+        },
+        "text": "Đợi mãi mới có người vọc FB AIO 🤣\n\nAe vọc cứ nhiều lên để FB AIO nhiều người biết tới hơn nha, cảm ơn ae 😎\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 2,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 12,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 10,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 2,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1774684666000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1882067492447930",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "3169780579860187",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1774684666,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1882067492447930"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=CqNHpmaojfJpSQ2cXWyccQ&_nc_ss=7a3a8&oh=00_Af1ilC9UUgbIbtvzRCTfNP9xsLAGYA4H4vJT-5eionF4Rw&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

@@ -1,0 +1,270 @@
+{
+    "result": {
+        "id": "UzpfSTE1MDIyNjI3MjM3NjE3NDQ6Vks6MTUwMjI2MjcyMzc2MTc0NA==",
+        "post_id": "1502262723761744",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1502262723761744/",
+        "media": {
+            "mediaset_token": "pcb.1502262723761744",
+            "subAttachments": [
+                {
+                    "id": "2660116240826626",
+                    "url": "https://www.facebook.com/photo.php?fbid=2660116240826626&set=gm.1502262720428411&type=3",
+                    "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/498549491_2857980521040196_5286012887323326951_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=i_0yyN9b-r4Q7kNvwHV_nop&_nc_oc=AdqjTs4cPrc1x42PO18qU9_d-F8dhrhnXbtLPTDfMA7FVD1V--MMT1UT0Fs4tkT0s2w&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=49KXoKz7iFZmNUIO7-4WCA&_nc_ss=7a3a8&oh=00_Af0xQhB0WXWMXKOnt5ewKXnCjecYRiAyZM1544ITaajhFQ&oe=69E73FA2",
+                    "height": 502,
+                    "width": 617,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 617,
+                    "real_height": 502
+                },
+                {
+                    "id": "2660116484159935",
+                    "url": "https://www.facebook.com/photo.php?fbid=2660116484159935&set=gm.1502262717095078&type=3",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/498632015_2857980534373528_4017284880783670479_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=WgW8JpRCBG0Q7kNvwELrv4L&_nc_oc=Adqrvcm1-4_bW8n2DmDetTmOUaaXL5JGxckDo2MRAkxAOspL8GX7I70laOLcL4qVoy4&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=49KXoKz7iFZmNUIO7-4WCA&_nc_ss=7a3a8&oh=00_Af1bmbimHhud-JtPXurSZEpSl2d1EVE1TQ27q24tsaSTwA&oe=69E71515",
+                    "height": 449,
+                    "width": 893,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 893,
+                    "real_height": 449
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Ôi không chơi ngu rồi.\n\nFB AIO sẽ không hiện trên chrome webstore vài ngày.\n\nLý do:\n* Mình muốn update bản mới cho tiện ích trên cửa hàng chrome\n* Đã gửi bản mới lên để xem xét\n* Nhưng nhận ra còn lỗi nên muốn huỷ xuất bản để up bản khác\n* Nhưng google lại xoá luôn bản đang hoạt động trên cửa hàng chrome\n* Giờ lên mọi người sẽ không thấy để tải nữa\n\nGiao diện của google khó hiểu thật sự, có ai có kinh nghiệm up extension lên store chưa chỉ mình với.",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Ôi không chơi ngu rồi."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "FB AIO sẽ không hiện trên chrome webstore vài ngày."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Lý do:"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Mình muốn update bản mới cho tiện ích trên cửa hàng chrome"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Đã gửi bản mới lên để xem xét"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Nhưng nhận ra còn lỗi nên muốn huỷ xuất bản để up bản khác"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Nhưng google lại xoá luôn bản đang hoạt động trên cửa hàng chrome"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Giờ lên mọi người sẽ không thấy để tải nữa"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Giao diện của google khó hiểu thật sự, có ai có kinh nghiệm up extension lên store chưa chỉ mình với."
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 6,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 30,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 25,
+                    "name": "Thích"
+                },
+                {
+                    "id": "908563459236466",
+                    "count": 4,
+                    "name": "Buồn"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1728554520000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1502262723761744",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2660116240826626",
+                "2660116484159935"
+            ],
+            "photo_id": "2660116240826626",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1728554520,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1502262723761744"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=49KXoKz7iFZmNUIO7-4WCA&_nc_ss=7a3a8&oh=00_Af2fwconGfunGKNUAvXz0WP4SFVafIQjJcYSsgVIkO9esg&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

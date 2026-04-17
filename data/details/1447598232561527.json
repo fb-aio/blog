@@ -1,0 +1,152 @@
+{
+    "result": {
+        "id": "UzpfSTE0NDc1OTgyMzI1NjE1Mjc6Vks6MTQ0NzU5ODIzMjU2MTUyNw==",
+        "post_id": "1447598232561527",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1447598232561527/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2582603635244554",
+                "url": "https://www.facebook.com/photo/?fbid=2582603635244554&set=gm.1447598232561527&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/489538256_2818114981693417_7944109286415520907_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=0u7WEitI2PcQ7kNvwFeXg7W&_nc_oc=AdpRqn-6YB6gbApXKvDcWb6DiTeiSKvEiZRXW4C0mgUqcezfu_KUcacZoExXEsQLLBk&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=RhwUMYad2dMQeE_pkuVg3Q&_nc_ss=7a3a8&oh=00_Af0RiCcsttvTpirkUc5DXhlQTOEj8P2cgVcJwd5zoUtfPA&oe=69E77AE5",
+                "height": 818,
+                "width": 1138,
+                "accessibility_caption": "Không có mô tả ảnh.",
+                "accent_color": "FFECEEF2",
+                "real_width": 1138,
+                "real_height": 818
+            },
+            "video": null
+        },
+        "text": "Nếu bạn ra ngoài trời và nằm xuống đất, há miệng lên trời thì mất bao lâu để 1 cục cức chym từ trên  trời rơi trúng miệng bạn?  🤔\n\nNghe thì vô tri và như câu truyện \"Há miệng chờ sung\" của Việt Nam ấy nhỉ.\n\nNhưng thực sự có thể dùng toán học để tính ra kết quả đó nha.\nXác suất khoảng 195 năm / lần đó :)) \n\nXem ở đây nè:\nhttps://what-if.xkcd.com/11/ \n\nCho bạn nào chưa biết thì trang này chuyên tổng hợp những câu hỏi vô tri kiểu đó và tìm cách giải khoa học nhất có thể. \n\nTrang này cũng có trang youtube riêng cho bạn nào thích nghe này, tiếng anh nhé: https://www.youtube.com/@xkcd_whatif\n\n#ufs_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#ufs_share"
+        ],
+        "mentions": [
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3doYXQtaWYueGtjZC5jb20vMTEvOjo6OjoxNDQ3NTk4MjMyNTYxNTI3",
+                "name": "https://what-if.xkcd.com/11/",
+                "url": "https://what-if.xkcd.com/11/",
+                "length": 28,
+                "offset": 322
+            },
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3d3dy55b3V0dWJlLmNvbS9AeGtjZFxid2hhdGlmOjo6OjoxNDQ3NTk4MjMyNTYxNTI3",
+                "name": "https://www.youtube.com/@xkcd_whatif",
+                "url": "https://www.youtube.com/@xkcd_whatif",
+                "length": 36,
+                "offset": 556
+            }
+        ],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 3,
+            "total_count": 3,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 6,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 4,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 1,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1720879554000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1447598232561527",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2582603635244554",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1720879554,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1447598232561527"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=RhwUMYad2dMQeE_pkuVg3Q&_nc_ss=7a3a8&oh=00_Af3HjR44LXguhfpWi3MIDW8efys5YL1XoUfUe_saHgOO0w&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

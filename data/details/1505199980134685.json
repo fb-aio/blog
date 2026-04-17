@@ -1,0 +1,160 @@
+{
+    "result": {
+        "id": "UzpfSTE1MDUxOTk5ODAxMzQ2ODU6Vks6MTUwNTE5OTk4MDEzNDY4NQ==",
+        "post_id": "1505199980134685",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1505199980134685/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Cách mấy idol cr.ac.k app\nDùng reverse engineering 😬\nHardcode quá\n\nNày xem để biết người biết ta thôi, không khuyến khích mn làm điều trái lương tâm nha 😂",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 8,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 8,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 2,
+        "created_time": 1728895550000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1505199980134685",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "2665059460332304",
+            "original_content_owner_id": "100004848287494",
+            "story_location": 9,
+            "attached_story_attachment_style": "share",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "ExternalShareAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "2665059460332304",
+                        "sharedMediaID": "1505199980134685",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1728895550,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1505199980134685"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=U8ghzK1kopdnE-AEXKyUQA&_nc_ss=7a3a8&oh=00_Af1-nxci7ctAMMq-HJpgjounr0urxSH1sqy8wiYTtEUofw&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDAwNDg0ODI4NzQ5NDoyNjY1MDU5NDYwMzMyMzA0OjI2NjUwNTk0NjAzMzIzMDQ=",
+            "post_id": "2665059460332304",
+            "url": "https://www.facebook.com/9999.hoangtran/posts/pfbid06X5k6sTdFML83QdsAwYwcsBxMe8hUARyRNRRgxHy7VLGqcWQnhLuHsjGMDtSFLyjl",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "2665059456998971",
+                    "url": "https://youtube.com/watch?v=FBwRTWEzGN0",
+                    "uri": "https://external.fsgn2-9.fna.fbcdn.net/emg1/v/t13/1760688721586950476?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FFBwRTWEzGN0%2Fmaxresdefault.jpg&fb_obo=1&utld=ytimg.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p1000x522_q75_tt6&_nc_gid=U8ghzK1kopdnE-AEXKyUQA&_nc_oc=Adqd3ES02-m6VsYkFRecL2vwom8_hAGOH_hVLAFIxgAKVH5roc7h5P4FwFqCak5geqU&ccb=13-1&oh=06_Q3--AXgTFBdMQ4rDD1gtPVDDUu8m46ZAykrJT5HsJ7uuchb_&oe=69E38CE0&_nc_sid=c97757",
+                    "height": 522,
+                    "width": 1000,
+                    "accessibility_caption": "How to Crack Software (Reverse Engineering)"
+                },
+                "video": null
+            },
+            "text": "🤐🤐🥶🥶",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Hoang Tran",
+                    "id": "100004848287494",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/9999.hoangtran",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1728883904000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

@@ -1,0 +1,295 @@
+{
+    "result": {
+        "id": "UzpfSTE1NDMyODY5OTI5OTI2NTA6Vks6MTU0MzI4Njk5Mjk5MjY1MA==",
+        "post_id": "1543286992992650",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1543286992992650/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2717329021772014",
+                "url": "https://www.facebook.com/photo/?fbid=2717329021772014&set=gm.1543286992992650&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/504019966_2879318178906430_4019410028501713047_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=HA07Fy6DJF0Q7kNvwGGUDRt&_nc_oc=AdqmYvzD_7E9iP2cG8QQXuT1Vi9UiUiLmOBEZDYFma2bq1CZpQsi7mBFYtEFdXO9kmo&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=ZP0zYIoSWO-qKGDziQiPng&_nc_ss=7a3a8&oh=00_Af3Y1idFU7HWlIc66ALYAP8L3P5a-Ay80E6pqHTPjTD6BA&oe=69E78495",
+                "height": 823,
+                "width": 1106,
+                "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                "accent_color": "FFFFFFFF",
+                "real_width": 1106,
+                "real_height": 823
+            },
+            "video": null
+        },
+        "text": "# **Lưu ý quan trọng 🚨**\n\nCó bác **Hoàng Nguyễn** trong này không? Cứ dơ tay lên mình sẽ hỗ trợ nhé, sao lại vội vàng đánh 1 sao thế 🫥\n\nSẵn lưu ý luôn tới mọi người vụ fb phát hiện to.ol tự động\n* Nên có khoảng thời gian chờ vài giây giữa những lần thực hiện chức năng (huỷ kết bạn, bỏ theo dõi,...)\n* Không nên bấm liên tục, bấm từng cái, xong rồi mới bấm tiếp\n* Nên để fb aio tự bấm cho b, fb aio có sẵn cơ chế chờ (chọn dòng trước rồi bấm nút chạy hà.ng lo.ạt)\n* Nếu vào fb mà hiện popup \"phát hiện hành vi tự động\" thì bấm bỏ qua là được, lần sau dùng cẩn thận hơn, theo 3 điều trên (mình hiện popup 2-3 lần rồi acc vẫn sống ngon)\n* Nếu phát hiện bất kì lỗi nào, b cứ báo lên nhóm, mình và mn sẵn sàng giúp đỡ",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 18,
+                        "offset": 0
+                    }
+                ],
+                "text": "Lưu ý quan trọng 🚨"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 12,
+                        "offset": 7
+                    }
+                ],
+                "text": "Có bác Hoàng Nguyễn trong này không? Cứ dơ tay lên mình sẽ hỗ trợ nhé, sao lại vội vàng đánh 1 sao thế 🫥"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 26,
+                        "offset": 32
+                    }
+                ],
+                "text": "Sẵn lưu ý luôn tới mọi người vụ fb phát hiện to.ol tự động"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 13,
+                        "offset": 14
+                    }
+                ],
+                "text": "Nên có khoảng thời gian chờ vài giây giữa những lần thực hiện chức năng (huỷ kết bạn, bỏ theo dõi,...)"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 22,
+                        "offset": 0
+                    }
+                ],
+                "text": "Không nên bấm liên tục, bấm từng cái, xong rồi mới bấm tiếp"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 13,
+                        "offset": 7
+                    }
+                ],
+                "text": "Nên để fb aio tự bấm cho b, fb aio có sẵn cơ chế chờ (chọn dòng trước rồi bấm nút chạy hà.ng lo.ạt)"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 27,
+                        "offset": 25
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 6,
+                        "offset": 61
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 12,
+                        "offset": 90
+                    }
+                ],
+                "text": "Nếu vào fb mà hiện popup \"phát hiện hành vi tự động\" thì bấm bỏ qua là được, lần sau dùng cẩn thận hơn, theo 3 điều trên (mình hiện popup 2-3 lần rồi acc vẫn sống ngon)"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 12,
+                        "offset": 35
+                    }
+                ],
+                "text": "Nếu phát hiện bất kì lỗi nào, b cứ báo lên nhóm, mình và mn sẵn sàng giúp đỡ"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 3,
+            "total_count": 6,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 14,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 10,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 4,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1733995244000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1543286992992650",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2717329021772014",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1733995244,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1543286992992650"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=ZP0zYIoSWO-qKGDziQiPng&_nc_ss=7a3a8&oh=00_Af2Xs3sJzHn1ThGeFMTZor92BYf2z1bBUkLB7yPXtHHvZg&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

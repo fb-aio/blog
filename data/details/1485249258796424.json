@@ -1,0 +1,194 @@
+{
+    "result": {
+        "id": "UzpfSTE0ODUyNDkyNTg3OTY0MjQ6Vks6MTQ4NTI0OTI1ODc5NjQyNA==",
+        "post_id": "1485249258796424",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1485249258796424/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2635195409985376",
+                "url": "https://www.facebook.com/photo/?fbid=2635195409985376&set=gm.1485249258796424&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/494079968_2838702562967992_5955529192078997141_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=BI75QNNpDp4Q7kNvwEgMUaf&_nc_oc=Adr2N3-I91KF5dW5QClW7ZBgQCHA5t2zoEQWe2zaq1Gk9IJ5VGRd04S5ouwfIJd95UY&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=d4v1wOPd8Ybz0xH0xLHbig&_nc_ss=7a3a8&oh=00_Af3K6JkmFaM5Es6sR65YPnFjUULJPSRHCWzcO7jM9tDDzw&oe=69E79647",
+                "height": 896,
+                "width": 1277,
+                "accessibility_caption": "Không có mô tả ảnh.",
+                "accent_color": "FFEDEDED",
+                "real_width": 1277,
+                "real_height": 896
+            },
+            "video": null
+        },
+        "text": "# Nghe nói cứ có chữ **VIP** là sẽ xịn xò\n\nVí dụ anh OKVIP với 14 tỷ quyên góp này đây 🥹🥹🥹\n\nCheck var nè: https://j2c.cc/saoke_yagi\n> *Hoặc FB AIO VIP cũng xịn luôn kkk*",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 3,
+                        "offset": 19
+                    }
+                ],
+                "text": "Nghe nói cứ có chữ VIP là sẽ xịn xò"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Ví dụ anh OKVIP với 14 tỷ quyên góp này đây 🥹🥹🥹"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Check var nè: https://j2c.cc/saoke_yagi"
+            },
+            {
+                "__typename": "ComposedBlockquoteBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                "block_type": "BLOCKQUOTE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "ITALIC",
+                        "length": 33,
+                        "offset": 0
+                    }
+                ],
+                "text": "Hoặc FB AIO VIP cũng xịn luôn kkk"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 4,
+            "total_count": 23,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 21,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 13,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 7,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 1,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1726410019000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1485249258796424",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2635195409985376",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1726410019,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1485249258796424"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=d4v1wOPd8Ybz0xH0xLHbig&_nc_ss=7a3a8&oh=00_Af05i9g-6bAaJAI9UBfK-0g8taoTkt71mrCrmNy7MW2Q_w&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

@@ -1,0 +1,241 @@
+{
+    "result": {
+        "id": "UzpfSTE2OTQzNzY4OTc4ODM2NTg6Vks6MTY5NDM3Njg5Nzg4MzY1OA==",
+        "post_id": "1694376897883658",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1694376897883658/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Không bằng con bò 🥹",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Không bằng con bò 🥹"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 1,
+            "top": [
+                {
+                    "id": "115940658764963",
+                    "count": 1,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1753288069000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1694376897883658",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "747263301390548",
+            "original_content_owner_id": "100083206538405",
+            "page_id": "105173145002467",
+            "story_location": 9,
+            "attached_story_attachment_style": "video_autoplay",
+            "video_id": "1283868879771361",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "VideoAttachment",
+            "page_insights": {
+                "100083206538405": {
+                    "page_id": "100083206538405",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100083206538405",
+                        "page_id_type": "page",
+                        "actor_id": "100083206538405",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1753272294,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "747263301390548"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1694376897883658",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100083206538405",
+                            "post_id": "747263301390548",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "747263301390548",
+                        "sharedMediaID": "1694376897883658",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1753288069,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1694376897883658"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=jam3FOfUl1DqrsRkbxv8vA&_nc_ss=7a3a8&oh=00_Af0eVxK8tdbXPn7yCVx7ebgK2zAVmB1HqVkZ7EBDUmGavw&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA4MzIwNjUzODQwNTo3NDcyNjMzMDEzOTA1NDg6NzQ3MjYzMzAxMzkwNTQ4",
+            "post_id": "747263301390548",
+            "url": "https://www.facebook.com/infolove/videos/1283868879771361/",
+            "media": {
+                "subAttachments": [],
+                "photo": null,
+                "video": {
+                    "id": "1283868879771361",
+                    "url": "https://www.facebook.com/infolove/videos/1283868879771361/",
+                    "thumbnail": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t15.5256-10/524338928_757297270174472_243305578814634240_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=50ce42&_nc_ohc=YUYASghjl30Q7kNvwFp4Rs2&_nc_oc=Adrpy5wvujlPBszq_fLtwGfwY0mz_i0zCFcH7JyrZ2DgjqZ6-723MQYC6A5RTZQiCRo&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=jam3FOfUl1DqrsRkbxv8vA&_nc_ss=7a3a8&oh=00_Af0DE5b0jV7iRXQ6l6k3YY-3gg6hflxFCCfEcPr1gnubJQ&oe=69E7794C",
+                    "duration": 96900,
+                    "width": 1440,
+                    "height": 1080,
+                    "original_width": 1440,
+                    "original_height": 1080,
+                    "publish_time": 0,
+                    "audio_availability": "AVAILABLE",
+                    "is_live_streaming": false,
+                    "is_spherical": false,
+                    "is_looping": false,
+                    "loop_count": 0,
+                    "source": {
+                        "variants": []
+                    },
+                    "sprite": {
+                        "uris": [
+                            "https://scontent.fsgn2-3.fna.fbcdn.net/v/t15.5256-10/522404210_763678026219414_4780313428625133684_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=62976d&_nc_ohc=ZlxlM_k46JgQ7kNvwGqWdql&_nc_oc=Adrq2jhAUH8XhaU0AC1wA9WgKwfGnt_m_QxikwCXBLKcr_L2Bp4PSKtUYEWi8z57aLk&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=jam3FOfUl1DqrsRkbxv8vA&_nc_ss=7a3a8&oh=00_Af3cYd9oDzwZpVzdP8b9o9f4P4VKKVedQDrLGIRWGSntCA&oe=69E78C5E"
+                        ],
+                        "thumbnail_width": 106,
+                        "thumbnail_height": 80,
+                        "num_images_per_row": 10,
+                        "max_number_of_images_per_sprite": 100,
+                        "time_interval_between_image": 1
+                    }
+                }
+            },
+            "text": "Đến con bò còn được đi săn mây mà mình vẫn phải bán mình cho tư bản 🥺 ‎",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "𝙇𝙤𝙫𝙚",
+                    "id": "100083206538405",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/infolove",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1753272294000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

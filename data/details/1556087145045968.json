@@ -1,0 +1,159 @@
+{
+    "result": {
+        "id": "UzpfSTE1NTYwODcxNDUwNDU5Njg6Vks6MTU1NjA4NzE0NTA0NTk2OA==",
+        "post_id": "1556087145045968",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1556087145045968/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2655320581327093",
+                "url": "https://www.facebook.com/photo/?fbid=2655320581327093&set=gm.1556087145045968&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/503657360_2802320143293802_303208519814637039_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=OI8r_pHdc1oQ7kNvwHcB5k6&_nc_oc=AdqYQ8ZcQm7sRBU3LD43Yc6-QAObv9gOb5zypkMcORDWExIGxfraV7GkaOXm4lC7tf0&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=VgdznEGMT0mRVSJ1spRGbg&_nc_ss=7a3a8&oh=00_Af2bHyvbSwBpkc5DLdfyprJq7tljRZhC3GwiazwI1PFIbw&oe=69E76499",
+                "height": 662,
+                "width": 1367,
+                "accessibility_caption": "Không có mô tả ảnh.",
+                "accent_color": "FF121212",
+                "real_width": 1367,
+                "real_height": 662
+            },
+            "video": null
+        },
+        "text": "How awesome? 😎 \nAppreciate the window to try the new features, cheers Hoang Tran. 🙏\n\nWondering if the ability to download my list of 'saved' Threads in bulk is on the road map? I'd like to be able to capture my 'saved' Threads data & metadata, then export as a csv file. Super handy feature 👊",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [
+            {
+                "type": "User",
+                "id": "100004848287494",
+                "name": "Hoang",
+                "url": "https://www.facebook.com/9999.hoangtran",
+                "length": 10,
+                "offset": 70
+            }
+        ],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100005475305154",
+                "name": "Sarah McKee",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/iamsairmckee"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 9,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 8,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1735732272000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1556087145045968",
+            "content_owner_id_new": "100005475305154",
+            "page_id": "101224352955848",
+            "photo_id": "2655320581327093",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "100005475305154": {
+                    "page_id": "100005475305154",
+                    "page_id_type": "page",
+                    "actor_id": "100005475305154",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1735729205,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1556087145045968"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100005475305154",
+                            "page_id": "100005475305154",
+                            "post_id": "1556087145045968",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100005475305154",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1735729205,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1556087145045968"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100005475305154",
+            "actrs": "100005475305154",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=VgdznEGMT0mRVSJ1spRGbg&_nc_ss=7a3a8&oh=00_Af3RLuy5WhP3ZbIK2e2k6Fbwx5zo42RbBirt9qHDKjSsSg&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

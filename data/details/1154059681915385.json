@@ -1,0 +1,243 @@
+{
+    "result": {
+        "id": "UzpfSTExNTQwNTk2ODE5MTUzODU6Vks6MTE1NDA1OTY4MTkxNTM4NQ==",
+        "post_id": "1154059681915385",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1154059681915385/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Cập nhật version 1.4",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 2,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 21,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 13,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 7,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 1,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1671984868000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1154059681915385",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "2202755153229406",
+            "original_content_owner_id": "100004848287494",
+            "photo_id": "2202752889896299",
+            "story_location": 9,
+            "attached_story_attachment_style": "album",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "2202755153229406",
+                        "sharedMediaID": "1154059681915385",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1671984868,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1154059681915385"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=u86TZgQp10_aHRBsSrj56A&_nc_ss=7a3a8&oh=00_Af2CPCAmBWjY41IbdP493_G1lhtquAa_yPPhkNRGvyPZSg&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDAwNDg0ODI4NzQ5NDoyMjAyNzU1MTUzMjI5NDA2OjIyMDI3NTUxNTMyMjk0MDY=",
+            "post_id": "2202755153229406",
+            "url": "https://www.facebook.com/9999.hoangtran/posts/pfbid02UVnHHxBouThHJhzqDPV9DTo36ZGkFGoUcf7H75ZgchkkEw3MSevWxH7ggsuY2mmNl",
+            "media": {
+                "mediaset_token": "pcb.2202755153229406",
+                "subAttachments": [
+                    {
+                        "id": "2202752889896299",
+                        "url": "https://www.facebook.com/photo.php?fbid=2202752889896299&set=a.283939495110991&type=3",
+                        "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/485693965_2797852907052958_8074522052938047477_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_ohc=IiZqei787hIQ7kNvwF4v-lQ&_nc_oc=AdrebqUOepdkX8pozt10tZKMV28eRLMmogUYn6_lQ-I9mSpG7MnClCYe8u3-_H4aK9Q&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=u86TZgQp10_aHRBsSrj56A&_nc_ss=7a3a8&oh=00_Af3YZ2j9GdEKGcSaIVZpJ9PRtSmHaJx8_RH9Sf6Z0a4M2A&oe=69E725AF",
+                        "height": 912,
+                        "width": 911,
+                        "accessibility_caption": "Có thể là hình ảnh về 2 người và văn bản cho biết 'Tìm theo tên, rank, count, group.. Useful script Facebook Messenger Count Đếm tin nhắn Facebook Rank Group Gợiý:Nhập nhắn group Name Trần Tháị Thu Hiền 2 Count Nguyễ…n Đinh Hậu 297023 Lưu Minh Hoàng 51544 Thanh Giang 23327 5 SGUs (Đỗ Trung Hiếu, Khởi Mai) 12540 -no data- 11589 Khoa Đậu 11369 8 Face team (Datascience) (Vũ Trường Giang) 9554 9193'",
+                        "real_width": 911,
+                        "real_height": 912
+                    },
+                    {
+                        "id": "2202752876562967",
+                        "url": "https://www.facebook.com/photo.php?fbid=2202752876562967&set=a.283939495110991&type=3",
+                        "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/484973007_2797852957052953_5758741907519876042_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=dYVVbiye9CQQ7kNvwHFy7fX&_nc_oc=Adq3Qs16PNmZXYaFPFw4vQRS0oGdhnuviTe7o7_TRf_LTzDI_ThlgrqkGHeTPGJ-7To&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=u86TZgQp10_aHRBsSrj56A&_nc_ss=7a3a8&oh=00_Af1Tsx8BwbU8QwAPXh-bz3jAGmm1pIhBcmIDKOsUH5RroA&oe=69E7267D",
+                        "height": 706,
+                        "width": 1128,
+                        "accessibility_caption": "Có thể là hình ảnh về văn bản cho biết 'Hoang Tran 21:17 Hoang HoangTran Tran 22:39 [Tin thu hồi chữ]: chào 22:39 [Tin thu hồi chữ]: tin nhắn bị gỡ nè Tin thu há»i chữ]: [Encrypted]: tàng hình nè Aa [Encrypted]: đây là tin nhắn tàng hình Aa'",
+                        "real_width": 1128,
+                        "real_height": 706
+                    },
+                    {
+                        "id": "2202752903229631",
+                        "url": "https://www.facebook.com/photo.php?fbid=2202752903229631&set=a.283939495110991&type=3",
+                        "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/485730607_2797853000386282_7943840252179602270_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=13d280&_nc_ohc=008qFVJaib4Q7kNvwG6U9BK&_nc_oc=AdrrdxnaxpDnhsSTIoXlaoalzX-Db7latuPjrBM8XXiHZOo6UTSGtiV0630JmCWpduA&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=u86TZgQp10_aHRBsSrj56A&_nc_ss=7a3a8&oh=00_Af1Vyel57TNmrwAGmL4XTzY92kTAudeJvbJ0bJnahBaqzw&oe=69E727F8",
+                        "height": 920,
+                        "width": 936,
+                        "accessibility_caption": "Có thể là hình ảnh về 1 người và văn bản",
+                        "real_width": 936,
+                        "real_height": 920
+                    },
+                    {
+                        "id": "2202752933229628",
+                        "url": "https://www.facebook.com/photo.php?fbid=2202752933229628&set=a.283939495110991&type=3",
+                        "uri": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/485731524_2797853040386278_7595458290391774789_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=13d280&_nc_ohc=RhqkFWY3bzYQ7kNvwFxF1km&_nc_oc=AdrLzIwwY8y0GJauy8i85Pk8ctrT2clefOCQ5maQCmxLUpL7_VtDyq20R25r7skecWc&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=u86TZgQp10_aHRBsSrj56A&_nc_ss=7a3a8&oh=00_Af0PQWXVw1n9zuC2Slfj02U_Nhnz4BnZDDHAwUv_mA8Kkg&oe=69E71CA9",
+                        "height": 522,
+                        "width": 582,
+                        "accessibility_caption": "Có thể là hình ảnh về 3 người và văn bản cho biết 'f Tìm Tìm kiếm trên Facebook 10:41:17 PM Trần Th» Thu Hiền ngưng gõ tin nhắn cho bạn. X 10:41:21 PM x Trần Thị Thu Hiền đang gõ tin nhắn cho bạn. 10:41:30 PM Trần Tháị Thu Hiền ngưng gõ tin nhắn cho bạn. X'",
+                        "real_width": 582,
+                        "real_height": 522
+                    },
+                    {
+                        "id": "2202753036562951",
+                        "url": "https://www.facebook.com/photo.php?fbid=2202753036562951&set=a.283939495110991&type=3",
+                        "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/484946676_2797852927052956_3598090964288264511_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=e-J2FgFugxQQ7kNvwEIvZmh&_nc_oc=AdrdtM3mElLIqkp-P9h64uEv0p0-asL2UKXWq3E3yl7tivIgLvPVHtXnPS9qSY4d2kE&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=u86TZgQp10_aHRBsSrj56A&_nc_ss=7a3a8&oh=00_Af1DJdl7hwqSahX-IGTvvD2g2xfS5peG3t9Pc7np38gUZA&oe=69E74180",
+                        "height": 754,
+                        "width": 475,
+                        "accessibility_caption": "Có thể là hình ảnh về ‎văn bản cho biết '‎G Google Facebook I Instagram Youtube ل Tiktok Mua sắm Tự động hóa Github Mở khóa Khuyên dùng Giao diện Tìm trong 36|chức năng... ---Nổibật--- bật--- Ô tìm kiếm hot Facebook Xem tin nhắn bị gỡ mớ›i Tin nhắn tàng hình facebook mới Facebook Story- Thêm nhiều loại emoji mới Facebook Ai đang nhắn cho bạn? mới Facebook Đếm tin nhắn ---Giao diện Tắt đèn fb newfeed Các chức năng mới bả đao mới‎'‎",
+                        "real_width": 475,
+                        "real_height": 754
+                    }
+                ],
+                "photo": null,
+                "video": null
+            },
+            "text": "Useful-script phiên bản 1.4 ra mắt. Tổng 160 chức năng hữu ích khi lướt web.\n\nLại tiếp tục test bản cập nhật nào :v lần này sẽ không làm mọi người thất vọng. \n\nCập nhật này có gì?\n57 scripts mới (Tổng 160 scripts)\n\nMình chia các chức năng mới thành các combo như sau:\n\nCombo stalk crush:\n- Xem tin nhắn bị gỡ (Hiển thị trực tiếp nội dung tại tin nhắn bị gỡ)\n- Tin nhắn tàng hình\n- Thông báo khi có người gõ tin nhắn cho bạn\n- Thêm nhiều loại react cho story\n- Đếm tin nhắn\n- Thêm nút tải cho mọi video/hình ảnh instagram\n\nCombo bảo mật:\n- Tự động chống phising facebook\n- Tự động chống clickjacking\n- Tự động xóa fbclid\n- Phát hiện ký tự ẩn (zero-width)\n\nCombo tải mọi thứ:\n- Tải bất kỳ video facebook nào đang xem (comment/story/watch/reel/chat)\n- Tải video tiktok/douyin đang xem\n- Tải video/story insta đang xem\n- Tải video google drive ko có quyền tải\n- Tải hàng loạt: facebook album, tiktok/douyin user video, instagram user video, tất cả video trong folder google drive.\n- Xuất các mục đã lưu trên facebook ra file json\n- Tải tài liệu VIP trên scribd, studocu\n\nCombo thống kê mua sắm\n- Shopee - thống kê loại hàng được mua nhiều nhất (khi sản phẩm có nhiều loại)\n- Shopee - thống kê tiền đã mua hàng\n- Tiki - thống kê tiền đã mua hàng\n\nCombo mở khóa\n- Xem miễn phí VIP scribd\n- Xem miễn phí VIP studocu\n- Xem miễn phí VIP studyphim\n- Envato - loại bỏ khung xem trước\n- Truy cập các trang web bị chặn\n\nRất nhiều chức năng cho mọi người thử nghiệm luôn nhé.\n\nCài đặt ngay tại: https://github.com/HoangTran0410/useful-script/releases\n\nTham gia group extension useful-script để được thông báo các bản cập nhật mới nhất:\nhttps://www.facebook.com/groups/1154059318582088",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [
+                {
+                    "type": "ExternalUrl",
+                    "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2dpdGh1Yi5jb20vSG9hbmdUcmFuMDQxMC91c2VmdWwtc2NyaXB0L3JlbGVhc2VzOjpEZWZhdWx0Ojo6MjIwMjc1NTE1MzIyOTQwNg==",
+                    "name": "https://github.com/HoangTran0410/useful-script/releases",
+                    "url": "https://github.com/HoangTran0410/useful-script/releases",
+                    "length": 55,
+                    "offset": 1481
+                },
+                {
+                    "type": "Group",
+                    "id": "1154059318582088",
+                    "name": "https://www.facebook.com/groups/fbaio/",
+                    "url": "https://www.facebook.com/groups/fbaio/",
+                    "length": 48,
+                    "offset": 1622
+                }
+            ],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Hoang Tran",
+                    "id": "100004848287494",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/9999.hoangtran",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1671984736000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

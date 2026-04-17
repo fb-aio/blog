@@ -1,0 +1,217 @@
+{
+    "result": {
+        "id": "UzpfSTE2MjM0Nzk5NzQ5NzMzNTE6Vks6MTYyMzQ3OTk3NDk3MzM1MQ==",
+        "post_id": "1623479974973351",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1623479974973351/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Tác dụng tiếp theo của ChatGPT. 🤐",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 3,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 2,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 1,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1744441166000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1623479974973351",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1213223173496006",
+            "original_content_owner_id": "100044250048500",
+            "page_id": "2035749833398248",
+            "photo_id": "1213223160162674",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "100044250048500": {
+                    "page_id": "100044250048500",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100044250048500",
+                        "page_id_type": "page",
+                        "actor_id": "100044250048500",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1744336820,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1213223173496006"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1623479974973351",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100044250048500",
+                            "post_id": "1213223173496006",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1213223173496006",
+                        "sharedMediaID": "1623479974973351",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1744441166,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1623479974973351"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=5Rms3qwfWNrsspqO2IMb1w&_nc_ss=7a3a8&oh=00_Af2_Xxo26sn-TatfGtHlwu8Db8Z9Xj7dzCN_Ot3zHAZo9A&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA0NDI1MDA0ODUwMDoxMjEzMjIzMTczNDk2MDA2OjEyMTMyMjMxNzM0OTYwMDY=",
+            "post_id": "1213223173496006",
+            "url": "https://www.facebook.com/anhdadenchuanmen/posts/pfbid0eA2jz6WuiLDDQ3hXCD2sWLsmaLDMNmqBFBGMKzUeMZRz4yFtx1HGBhwcudd2nnfsl",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "1213223160162674",
+                    "url": "https://www.facebook.com/photo/?fbid=1213223160162674&set=a.448239553327709",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/488187554_1205837820901208_5181176186663761513_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=ZIsf7dDKiWoQ7kNvwFNCxiV&_nc_oc=AdqizQf9o5KGC_LkmRDR7nqJn20NqA6uoHNdYaLJy4SIUco1ATOhndE-9PKkMrVrNHA&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=5Rms3qwfWNrsspqO2IMb1w&_nc_ss=7a3a8&oh=00_Af36EPT6NIJP3bU_gQWX-uiMB35sk6Y-cdkAB588ymwTgw&oe=69E78944",
+                    "height": 1080,
+                    "width": 1080,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FFFFFFFF",
+                    "real_width": 1080,
+                    "real_height": 1080
+                },
+                "video": null
+            },
+            "text": "Giỏi lắm ChatGPT :))\n#anhdaden",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [
+                "#anhdaden"
+            ],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Anh Da Đen",
+                    "id": "100044250048500",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/anhdadenchuanmen",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1744336820000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

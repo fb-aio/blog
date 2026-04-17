@@ -1,0 +1,625 @@
+{
+    "result": {
+        "id": "UzpfSTE4MzI0MzQ0ODQwNzc4OTg6Vks6MTgzMjQzNDQ4NDA3Nzg5OA==",
+        "post_id": "1832434484077898",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1832434484077898/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Game chơi Tết cho anh em FB AIO 🤣\n\n#fb_aio",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Game chơi Tết cho anh em FB AIO 🤣"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fb_aio",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fb_aio",
+                            "__isNode": "Hashtag",
+                            "id": "8080904801977702"
+                        },
+                        "length": 7,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fb_aio"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 12,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 11,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 2,
+        "created_time": 1769181830000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1832434484077898",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "2062449634542598",
+            "original_content_owner_id": "100004848287494",
+            "photo_id": "3104455299726049",
+            "story_location": 9,
+            "attached_story_attachment_style": "album",
+            "attached_story_type": "EntGroupMallPostCreationStory",
+            "attached_story_attachment_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "2062449634542598",
+                        "sharedMediaID": "1832434484077898",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1769181830,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1832434484077898"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                },
+                "1569314343856132": {
+                    "page_id": "1569314343856132",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "1569314343856132",
+                        "page_id_type": "group",
+                        "actor_id": "100004848287494",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntGroupMallPostCreationStory",
+                        "post_context": {
+                            "object_fbtype": 657,
+                            "publish_time": 1769177689,
+                            "story_name": "EntGroupMallPostCreationStory",
+                            "story_fbid": [
+                                "2062449634542598"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1832434484077898",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=-DNZbrtNqttJEMiGEfesCw&_nc_ss=7a3a8&oh=00_Af3lnn3njGsu2nHMhCh5oGJ7XrsXuCDMAQJxNEtmU4PQzw&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDAwNDg0ODI4NzQ5NDpWSzoyMDYyNDQ5NjM0NTQyNTk4",
+            "post_id": "2062449634542598",
+            "url": "https://www.facebook.com/groups/indiehackervn/permalink/2062449634542598/",
+            "media": {
+                "mediaset_token": "pcb.2062449634542598",
+                "subAttachments": [
+                    {
+                        "id": "3104455299726049",
+                        "url": "https://www.facebook.com/photo.php?fbid=3104455299726049&set=gm.2062449584542603&type=3",
+                        "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/617968378_3104455309726048_7911614290684909575_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=42u1WE_SJu8Q7kNvwFcU4Sh&_nc_oc=AdpL0-kzM3p3yyD22xumrmKzUzje38Kqde5Vas6GAgGnjXQuACj2SR-jYyG368eujeQ&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=-DNZbrtNqttJEMiGEfesCw&_nc_ss=7a3a8&oh=00_Af1eO5VpA8DD4nDENPX_YpK0fEXMVR70YUQHoiBX_wklxg&oe=69E71A94",
+                        "height": 948,
+                        "width": 1319,
+                        "accessibility_caption": "Có thể là hình ảnh về văn bản cho biết 'gamehub24.pages.dev GameHub24 hien193 存 Tham gia các trò chơi Chơi Cùng Nhau, Mọi Nơi người với bạn bè trong thời Tạo thực Vào Phòng Phòng Công Khai (0) Trò Chơi 1ngườichdionline anline rátc(16) Yêuthich (0) Bàn Bàn(8) (8) Giảiđ6(4 Chiến thuật (9) Trò chơi ርዕ Ca-rô 33 Nhiều 3x3 8) Thư Thưgi giän (3) điến. Xếp llên 8 llên tiếp để Bài(2) Xếp ርዕ Ca-rô tiếp rên ànc Banca Chiến thuật hơn! Tạo Phòng Chithuật Nối 4 Thà πa nổi Biên tiếp thắng! Bancb Tạo Phòng ርዕ Cá Ngưa Tạo Phòng ርዕ CLât Lât Cờ Vua'",
+                        "real_width": 1319,
+                        "real_height": 948
+                    },
+                    {
+                        "id": "3104455406392705",
+                        "url": "https://www.facebook.com/photo.php?fbid=3104455406392705&set=gm.2062449587875936&type=3",
+                        "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/621804080_3104455409726038_869559909165244597_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=odnmbZMR_BsQ7kNvwFe_fr_&_nc_oc=Ado9lGUUNydXtLg-vK6E5LLS2zjcWSeIBQrZ3GvTIHSVlNu57oeRiQUl9yfhm0-zw3A&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=-DNZbrtNqttJEMiGEfesCw&_nc_ss=7a3a8&oh=00_Af02fxfxK-HgVE2x_Bgf3TdvglJKgD25EaNm0CMadNTSEw&oe=69E71B91",
+                        "height": 965,
+                        "width": 1291,
+                        "accessibility_caption": "Có thể là hình ảnh về văn bản cho biết 'GameHub24 Xem YouTube Cùng Nhau Xem video ouTube ube cùng hien193 bè! Bằng Ve Cùng Nhau cộng để ένε cùng bè! Tạo Phòng Tiến Lên Nam Trẻ chơi bài phố biển tại Việt Nam! Tạo Phòng người Nối Điểm Tạo Phòng Nói điềm đóng vuông! Chinthuật UNO chơi điển! Ghép màu hoặc Tạo Phòng hẳng. Nhiêunguời Bi-a Đánh bóng ১০ Bóng) bàn bỏng để thắng! To Phòng Tạo Phòng Cờ TỷPhú Mua bất động thủ! Ăn Quan Trỏ chơi gian Nam. Tinh nhiều quần nhất! โล Phàng nước Bàn Ma Sói Trỏ Chiềnthuệt luận hội. Timrama sói! Pháng'",
+                        "real_width": 1291,
+                        "real_height": 965
+                    },
+                    {
+                        "id": "3104455463059366",
+                        "url": "https://www.facebook.com/photo.php?fbid=3104455463059366&set=gm.2062449591209269&type=3",
+                        "uri": "https://scontent.fsgn2-8.fna.fbcdn.net/v/t39.30808-6/619135500_3104455466392699_1367037751049363940_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=_WyUTjmjxwwQ7kNvwF6xwXj&_nc_oc=AdoykSfd4tP_Omcwh3LwB6cFYN_ZYHqmk1R34RA32UiDgv7IClArEnEkbnm9rfEGa1k&_nc_zt=23&_nc_ht=scontent.fsgn2-8.fna&_nc_gid=-DNZbrtNqttJEMiGEfesCw&_nc_ss=7a3a8&oh=00_Af0_2PLA9mUcuW4cmTRLYxPDuMbTWOlH-5YjomsUvnKGjw&oe=69E72F4E",
+                        "height": 796,
+                        "width": 899,
+                        "accessibility_caption": "Có thể là hình ảnh về ‎văn bản cho biết '‎mới Bạn वो: Ma Sói Giế một dần làng mỗi đêm. Thắng khi sói bằng hoặc nhiều hơn dân. Đêm Ngày 0:18 00 DI 0 hien193 Bot 0 Bot 日 Bot 2 由 Bot3 3 Bot4 Bot5 Bot6 6 Bot7 ل Bot Bot 9 Bot 10 Ma Sói Chọn một dân làng giết Xánhận Xác‎'‎",
+                        "real_width": 899,
+                        "real_height": 796
+                    },
+                    {
+                        "id": "3104455529726026",
+                        "url": "https://www.facebook.com/photo.php?fbid=3104455529726026&set=gm.2062449594542602&type=3",
+                        "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/616630316_3104455533059359_5473084855856662324_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=SoqV1sdz2wQQ7kNvwEVFcH3&_nc_oc=AdrknWm2Y0D0R2whJ1Zy4Rrd2R2kQa2K4wP7274IfGhwLqPmV0nUuuZB1qpedGLWLlI&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=-DNZbrtNqttJEMiGEfesCw&_nc_ss=7a3a8&oh=00_Af0SmG5fe4OCyxwPp_llJJDJkVaXw2t9IjHztvizZjAa-w&oe=69E72B2B",
+                        "height": 981,
+                        "width": 965,
+                        "accessibility_caption": "Có thể là hình ảnh về văn bản cho biết 'hien193 ဒေါ့ BauCua Cua Bầu Cua Vòng 0:26 267 Sinh nh tốn Số 1.410 380 1/9 Tống ngcược cưỢc 190 Kết quả xúc xắc 190 Bấu Cua Tong: 103 Bot& Bot5 Tôm hients3 Bot Bot Bot5 Tóng:2 253 Vòng tiếp theo Botg BOT8 သံ 319 番 0/9 Bằng xếp hạng 2/9 Cá Gà #1 CƯỢC: hien193 Tổng: 30 Bot5 1.410 +380 Nai 30 #2 Bot9 Cuợc: 60 1.330 Kỹ năng #3 Bot8 Cược Bào Hiếm 1.035 ® Mát Thần 2 #4 Bot5 পি Cược: 00 Hoàn 50% Bào Hiểm 830 thua nhưng mất 50% nếu tháng. Hồi chiêu: vòng'",
+                        "real_width": 965,
+                        "real_height": 981
+                    },
+                    {
+                        "id": "3104455593059353",
+                        "url": "https://www.facebook.com/photo.php?fbid=3104455593059353&set=gm.2062449597875935&type=3",
+                        "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/597309395_3104455596392686_6734504017220415639_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=dVS3cSfSqsUQ7kNvwHpZe4I&_nc_oc=AdrkjucQMTrLvYrT6ilZI3ZIQ_MYPeGnKpTp6xhhcjR78Ltmj2ke0f4deSkfTwSAcqs&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=-DNZbrtNqttJEMiGEfesCw&_nc_ss=7a3a8&oh=00_Af0ztncHCXdPV8zoak2fosttaWZMhJFaao54insifOFVaQ&oe=69E73278",
+                        "height": 873,
+                        "width": 564,
+                        "accessibility_caption": "Có thể là đồ họa về văn bản",
+                        "real_width": 564,
+                        "real_height": 873
+                    }
+                ],
+                "photo": null,
+                "video": null
+            },
+            "text": "# Tết thêm vui với **Gamehub24** 🏆 - Chơi game truyền thống online cùng bạn bè 🎱\n\nHi mọi người, lại là vibe code, nhưng mất **gần 1 tháng**, chỉ để chuẩn bị **gần 20 game** cho ae tha hồ quẩy Tết này 🤣\n\nMọi người có thể **tạo phòng**, rủ bạn bè người thân vào phòng, chọn game yêu thích và chơi, bao vui\n\n## Rất nhiều game truyền thống Tết Việt Nam: 🇻🇳\n\n+ Ma Sói\n\n+ Bầu Cua (biến tấu)\n\n+ Tiến Lên\n+ Ô Ăn Quan\n+ Cờ Tỷ Phú\n\n+ Cờ Cá Ngựa\n+ Cờ Caro\n+ Cờ Vua\n+ Bi-a\n\n+ ...\n\nVà rất nhiều game khác đang được phát triển 🌟\n\nHỗ trợ cả giao diện máy tính và điện thoại nhé 🫶\n\nĐặc biệt **open source,** cho ae contribute thêm game, hoặc fix lỗi 😇\n\nad cho phép e để linh dứoi còm nhé ạ\n> Lưu ý: Chơi vui thôi nha, không dùng xiền thật phạm luật nha \n\n#buildinpublic #bip #bipvn #claudecode",
+            "text_format": {},
+            "rich_message": [
+                {
+                    "__typename": "ComposedHeaderOneBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                    "block_type": "HEADER_ONE",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 9,
+                            "offset": 17
+                        }
+                    ],
+                    "text": "Tết thêm vui với Gamehub24 🏆 - Chơi game truyền thống online cùng bạn bè 🎱"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 11,
+                            "offset": 42
+                        },
+                        {
+                            "inline_style": "BOLD",
+                            "length": 11,
+                            "offset": 71
+                        }
+                    ],
+                    "text": "Hi mọi người, lại là vibe code, nhưng mất gần 1 tháng, chỉ để chuẩn bị gần 20 game cho ae tha hồ quẩy Tết này 🤣"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 9,
+                            "offset": 17
+                        }
+                    ],
+                    "text": "Mọi người có thể tạo phòng, rủ bạn bè người thân vào phòng, chọn game yêu thích và chơi, bao vui"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedHeaderTwoBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderTwoBlockWithEntities",
+                    "block_type": "HEADER_TWO",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Rất nhiều game truyền thống Tết Việt Nam: 🇻🇳"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "+ Ma Sói"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "+ Bầu Cua (biến tấu)"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "+ Tiến Lên\n+ Ô Ăn Quan\n+ Cờ Tỷ Phú"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "+ Cờ Cá Ngựa\n+ Cờ Caro\n+ Cờ Vua\n+ Bi-a"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "+ ..."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Và rất nhiều game khác đang được phát triển 🌟"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Hỗ trợ cả giao diện máy tính và điện thoại nhé 🫶"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 12,
+                            "offset": 9
+                        }
+                    ],
+                    "text": "Đặc biệt open source, cho ae contribute thêm game, hoặc fix lỗi 😇\n"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "ad cho phép e để linh dứoi còm nhé ạ"
+                },
+                {
+                    "__typename": "ComposedBlockquoteBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                    "block_type": "BLOCKQUOTE",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Lưu ý: Chơi vui thôi nha, không dùng xiền thật phạm luật nha "
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [
+                        {
+                            "entity_type": "HASHTAG",
+                            "entity": {
+                                "__typename": "Hashtag",
+                                "__isEntity": "Hashtag",
+                                "url": "https://www.facebook.com/hashtag/buildinpublic",
+                                "mobileUrl": "https://m.facebook.com/hashtag/buildinpublic",
+                                "__isNode": "Hashtag",
+                                "id": "645561275518909"
+                            },
+                            "length": 14,
+                            "offset": 0
+                        },
+                        {
+                            "entity_type": "HASHTAG",
+                            "entity": {
+                                "__typename": "Hashtag",
+                                "__isEntity": "Hashtag",
+                                "url": "https://www.facebook.com/hashtag/bip",
+                                "mobileUrl": "https://m.facebook.com/hashtag/bip",
+                                "__isNode": "Hashtag",
+                                "id": "125116324337549"
+                            },
+                            "length": 4,
+                            "offset": 15
+                        },
+                        {
+                            "entity_type": "HASHTAG",
+                            "entity": {
+                                "__typename": "Hashtag",
+                                "__isEntity": "Hashtag",
+                                "url": "https://www.facebook.com/hashtag/bipvn",
+                                "mobileUrl": "https://m.facebook.com/hashtag/bipvn",
+                                "__isNode": "Hashtag",
+                                "id": "870132389719742"
+                            },
+                            "length": 6,
+                            "offset": 20
+                        },
+                        {
+                            "entity_type": "HASHTAG",
+                            "entity": {
+                                "__typename": "Hashtag",
+                                "__isEntity": "Hashtag",
+                                "url": "https://www.facebook.com/hashtag/claudecode",
+                                "mobileUrl": "https://m.facebook.com/hashtag/claudecode",
+                                "__isNode": "Hashtag",
+                                "id": "2557322620971702"
+                            },
+                            "length": 11,
+                            "offset": 27
+                        }
+                    ],
+                    "inline_style_ranges": [],
+                    "text": "#buildinpublic #bip #bipvn #claudecode "
+                }
+            ],
+            "hashtags": [
+                "#buildinpublic",
+                "#bip",
+                "#bipvn",
+                "#claudecode"
+            ],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "id": "100004848287494",
+                    "name": "Hoang Tran",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/9999.hoangtran"
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1769177752000,
+            "privacy_scope": "Nhóm công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": "Group",
+                "id": "1569314343856132",
+                "url": "https://www.facebook.com/groups/indiehackervn/",
+                "name": "Build in Public VN",
+                "avatar": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/509443918_10233522779463937_6884554539542802636_n.jpg?stp=c264.0.432.432a_cp0_dst-jpg_s110x80_tt6&_nc_cat=105&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=r-o0j_4vFg8Q7kNvwEWK4vQ&_nc_oc=AdqioOtjwAdzJ9NfMyiqAbanzvYd8yZMXSFrkQiSTT6X9sVfmff7wpvBDfR1Aiv24KE&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=-DNZbrtNqttJEMiGEfesCw&_nc_ss=7a3a8&oh=00_Af2RK6v6oar_CAMcy76gv6YslhAIbbyR9K-tAHRZXZp35A&oe=69E7145E"
+            },
+            "attached_post": null
+        }
+    }
+}

@@ -1,0 +1,261 @@
+{
+    "result": {
+        "id": "UzpfSTE2NzQzNjIxOTY1NTE3OTU6Vks6MTY3NDM2MjE5NjU1MTc5NQ==",
+        "post_id": "1674362196551795",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1674362196551795/",
+        "media": {
+            "mediaset_token": "pcb.1674362196551795",
+            "subAttachments": [
+                {
+                    "id": "2897944267043821",
+                    "url": "https://www.facebook.com/photo.php?fbid=2897944267043821&set=gm.1674362186551796&type=3",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/511198779_2897944270377154_588723801816612422_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=KzyJshL8QkgQ7kNvwEZrtq7&_nc_oc=AdrttszitndiOGdJ8lH-mX_3Fx3OAaaFPZ2YoDPb4ASiNaEscot7Gd8cuZbp8_KH4Ys&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=fI1yySo8dxpUnBWHnONkBQ&_nc_ss=7a3a8&oh=00_Af3ZCNPFTuepmnELzl-f9hk3-eq5CUiydEQzdGm_bSDEeg&oe=69E743D2",
+                    "height": 423,
+                    "width": 1086,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1086,
+                    "real_height": 423
+                },
+                {
+                    "id": "2897945477043700",
+                    "url": "https://www.facebook.com/photo.php?fbid=2897945477043700&set=gm.1674362189885129&type=3",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/511062095_2897945480377033_1806625503536828081_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=zSbGLFt5TksQ7kNvwHUIYM8&_nc_oc=AdpNnOtq9k8nYoD-3lOgtnddDKmxFcb6itrVA-yhs7oGdA0QPsD2iwdixA9pCB9eKmI&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=fI1yySo8dxpUnBWHnONkBQ&_nc_ss=7a3a8&oh=00_Af1LVPUIG8iqogPxiIIDoOjOCs4fyW8J_exvbnBxTqnQ3Q&oe=69E73691",
+                    "height": 712,
+                    "width": 1052,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1052,
+                    "real_height": 712
+                },
+                {
+                    "id": "2897948277043420",
+                    "url": "https://www.facebook.com/photo.php?fbid=2897948277043420&set=gm.1674362193218462&type=3",
+                    "uri": "https://scontent.fsgn2-8.fna.fbcdn.net/v/t39.30808-6/511311418_2897948280376753_5675139829992266397_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=GhcHvwxTcMMQ7kNvwH0YKku&_nc_oc=AdqLeuwnZT69n3BqxlF-IWfbG8c-I1clj3SJVeh8muN-hRxLZkbm_ueCOPwAZh_kvHg&_nc_zt=23&_nc_ht=scontent.fsgn2-8.fna&_nc_gid=fI1yySo8dxpUnBWHnONkBQ&_nc_ss=7a3a8&oh=00_Af2kPBiYdAeev2WZ7t5j7NADShepVwjdnJf419QVoGNBcg&oe=69E71BF1",
+                    "height": 806,
+                    "width": 710,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 710,
+                    "real_height": 806
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Xời, chức năng này có từ năm ngoái rồi bác 🐧\n\n😀 Xem thời gian kết bạn, với tất cả bạn bè\n\n🌍 Một cách nhanh chóng để biết đã làm bạn với ai đó được bao nhiêu năm. Đã tới lúc đòi n:ợ hay chưa 🐧\n\n📜 Mọi người có thể tìm nhanh trong lịch sử cập nhật của FB AIO \n\n#fb_aio",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Xời, chức năng này có từ năm ngoái rồi bác 🐧"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "😀 Xem thời gian kết bạn, với tất cả bạn bè"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "🌍 Một cách nhanh chóng để biết đã làm bạn với ai đó được bao nhiêu năm. Đã tới lúc đòi n:ợ hay chưa 🐧"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fb_aio",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fb_aio",
+                            "__isNode": "Hashtag",
+                            "id": "8080904801977702"
+                        },
+                        "length": 7,
+                        "offset": 65
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "📜 Mọi người có thể tìm nhanh trong lịch sử cập nhật của FB AIO \n\n#fb_aio"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 6,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 15,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 11,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 3,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "478547315650144",
+                    "count": 1,
+                    "name": "Wow"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1750865910000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1674362196551795",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2897944267043821",
+                "2897945477043700",
+                "2897948277043420"
+            ],
+            "photo_id": "2897944267043821",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1750865910,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1674362196551795"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=fI1yySo8dxpUnBWHnONkBQ&_nc_ss=7a3a8&oh=00_Af13VwKRU23BKFM80Ayt7ZomcV_7W-np7dI7SmlGF6nS4A&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

@@ -1,0 +1,232 @@
+{
+    "result": {
+        "id": "UzpfSTE2NDkxNTY3MDkwNzIzNDQ6Vks6MTY0OTE1NjcwOTA3MjM0NA==",
+        "post_id": "1649156709072344",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1649156709072344/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Tất cả những ngôi sao 🌟 bạn thấy trên bầu trời đêm\n\nĐều nằm trong vòng tròn nhỏ này của Dải ngân hà 🥴\n\nCó những thứ nhìn thấy mỗi ngày, nhưng cả đời cũng chưa chạm tới được 🤪\n\nNgoại trừ FB AIO, b thích là có liền cho b xài 🐧\n\n#fbaio_relax",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_relax"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 2,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 7,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 5,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 1,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1747721405000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1649156709072344",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "716795194337410",
+            "original_content_owner_id": "100080208082327",
+            "page_id": "389108911732137",
+            "photo_id": "716795174337412",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "100080208082327": {
+                    "page_id": "100080208082327",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100080208082327",
+                        "page_id_type": "page",
+                        "actor_id": "100080208082327",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1747519220,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "716795194337410"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1649156709072344",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100080208082327",
+                            "post_id": "716795194337410",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "716795194337410",
+                        "sharedMediaID": "1649156709072344",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1747721405,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1649156709072344"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=ZeKka8TcmGxA_YP45w7F6g&_nc_ss=7a3a8&oh=00_Af3v9dWqyTIqhEktkmq2bK3UTCxz1x5YoIJNM7JzLnmgxw&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA4MDIwODA4MjMyNzo3MTY3OTUxOTQzMzc0MTA6NzE2Nzk1MTk0MzM3NDEw",
+            "post_id": "716795194337410",
+            "url": "https://www.facebook.com/thebrainmazeofficial/posts/pfbid02g8bDeEhEJY7dBfnuGHKDdRgZn35vjMv5scdt5MVEEnDSNPPzsMFpwu2D4DknzXV8l",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "716795174337412",
+                    "url": "https://www.facebook.com/photo/?fbid=716795174337412&set=a.227177339965867",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/497609476_715009707849292_886091474353572717_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_ohc=aX5NxyBn8zUQ7kNvwEzuffc&_nc_oc=AdqNGxLV1HXmkQqthXuylbbg1A8AWHwDDmcPL7rQKLzFM9zXsyGe69jq_IHYdl9EnPE&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=ZeKka8TcmGxA_YP45w7F6g&_nc_ss=7a3a8&oh=00_Af1n3LzVAvz5UapaCeYdi8otzr3vIt8KB9QURF3xqe14uw&oe=69E77A27",
+                    "height": 1350,
+                    "width": 1080,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FF030303",
+                    "real_width": 1080,
+                    "real_height": 1350
+                },
+                "video": null
+            },
+            "text": null,
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "The Brain Maze",
+                    "id": "100080208082327",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/thebrainmazeofficial",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1747519220000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

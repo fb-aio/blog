@@ -1,0 +1,406 @@
+{
+    "result": {
+        "id": "UzpfSTE2MTcyMTE5Mzg5MzM0ODg6Vks6MTYxNzIxMTkzODkzMzQ4OA==",
+        "post_id": "1617211938933488",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1617211938933488/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2813462102158705",
+                "url": "https://www.facebook.com/photo/?fbid=2813462102158705&set=gm.1617211938933488&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/504987672_2880242388814009_1290580662387414247_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=J9HijSMYG08Q7kNvwHgVP_w&_nc_oc=Adof-deTihZV0l_QNy1EKKCbP0PJdlBGiEqkizat3KR1XCoxB5knkodU0hT6_Ng3n04&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=AbR-iEKoyGI_NtkvLFl9eg&_nc_ss=7a3a8&oh=00_Af3HEFoqOqXPxk0D1KM1Z013PF8a6F55p91x4rQ-fJBILw&oe=69E76FC9",
+                "height": 709,
+                "width": 923,
+                "accessibility_caption": "Có thể là hình ảnh về điện thoại và văn bản cho biết '3,9 Delete Facebook Messages 2025 (65 lượt xếp hạng) ぐ Chia sẻ Tiện ích Mạng xă hội Xóa 2.000 người dùng All Messages Buy/Sell Messages Archive Click the button below to delete all messages Delete Messages © Developed by: z Khan ※ Bug Report သသနသငင်တင့်း J'",
+                "accent_color": "FFFFFFFF",
+                "real_width": 923,
+                "real_height": 709
+            },
+            "video": null
+        },
+        "text": "# Tặng những bác còn thức 💎: Xóa tất cả tin nhắn fb 🔥\n\nTại sao mình chọn chia sẻ Extension này?\n* 💬 Có thể xoá hoặc lưu trữ **tất cả cuộc trò chuyện** trên fb messenger của b \n* ✨ Hỗ trợ **nhiều ngôn ngữ**, fb bạn dùng tiếng anh, tiếng việt, tiếng nước ngoài đều dùng được. \n* 👀 Source **code không bị làm rối**, mình đã đọc thử và nó **an toàn**, không lấy cắp dữ liệu người dùng. \n* ✅ Xoá bằng cách **tự độ:ng click** trên giao diện, chứ không dùng api => An toàn, khó bị fb ban.\n* 📣 **Mã hoá đầu cuối** hay không đều **xoá được hết** \n* 🗿 Chỉ cho phờ ri xoá 5 cuộc trò chuyện, nhưng **mình có thuốc** dưới còm, xài tẹt ga. \n\nTại sao không làm chức năng cho FB AIO luôn?\n* 😁 Mình chưa có thời gian \n* 🤖 Còn nhiều chức năng quan trọng khác đang được triển khai trước \n\n#fb_aio",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Tặng những bác còn thức 💎: Xóa tất cả tin nhắn fb 🔥"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Tại sao mình chọn chia sẻ Extension này?"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 22,
+                        "offset": 26
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 22,
+                        "offset": 26
+                    }
+                ],
+                "text": "💬 Có thể xoá hoặc lưu trữ tất cả cuộc trò chuyện trên fb messenger của b "
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 14,
+                        "offset": 9
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 14,
+                        "offset": 9
+                    }
+                ],
+                "text": "✨ Hỗ trợ nhiều ngôn ngữ, fb bạn dùng tiếng anh, tiếng việt, tiếng nước ngoài đều dùng được. "
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 21,
+                        "offset": 9
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 21,
+                        "offset": 9
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 7,
+                        "offset": 54
+                    }
+                ],
+                "text": "👀 Source code không bị làm rối, mình đã đọc thử và nó an toàn, không lấy cắp dữ liệu người dùng. "
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 14,
+                        "offset": 16
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 14,
+                        "offset": 16
+                    }
+                ],
+                "text": "✅ Xoá bằng cách tự độ:ng click trên giao diện, chứ không dùng api => An toàn, khó bị fb ban."
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 15,
+                        "offset": 2
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 15,
+                        "offset": 2
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 12,
+                        "offset": 32
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 12,
+                        "offset": 32
+                    }
+                ],
+                "text": "📣 Mã hoá đầu cuối hay không đều xoá được hết "
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 13,
+                        "offset": 46
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 13,
+                        "offset": 46
+                    }
+                ],
+                "text": "🗿 Chỉ cho phờ ri xoá 5 cuộc trò chuyện, nhưng mình có thuốc dưới còm, xài tẹt ga. "
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Tại sao không làm chức năng cho FB AIO luôn?"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "😁 Mình chưa có thời gian "
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "🤖 Còn nhiều chức năng quan trọng khác đang được triển khai trước "
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fb_aio",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fb_aio",
+                            "__isNode": "Hashtag",
+                            "id": "8080904801977702"
+                        },
+                        "length": 7,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fb_aio"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 16,
+            "total_count": 33,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 88,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 78,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 10,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 17,
+        "created_time": 1743701690000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1617211938933488",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2813462102158705",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1743701690,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1617211938933488"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=AbR-iEKoyGI_NtkvLFl9eg&_nc_ss=7a3a8&oh=00_Af1u03FktIL0Mwu-Tt5MtwO9CoSe83EeHuXNE4DvgLAWcA&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

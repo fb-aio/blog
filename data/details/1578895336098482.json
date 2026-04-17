@@ -1,0 +1,344 @@
+{
+    "result": {
+        "id": "UzpfSTE1Nzg4OTUzMzYwOTg0ODI6Vks6MTU3ODg5NTMzNjA5ODQ4Mg==",
+        "post_id": "1578895336098482",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1578895336098482/",
+        "media": {
+            "mediaset_token": "pcb.1578895336098482",
+            "subAttachments": [
+                {
+                    "id": "2760009670837282",
+                    "url": "https://www.facebook.com/photo.php?fbid=2760009670837282&set=gm.1578895339431815&type=3",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/504175886_2879632212208360_3491170999630495994_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=Hi87pdvE--0Q7kNvwGhQJHI&_nc_oc=AdoSN4fR5Que4upKlhtddzsiL6aG0ttqWwqEIDW0Ndkjt1szjG50dEmpdQhnwVWQa8g&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=gR_JHjtceh3LHLsLcrqCnQ&_nc_ss=7a3a8&oh=00_Af0Q7_jgot_jzCSMb0MHg4RmazglaMGICJhxGmD56clhnA&oe=69E74025",
+                    "height": 264,
+                    "width": 552,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản cho biết 'Desktop cd Github/ Github/facebook-al1-in-one-dev facebook-all-in facebook-all-in-one-dev git:(main) x gitleaks git gitleaks 5:59PM INF 581 commits scanned. 5:59PM INF scanned ~73945220 bytes 5:59PM PMEWRN WRN leaks found: 48 (73.95 MB) in 6.76s'",
+                    "real_width": 552,
+                    "real_height": 264
+                },
+                {
+                    "id": "2760010680837181",
+                    "url": "https://www.facebook.com/photo.php?fbid=2760010680837181&set=gm.1578895332765149&type=3",
+                    "uri": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/504138842_2879632482208333_3054699900644625982_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=A7wYby7vndQQ7kNvwGYC22J&_nc_oc=AdoX0ysaWM4qETKK66AO_vfnJdOnKxNpaKweL0suRXrlyXBvMQmTK0QY16MobTksnzg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=gR_JHjtceh3LHLsLcrqCnQ&_nc_ss=7a3a8&oh=00_Af2ALSeD5HvDkkLoK7qJCWaR2uMiV0yhDnxiDAhj8ulqZw&oe=69E712EF",
+                    "height": 885,
+                    "width": 1373,
+                    "accessibility_caption": "Có thể là đồ họa về văn bản",
+                    "real_width": 1373,
+                    "real_height": 885
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# GitLeaks - Tìm thông tin nhạy cảm trong project 🔑👀\n\nKhi lập trình, dev thường hay \"bỏ quên\" những thông tin nhạy cảm (secret) trong source code, ví dụ apiKey, mật khẩu, token, ...  🫥\n\nVà nếu bạn đẩy code đó lên mạng công khai, khả năng bị ngừoi khác xin mất là rất cao, dễ dàng bị mất nick, bị hách, ... 🥲\n\n**Gitleaks** là công cụ giúp bạn ngăn chặn điều đó, bằng cách rà soát toàn bộ project, cả source code lẫn commit cũ, tìm ra tất cả thông tin nhạy cảm để bạn có thể giấu đi trước khi up code lên mạng 🤖\n> Hoặc cũng có nhiều người dùng gitleaks để đi tìm secret trong các project của người khác 🤣 Tuỳ nhu cầu bạn sử dụng\n\nTóm lại đây là công cụ nên có cho mọi dev. 🌟\n\nVí dụ hình dứoi là FB AIO đang có 48 cái secret cần giấu 🫥\n\n#fb_aio",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "GitLeaks - Tìm thông tin nhạy cảm trong project 🔑👀"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Khi lập trình, dev thường hay \"bỏ quên\" những thông tin nhạy cảm (secret) trong source code, ví dụ apiKey, mật khẩu, token, ...  🫥"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 7,
+                        "offset": 66
+                    }
+                ],
+                "text": "Và nếu bạn đẩy code đó lên mạng công khai, khả năng bị ngừoi khác xin mất là rất cao, dễ dàng bị mất nick, bị hách, ... 🥲"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 8,
+                        "offset": 0
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 15,
+                        "offset": 58
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 13,
+                        "offset": 113
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 14,
+                        "offset": 153
+                    }
+                ],
+                "text": "Gitleaks là công cụ giúp bạn ngăn chặn điều đó, bằng cách rà soát toàn bộ project, cả source code lẫn commit cũ, tìm ra tất cả thông tin nhạy cảm để bạn có thể giấu đi trước khi up code lên mạng 🤖"
+            },
+            {
+                "__typename": "ComposedBlockquoteBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                "block_type": "BLOCKQUOTE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Hoặc cũng có nhiều người dùng gitleaks để đi tìm secret trong các project của người khác 🤣 Tuỳ nhu cầu bạn sử dụng"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Tóm lại đây là công cụ nên có cho mọi dev. 🌟"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Ví dụ hình dứoi là FB AIO đang có 48 cái secret cần giấu 🫥"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fb_aio",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fb_aio",
+                            "__isNode": "Hashtag",
+                            "id": "8080904801977702"
+                        },
+                        "length": 7,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fb_aio"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 25,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 21,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 2,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "613557422527858",
+                    "count": 1,
+                    "name": "Thương thương"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 1,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 6,
+        "created_time": 1738840290000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1578895336098482",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2760009670837282",
+                "2760010680837181"
+            ],
+            "photo_id": "2760009670837282",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1738840290,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1578895336098482"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=gR_JHjtceh3LHLsLcrqCnQ&_nc_ss=7a3a8&oh=00_Af2tPQQG759ie25VV_Kk9Kktvdaz1-U6eHbhcVAifZUueg&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

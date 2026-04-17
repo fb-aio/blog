@@ -1,0 +1,238 @@
+{
+    "result": {
+        "id": "UzpfSTE1MzQ0MzQzMDM4Nzc5MTk6Vks6MTUzNDQzNDMwMzg3NzkxOQ==",
+        "post_id": "1534434303877919",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1534434303877919/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2706811922823724",
+                "url": "https://www.facebook.com/photo/?fbid=2706811922823724&set=gm.1534434303877919&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/504081005_2879161718922076_1906185499514971078_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=ufjYyskNeA4Q7kNvwEL3IqC&_nc_oc=Adqb2M8BChj_9H9PLxY5txBD9r1OXDlTllZ2AeXra26xOmScP9QAC7pUbSuP1eacpyE&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=P6G3JKyne_rYSd3dfL-ivQ&_nc_ss=7a3a8&oh=00_Af30_uCWpOLpLMvlIlPjJuyPfHSqSPcFFosGK6R3P3Lpjg&oe=69E79412",
+                "height": 729,
+                "width": 690,
+                "accessibility_caption": "Không có mô tả ảnh.",
+                "accent_color": "FF212121",
+                "real_width": 690,
+                "real_height": 729
+            },
+            "video": null
+        },
+        "text": "# **ChatGPT giờ đã mạnh hơn xưa 💯**\n\nXưa mình có thử kêu Chatgpt viết thơ lục bát, nhưng viết thơ dở vê lờ. \n\nHỏi lý thuyết thì nói đúng răm rắp, vần điệu ở đâu, số chữ thế nào, nhưng vào thực hành thì toàn ra thơ gì đâu ko đúng vần điệu gì hết. 🫥\n\nNhưng giờ thử với ChatGPT 4o thì thấy thơ ra đúng hơn hẳn rồi 👀 Có khi nào openai giờ mới train với dữ liệu các bài thơ của việt nam chăng 🤣\n\nKiểu này chẳng mấy các nhà thơ lại thất nghiệp như anh em lập trình chúng mình 🥹",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 29,
+                        "offset": 0
+                    }
+                ],
+                "text": "ChatGPT giờ đã mạnh hơn xưa 💯"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Xưa mình có thử kêu Chatgpt viết thơ lục bát, nhưng viết thơ dở vê lờ. "
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Hỏi lý thuyết thì nói đúng răm rắp, vần điệu ở đâu, số chữ thế nào, nhưng vào thực hành thì toàn ra thơ gì đâu ko đúng vần điệu gì hết. 🫥"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Nhưng giờ thử với ChatGPT 4o thì thấy thơ ra đúng hơn hẳn rồi 👀 Có khi nào openai giờ mới train với dữ liệu các bài thơ của việt nam chăng 🤣"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Kiểu này chẳng mấy các nhà thơ lại thất nghiệp như anh em lập trình chúng mình 🥹"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 1,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 8,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 8,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1732763826000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1534434303877919",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2706811922823724",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1732763826,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1534434303877919"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=P6G3JKyne_rYSd3dfL-ivQ&_nc_ss=7a3a8&oh=00_Af1ChpybWf1TFighh8_GpOkqDYMx4uokRysOTZFxHoOkWg&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

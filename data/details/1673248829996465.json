@@ -1,0 +1,238 @@
+{
+    "result": {
+        "id": "UzpfSTE2NzMyNDg4Mjk5OTY0NjU6Vks6MTY3MzI0ODgyOTk5NjQ2NQ==",
+        "post_id": "1673248829996465",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1673248829996465/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "AI giờ cỡ này 🤐🤯 \n\nBạn dùng được AI cỡ nào rồi 🐧\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 4,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 3,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1750732615000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1673248829996465",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "765783999315616",
+            "original_content_owner_id": "100076520672321",
+            "page_id": "101746096154603",
+            "story_location": 9,
+            "attached_story_attachment_style": "video_autoplay",
+            "video_id": "1679213513470485",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "VideoAttachment",
+            "page_insights": {
+                "100076520672321": {
+                    "page_id": "100076520672321",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100076520672321",
+                        "page_id_type": "page",
+                        "actor_id": "100076520672321",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1750647562,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "765783999315616"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1673248829996465",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100076520672321",
+                            "post_id": "765783999315616",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "765783999315616",
+                        "sharedMediaID": "1673248829996465",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1750732615,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1673248829996465"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=SOf9JPYJUqm8tI5XkbVvQg&_nc_ss=7a3a8&oh=00_Af02MxZjozTJXZzsBC_tTEicTAY8WZEoqPNQ5fS9IwDmKQ&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA3NjUyMDY3MjMyMTo3NjU3ODM5OTkzMTU2MTY6NzY1NzgzOTk5MzE1NjE2",
+            "post_id": "765783999315616",
+            "url": "https://www.facebook.com/le.minh.nam.785069/videos/1679213513470485/",
+            "media": {
+                "subAttachments": [],
+                "photo": null,
+                "video": {
+                    "id": "1679213513470485",
+                    "url": "https://www.facebook.com/le.minh.nam.785069/videos/1679213513470485/",
+                    "thumbnail": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t15.5256-10/511219704_541762145561036_4894648541685150957_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=50ce42&_nc_ohc=aCOUVk34ygUQ7kNvwEnBm3Q&_nc_oc=Adp8lRYx8Z1WyGDlMQZWCSfAJqPSt5sIgFTva-poVP6ZMIgGZfPsOari-hFkJllN1QM&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=SOf9JPYJUqm8tI5XkbVvQg&_nc_ss=7a3a8&oh=00_Af0KkHe2D1VPyKE-ADamfzS_o84qbQslAU2jF73qROy8kg&oe=69E7905E",
+                    "duration": 125766,
+                    "width": 576,
+                    "height": 1020,
+                    "original_width": 576,
+                    "original_height": 1020,
+                    "publish_time": 0,
+                    "audio_availability": "AVAILABLE",
+                    "is_live_streaming": false,
+                    "is_spherical": false,
+                    "is_looping": false,
+                    "loop_count": 0,
+                    "source": {
+                        "variants": []
+                    },
+                    "sprite": {
+                        "uris": [
+                            "https://scontent.fsgn2-10.fna.fbcdn.net/v/t15.5256-10/510422898_1450940752985306_8862662697230314166_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=62976d&_nc_ohc=GQ36-yi9pFYQ7kNvwExbvvl&_nc_oc=Adq6geVfAch3E7XXEJ-JWdoXSPNNvfeetreU_HZxteV2kIf4Cuf2KkdDByGVLPFPC_s&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=SOf9JPYJUqm8tI5XkbVvQg&_nc_ss=7a3a8&oh=00_Af3q-BGoxsWjBmWZ0sEQiYd-FkbueS95ZPb5iELBwYW37w&oe=69E763C6",
+                            "https://scontent.fsgn2-9.fna.fbcdn.net/v/t15.5256-10/511996444_704737455811737_2466431885046944206_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=62976d&_nc_ohc=jfDd-UboR6wQ7kNvwFCWq4J&_nc_oc=Ado8XWhGwM54oiD7M3eovRiEZ3QGIf8FmN5ASeaIbB2z6T79zKSCNSegeaNGHRjqQes&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=SOf9JPYJUqm8tI5XkbVvQg&_nc_ss=7a3a8&oh=00_Af2b7199BJA9U5G4nMgmuhjdb3omYK-eh4RVqJeDX_ZKvQ&oe=69E76166"
+                        ],
+                        "thumbnail_width": 100,
+                        "thumbnail_height": 176,
+                        "num_images_per_row": 10,
+                        "max_number_of_images_per_sprite": 100,
+                        "time_interval_between_image": 1
+                    }
+                }
+            },
+            "text": "Cuộc đời là một cuộc hành trình  #minhnamvlog. Nguồn siêu tầm",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [
+                "#minhnamvlog"
+            ],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Lê Minh Nam",
+                    "id": "100076520672321",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/le.minh.nam.785069",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1750647562000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

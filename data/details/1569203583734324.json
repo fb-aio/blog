@@ -1,0 +1,916 @@
+{
+    "result": {
+        "id": "UzpfSTE1NjkyMDM1ODM3MzQzMjQ6Vks6MTU2OTIwMzU4MzczNDMyNA==",
+        "post_id": "1569203583734324",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1569203583734324/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Mình mới xem thử  2 người đầu tiên thôi\nMà đã biết thêm 1 đống kiến thức và trang web hay 👀\nRất Đáng để share 🌟",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 5,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 5,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 2,
+        "created_time": 1737541254000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1569203583734324",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1569421353845431",
+            "original_content_owner_id": 1010276030,
+            "page_id": "218322898024376",
+            "story_location": 9,
+            "attached_story_type": "EntGroupMallPostCreationStory",
+            "page_insights": {
+                "1010276030": {
+                    "page_id": 1010276030,
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": 1010276030,
+                        "page_id_type": "page",
+                        "actor_id": 1010276030,
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntGroupMallPostCreationStory",
+                        "post_context": {
+                            "object_fbtype": 657,
+                            "publish_time": 1710573946,
+                            "story_name": "EntGroupMallPostCreationStory",
+                            "story_fbid": [
+                                "1569421353845431"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1569203583734324",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": 1010276030,
+                            "post_id": "1569421353845431",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1569421353845431",
+                        "sharedMediaID": "1569203583734324",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1737541254,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1569203583734324"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                },
+                "1569314343856132": {
+                    "page_id": "1569314343856132",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "1569314343856132",
+                        "page_id_type": "group",
+                        "actor_id": 1010276030,
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntGroupMallPostCreationStory",
+                        "post_context": {
+                            "object_fbtype": 657,
+                            "publish_time": 1710573946,
+                            "story_name": "EntGroupMallPostCreationStory",
+                            "story_fbid": [
+                                "1569421353845431"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1569203583734324",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=DhThP4PapXl_sJ0jHIl9BQ&_nc_ss=7a3a8&oh=00_Af3LT2Dudtx0B8fPsqqJu9DVkkpoMyp6WiWwKomLKl7OSw&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMTAyNzYwMzA6Vks6MTU2OTQyMTM1Mzg0NTQzMQ==",
+            "post_id": "1569421353845431",
+            "url": "https://www.facebook.com/groups/indiehackervn/permalink/1569421353845431/",
+            "media": {
+                "subAttachments": [],
+                "photo": null,
+                "video": null
+            },
+            "text": "# **Những Indie Hackers truyền cảm hứng**\n\nKhông cần tốn phí khóa học nào cả, sau đây là 32 Indie Hackers thành công mà mình tìm được, họ đã và đang chia sẻ kinh nghiệm của họ **MIỄN PHÍ** trên Twitter:\n1. **@marc_louvion** Nhà sáng tạo nội dung đỉnh nhất. Làm video launching viral. Nhà sáng tạo của năm trên PH. Livestream về cách anh ấy xây dựng & ra mắt sản phẩm từ đầu. Thúc đẩy \"nhanh\". Chủ yếu là B2B.\n1. **@marckohlbrugge** Mẹo cực hay về indie hacking, xây dựng, tăng trưởng và lên ý tưởng. Tuyệt vời cho B2C.\n1. **@dannypostmaa** Kẻ du mục kỹ thuật số. B2C. Người tiên phong trong việc lựa chọn dự án dựa trên tiềm năng SEO. Chuyên gia tối ưu chuyển đổi.\n1. **@levelsio** Tác giả của sách khởi nghiệp # 1: sổ tay indie maker. Nhà sản xuất indie nổi tiếng nhất. Chủ yếu là B2C.\n1. **@AlexHormozi** sở hữu Acquisition[dot]com và chia sẻ nhiều kiến thức “khởi nghiệp”. Cực kỳ truyền cảm hứng!\n1. **@aliszu** & **@MrNick_Buzz** Chuyển đổi agency thiết kế thành sản phẩm theo mô hình đăng ký và phát triển thông qua X.\n1. **@kepano** Nói không với các nhà đầu tư mạo hiểm. Công ty theo định hướng triết lý dựa trên các nguyên tắc nghiêm ngặt. Một nhà thơ.\n1. **@noahkagan** Nhà sáng lập AppSumo & sách \"Cuối tuần triệu đô\". Rất nhiều bài học marketing trên X của anh ấy.\n1. **@helloitsolly** Bậc thầy về lời chứng thực và landing page. Cần phải nghiên cứu một lần khi \"chuyển đổi\" trên LP có liên quan.\n1. **@dsiroker** Nhà sáng lập thành công chia sẻ những bài học về huy động vốn. Làm các bản demo sản phẩm rất đơn giản nhưng hiệu quả.\n1. **@d4m1n** Các mẹo về indie hacking khác nhau cho các công cụ dành cho nhà phát triển.\n1. **@mikestrives** Nói rằng mọi người nên sở hữu một SaaS kiếm được 10.000 đô la / tháng. Chia sẻ rất nhiều mẹo về cách để đạt được điều đó. Bản thân anh ấy đã đạt được điều đó hai lần.\n1. **@karpathy** Dạy LLM và AI theo cách rất nâng cao nhưng dễ hiểu.\n1. **@lexfridman** Cho phép bạn đào sâu vào bộ não của những người thành công nhất từ trước đến nay bằng cách xem các podcast dài 4 tiếng của ông ấy.\n1. **@gregisenberg** Ông này nhìn thấy tương lai 😂. Điều hành các startup do cộng đồng điều hành và holding company.\n1. **@staticmaker1** Khám phá các doanh nghiệp \"buồn tẻ\" (boring) và đăng tóm tắt nhanh chóng trên X mỗi ngày. Tuyệt vời cho ý tưởng kinh doanh.\n1. **@neilpatel** Chuyên gia marketing \"truyền thống\" giỏi nhất thế giới. Bạn có thể thích hoặc không thích cách tiếp cận như vậy, nhưng bạn có thể học được rất nhiều điều.\n1. **@JosephJacks_** Những người lãnh đạo của phong trào Mã nguồn mở.\n1. **@paulg** Nhà phát minh YC (YCombinator). Viết những bài luận thiên tài. Phải đọc tất cả nếu bạn nghiêm túc muốn thành công.\n1. **@fireship_dev** Dạy bạn mọi người xung quanh về công nghệ & lập trình bằng các video ngắn vui nhộn.\n1. **@arvidkahl** Podcast hay nhất về các startup tự cung tự cấp.\n1. **@jasonfried** Những người phát minh ra \"tự cung tự cấp\". Làm điều đó trước khi nó trở thành xu hướng. Phát minh lại toàn bộ mọi thứ một lần nữa với mô hình \"một lần\": trả tiền một lần và sử dụng mãi mãi.\n1. **@nikitabier** Xây dựng nhiều ứng dụng xã hội tiêu dùng nổi tiếng. Chia sẻ những thứ hài hước và hữu ích.\n1. **@BrettFromDJ** Là người tiên phong trong việc \"Bán kỹ năng của bạn dưới dạng đăng ký (subscription)\".\n1. **@Scobleizer** Giúp bạn cập nhật về AI.\n1. **@girdley** Giống như mô hình Holdco. 11 startup công nghệ nghiêm túc dưới một mái nhà.\n1. **@tibo_maker** Nhà sáng tạo nội dung của năm trên PH. Dạy rất nhiều về Tăng trưởng.\n1. **@agazdecki** Đã giúp hàng trăm startup được mua lại. Chia sẻ rất nhiều về cách mua / bán startup.\n1. **@thepatwalls** Nhà sáng lập của starter story. Rất nhiều câu chuyện từ những người sáng lập startup thành công về cách họ bắt đầu và quảng bá startup của họ.\n1. **@lennysan** Podcast hay nhất về các startup được VC tài trợ.\n1. **@dagorenouf** Dành 5 năm và hơn 100.000 đô la để tự khởi nghiệp một startup và thất bại với việc bị kiệt sức trầm trọng.\n1. **@bentossell** Bản tin hay nhất cho founders.\n\nTạo tài khoản Twitter và follow họ để cảm nhận nguồn cảm hứng bất tận mà họ đang lan truyền nào!\n\n#buildinpublicvn #indiehackervn #saasvn",
+            "text_format": {},
+            "rich_message": [
+                {
+                    "__typename": "ComposedHeaderOneBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                    "block_type": "HEADER_ONE",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 35,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Những Indie Hackers truyền cảm hứng"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 8,
+                            "offset": 133
+                        }
+                    ],
+                    "text": "Không cần tốn phí khóa học nào cả, sau đây là 32 Indie Hackers thành công mà mình tìm được, họ đã và đang chia sẻ kinh nghiệm của họ MIỄN PHÍ trên Twitter:"
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 13,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@marc_louvion Nhà sáng tạo nội dung đỉnh nhất. Làm video launching viral. Nhà sáng tạo của năm trên PH. Livestream về cách anh ấy xây dựng & ra mắt sản phẩm từ đầu. Thúc đẩy \"nhanh\". Chủ yếu là B2B."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 15,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@marckohlbrugge Mẹo cực hay về indie hacking, xây dựng, tăng trưởng và lên ý tưởng. Tuyệt vời cho B2C."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 13,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@dannypostmaa Kẻ du mục kỹ thuật số. B2C. Người tiên phong trong việc lựa chọn dự án dựa trên tiềm năng SEO. Chuyên gia tối ưu chuyển đổi."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 9,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@levelsio Tác giả của sách khởi nghiệp # 1: sổ tay indie maker. Nhà sản xuất indie nổi tiếng nhất. Chủ yếu là B2C."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 12,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@AlexHormozi sở hữu Acquisition[dot]com và chia sẻ nhiều kiến thức “khởi nghiệp”. Cực kỳ truyền cảm hứng!"
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 7,
+                            "offset": 0
+                        },
+                        {
+                            "inline_style": "BOLD",
+                            "length": 12,
+                            "offset": 10
+                        }
+                    ],
+                    "text": "@aliszu & @MrNick_Buzz Chuyển đổi agency thiết kế thành sản phẩm theo mô hình đăng ký và phát triển thông qua X."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 7,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@kepano Nói không với các nhà đầu tư mạo hiểm. Công ty theo định hướng triết lý dựa trên các nguyên tắc nghiêm ngặt. Một nhà thơ."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 10,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@noahkagan Nhà sáng lập AppSumo & sách \"Cuối tuần triệu đô\". Rất nhiều bài học marketing trên X của anh ấy."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 13,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@helloitsolly Bậc thầy về lời chứng thực và landing page. Cần phải nghiên cứu một lần khi \"chuyển đổi\" trên LP có liên quan."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 9,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@dsiroker Nhà sáng lập thành công chia sẻ những bài học về huy động vốn. Làm các bản demo sản phẩm rất đơn giản nhưng hiệu quả."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 6,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@d4m1n Các mẹo về indie hacking khác nhau cho các công cụ dành cho nhà phát triển."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 12,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@mikestrives Nói rằng mọi người nên sở hữu một SaaS kiếm được 10.000 đô la / tháng. Chia sẻ rất nhiều mẹo về cách để đạt được điều đó. Bản thân anh ấy đã đạt được điều đó hai lần."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 9,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@karpathy Dạy LLM và AI theo cách rất nâng cao nhưng dễ hiểu."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 11,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@lexfridman Cho phép bạn đào sâu vào bộ não của những người thành công nhất từ trước đến nay bằng cách xem các podcast dài 4 tiếng của ông ấy."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 13,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@gregisenberg Ông này nhìn thấy tương lai 😂. Điều hành các startup do cộng đồng điều hành và holding company."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 13,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@staticmaker1 Khám phá các doanh nghiệp \"buồn tẻ\" (boring) và đăng tóm tắt nhanh chóng trên X mỗi ngày. Tuyệt vời cho ý tưởng kinh doanh."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 10,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@neilpatel Chuyên gia marketing \"truyền thống\" giỏi nhất thế giới. Bạn có thể thích hoặc không thích cách tiếp cận như vậy, nhưng bạn có thể học được rất nhiều điều."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 13,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@JosephJacks_ Những người lãnh đạo của phong trào Mã nguồn mở."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 6,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@paulg Nhà phát minh YC (YCombinator). Viết những bài luận thiên tài. Phải đọc tất cả nếu bạn nghiêm túc muốn thành công."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 13,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@fireship_dev Dạy bạn mọi người xung quanh về công nghệ & lập trình bằng các video ngắn vui nhộn."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 10,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@arvidkahl Podcast hay nhất về các startup tự cung tự cấp."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 11,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@jasonfried Những người phát minh ra \"tự cung tự cấp\". Làm điều đó trước khi nó trở thành xu hướng. Phát minh lại toàn bộ mọi thứ một lần nữa với mô hình \"một lần\": trả tiền một lần và sử dụng mãi mãi."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 11,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@nikitabier Xây dựng nhiều ứng dụng xã hội tiêu dùng nổi tiếng. Chia sẻ những thứ hài hước và hữu ích."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 12,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@BrettFromDJ Là người tiên phong trong việc \"Bán kỹ năng của bạn dưới dạng đăng ký (subscription)\"."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 11,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@Scobleizer Giúp bạn cập nhật về AI."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 8,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@girdley Giống như mô hình Holdco. 11 startup công nghệ nghiêm túc dưới một mái nhà."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 11,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@tibo_maker Nhà sáng tạo nội dung của năm trên PH. Dạy rất nhiều về Tăng trưởng."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 10,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@agazdecki Đã giúp hàng trăm startup được mua lại. Chia sẻ rất nhiều về cách mua / bán startup."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 12,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@thepatwalls Nhà sáng lập của starter story. Rất nhiều câu chuyện từ những người sáng lập startup thành công về cách họ bắt đầu và quảng bá startup của họ."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 9,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@lennysan Podcast hay nhất về các startup được VC tài trợ."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 11,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@dagorenouf Dành 5 năm và hơn 100.000 đô la để tự khởi nghiệp một startup và thất bại với việc bị kiệt sức trầm trọng."
+                },
+                {
+                    "__typename": "ComposedOrderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedOrderedListItemBlockWithEntities",
+                    "block_type": "ORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 11,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "@bentossell Bản tin hay nhất cho founders."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Tạo tài khoản Twitter và follow họ để cảm nhận nguồn cảm hứng bất tận mà họ đang lan truyền nào!"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [
+                        {
+                            "entity_type": "HASHTAG",
+                            "entity": {
+                                "__typename": "Hashtag",
+                                "__isEntity": "Hashtag",
+                                "url": "https://www.facebook.com/hashtag/buildinpublicvn",
+                                "mobileUrl": "https://m.facebook.com/hashtag/buildinpublicvn",
+                                "__isNode": "Hashtag",
+                                "id": "7586094391423863"
+                            },
+                            "length": 16,
+                            "offset": 0
+                        },
+                        {
+                            "entity_type": "HASHTAG",
+                            "entity": {
+                                "__typename": "Hashtag",
+                                "__isEntity": "Hashtag",
+                                "url": "https://www.facebook.com/hashtag/indiehackervn",
+                                "mobileUrl": "https://m.facebook.com/hashtag/indiehackervn",
+                                "__isNode": "Hashtag",
+                                "id": "7474880935902215"
+                            },
+                            "length": 14,
+                            "offset": 17
+                        },
+                        {
+                            "entity_type": "HASHTAG",
+                            "entity": {
+                                "__typename": "Hashtag",
+                                "__isEntity": "Hashtag",
+                                "url": "https://www.facebook.com/hashtag/saasvn",
+                                "mobileUrl": "https://m.facebook.com/hashtag/saasvn",
+                                "__isNode": "Hashtag",
+                                "id": "1899157893515968"
+                            },
+                            "length": 7,
+                            "offset": 32
+                        }
+                    ],
+                    "inline_style_ranges": [],
+                    "text": "#buildinpublicvn #indiehackervn #saasvn"
+                }
+            ],
+            "hashtags": [
+                "#buildinpublicvn",
+                "#indiehackervn",
+                "#saasvn"
+            ],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "id": "1010276030",
+                    "name": "Duy Nguyen",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/mrgoonie"
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1710573946000,
+            "privacy_scope": "Nhóm công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": "Group",
+                "id": "1569314343856132",
+                "url": "https://www.facebook.com/groups/indiehackervn/",
+                "name": "Build in Public VN",
+                "avatar": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/509443918_10233522779463937_6884554539542802636_n.jpg?stp=c264.0.432.432a_cp0_dst-jpg_s110x80_tt6&_nc_cat=105&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=r-o0j_4vFg8Q7kNvwEWK4vQ&_nc_oc=AdqioOtjwAdzJ9NfMyiqAbanzvYd8yZMXSFrkQiSTT6X9sVfmff7wpvBDfR1Aiv24KE&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=DhThP4PapXl_sJ0jHIl9BQ&_nc_ss=7a3a8&oh=00_Af0pOiZ45cPP-ItzOZgr3KlmM4D1AuDB2hdgTjRP-vpY5A&oe=69E7145E"
+            },
+            "attached_post": null
+        }
+    }
+}

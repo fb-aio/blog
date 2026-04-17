@@ -1,0 +1,339 @@
+{
+    "result": {
+        "id": "UzpfSTE1MTcwMjkzMTU2MTg0MTg6Vks6MTUxNzAyOTMxNTYxODQxOA==",
+        "post_id": "1517029315618418",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1517029315618418/",
+        "media": {
+            "mediaset_token": "pcb.1517029315618418",
+            "subAttachments": [
+                {
+                    "id": "2686151224889794",
+                    "url": "https://www.facebook.com/photo.php?fbid=2686151224889794&set=gm.1517031815618168&type=3",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/504421867_2879087305596184_7773024373711485915_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=u17SeeV_KikQ7kNvwGADfXo&_nc_oc=AdosT0UkOV1KCdKRtOrLqJdCp4Hd_x3hkqCXvQjVLon8GOq1kPCh0VfEgWzze-eKOpo&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=sCb1MDOzji_KT2YxYX0Zxw&_nc_ss=7a3a8&oh=00_Af2RwWvH7gMthWyZr-_4pH6O9xJ78aKynpW2gLg_hsSh5Q&oe=69E71F16",
+                    "height": 489,
+                    "width": 516,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                    "real_width": 516,
+                    "real_height": 489
+                },
+                {
+                    "id": "526968253516040",
+                    "url": "https://www.facebook.com/9999.hoangtran/videos/526968253516040/?idorvanity=1154059318582088",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t15.5256-10/465257732_557571806968716_4489996000103846195_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=117846&_nc_ohc=MsYLKh43ZUQQ7kNvwExLDbP&_nc_oc=Ado2RtGP0Q9bjxAiK0Xddaa0xllK9fT-WQFAu3IWNgwQGWJoOIbhT9AMjPuGf1jTUZY&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=sCb1MDOzji_KT2YxYX0Zxw&_nc_ss=7a3a8&oh=00_Af2RHUdQuoiQ1W-5sZw219LHZpqNZR07BM7n7DY1PTA7LA&oe=69E71DEA",
+                    "height": 960,
+                    "width": 1349,
+                    "real_width": 1349,
+                    "real_height": 960
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# FB AIO: Cách fix lỗi Missing fb_dtsg token 🫥\n> CẬP NHẬT 2/11/2024: đã tự động lấy được fb_dtsg token, bạn sẽ không cần lấy bằng tay nữa\n* FB đang thay đổi dần nhiều cơ chế nên phát sinh lỗi này\n* Hiện tại đang ngẫu nhiên người bị người không\n* Ai bị thì làm theo video là được nha 😅\n\nEnglish:\n> UPDATE 02/11/2024: FB AIO can automatic find fb_dtsg token for you, no need to manual action\n* Facebook is gradually changing several mechanisms\nwhich is causing this error to occur\n* Currently, it affects some people randomly, while others are unaffected. \n* If you're affected, just follow the steps in this video to fix it 😅\n\n#fb_aio",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 21,
+                        "offset": 21
+                    }
+                ],
+                "text": "FB AIO: Cách fix lỗi Missing fb_dtsg token 🫥"
+            },
+            {
+                "__typename": "ComposedBlockquoteBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                "block_type": "BLOCKQUOTE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 12,
+                        "offset": 23
+                    }
+                ],
+                "text": "CẬP NHẬT 2/11/2024: đã tự động lấy được fb_dtsg token, bạn sẽ không cần lấy bằng tay nữa"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 8,
+                        "offset": 8
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 6,
+                        "offset": 27
+                    }
+                ],
+                "text": "FB đang thay đổi dần nhiều cơ chế nên phát sinh lỗi này"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 10,
+                        "offset": 14
+                    }
+                ],
+                "text": "Hiện tại đang ngẫu nhiên người bị người không"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Ai bị thì làm theo video là được nha 😅"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "\nEnglish:"
+            },
+            {
+                "__typename": "ComposedBlockquoteBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                "block_type": "BLOCKQUOTE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "UPDATE 02/11/2024: FB AIO can automatic find fb_dtsg token for you, no need to manual action"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 8,
+                        "offset": 22
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 10,
+                        "offset": 39
+                    }
+                ],
+                "text": "Facebook is gradually changing several mechanisms\nwhich is causing this error to occur"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 8,
+                        "offset": 34
+                    }
+                ],
+                "text": "Currently, it affects some people randomly, while others are unaffected. "
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 16,
+                        "offset": 25
+                    }
+                ],
+                "text": "If you're affected, just follow the steps in this video to fix it 😅"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fb_aio",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fb_aio",
+                            "__isNode": "Hashtag",
+                            "id": "8080904801977702"
+                        },
+                        "length": 7,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fb_aio"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 8,
+            "total_count": 16,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 6,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 6,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1730414751000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1517029315618418",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2686151224889794",
+                "526968253516040"
+            ],
+            "photo_id": "2686151224889794",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1730414751,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1517029315618418"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=sCb1MDOzji_KT2YxYX0Zxw&_nc_ss=7a3a8&oh=00_Af026y04nsNGH50XZLrOKT5UAd0VsPrnbV0-dVIB5Pcbdg&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

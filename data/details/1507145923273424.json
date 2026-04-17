@@ -1,0 +1,211 @@
+{
+    "result": {
+        "id": "UzpfSTE1MDcxNDU5MjMyNzM0MjQ6Vks6MTUwNzE0NTkyMzI3MzQyNA==",
+        "post_id": "1507145923273424",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1507145923273424/",
+        "media": {
+            "mediaset_token": "pcb.1507145923273424",
+            "subAttachments": [
+                {
+                    "id": "2669090836595833",
+                    "url": "https://www.facebook.com/photo.php?fbid=2669090836595833&set=gm.1507145926606757&type=3",
+                    "uri": "https://scontent.fsgn2-8.fna.fbcdn.net/v/t39.30808-6/502850552_2877435515761363_1198849495096731036_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=Z3WUCA6X7Z8Q7kNvwFQNwFM&_nc_oc=AdrADzP1M_bmaZcNVtVUklnhvt1IAw4G-SJYZaMzOXqw7KpsuHAZeU1RDoJA4kRKsGI&_nc_zt=23&_nc_ht=scontent.fsgn2-8.fna&_nc_gid=VEvQggym5aJ2uzKpI67fBQ&_nc_ss=7a3a8&oh=00_Af0mF7KcIUYuoelCh71Stx107vwB-mm7xIV4_eyRtIs2Ww&oe=69E721B7",
+                    "height": 997,
+                    "width": 984,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                    "real_width": 984,
+                    "real_height": 997
+                },
+                {
+                    "id": "2669090886595828",
+                    "url": "https://www.facebook.com/photo.php?fbid=2669090886595828&set=gm.1507145929940090&type=3",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/504150272_2877435645761350_1176716672029005183_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=oPx3-DAxCFAQ7kNvwH06Cxn&_nc_oc=Adomqn7XBJFmQjzMaiD6amivCrl5JL2myTbq6qUItFB6HhVkG3ZtkATyBa4CV_1S5bs&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=VEvQggym5aJ2uzKpI67fBQ&_nc_ss=7a3a8&oh=00_Af28TBNm44fVrMaHyMxJO7U4Kpqph3qX0yCWzsdqXqZ9dQ&oe=69E71AB1",
+                    "height": 924,
+                    "width": 1065,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                    "real_width": 1065,
+                    "real_height": 924
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Canny đắt voãi !!!\n\nHôm trước có tạo web cho mọi người Yêu cầu chức năng / Báo lỗi FB AIO\nhttps://www.facebook.com/groups/1154059318582088/posts/1496330254354991\n\nXài được 2 tuần cũng khá êm, có vote, có comment, có chỉnh status, có gắn label, ...\n\nNay hết dùng thử thì nó đòi 99$/tháng 😇😢\nThôi mình nghèo lắm tiền đâu mà trả\nKhông trả thì mấy chức năng ở trên mất hết, chả còn gì để dùng luôn.\n\nThôi thì Tạm thời ngừng sử dụng canny, đợi mình tìm được cách khác ổn hơn sẽ báo lại cho mn nhé. \n\nTrong thời gian này có yêu cầu chức năng, báo bug mn cứ bình luận hoặc nhắn tin vào nhóm** **cho nhanh, rep cũng lẹ\n\nNhắn trong đây nè: https://m.me/ch/AbZndO_h9C__a5vn/\n  \n#fb_aio",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Canny đắt voãi !!!"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fb_aio",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fb_aio",
+                            "__isNode": "Hashtag",
+                            "id": "8080904801977702"
+                        },
+                        "length": 7,
+                        "offset": 645
+                    }
+                ],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 10,
+                        "offset": 258
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 7,
+                        "offset": 342
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 22,
+                        "offset": 386
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 32,
+                        "offset": 532
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 1,
+                        "offset": 564
+                    }
+                ],
+                "text": "\nHôm trước có tạo web cho mọi người Yêu cầu chức năng / Báo lỗi FB AIO\nhttps://www.facebook.com/groups/1154059318582088/posts/1496330254354991\n\nXài được 2 tuần cũng khá êm, có vote, có comment, có chỉnh status, có gắn label, ...\n\nNay hết dùng thử thì nó đòi 99$/tháng 😇😢\nThôi mình nghèo lắm tiền đâu mà trả\nKhông trả thì mấy chức năng ở trên mất hết, chả còn gì để dùng luôn.\n\nThôi thì Tạm thời ngừng sử dụng canny, đợi mình tìm được cách khác ổn hơn sẽ báo lại cho mn nhé. \n\nTrong thời gian này có yêu cầu chức năng, báo bug mn cứ bình luận hoặc nhắn tin vào nhóm cho nhanh, rep cũng lẹ\n\nNhắn trong đây nè: https://m.me/ch/AbZndO_h9C__a5vn/\n  \n#fb_aio"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 5,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 10,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 8,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 2,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1729135241000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1507145923273424",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2669090836595833",
+                "2669090886595828"
+            ],
+            "photo_id": "2669090836595833",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1729135241,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1507145923273424"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=VEvQggym5aJ2uzKpI67fBQ&_nc_ss=7a3a8&oh=00_Af3gXo0tvSRqhwAL-aa4gSTwxP0ZjwB8Kl_vWYvabtTjIQ&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

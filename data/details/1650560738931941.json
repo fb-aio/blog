@@ -1,0 +1,262 @@
+{
+    "result": {
+        "id": "UzpfSTE2NTA1NjA3Mzg5MzE5NDE6Vks6MTY1MDU2MDczODkzMTk0MQ==",
+        "post_id": "1650560738931941",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1650560738931941/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "# Dành 12 năm học trên ghế nhà trường 🏫\n\nTới giờ có nhiều kiến thức mình vẫn chưa bao giờ dùng lại 🐧\n\nMột phần do kiến thức đó không dùng trong ngành IT mình đang làm 🥴\n\nNhiều khi cũng tự hỏi, mình có bỏ phí tuổi trẻ nhiều quá, để học những kiến thức dàn trải ở nhiều môn học 🤔\n\nSẽ ra sao nếu mình chọn được ngành từ sớm, và chỉ học chú tâm vào ngành đó 👀\n\nCũng đáng suy ngẫm và đáng để thử, nếu mình có thể sống lại tuổi trẻ 1 lần nữa 🤣\n\n#fbaio_share",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Dành 12 năm học trên ghế nhà trường 🏫"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fbaio_share",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fbaio_share",
+                            "__isNode": "Hashtag",
+                            "id": "8771715079560378"
+                        },
+                        "length": 12,
+                        "offset": 399
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "\nTới giờ có nhiều kiến thức mình vẫn chưa bao giờ dùng lại 🐧\n\nMột phần do kiến thức đó không dùng trong ngành IT mình đang làm 🥴\n\nNhiều khi cũng tự hỏi, mình có bỏ phí tuổi trẻ nhiều quá, để học những kiến thức dàn trải ở nhiều môn học 🤔\n\nSẽ ra sao nếu mình chọn được ngành từ sớm, và chỉ học chú tâm vào ngành đó 👀\n\nCũng đáng suy ngẫm và đáng để thử, nếu mình có thể sống lại tuổi trẻ 1 lần nữa 🤣\n\n#fbaio_share"
+            }
+        ],
+        "hashtags": [
+            "#fbaio_share"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 3,
+            "total_count": 7,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 18,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 15,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 3,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1747902806000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1650560738931941",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1150841627080616",
+            "original_content_owner_id": "100064643681682",
+            "page_id": "912918568785331",
+            "story_location": 9,
+            "attached_story_type": "EntStatusCreationStory",
+            "page_insights": {
+                "100064643681682": {
+                    "page_id": "100064643681682",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100064643681682",
+                        "page_id_type": "page",
+                        "actor_id": "100064643681682",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1747902248,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1150841627080616"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1650560738931941",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100064643681682",
+                            "post_id": "1150841627080616",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1150841627080616",
+                        "sharedMediaID": "1650560738931941",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1747902806,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1650560738931941"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=Xgg54dSd848y5PEXIIUZYQ&_nc_ss=7a3a8&oh=00_Af3djRFwQM4YuaYA-9uNEoINWYgu5fk9F_hJLc1DyGICbw&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA2NDY0MzY4MTY4MjoxMTUwODQxNjI3MDgwNjE2OjExNTA4NDE2MjcwODA2MTY=",
+            "post_id": "1150841627080616",
+            "url": "https://www.facebook.com/thongtinchinhphu/posts/pfbid0jwCMp5oEsvDyECQPqVzKRwGZszbMRAUb945DcyZZ37Jp57aiKGF2AT2hL5uLt8qGl",
+            "media": {
+                "subAttachments": [],
+                "photo": null,
+                "video": null
+            },
+            "text": "🤖 👩‍🎓 \"Với AI và học theo khả năng, một học sinh chăm chỉ có thể kết thúc chương trình phổ thông chỉ trong 5–7 năm, thay vì phải chờ đợi đủ 12 năm như hiện tại. \n\nNếu tốt nghiệp phổ thông ở tuổi 12–13, thì đến 16 tuổi bạn ấy đã có thể xong đại học, thậm chí có thể đã hoàn thành một vài bằng tiến sĩ trước khi sang tuổi 20. \n\nVậy thì thời gian cố định 12 năm cấp phổ thông và 4 năm đại học là hoàn toàn lạc hậu.\n\nMột ví dụ cho thấy tiềm năng của học theo tiến độ cá nhân là Kairan Quazi, cậu bé người Mỹ tốt nghiệp đại học ở tuổi 14 và trở thành thực tập sinh tại SpaceX. \n\nTừ năm 9 tuổi, Kairan đã tự học qua các nền tảng trực tuyến như Khan Academy và Coursera, không bị ràng buộc bởi tiến độ cứng nhắc của trường lớp. \n\nNhờ đó, cậu đã rút ngắn toàn bộ lộ trình học phổ thông và đại học chỉ trong vài năm\".\n\n---\nTS. Nguyễn Quốc Toàn",
+            "text_format": {
+                "preset_id": "1953054055059680",
+                "background_color": "FFC6F0E4",
+                "background_image": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.10873-6/386737563_1953054068393012_2334528481989712011_n.jpg?stp=dst-jpg_p235x350_tt6&_nc_cat=1&ccb=1-7&_nc_sid=4bb800&_nc_ohc=JVYva67zpUQQ7kNvwFc6CMT&_nc_oc=AdphlcjXcFoQyj6h0lGr8YBkXOAkj4FIN-QH7owaPt8cjsMbxMYDaI3TB4qK0qH6jpA&_nc_zt=14&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=Xgg54dSd848y5PEXIIUZYQ&_nc_ss=7a3a8&oh=00_Af2a7O3JJx5_BVLYBSbk52GRBAwpwAjNIAKYXrmbPc1d2g&oe=69E72387",
+                "portrait_background_image": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.10873-6/386737563_1953054068393012_2334528481989712011_n.jpg?stp=dst-jpg_p235x350_tt6&_nc_cat=1&ccb=1-7&_nc_sid=4bb800&_nc_ohc=JVYva67zpUQQ7kNvwFc6CMT&_nc_oc=AdphlcjXcFoQyj6h0lGr8YBkXOAkj4FIN-QH7owaPt8cjsMbxMYDaI3TB4qK0qH6jpA&_nc_zt=14&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=Xgg54dSd848y5PEXIIUZYQ&_nc_ss=7a3a8&oh=00_Af2a7O3JJx5_BVLYBSbk52GRBAwpwAjNIAKYXrmbPc1d2g&oe=69E72387",
+                "color": "FF009478",
+                "font_weight": "BOLD",
+                "font_style": "NORMAL",
+                "text_align": "CENTER"
+            },
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Thông tin Chính phủ",
+                    "id": "100064643681682",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/thongtinchinhphu",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1747902248000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

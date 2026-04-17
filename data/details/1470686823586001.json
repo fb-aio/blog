@@ -1,0 +1,423 @@
+{
+    "result": {
+        "id": "UzpfSTE0NzA2ODY4MjM1ODYwMDE6Vks6MTQ3MDY4NjgyMzU4NjAwMQ==",
+        "post_id": "1470686823586001",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1470686823586001/",
+        "media": {
+            "mediaset_token": "pcb.1470686823586001",
+            "subAttachments": [
+                {
+                    "id": "2614160268755557",
+                    "url": "https://www.facebook.com/photo.php?fbid=2614160268755557&set=gm.1470686830252667&type=3",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/491756583_2826830517488530_5404434619352130082_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=GxlNikBopKsQ7kNvwG7RMc_&_nc_oc=Adp4tPs5uSOZ_2WvuilGYUpwnjDfPztIU9o745jEidUnejd5HtV9e6mVXpHZMTrAVYM&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=fzFuMFcOmR4PP5RUASt1yg&_nc_ss=7a3a8&oh=00_Af3tf6sH5qQbYEfZWDMmGBYEkcKURLIx6Mx_NDjmZvqGNw&oe=69E71FD9",
+                    "height": 627,
+                    "width": 1200,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1200,
+                    "real_height": 627
+                },
+                {
+                    "id": "2614160338755550",
+                    "url": "https://www.facebook.com/photo.php?fbid=2614160338755550&set=gm.1470686820252668&type=3",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/491042164_2826830640821851_2220608360461541083_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=yAZnI2lkDV0Q7kNvwHuLNTO&_nc_oc=AdpwueY1am_ojsvx68ZnYtQQLbxIxhIHOMljr99y4kwBbGRyffnKe0fQ6FfUv0_ldwc&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=fzFuMFcOmR4PP5RUASt1yg&_nc_ss=7a3a8&oh=00_Af3igneALbSipv0CIYoQw8sGFDicf-V_Wr6Uy3e4x8WxWA&oe=69E744E6",
+                    "height": 873,
+                    "width": 1438,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "real_width": 1438,
+                    "real_height": 873
+                },
+                {
+                    "id": "1046625056892113",
+                    "url": "https://www.facebook.com/9999.hoangtran/videos/1046625056892113/?idorvanity=1154059318582088",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t15.5256-10/456442925_8530213660370130_182203034647237478_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=117846&_nc_ohc=Nm3qvcEG4f4Q7kNvwFy1mcC&_nc_oc=AdrTOV9KSB5R1jwCKW58zoAIUBJAjABDqx3tM9dGxsBEhwT-oyhjcPJRcZlP1D_j9aE&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=fzFuMFcOmR4PP5RUASt1yg&_nc_ss=7a3a8&oh=00_Af3BGvCtYBjSGfX9ZT8ia2pUPfg8Lw1ZH3wcfkviFocTfg&oe=69E73869",
+                    "height": 648,
+                    "width": 1152,
+                    "real_width": 1152,
+                    "real_height": 648
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# JSON Crack - Hiển thị JSON bằng biểu đồ\n\nLàm việc với JSON không còn phải đui con mắt để nhìn nữa. Phù hợp với các loại JSON nhiều tầng (lồng nhiều object)\n\nTool này vẽ lại JSON (YAML, XML, CSV) dứoi dạng biểu đồ phân tầng dễ nhìn, dễ quản lý.\n\nBản web có giới hạn size JSON (trả phí), còn vscode extension thì không giới hạn.\n\ngithub: https://github.com/AykutSarac/jsoncrack.com\n\nwebsite: https://jsoncrack.com\n\nvscode extension: https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode\n\n#ufs_share",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "JSON Crack - Hiển thị JSON bằng biểu đồ"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Làm việc với JSON không còn phải đui con mắt để nhìn nữa. Phù hợp với các loại JSON nhiều tầng (lồng nhiều object)"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Tool này vẽ lại JSON (YAML, XML, CSV) dứoi dạng biểu đồ phân tầng dễ nhìn, dễ quản lý."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Bản web có giới hạn size JSON (trả phí), còn vscode extension thì không giới hạn."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "IMPLICIT_LINK",
+                        "entity": {
+                            "__typename": "ExternalUrl",
+                            "__isEntity": "ExternalUrl",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FAykutSarac%2Fjsoncrack.com&h=AT4D5brSf_FeUMXDsIxGrxBAXI0cyIWk1eaIxA13GCSaTXESTil5POC7ATXiwjzsKFs1pZ1D36varMbkIh4hrq2ROLDCNPkDUYuzqtgjH5jR6Ny-vIIC_cBgbsp9oZl7ZmdBEV34Tg&s=1",
+                            "external_url": "https://github.com/AykutSarac/jsoncrack.com",
+                            "__isWebLinkable": "ExternalUrl",
+                            "web_link": {
+                                "__typename": "ExternalWebLink",
+                                "url": "https://github.com/AykutSarac/jsoncrack.com",
+                                "fbclid": "IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnq2N2FXSsQhqKb8-xgirzzBOqWwOOlzy6WZ6gOHoW_K2FrAMKieDs_i0Hag_aem_X79aXEQb10ai6ukqP0Uz9w",
+                                "lynx_mode": "ASYNCLAZY"
+                            },
+                            "mobileUrl": "https://lm.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FAykutSarac%2Fjsoncrack.com&h=AT6LKfQrUnpepwRaLx0uctV5k_XwkRs7adE2-NBmkaRFi42--6X80Z2WMcmKqY8kUSTmCe8IsMeSKzEOVS-hJDSqd2Pd-PIQRksDAprihKibR9huwB6gtzZr9btHqx21ZlUZXYupmg&s=1",
+                            "__isNode": "ExternalUrl",
+                            "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2dpdGh1Yi5jb20vQXlrdXRTYXJhYy9qc29uY3JhY2suY29tOjo6Ojo="
+                        },
+                        "length": 43,
+                        "offset": 8
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "github: https://github.com/AykutSarac/jsoncrack.com"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "IMPLICIT_LINK",
+                        "entity": {
+                            "__typename": "ExternalUrl",
+                            "__isEntity": "ExternalUrl",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fjsoncrack.com%2F&h=AT6ICZ5OL4z56qlin4un_FiF5G-abJPnKmZm7IeGQ4y_pVYPme6ck4CiD4NLE2M3-2lTHtgdaJ0lZQ_aU1PqzVkCRvSVVI-3EhY-hxqFMhFkZaOH4uG-1YNMGUvqJnOT9zPtY0Qigg&s=1",
+                            "external_url": "https://jsoncrack.com/",
+                            "__isWebLinkable": "ExternalUrl",
+                            "web_link": {
+                                "__typename": "ExternalWebLink",
+                                "url": "https://jsoncrack.com/",
+                                "fbclid": "IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjWFh2ZU93a_dvXdbuNPiwsvYRCPOiIbY4oMCapifsmGl6f-Ywlj20kC-ARO_aem_AEY6LiQ6UpwyZot7GQ0woA",
+                                "lynx_mode": "ASYNCLAZY"
+                            },
+                            "mobileUrl": "https://lm.facebook.com/l.php?u=https%3A%2F%2Fjsoncrack.com%2F&h=AT4rid-uUMU3NRP-ue5gjxW75FeKLk5XNzQAw95S5nFu5oGUOk6dDFC4YMngzkGag9UsUvKdiwzKnf_AvhelWxXLugwlX6UHt-ouw85Gts7ovOV8pIbBgWdxA-xUnISOEC4qJFWoqQ&s=1",
+                            "__isNode": "ExternalUrl",
+                            "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2pzb25jcmFjay5jb20vOjo6Ojo="
+                        },
+                        "length": 21,
+                        "offset": 9
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "website: https://jsoncrack.com"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "IMPLICIT_LINK",
+                        "entity": {
+                            "__typename": "ExternalUrl",
+                            "__isEntity": "ExternalUrl",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3DAykutSarac.jsoncrack-vscode&h=AT40hUwZsAWJ9-l-FGYeTZSbUNYPJUdUmb3MSksUz8F5mexaQIU1BOV5zqFw2BFhXG4q9Cu6VcYpYERO8YnzwZsSXkVet14DnnukoC91q9a2LiyVqKFQTvtVOXmG2aA1jrv4J77ZqQ&s=1",
+                            "external_url": "https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode",
+                            "__isWebLinkable": "ExternalUrl",
+                            "web_link": {
+                                "__typename": "ExternalWebLink",
+                                "url": "https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode",
+                                "fbclid": "IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvGmCeNQ5sYbt0UL1vZWbPqz9bpAEpKzvAEXn6X5X4bVAJwq1liwe0S3NgdC_aem_6e06SW1tiGJ4GyIq7Rb93w",
+                                "lynx_mode": "ASYNCLAZY"
+                            },
+                            "mobileUrl": "https://lm.facebook.com/l.php?u=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3DAykutSarac.jsoncrack-vscode&h=AT5gRfoyCKYjPil6u-5zVyo3YoznwNMiGJBiHyFqHKQemfvj_AMGDoYuTotGkPELdpmsCVOxE_IG4XOacEdtaMvRpoKZxsHAMN326ry5f2l4eOsFzTDIiryQK6DgOclgrLktjOv8mw&s=1",
+                            "__isNode": "ExternalUrl",
+                            "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL21hcmtldHBsYWNlLnZpc3VhbHN0dWRpby5jb20vaXRlbXM/aXRlbU5hbWU9QXlrdXRTYXJhYy5qc29uY3JhY2stdnNjb2RlOjo6Ojo="
+                        },
+                        "length": 79,
+                        "offset": 18
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "vscode extension: https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/ufs_share",
+                            "mobileUrl": "https://m.facebook.com/hashtag/ufs_share",
+                            "__isNode": "Hashtag",
+                            "id": "8156434557722932"
+                        },
+                        "length": 10,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#ufs_share"
+            }
+        ],
+        "hashtags": [
+            "#ufs_share"
+        ],
+        "mentions": [
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL21hcmtldHBsYWNlLnZpc3VhbHN0dWRpby5jb20vaXRlbXM/aXRlbU5hbWU9QXlrdXRTYXJhYy5qc29uY3JhY2stdnNjb2RlOjo6Ojo=",
+                "name": "https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode",
+                "url": "https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode",
+                "length": 79,
+                "offset": 18
+            },
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2pzb25jcmFjay5jb20vOjo6Ojo=",
+                "name": "https://jsoncrack.com/",
+                "url": "https://jsoncrack.com/",
+                "length": 21,
+                "offset": 9
+            },
+            {
+                "type": "ExternalUrl",
+                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2dpdGh1Yi5jb20vQXlrdXRTYXJhYy9qc29uY3JhY2suY29tOjo6Ojo=",
+                "name": "https://github.com/AykutSarac/jsoncrack.com",
+                "url": "https://github.com/AykutSarac/jsoncrack.com",
+                "length": 43,
+                "offset": 8
+            }
+        ],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 4,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 16,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 11,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 3,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "478547315650144",
+                    "count": 2,
+                    "name": "Wow"
+                }
+            ]
+        },
+        "shares": 2,
+        "created_time": 1724312998000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1470686823586001",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2614160268755557",
+                "2614160338755550",
+                "1046625056892113"
+            ],
+            "photo_id": "2614160268755557",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1724312998,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1470686823586001"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=fzFuMFcOmR4PP5RUASt1yg&_nc_ss=7a3a8&oh=00_Af2WVxUwROymZQOhn8UMIiTlqVbrXwLcvkxPclDjciLiCQ&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

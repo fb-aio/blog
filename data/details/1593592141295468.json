@@ -1,0 +1,215 @@
+{
+    "result": {
+        "id": "UzpfSTE1OTM1OTIxNDEyOTU0Njg6Vks6MTU5MzU5MjE0MTI5NTQ2OA==",
+        "post_id": "1593592141295468",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1593592141295468/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Test độ xịn của màn hình điện thoại 👀\n\nAi không nhìn ra điểm khác biệt thì 1 là đổi điện thoại, 2 là đi khám mắt nhá 🤣",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 5,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 3,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 2,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1740751708000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1593592141295468",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1056431249860674",
+            "original_content_owner_id": "100064814253504",
+            "page_id": "514958918520089",
+            "photo_id": "1056431203194012",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "100064814253504": {
+                    "page_id": "100064814253504",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100064814253504",
+                        "page_id_type": "page",
+                        "actor_id": "100064814253504",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1740459601,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1056431249860674"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1593592141295468",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100064814253504",
+                            "post_id": "1056431249860674",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1056431249860674",
+                        "sharedMediaID": "1593592141295468",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1740751708,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1593592141295468"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=BV4o37tuhK3orJhDmRFpqg&_nc_ss=7a3a8&oh=00_Af2mADbASdJI2gyHztRRXfwIJDfRhtw6SXjrGrfMvLFYlw&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA2NDgxNDI1MzUwNDoxMDU2NDMxMjQ5ODYwNjc0OjEwNTY0MzEyNDk4NjA2NzQ=",
+            "post_id": "1056431249860674",
+            "url": "https://www.facebook.com/tinhocngoisaolon/posts/pfbid0tkQfHY5AjqB2j4YLdwoENcFAyZxpoMyY4uuFNa6YYXL7hPBYQwhh4sVN2Bnf5Rb8l",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "1056431203194012",
+                    "url": "https://www.facebook.com/photo/?fbid=1056431203194012&set=a.555960503241087",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/487797170_1086426513527814_4386217059320037833_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=2_YKm1BRaLwQ7kNvwEAZ8Jc&_nc_oc=AdoZo5qJ9a_zj9juSUL1nV68Na60KBMB7C7cVquSchH6g77NxIwjxD6RrfIkUr9ou3w&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=BV4o37tuhK3orJhDmRFpqg&_nc_ss=7a3a8&oh=00_Af2BiDcu8fvDoMNMXUA_fJ3SwH4PXw1FxdLN_IjI-Q6DYA&oe=69E78C8D",
+                    "height": 1080,
+                    "width": 1080,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FF000000",
+                    "real_width": 2000,
+                    "real_height": 2000
+                },
+                "video": null
+            },
+            "text": "Logo YouTube 'sai màu' nhưng không phải do TV hỏng 😃",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "TIN HỌC NGÔI SAO",
+                    "id": "100064814253504",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/tinhocngoisaolon",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1740459601000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

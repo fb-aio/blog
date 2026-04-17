@@ -1,0 +1,548 @@
+{
+    "result": {
+        "id": "UzpfSTE0Nzk3NjUwMDkzNDQ4NDk6Vks6MTQ3OTc2NTAwOTM0NDg0OQ==",
+        "post_id": "1479765009344849",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1479765009344849/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Cross sale kkk 😂😂",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 4,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 4,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1725629620000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1479765009344849",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "26486084344368586",
+            "original_content_owner_id": "100004848287494",
+            "photo_id": "2626847867486797",
+            "story_location": 9,
+            "attached_story_attachment_style": "album",
+            "attached_story_type": "EntGroupMallPostCreationStory",
+            "attached_story_attachment_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "26486084344368586",
+                        "sharedMediaID": "1479765009344849",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1725629620,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1479765009344849"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                },
+                "3059387787464905": {
+                    "page_id": "3059387787464905",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "3059387787464905",
+                        "page_id_type": "group",
+                        "actor_id": "100004848287494",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntGroupMallPostCreationStory",
+                        "post_context": {
+                            "object_fbtype": 657,
+                            "publish_time": 1725620584,
+                            "story_name": "EntGroupMallPostCreationStory",
+                            "story_fbid": [
+                                "26486084344368586"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1479765009344849",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=7LgrGzUZGJRtiEFqliDYfQ&_nc_ss=7a3a8&oh=00_Af3g1je23Ib2A0owbZRmasvoQNDzbzU3S3ArZQZFDFSSag&oe=69E73DB6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDAwNDg0ODI4NzQ5NDpWSzoyNjQ4NjA4NDM0NDM2ODU4Ng==",
+            "post_id": "26486084344368586",
+            "url": "https://www.facebook.com/groups/devoiminhdidauthe/permalink/26486084344368586/",
+            "media": {
+                "mediaset_token": "pcb.26486084344368586",
+                "subAttachments": [
+                    {
+                        "id": "2626847867486797",
+                        "url": "https://www.facebook.com/photo.php?fbid=2626847867486797&set=gm.26486084341035253&type=3",
+                        "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/493288556_2835038730001042_676410793395623664_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=xgCQJ76IXDEQ7kNvwEDTlCP&_nc_oc=AdrhIkTzYRKKaddPxfegEV7kcoOEChadvFWRi8LxhkXV6pzV80L223G_q3kJYPomh58&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=7LgrGzUZGJRtiEFqliDYfQ&_nc_ss=7a3a8&oh=00_Af2kxwmuK_u0-WjwA69SsqWBbrmuBDE6Vk7b__LjNDeSFw&oe=69E7462C",
+                        "height": 722,
+                        "width": 1148,
+                        "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                        "real_width": 1148,
+                        "real_height": 722
+                    },
+                    {
+                        "id": "2626826814155569",
+                        "url": "https://www.facebook.com/photo.php?fbid=2626826814155569&set=gm.26486084354368585&type=3",
+                        "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/492861991_2835030506668531_1143168632237740808_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=hEr7dMedG2sQ7kNvwE6SZMu&_nc_oc=AdoY767XOVDCCmLrHILMP3XIa2yhzJSZXAnaeTz5ZqQZdSvh52wjsgnU6IPwdGiU_KU&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=7LgrGzUZGJRtiEFqliDYfQ&_nc_ss=7a3a8&oh=00_Af2nSh_7qiEuvbDOW2apfWmoZY_LyFeIbD0ugghIj3u31A&oe=69E73E82",
+                        "height": 903,
+                        "width": 1302,
+                        "accessibility_caption": "Có thể là hình ảnh về 7 người và văn bản",
+                        "real_width": 1302,
+                        "real_height": 903
+                    },
+                    {
+                        "id": "2626846414153609",
+                        "url": "https://www.facebook.com/photo.php?fbid=2626846414153609&set=gm.26486084347701919&type=3",
+                        "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/493474501_2835038533334395_787624235323897163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=NfuXjaSMqLEQ7kNvwEjk5dr&_nc_oc=Adqf0dKQB43OsaVmgFkD-So4AQu201Fg9-SgzYn_H4CSR3hq77a9TzhOYwEWmgj7lSk&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=7LgrGzUZGJRtiEFqliDYfQ&_nc_ss=7a3a8&oh=00_Af0HxAN_b8fKf-3I-M4xLus0Yzt0Z7fS7t5aY2u8rV8_Aw&oe=69E7481C",
+                        "height": 898,
+                        "width": 1300,
+                        "accessibility_caption": "Có thể là hình ảnh về văn bản cho biết 'F Hàng Loạt Hot Tinnhan VIP Hoang Tran 100004848287494 aTatcatinnn MOI Tải Hàng HàngLoạt Loạt ធូះ f Facebook ® Instagram Bạnb 100004848287494 a Tắbanbe x HoangTran Limbiketban Tin Ảnh Videos オャangtheodoi Albums Reels Thích Tài lại Nhóm Check in 止 Xuất24 24 # Đáthamgja24nhómcôngkhai Ảnh Trang Tên VIP Mbi Môtà D Trogiúp LaravelViệtNam Thành Thảnhviên iên 167363136987053 Cộngđồng lặpt inh Laravel, niemvakg séKlénhthúc,kinh.nghlệmvakinăng ăng ve Hành động DEVOI 28,672 Devdiminhdidâuthè? 3059387787 464905 Deviminh minh dâuth he cộng cộngđồng đồng nhữngngườicùngn nhữngngudicüngnhauchiasekién nhauc hauchias thức quan đến.. KAMAK H NghiệnTichCực 02909184546742 9,351'",
+                        "real_width": 1300,
+                        "real_height": 898
+                    },
+                    {
+                        "id": "2626826970822220",
+                        "url": "https://www.facebook.com/photo.php?fbid=2626826970822220&set=gm.26486084351035252&type=3",
+                        "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/492220447_2835030486668533_4651567351833283998_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=E1XAdhj3uj8Q7kNvwGIm1G2&_nc_oc=AdpBw6E8-JJwZMLyBJhSRdxpDfBUc8-BMih_LTr6PT4qBvgb-c1Pif0OC83TSYkOGWM&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=7LgrGzUZGJRtiEFqliDYfQ&_nc_ss=7a3a8&oh=00_Af1zE4EZ4sKgOG79GhUFlqn0acYUrVI_Ps7G_cVAykbt4w&oe=69E71505",
+                        "height": 901,
+                        "width": 1301,
+                        "accessibility_caption": "Có thể là đồ họa về văn bản cho biết 'F Trang Facebook all in one ~Tinnhan Hoang Tran 100004848287494 CHÚ MỠI dâutiên Bạn đăt 1trong. extension Facebook one: dưới rước mới có sử (cải đặt trong click) (tặng thêm 200 Tắtcabanbè web này: motban năng) Giớithiêu Là công chứa Xem danh sách chức năng nhiều chức năng hữu ích dành cho Facebook Instagr am Menu ben nhé. Cập nhật mới Mdi Tháng 09/2024 rgiúp MŐI: toàn nhắn Hồt trong đoạnchat đinh dang ink /share/ trong Tải hàng oat cả Xemthêm nhân Thungay Tháng 08/2024 Quoc Khánh Việt Nam 02/09/2024 năng VIP chia Xemthem hanq ban bẻ khoá'",
+                        "real_width": 1301,
+                        "real_height": 901
+                    },
+                    {
+                        "id": "2626843864153864",
+                        "url": "https://www.facebook.com/photo.php?fbid=2626843864153864&set=gm.26486084357701918&type=3",
+                        "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/492796640_2835037660001149_1266918455138420459_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=XGI7ZKhKDJoQ7kNvwFjBzTf&_nc_oc=Adqu9Gz0CdgVOkhFyQDPoTr46PvPGP9R7TUkApQ9b31hF_By2OxdLpUuTSbyFWvr2ME&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=7LgrGzUZGJRtiEFqliDYfQ&_nc_ss=7a3a8&oh=00_Af0Wf3WzCWr5P5LGhcZf3sZ0uI-kdsKgwVyoUslFtPnVkA&oe=69E71925",
+                        "height": 900,
+                        "width": 1300,
+                        "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                        "real_width": 1300,
+                        "real_height": 900
+                    }
+                ],
+                "photo": null,
+                "video": null
+            },
+            "text": "# Chào mọi người\n\nSau gần **3 năm** ăn nằm với **code extension**, mò mẫm từ con số 0, nay khi cảm thấy đủ chín mùi, kinh nghiệm đã có, mình mạn phép chia sẻ extension mình đang làm tới mọi người.\n> Mọi người có thể nghĩ là mình đang tự quảng bá cho bản thân, nhưng thực sự mình đã dành rất nhiều tâm huyết để code những **chức năng hay nhất** dành cho mọi người sử dụng. Tiện ích này cũng đang trong giai đoạn phát triển, nên đang **MIỄN PHÍ sử dụng**, rất mong được mọi người dùng thử và đánh giá. 🥹\n\nExtension tên **Facebook All in One**, chứa rất nhiều chức năng tự động hoá / chức năng quản lý / tiện ích nhỏ khi sử dụng Facebook/Instagram.\n\nCác chức năng nổi bật như: \n* **Tả.i hàng loạt**: mọi ảnh/video/reels/story/nhóm/trang của bất kỳ ai trên fb/insta\n* Tả.i mọi ảnh/video trong bài viết bất kỳ trên fb\n* **Quản lý tin nhắn**: (chưa mã hoá đầu cuối) Xem tin nhắn đầu tiên, Xem tin nhắn cũ tại thời điểm bất kỳ trong quá khứ, Tả.i toàn bộ nội dung tin nhắn để xem offline\n* **Quản lý bạn bè: **Kết bạn/Huỷ kết bạn/Chọc bạn bè hàng loạt, Chấp nhận/từ chối/thu hồi lời mời kết bạn hàng loạt, Lọc bạn bè bị khoá, Lọc bạn bè ít tương tác (đếm like/comment trên toàn bộ bài viết), Tìm bạn bè đang chặn tin nhắn của bạn\n* **Quản lý Nhóm/Trang**: Rời nhóm/Bỏ thích/Bỏ theo dõi nhóm/trang hàng loạt, Lọc nhóm không có admin\n* **Quản lý Story**:  Xem tất cả story của bạn bè mà không ai biết, Thả nhiều loại emoji khác nhau vào story, Xem tổng lượt tương tác của story người khác, Tả.i hàng loạt story, Xem thống kê mọi story bạn đã lưu trữ\n\nDo đang trong quá trình phát triển nên chức năng mới sẽ được cập nhật liên tục trong thời gian tới, sẽ có thêm rất nhiều chức năng hữu ích cho mọi người. Đảm bảo đúng với tên gọi **All in One**\n\n Và đây là link cài đặt từ chrome webstore nhé: https://j2c.cc/fb-aio-webstore\n\nCảm ơn mọi người ủng hộ, cảm ơn admin duyệt bài ❤️\n\n#dev_share",
+            "text_format": {},
+            "rich_message": [
+                {
+                    "__typename": "ComposedHeaderOneBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                    "block_type": "HEADER_ONE",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Chào mọi người"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 5,
+                            "offset": 8
+                        },
+                        {
+                            "inline_style": "BOLD",
+                            "length": 14,
+                            "offset": 25
+                        }
+                    ],
+                    "text": "Sau gần 3 năm ăn nằm với code extension, mò mẫm từ con số 0, nay khi cảm thấy đủ chín mùi, kinh nghiệm đã có, mình mạn phép chia sẻ extension mình đang làm tới mọi người."
+                },
+                {
+                    "__typename": "ComposedBlockquoteBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedBlockquoteBlockWithEntities",
+                    "block_type": "BLOCKQUOTE",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 18,
+                            "offset": 122
+                        },
+                        {
+                            "inline_style": "BOLD",
+                            "length": 16,
+                            "offset": 229
+                        }
+                    ],
+                    "text": "Mọi người có thể nghĩ là mình đang tự quảng bá cho bản thân, nhưng thực sự mình đã dành rất nhiều tâm huyết để code những chức năng hay nhất dành cho mọi người sử dụng. Tiện ích này cũng đang trong giai đoạn phát triển, nên đang MIỄN PHÍ sử dụng, rất mong được mọi người dùng thử và đánh giá. 🥹"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 19,
+                            "offset": 14
+                        }
+                    ],
+                    "text": "Extension tên Facebook All in One, chứa rất nhiều chức năng tự động hoá / chức năng quản lý / tiện ích nhỏ khi sử dụng Facebook/Instagram."
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Các chức năng nổi bật như: "
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 14,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Tả.i hàng loạt: mọi ảnh/video/reels/story/nhóm/trang của bất kỳ ai trên fb/insta"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Tả.i mọi ảnh/video trong bài viết bất kỳ trên fb"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 16,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Quản lý tin nhắn: (chưa mã hoá đầu cuối) Xem tin nhắn đầu tiên, Xem tin nhắn cũ tại thời điểm bất kỳ trong quá khứ, Tả.i toàn bộ nội dung tin nhắn để xem offline"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 16,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Quản lý bạn bè: Kết bạn/Huỷ kết bạn/Chọc bạn bè hàng loạt, Chấp nhận/từ chối/thu hồi lời mời kết bạn hàng loạt, Lọc bạn bè bị khoá, Lọc bạn bè ít tương tác (đếm like/comment trên toàn bộ bài viết), Tìm bạn bè đang chặn tin nhắn của bạn"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 18,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Quản lý Nhóm/Trang: Rời nhóm/Bỏ thích/Bỏ theo dõi nhóm/trang hàng loạt, Lọc nhóm không có admin"
+                },
+                {
+                    "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                    "block_type": "UNORDERED_LIST_ITEM",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 13,
+                            "offset": 0
+                        }
+                    ],
+                    "text": "Quản lý Story:  Xem tất cả story của bạn bè mà không ai biết, Thả nhiều loại emoji khác nhau vào story, Xem tổng lượt tương tác của story người khác, Tả.i hàng loạt story, Xem thống kê mọi story bạn đã lưu trữ"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [
+                        {
+                            "inline_style": "BOLD",
+                            "length": 10,
+                            "offset": 179
+                        }
+                    ],
+                    "text": "Do đang trong quá trình phát triển nên chức năng mới sẽ được cập nhật liên tục trong thời gian tới, sẽ có thêm rất nhiều chức năng hữu ích cho mọi người. Đảm bảo đúng với tên gọi All in One"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": " Và đây là link cài đặt từ chrome webstore nhé: https://j2c.cc/fb-aio-webstore"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": "Cảm ơn mọi người ủng hộ, cảm ơn admin duyệt bài ❤️"
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [],
+                    "inline_style_ranges": [],
+                    "text": ""
+                },
+                {
+                    "__typename": "ComposedUnstyledBlockWithEntities",
+                    "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                    "block_type": "UNSTYLED",
+                    "data": "{}",
+                    "depth": 0,
+                    "media_alignment": null,
+                    "media_caption": null,
+                    "entity_ranges": [
+                        {
+                            "entity_type": "HASHTAG",
+                            "entity": {
+                                "__typename": "Hashtag",
+                                "__isEntity": "Hashtag",
+                                "url": "https://www.facebook.com/hashtag/dev_share",
+                                "mobileUrl": "https://m.facebook.com/hashtag/dev_share",
+                                "__isNode": "Hashtag",
+                                "id": "1000956466588792"
+                            },
+                            "length": 10,
+                            "offset": 0
+                        }
+                    ],
+                    "inline_style_ranges": [],
+                    "text": "#dev_share"
+                }
+            ],
+            "hashtags": [
+                "#dev_share"
+            ],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "id": "100004848287494",
+                    "name": "Hoang Tran",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/9999.hoangtran"
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1725623492000,
+            "privacy_scope": "Nhóm công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": "Group",
+                "id": "3059387787464905",
+                "url": "https://www.facebook.com/groups/devoiminhdidauthe/",
+                "name": "Dev ơi mình đi đâu thế?",
+                "avatar": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/614132208_122105532393195724_1929301397006031607_n.jpg?stp=c197.0.630.630a_cp0_dst-jpg_s110x80_tt6&_nc_cat=111&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=Qi3jsL8vzoQQ7kNvwHBxH34&_nc_oc=AdoToCG-0BU3cO7uH7fTB1elVAOXZyKBi1d7zb5XFVqpf30oT0lD7ADcVLpCef0sXno&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=7LgrGzUZGJRtiEFqliDYfQ&_nc_ss=7a3a8&oh=00_Af3crfpMRQ_7OBRZ90lFGo3dwvKKfNINFMV9ral1VcOeQg&oe=69E72F17"
+            },
+            "attached_post": null
+        }
+    }
+}

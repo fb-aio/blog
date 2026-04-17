@@ -1,0 +1,251 @@
+{
+    "result": {
+        "id": "UzpfSTE1OTY1ODU4ODQzMjk0Mjc6Vks6MTU5NjU4NTg4NDMyOTQyNw==",
+        "post_id": "1596585884329427",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1596585884329427/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Cứu 🫥",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 4,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 3,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 1,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1741143046000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1596585884329427",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1804641576990073",
+            "original_content_owner_id": 1010276030,
+            "page_id": "218322898024376",
+            "photo_id": "10232013140123897",
+            "story_location": 9,
+            "attached_story_attachment_style": "photo",
+            "attached_story_type": "EntGroupMallPostCreationStory",
+            "attached_story_attachment_type": "MediaAttachment",
+            "page_insights": {
+                "1010276030": {
+                    "page_id": 1010276030,
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": 1010276030,
+                        "page_id_type": "page",
+                        "actor_id": 1010276030,
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntGroupMallPostCreationStory",
+                        "post_context": {
+                            "object_fbtype": 657,
+                            "publish_time": 1741097375,
+                            "story_name": "EntGroupMallPostCreationStory",
+                            "story_fbid": [
+                                "1804641576990073"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1596585884329427",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": 1010276030,
+                            "post_id": "1804641576990073",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1804641576990073",
+                        "sharedMediaID": "1596585884329427",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1741143046,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1596585884329427"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                },
+                "1569314343856132": {
+                    "page_id": "1569314343856132",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "1569314343856132",
+                        "page_id_type": "group",
+                        "actor_id": 1010276030,
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntGroupMallPostCreationStory",
+                        "post_context": {
+                            "object_fbtype": 657,
+                            "publish_time": 1741097375,
+                            "story_name": "EntGroupMallPostCreationStory",
+                            "story_fbid": [
+                                "1804641576990073"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1596585884329427",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=XyK4YQ4gsQqbONKSwC7TDA&_nc_ss=7a3a8&oh=00_Af336jdUsCIWU9ye6etGi-Z4OhFud8dzjvp-hZPQHHurLA&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMTAyNzYwMzA6Vks6MTgwNDY0MTU3Njk5MDA3Mw==",
+            "post_id": "1804641576990073",
+            "url": "https://www.facebook.com/groups/indiehackervn/permalink/1804641576990073/",
+            "media": {
+                "subAttachments": [],
+                "photo": {
+                    "id": "10232013140123897",
+                    "url": "https://www.facebook.com/photo/?fbid=10232013140123897&set=gm.1804641576990073&idorvanity=1569314343856132",
+                    "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/518281296_10234173836099946_3837906815445853967_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=0rqHCIRYrKUQ7kNvwG9vxMj&_nc_oc=AdpljyOUeCIuRPMM3Fb1nPKwxwgM3lqqLtij7MN7GiSYlKvcxM4VHNITftwn87Xa34Y&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=XyK4YQ4gsQqbONKSwC7TDA&_nc_ss=7a3a8&oh=00_Af166CYtzV1enIHk5IoJUgqSqYSW2qqE-i4qrNBQ4onh5g&oe=69E76E29",
+                    "height": 1170,
+                    "width": 810,
+                    "accessibility_caption": "Không có mô tả ảnh.",
+                    "accent_color": "FFFFFFFF",
+                    "real_width": 810,
+                    "real_height": 1170
+                },
+                "video": null
+            },
+            "text": "Trong khi chúng ta còn đang bận validate ý tưởng như thế nào, tìm ra “pain point” để xây dựng giải pháp ra sao, hay lọ mọ làm ét-xê-ô với chả viết bờ-lốc… thì khứa này dùng Cursor build cái game lái máy bay bằng Three.js trong 3 tiếng, chỉ với đúng 2 file HTML & JS dài loằn bà tà ngoằn rồi lụm nhẹ $30K/tháng…\n\nTôi phải tự nghi hoặc bản thân mình rằng: “Tôi đã làm gì trong suốt thời gian qua? Thật dzô nghĩa… 🥲”\n\n😂😂😂\n\n#buildinpublic #bipvn_j4f",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [
+                "#buildinpublic",
+                "#bipvn_j4f"
+            ],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "id": "1010276030",
+                    "name": "Duy Nguyen",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/mrgoonie"
+                }
+            ],
+            "comments": {
+                "can_comment": true,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1741097375000,
+            "privacy_scope": "Nhóm công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": "Group",
+                "id": "1569314343856132",
+                "url": "https://www.facebook.com/groups/indiehackervn/",
+                "name": "Build in Public VN",
+                "avatar": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/509443918_10233522779463937_6884554539542802636_n.jpg?stp=c264.0.432.432a_cp0_dst-jpg_s110x80_tt6&_nc_cat=105&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=r-o0j_4vFg8Q7kNvwEe9U-6&_nc_oc=Ado8eU42mnTKNDI0L5-D0CzAyz3-iz9MyZ8wAHA2n9XDV5Jb7JOTsqdaHsvDXMYHad8&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=XyK4YQ4gsQqbONKSwC7TDA&_nc_ss=7a3a8&oh=00_Af2P-zcsM1P4f63L4fGMki0efHnLvt3hMeQUXND0zCJRqw&oe=69E784DE"
+            },
+            "attached_post": null
+        }
+    }
+}

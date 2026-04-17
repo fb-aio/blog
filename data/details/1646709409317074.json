@@ -1,0 +1,234 @@
+{
+    "result": {
+        "id": "UzpfSTE2NDY3MDk0MDkzMTcwNzQ6Vks6MTY0NjcwOTQwOTMxNzA3NA==",
+        "post_id": "1646709409317074",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1646709409317074/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Đỉnh nóc kịch trần luôn ae 💯🔥🔥",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 7,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 4,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 3,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 1,
+        "created_time": 1747400875000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1646709409317074",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "1146452377519541",
+            "original_content_owner_id": "100064643681682",
+            "page_id": "912918568785331",
+            "story_location": 9,
+            "attached_story_attachment_style": "video_autoplay",
+            "video_id": "634487259589894",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "VideoAttachment",
+            "page_insights": {
+                "100064643681682": {
+                    "page_id": "100064643681682",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": "100064643681682",
+                        "page_id_type": "page",
+                        "actor_id": "100064643681682",
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1747400046,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "1146452377519541"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1646709409317074",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": "100064643681682",
+                            "post_id": "1146452377519541",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "1146452377519541",
+                        "sharedMediaID": "1646709409317074",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1747400875,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1646709409317074"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=_5B1oEVi3rC0V1_xVFX2JQ&_nc_ss=7a3a8&oh=00_Af1SBr6_rbpKGWm6Xp9Vcj6kGVYik7VVol2UFBhT7USWBg&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTEwMDA2NDY0MzY4MTY4MjoxMTQ2NDUyMzc3NTE5NTQxOjExNDY0NTIzNzc1MTk1NDE=",
+            "post_id": "1146452377519541",
+            "url": "https://www.facebook.com/thongtinchinhphu/videos/634487259589894/",
+            "media": {
+                "subAttachments": [],
+                "photo": null,
+                "video": {
+                    "id": "634487259589894",
+                    "url": "https://www.facebook.com/thongtinchinhphu/videos/634487259589894/",
+                    "thumbnail": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t15.5256-10/496171598_717790564119513_6663099114849808870_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=be8305&_nc_ohc=pDoswNOzrZkQ7kNvwGdy_uj&_nc_oc=AdpIvgRLNW6tblsitomac8nhsckyNgmaF_E7I6SNoojlgFbBrs8o2DORYiszHnICcM4&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=_5B1oEVi3rC0V1_xVFX2JQ&_nc_ss=7a3a8&oh=00_Af1tOWWyMCxQ0g6G4SgEOxtZMmRKysUq5zuLLFB4s5TeJw&oe=69E7846B",
+                    "duration": 121440,
+                    "width": 3840,
+                    "height": 1608,
+                    "original_width": 3840,
+                    "original_height": 1608,
+                    "publish_time": 0,
+                    "audio_availability": "AVAILABLE",
+                    "is_live_streaming": false,
+                    "is_spherical": false,
+                    "is_looping": false,
+                    "loop_count": 0,
+                    "source": {
+                        "variants": []
+                    },
+                    "sprite": {
+                        "uris": [
+                            "https://scontent.fsgn2-8.fna.fbcdn.net/v/t15.5256-10/502892810_714852277664813_7202409368346338008_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=62976d&_nc_ohc=cp8rXvzS8U4Q7kNvwHwkg_V&_nc_oc=AdqzIOzM9hOTZSsCTtr6KMkTcpJJD0a6flOBMFyigHl402ejvKf8eA1-ZW3AyIL5ug4&_nc_zt=23&_nc_ht=scontent.fsgn2-8.fna&_nc_gid=_5B1oEVi3rC0V1_xVFX2JQ&_nc_ss=7a3a8&oh=00_Af12-UnaxSYZjKRNGm3UCO-vsKeeGZN_DDv17XKLow0uLg&oe=69E77890",
+                            "https://scontent.fsgn2-11.fna.fbcdn.net/v/t15.5256-10/503010446_1377446706638826_5619775302646840482_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=62976d&_nc_ohc=RQ8R8bl5rUsQ7kNvwEJnSdM&_nc_oc=AdoMbtkmx2MvmbE_fkG3uUtpIOSABLKLy2SzUp4G0nMBh_0RY74nH5xUA7mWgLSKplA&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=_5B1oEVi3rC0V1_xVFX2JQ&_nc_ss=7a3a8&oh=00_Af0LR7Ps2gUzZZUrpFpkIaHp4vpRA7cw9Q4K3ShMdqzZIw&oe=69E76AA0"
+                        ],
+                        "thumbnail_width": 194,
+                        "thumbnail_height": 80,
+                        "num_images_per_row": 10,
+                        "max_number_of_images_per_sprite": 100,
+                        "time_interval_between_image": 1
+                    }
+                }
+            },
+            "text": "️🎶 Bài hát hay, cảnh quay quê hương đất nước mình đẹp quá!\n\n---\n🖌🎥 Dù so với các ngành công nghiệp hoạt hình hàng đầu thế giới như Mỹ, Nhật Bản, Hàn Quốc, Trung Quốc, chúng ta vẫn cần phải học hỏi nhiều, nhưng tín hiệu đáng mừng là thị trường Việt Nam đang dần xây dựng những tiêu chuẩn, mà ở đó hướng tới \"sáng tạo bền vững\", sáng tạo những nội dung có giá trị và có sức ảnh hưởng tích cực tới cộng đồng.\n\n🌟 Thái Nguyên là một trong những địa phương tiên phong, đi đầu về chuyển đổi số, hướng tới mục tiêu Thái Nguyên xanh và Thái Nguyên hạnh phúc. \n\nTrong đó, Trường Đại học Công nghệ thông tin và Truyền thông (CNTT&TT) - Đại học Thái Nguyên (ICTU) đã sớm khởi động Dự án xây dựng Phim trường số. \n\nĐây được xem là một trong những đột phá trong việc khai thác công nghệ, văn hóa để phát triển kinh tế, tạo đà xây dựng nền kinh tế tri thức cho địa phương.\n\nMột trong những sản phẩm từ dự án là Bộ phim điện ảnh 3D “Dế Mèn: Cuộc phiêu lưu tới xóm lầy lội”.",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Thông tin Chính phủ",
+                    "id": "100064643681682",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/thongtinchinhphu",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1747400046000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

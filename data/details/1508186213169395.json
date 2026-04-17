@@ -1,0 +1,236 @@
+{
+    "result": {
+        "id": "UzpfSTE1MDgxODYyMTMxNjkzOTU6Vks6MTUwODE4NjIxMzE2OTM5NQ==",
+        "post_id": "1508186213169395",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1508186213169395/",
+        "media": {
+            "subAttachments": [],
+            "photo": null,
+            "video": null
+        },
+        "text": "Còn có ai hỏi AI có thể làm gì nữa không :v",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 1,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 7,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 7,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1729263906000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1508186213169395",
+            "content_owner_id_new": "100004848287494",
+            "original_content_id": "10160798629433318",
+            "original_content_owner_id": 649368317,
+            "page_id": "101821139411544",
+            "story_location": 9,
+            "attached_story_attachment_style": "video_autoplay",
+            "video_id": "1544211313150358",
+            "attached_story_type": "EntStatusCreationStory",
+            "attached_story_attachment_type": "VideoAttachment",
+            "page_insights": {
+                "649368317": {
+                    "page_id": 649368317,
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "attached_story": {
+                        "page_id": 649368317,
+                        "page_id_type": "page",
+                        "actor_id": 649368317,
+                        "dm": {
+                            "isShare": 0,
+                            "originalPostOwnerID": 0,
+                            "sharedMediaID": 0,
+                            "sharedMediaOwnerID": 0
+                        },
+                        "psn": "EntStatusCreationStory",
+                        "post_context": {
+                            "object_fbtype": 266,
+                            "publish_time": 1729144596,
+                            "story_name": "EntStatusCreationStory",
+                            "story_fbid": [
+                                "10160798629433318"
+                            ]
+                        },
+                        "role": 1,
+                        "sl": 9
+                    },
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": "1508186213169395",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 1,
+                    "sl": 9,
+                    "targets": [
+                        {
+                            "actor_id": "100004848287494",
+                            "page_id": 649368317,
+                            "post_id": "10160798629433318",
+                            "role": 1,
+                            "share_id": 0
+                        }
+                    ]
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 1,
+                        "originalPostOwnerID": "10160798629433318",
+                        "sharedMediaID": "1508186213169395",
+                        "sharedMediaOwnerID": "100004848287494"
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1729263906,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1508186213169395"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwEYpmqC&_nc_oc=AdrShq42Z6Q1zDCUpUk7_LyK2Q5012laBBiYO1aP5KIXyOFzbgPYjOeR7XSe4vXbaZg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=dYPDaOGSWojzT1VDBek_Cg&_nc_ss=7a3a8&oh=00_Af095I7EpRqeadCj7Yeg0ByIsenX-gMoRLQRVKlFOzP58A&oe=69E775F6"
+        },
+        "attached_post": {
+            "id": "UzpfSTY0OTM2ODMxNzoxMDE2MDc5ODYyOTQzMzMxODoxMDE2MDc5ODYyOTQzMzMxOA==",
+            "post_id": "10160798629433318",
+            "url": "https://www.facebook.com/hinet/videos/1544211313150358/",
+            "media": {
+                "subAttachments": [],
+                "photo": null,
+                "video": {
+                    "id": "1544211313150358",
+                    "url": "https://www.facebook.com/hinet/videos/1544211313150358/",
+                    "thumbnail": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t15.5256-10/463366263_394398890390495_2943448797446619693_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=50ce42&_nc_ohc=aFx6AjU6ffQQ7kNvwFwLHdk&_nc_oc=AdrAqTbUISQk4qDF-8Dy5l0XvT-pAw4rnFjmukGEQq_2W9x7hVvciTlqQn-XxyCbCxE&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=dYPDaOGSWojzT1VDBek_Cg&_nc_ss=7a3a8&oh=00_Af0_OH1yizYjk7V3cLLHRyM_BCrR2-NdVZDCqu8wL6ftPw&oe=69E78560",
+                    "duration": 292060,
+                    "width": 1920,
+                    "height": 1080,
+                    "original_width": 1920,
+                    "original_height": 1080,
+                    "publish_time": 0,
+                    "audio_availability": "AVAILABLE",
+                    "is_live_streaming": false,
+                    "is_spherical": false,
+                    "is_looping": false,
+                    "loop_count": 0,
+                    "source": {
+                        "variants": []
+                    },
+                    "sprite": {
+                        "uris": [],
+                        "thumbnail_width": 0,
+                        "thumbnail_height": 0,
+                        "num_images_per_row": 10,
+                        "max_number_of_images_per_sprite": 100,
+                        "time_interval_between_image": 1
+                    }
+                }
+            },
+            "text": "Adobe 推出殺手級功能 Project Turntable，讓 2D 圖像秒變 3D 自由翻轉 !\n\nProject Turntable 技術可讓您以全新的方式檢視 2D 向量圖！此功能可讓您以 3D 方式旋轉繪圖，同時在任何角度仍保留 2D 藝術風格。\n\n這項令人難以置信的功能還確保向量圖形保持其原始形狀，即使在新角度也保留設計的所有關鍵組成部分。",
+            "text_format": {},
+            "rich_message": null,
+            "hashtags": [],
+            "mentions": [],
+            "actors": [
+                {
+                    "__typename": "User",
+                    "name": "Fox Hsiao",
+                    "id": "649368317",
+                    "__isActor": "User",
+                    "__isEntity": "User",
+                    "url": "https://www.facebook.com/hinet",
+                    "work_foreign_entity_info": null,
+                    "work_info": null
+                }
+            ],
+            "comments": {
+                "can_comment": null,
+                "sorting": {}
+            },
+            "reactions": {
+                "my": null,
+                "total": null,
+                "top": []
+            },
+            "shares": null,
+            "created_time": 1729144596000,
+            "privacy_scope": "Công khai",
+            "copyright_violation_header": null,
+            "tracking_ids": null,
+            "posted_to": {
+                "type": null,
+                "id": null,
+                "url": null,
+                "name": null,
+                "avatar": null
+            },
+            "attached_post": null
+        }
+    }
+}

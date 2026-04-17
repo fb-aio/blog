@@ -1,0 +1,3171 @@
+{
+    "result": {
+        "id": "UzpfSTE2OTg2Njk5Njc0NTQzNTE6Vks6MTY5ODY2OTk2NzQ1NDM1MQ==",
+        "post_id": "1698669967454351",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1698669967454351/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2930033837168197",
+                "url": "https://www.facebook.com/photo/?fbid=2930033837168197&set=gm.1698669967454351&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/495711597_2852326851605563_5657059435634843183_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=6F3EmZpTKMAQ7kNvwHwdQXs&_nc_oc=AdoNbo9gQqYsG05DdROfB--sy3o77R8x8_iLRk-NE5mjW3r8bS7QAhIjDpti5dJ4QqU&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=W5I0k6TFtSD0sK_PuIIzMw&_nc_ss=7a3a8&oh=00_Af1Hpz4i0sSKjLQLNgipOx2KuE6eOL1owLQCmg_S7-rPDA&oe=69E78EE2",
+                "height": 308,
+                "width": 1000,
+                "accessibility_caption": "Không có mô tả ảnh.",
+                "accent_color": "FF9B72FC",
+                "real_width": 1000,
+                "real_height": 308
+            },
+            "video": null
+        },
+        "text": "# Chào mừng 100 thành viên mới!\n\nBài viết tự động sau mỗi 100 thành viên mới tham gia nhóm🫰👏\n\nĐình Long,\nHuynh Dang Khoa,\nLê Thảo,\nJoe Nguyen,\nLe Minh,\nĐức Nguyễn,\nSáng Tiến Nguyễn,\nTiền Bến Sạn,\nBaiciu Remus Cristian,\nHoàng Công Hải,\nNguyễn Hoàng Tuấn,\nQuân Nguyen,\nDuy Trọng,\nHoàng Sang,\nĐức,\nTôn Thất Thiện Kỳ,\nDGN Mobile,\nTrung Minh,\nVan Anh Tran,\nTrần Viết Huỳnh,\nLê Hùng,\nNguyễn Tuấn Phong,\nPhạm Hoàng An,\nNguyễn Nam,\nUngvari K. Máté,\nHùng Mét Bẩy,\nĐăng Dương,\nNguyễn Đạt,\nBảo Hoài,\nKen Lê,\nThành Vinh,\nNguyễn Bảo,\nNguyễn Thanh Sơn,\nMạnh Tiến,\nLe Van Viet,\nLê Hồng Quang,\nĐỗ Cường,\nTrần Thế Tuyên,\nThanh Quang,\nĐông Lê,\nĐoàn Thiên Thanh,\nQuốc   Phú,\nPhú Đại,\nNguyễn Thức,\nNguyen Van Hoang,\nNguyễn Thạnh,\nSoo Young,\nLopez Araceli,\nMinh Hồng,\nSelena Tran,\nNguyễn Đạt,\n⭐️Huỳnh Thắng🚀,\nTrần Quang Tuấn,\nTran Tuấn Anh,\nNguyễn Tùng Lâm,\nMinh Hoàng Trần,\nTâm Minh,\nSầm Thị Minh Luyến,\nNguyễn Đức Xuân,\nLuu Luann,\nDao Cuong,\nUyen Nguyen,\nNghiem Nghiem,\nGlenn,\nGlenn,\nAndy Nuwuen,\nHa Thien Nhan,\nnguyễn thanh hải,\nTrần Tiến Đạt 󱢏,\nTam Pham,\nPhương Tây,\nHoàng Bảo,\nTuan Anh Cao,\nLinh Anh,\nNguyễn Chí Thành,\nThịnh Tôn,\nDương TuấnAnh,\nLê Kim Hùng,\nToàn Trinh,\nĐình Bích,\nNgọc Hảo,\nNguyen Văn Điền Dung,\nLâm Vân,\nBách Tâm,\nÂu Thắng,\nThảo Nguyệt,\nThắng Lâm,\nAlex khan😈👈,\nHậu Lý,\nĐan Hậu,\nQuân Mỹ,\nHùng Quân,\nHậu Bình,\nThủy Huyền,\nNgân Bích,\nTài Vỹ,\nHương Cương,\nNguyễn Duy,\nSơn Đình",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Chào mừng 100 thành viên mới!"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Bài viết tự động sau mỗi 100 thành viên mới tham gia nhóm🫰👏"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100026133619562",
+                            "url": "https://www.facebook.com/inhlong.698622",
+                            "profile_url": "https://www.facebook.com/inhlong.698622",
+                            "short_name": "Đình",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/inhlong.698622/",
+                            "__isNode": "User"
+                        },
+                        "length": 9,
+                        "offset": 0
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100025053906050",
+                            "url": "https://www.facebook.com/toilakhoaa",
+                            "profile_url": "https://www.facebook.com/toilakhoaa",
+                            "short_name": "Khoa",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/toilakhoaa/",
+                            "__isNode": "User"
+                        },
+                        "length": 15,
+                        "offset": 11
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100053015512037",
+                            "url": "https://www.facebook.com/profile.php?id=100053015512037",
+                            "profile_url": "https://www.facebook.com/profile.php?id=100053015512037",
+                            "short_name": "Evelyn",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/profile.php?id=100053015512037",
+                            "__isNode": "User"
+                        },
+                        "length": 7,
+                        "offset": 28
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100071531107115",
+                            "url": "https://www.facebook.com/profile.php?id=100071531107115",
+                            "profile_url": "https://www.facebook.com/profile.php?id=100071531107115",
+                            "short_name": "Joe",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/profile.php?id=100071531107115",
+                            "__isNode": "User"
+                        },
+                        "length": 10,
+                        "offset": 37
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100018139680337",
+                            "url": "https://www.facebook.com/le.minh.484843",
+                            "profile_url": "https://www.facebook.com/le.minh.484843",
+                            "short_name": "Nguyễn",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/le.minh.484843/",
+                            "__isNode": "User"
+                        },
+                        "length": 7,
+                        "offset": 49
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100009293959393",
+                            "url": "https://www.facebook.com/sang.tien.nguyen.809204",
+                            "profile_url": "https://www.facebook.com/sang.tien.nguyen.809204",
+                            "short_name": "Sáng",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/sang.tien.nguyen.809204/",
+                            "__isNode": "User"
+                        },
+                        "length": 16,
+                        "offset": 70
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100005607631213",
+                            "url": "https://www.facebook.com/tienbensan",
+                            "profile_url": "https://www.facebook.com/tienbensan",
+                            "short_name": "Tiền",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/tienbensan/",
+                            "__isNode": "User"
+                        },
+                        "length": 12,
+                        "offset": 88
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100003871526162",
+                            "url": "https://www.facebook.com/haihc8386",
+                            "profile_url": "https://www.facebook.com/haihc8386",
+                            "short_name": "Hải",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/haihc8386/",
+                            "__isNode": "User"
+                        },
+                        "length": 14,
+                        "offset": 125
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100004547557027",
+                            "url": "https://www.facebook.com/MRjs.IT",
+                            "profile_url": "https://www.facebook.com/MRjs.IT",
+                            "short_name": "Hoàng Tuấn",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/MRjs.IT/",
+                            "__isNode": "User"
+                        },
+                        "length": 17,
+                        "offset": 141
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100005151182566",
+                            "url": "https://www.facebook.com/quan.mingquan",
+                            "profile_url": "https://www.facebook.com/quan.mingquan",
+                            "short_name": "Quân",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/quan.mingquan/",
+                            "__isNode": "User"
+                        },
+                        "length": 11,
+                        "offset": 160
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "61550941993420",
+                            "url": "https://www.facebook.com/duytrong.9999",
+                            "profile_url": "https://www.facebook.com/duytrong.9999",
+                            "short_name": "Trọng",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/duytrong.9999/",
+                            "__isNode": "User"
+                        },
+                        "length": 9,
+                        "offset": 173
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100037676795235",
+                            "url": "https://www.facebook.com/bong.xcf",
+                            "profile_url": "https://www.facebook.com/bong.xcf",
+                            "short_name": "Đức",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/bong.xcf/",
+                            "__isNode": "User"
+                        },
+                        "length": 3,
+                        "offset": 196
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100001689024681",
+                            "url": "https://www.facebook.com/tonthatthienky",
+                            "profile_url": "https://www.facebook.com/tonthatthienky",
+                            "short_name": "Tôn Thất",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/tonthatthienky/",
+                            "__isNode": "User"
+                        },
+                        "length": 17,
+                        "offset": 201
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "61576555653582",
+                            "url": "https://www.facebook.com/dgnmobilevn",
+                            "profile_url": "https://www.facebook.com/dgnmobilevn",
+                            "short_name": "DGN Mobile",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/dgnmobilevn/",
+                            "__isNode": "User"
+                        },
+                        "length": 10,
+                        "offset": 220
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "61561584711282",
+                            "url": "https://www.facebook.com/profile.php?id=61561584711282",
+                            "profile_url": "https://www.facebook.com/profile.php?id=61561584711282",
+                            "short_name": "Trung",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/profile.php?id=61561584711282",
+                            "__isNode": "User"
+                        },
+                        "length": 10,
+                        "offset": 232
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100000360901042",
+                            "url": "https://www.facebook.com/vanna12321",
+                            "profile_url": "https://www.facebook.com/vanna12321",
+                            "short_name": "Van Anh",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/vanna12321/",
+                            "__isNode": "User"
+                        },
+                        "length": 12,
+                        "offset": 244
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100005454918231",
+                            "url": "https://www.facebook.com/huynhboo98",
+                            "profile_url": "https://www.facebook.com/huynhboo98",
+                            "short_name": "Huỳnh",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/huynhboo98/",
+                            "__isNode": "User"
+                        },
+                        "length": 15,
+                        "offset": 258
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100006351870073",
+                            "url": "https://www.facebook.com/profile.php?id=100006351870073",
+                            "profile_url": "https://www.facebook.com/profile.php?id=100006351870073",
+                            "short_name": "Lê",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/profile.php?id=100006351870073",
+                            "__isNode": "User"
+                        },
+                        "length": 7,
+                        "offset": 275
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100088005590713",
+                            "url": "https://www.facebook.com/nguyen.tuan.phong.338649",
+                            "profile_url": "https://www.facebook.com/nguyen.tuan.phong.338649",
+                            "short_name": "Phong",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/nguyen.tuan.phong.338649/",
+                            "__isNode": "User"
+                        },
+                        "length": 17,
+                        "offset": 284
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100064364799726",
+                            "url": "https://www.facebook.com/hoangan.pham.102977",
+                            "profile_url": "https://www.facebook.com/hoangan.pham.102977",
+                            "short_name": "Hoàng An",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/hoangan.pham.102977/",
+                            "__isNode": "User"
+                        },
+                        "length": 13,
+                        "offset": 303
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "61552987886971",
+                            "url": "https://www.facebook.com/nguyen.nam.281633",
+                            "profile_url": "https://www.facebook.com/nguyen.nam.281633",
+                            "short_name": "Nam",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/nguyen.nam.281633/",
+                            "__isNode": "User"
+                        },
+                        "length": 10,
+                        "offset": 318
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "61577941752214",
+                            "url": null,
+                            "profile_url": null,
+                            "short_name": "Máté",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": null,
+                            "__isNode": "User"
+                        },
+                        "length": 15,
+                        "offset": 330
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100048583330539",
+                            "url": "https://www.facebook.com/Hungmetbay",
+                            "profile_url": "https://www.facebook.com/Hungmetbay",
+                            "short_name": "Bẩy",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/Hungmetbay/",
+                            "__isNode": "User"
+                        },
+                        "length": 12,
+                        "offset": 347
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100005722906596",
+                            "url": "https://www.facebook.com/dduong.vux",
+                            "profile_url": "https://www.facebook.com/dduong.vux",
+                            "short_name": "Đăng Dương",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/dduong.vux/",
+                            "__isNode": "User"
+                        },
+                        "length": 10,
+                        "offset": 361
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100003333152202",
+                            "url": "https://www.facebook.com/dat.tan.125",
+                            "profile_url": "https://www.facebook.com/dat.tan.125",
+                            "short_name": "Đạt",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/dat.tan.125/",
+                            "__isNode": "User"
+                        },
+                        "length": 10,
+                        "offset": 373
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "61568744713626",
+                            "url": "https://www.facebook.com/profile.php?id=61568744713626",
+                            "profile_url": "https://www.facebook.com/profile.php?id=61568744713626",
+                            "short_name": "Hoài",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/profile.php?id=61568744713626",
+                            "__isNode": "User"
+                        },
+                        "length": 8,
+                        "offset": 385
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100065147602673",
+                            "url": "https://www.facebook.com/ken.le.663020",
+                            "profile_url": "https://www.facebook.com/ken.le.663020",
+                            "short_name": "Ken",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/ken.le.663020/",
+                            "__isNode": "User"
+                        },
+                        "length": 6,
+                        "offset": 395
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100007996908182",
+                            "url": "https://www.facebook.com/nguyen.thanh.vinh.07",
+                            "profile_url": "https://www.facebook.com/nguyen.thanh.vinh.07",
+                            "short_name": "Vinh",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/nguyen.thanh.vinh.07/",
+                            "__isNode": "User"
+                        },
+                        "length": 10,
+                        "offset": 403
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100088404355665",
+                            "url": "https://www.facebook.com/daithaibao",
+                            "profile_url": "https://www.facebook.com/daithaibao",
+                            "short_name": "Bảo",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/daithaibao/",
+                            "__isNode": "User"
+                        },
+                        "length": 10,
+                        "offset": 415
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100066972752519",
+                            "url": "https://www.facebook.com/minh.tam.382431",
+                            "profile_url": "https://www.facebook.com/minh.tam.382431",
+                            "short_name": "Mạnh",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/minh.tam.382431/",
+                            "__isNode": "User"
+                        },
+                        "length": 9,
+                        "offset": 445
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100084729949143",
+                            "url": null,
+                            "profile_url": null,
+                            "short_name": "Li",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": null,
+                            "__isNode": "User"
+                        },
+                        "length": 11,
+                        "offset": 456
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100000266384088",
+                            "url": "https://www.facebook.com/Quanglh268",
+                            "profile_url": "https://www.facebook.com/Quanglh268",
+                            "short_name": "Hồng Quang",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/Quanglh268/",
+                            "__isNode": "User"
+                        },
+                        "length": 13,
+                        "offset": 469
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100005641007549",
+                            "url": "https://www.facebook.com/dovancuong8",
+                            "profile_url": "https://www.facebook.com/dovancuong8",
+                            "short_name": "Cường",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/dovancuong8/",
+                            "__isNode": "User"
+                        },
+                        "length": 8,
+                        "offset": 484
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100083325181948",
+                            "url": "https://www.facebook.com/tranthetuyen09",
+                            "profile_url": "https://www.facebook.com/tranthetuyen09",
+                            "short_name": "Tuyên",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/tranthetuyen09/",
+                            "__isNode": "User"
+                        },
+                        "length": 14,
+                        "offset": 494
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100008051350813",
+                            "url": "https://www.facebook.com/thanhquang.hoang.02",
+                            "profile_url": "https://www.facebook.com/thanhquang.hoang.02",
+                            "short_name": "Thanh",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/thanhquang.hoang.02/",
+                            "__isNode": "User"
+                        },
+                        "length": 11,
+                        "offset": 510
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100005779180419",
+                            "url": "https://www.facebook.com/lxdlxd446",
+                            "profile_url": "https://www.facebook.com/lxdlxd446",
+                            "short_name": "Đông",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/lxdlxd446/",
+                            "__isNode": "User"
+                        },
+                        "length": 7,
+                        "offset": 523
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100000676945481",
+                            "url": "https://www.facebook.com/BlueSky0305",
+                            "profile_url": "https://www.facebook.com/BlueSky0305",
+                            "short_name": "Đoàn",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/BlueSky0305/",
+                            "__isNode": "User"
+                        },
+                        "length": 16,
+                        "offset": 532
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100047255649452",
+                            "url": "https://www.facebook.com/kaitokidvll",
+                            "profile_url": "https://www.facebook.com/kaitokidvll",
+                            "short_name": "Quốc",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/kaitokidvll/",
+                            "__isNode": "User"
+                        },
+                        "length": 10,
+                        "offset": 550
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100032991763255",
+                            "url": "https://www.facebook.com/kimkim2000.jp",
+                            "profile_url": "https://www.facebook.com/kimkim2000.jp",
+                            "short_name": "Kim",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/kimkim2000.jp/",
+                            "__isNode": "User"
+                        },
+                        "length": 7,
+                        "offset": 562
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100090894296783",
+                            "url": "https://www.facebook.com/profile.php?id=100090894296783",
+                            "profile_url": "https://www.facebook.com/profile.php?id=100090894296783",
+                            "short_name": "Hoang",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/profile.php?id=100090894296783",
+                            "__isNode": "User"
+                        },
+                        "length": 16,
+                        "offset": 584
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100027132833691",
+                            "url": "https://www.facebook.com/nvthanh91",
+                            "profile_url": "https://www.facebook.com/nvthanh91",
+                            "short_name": "Thạnh",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/nvthanh91/",
+                            "__isNode": "User"
+                        },
+                        "length": 12,
+                        "offset": 602
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100068962794595",
+                            "url": "https://www.facebook.com/soo.young.14735",
+                            "profile_url": "https://www.facebook.com/soo.young.14735",
+                            "short_name": "Soo",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/soo.young.14735/",
+                            "__isNode": "User"
+                        },
+                        "length": 9,
+                        "offset": 616
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "61577411451080",
+                            "url": null,
+                            "profile_url": null,
+                            "short_name": "Lopez",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": null,
+                            "__isNode": "User"
+                        },
+                        "length": 13,
+                        "offset": 627
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100047174071911",
+                            "url": "https://www.facebook.com/minh.hong.417751",
+                            "profile_url": "https://www.facebook.com/minh.hong.417751",
+                            "short_name": "Yến",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/minh.hong.417751/",
+                            "__isNode": "User"
+                        },
+                        "length": 9,
+                        "offset": 642
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100079032362800",
+                            "url": "https://www.facebook.com/knhvan",
+                            "profile_url": "https://www.facebook.com/knhvan",
+                            "short_name": "Selena",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/knhvan/",
+                            "__isNode": "User"
+                        },
+                        "length": 11,
+                        "offset": 653
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100025292600745",
+                            "url": "https://www.facebook.com/datnguyen2477",
+                            "profile_url": "https://www.facebook.com/datnguyen2477",
+                            "short_name": "Đạt",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/datnguyen2477/",
+                            "__isNode": "User"
+                        },
+                        "length": 10,
+                        "offset": 666
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100005596508856",
+                            "url": "https://www.facebook.com/huynhthang2",
+                            "profile_url": "https://www.facebook.com/huynhthang2",
+                            "short_name": "Thắng ✓",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/huynhthang2/",
+                            "__isNode": "User"
+                        },
+                        "length": 14,
+                        "offset": 678
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100040122139068",
+                            "url": "https://www.facebook.com/tranquangtuan308",
+                            "profile_url": "https://www.facebook.com/tranquangtuan308",
+                            "short_name": "Tuấn",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/tranquangtuan308/",
+                            "__isNode": "User"
+                        },
+                        "length": 15,
+                        "offset": 694
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100084898833123",
+                            "url": "https://www.facebook.com/qbin.0104",
+                            "profile_url": "https://www.facebook.com/qbin.0104",
+                            "short_name": "Anh",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/qbin.0104/",
+                            "__isNode": "User"
+                        },
+                        "length": 13,
+                        "offset": 711
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100082099915794",
+                            "url": "https://www.facebook.com/nguyen.tung.lam.992075",
+                            "profile_url": "https://www.facebook.com/nguyen.tung.lam.992075",
+                            "short_name": "Tùng Lâm",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/nguyen.tung.lam.992075/",
+                            "__isNode": "User"
+                        },
+                        "length": 15,
+                        "offset": 726
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "61571192025232",
+                            "url": "https://www.facebook.com/minh.hoang.tran.326291",
+                            "profile_url": "https://www.facebook.com/minh.hoang.tran.326291",
+                            "short_name": "Trần",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/minh.hoang.tran.326291/",
+                            "__isNode": "User"
+                        },
+                        "length": 15,
+                        "offset": 743
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "61556151645495",
+                            "url": "https://www.facebook.com/profile.php?id=61556151645495",
+                            "profile_url": "https://www.facebook.com/profile.php?id=61556151645495",
+                            "short_name": "Tâm",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/profile.php?id=61556151645495",
+                            "__isNode": "User"
+                        },
+                        "length": 8,
+                        "offset": 760
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100032694100115",
+                            "url": "https://www.facebook.com/xuan.cter",
+                            "profile_url": "https://www.facebook.com/xuan.cter",
+                            "short_name": "Nguyễn",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/xuan.cter/",
+                            "__isNode": "User"
+                        },
+                        "length": 15,
+                        "offset": 790
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100073173656058",
+                            "url": "https://www.facebook.com/luu.luann.2024",
+                            "profile_url": "https://www.facebook.com/luu.luann.2024",
+                            "short_name": "Luu",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/luu.luann.2024/",
+                            "__isNode": "User"
+                        },
+                        "length": 9,
+                        "offset": 807
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "633901060",
+                            "url": "https://www.facebook.com/daocuong",
+                            "profile_url": "https://www.facebook.com/daocuong",
+                            "short_name": "Dao",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/daocuong/",
+                            "__isNode": "User"
+                        },
+                        "length": 9,
+                        "offset": 818
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100008671983441",
+                            "url": "https://www.facebook.com/uyen.nguyen.74601",
+                            "profile_url": "https://www.facebook.com/uyen.nguyen.74601",
+                            "short_name": "Uyen",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/uyen.nguyen.74601/",
+                            "__isNode": "User"
+                        },
+                        "length": 11,
+                        "offset": 829
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100054611092772",
+                            "url": "https://www.facebook.com/nghiem.nghiem.277451",
+                            "profile_url": "https://www.facebook.com/nghiem.nghiem.277451",
+                            "short_name": "Nghiem",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/nghiem.nghiem.277451/",
+                            "__isNode": "User"
+                        },
+                        "length": 13,
+                        "offset": 842
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100071306948792",
+                            "url": "https://www.facebook.com/penrithglenn",
+                            "profile_url": "https://www.facebook.com/penrithglenn",
+                            "short_name": "Glenn",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": true,
+                            "mobileUrl": "https://m.facebook.com/penrithglenn/",
+                            "__isNode": "User"
+                        },
+                        "length": 5,
+                        "offset": 864
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100089482507509",
+                            "url": "https://www.facebook.com/andy.k.nuwuen",
+                            "profile_url": "https://www.facebook.com/andy.k.nuwuen",
+                            "short_name": "Andy",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/andy.k.nuwuen/",
+                            "__isNode": "User"
+                        },
+                        "length": 11,
+                        "offset": 871
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100007578763473",
+                            "url": "https://www.facebook.com/TanHuy.Copyright.Info",
+                            "profile_url": "https://www.facebook.com/TanHuy.Copyright.Info",
+                            "short_name": "Huy",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/TanHuy.Copyright.Info/",
+                            "__isNode": "User"
+                        },
+                        "length": 13,
+                        "offset": 884
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100000181691599",
+                            "url": "https://www.facebook.com/haipyn",
+                            "profile_url": "https://www.facebook.com/haipyn",
+                            "short_name": "thanh hải",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/haipyn/",
+                            "__isNode": "User"
+                        },
+                        "length": 16,
+                        "offset": 899
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "61552511008703",
+                            "url": "https://www.facebook.com/profile.php?id=61552511008703",
+                            "profile_url": "https://www.facebook.com/profile.php?id=61552511008703",
+                            "short_name": "Đạt 󱢏",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/profile.php?id=61552511008703",
+                            "__isNode": "User"
+                        },
+                        "length": 15,
+                        "offset": 917
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100032131298246",
+                            "url": "https://www.facebook.com/tam.pham.351663",
+                            "profile_url": "https://www.facebook.com/tam.pham.351663",
+                            "short_name": "Tam",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/tam.pham.351663/",
+                            "__isNode": "User"
+                        },
+                        "length": 8,
+                        "offset": 934
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100009844788262",
+                            "url": "https://www.facebook.com/phuong.tay.441445",
+                            "profile_url": "https://www.facebook.com/phuong.tay.441445",
+                            "short_name": "Phương",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/phuong.tay.441445/",
+                            "__isNode": "User"
+                        },
+                        "length": 10,
+                        "offset": 944
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100009976143646",
+                            "url": "https://www.facebook.com/nguyenhoaggbaoo",
+                            "profile_url": "https://www.facebook.com/nguyenhoaggbaoo",
+                            "short_name": "Bảo",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/nguyenhoaggbaoo/",
+                            "__isNode": "User"
+                        },
+                        "length": 9,
+                        "offset": 956
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "61572721499472",
+                            "url": "https://www.facebook.com/tuan.anh.cao.509204",
+                            "profile_url": "https://www.facebook.com/tuan.anh.cao.509204",
+                            "short_name": "Tuan Anh",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/tuan.anh.cao.509204/",
+                            "__isNode": "User"
+                        },
+                        "length": 12,
+                        "offset": 967
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100027634359785",
+                            "url": "https://www.facebook.com/linh.anh.189768",
+                            "profile_url": "https://www.facebook.com/linh.anh.189768",
+                            "short_name": "Linh",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/linh.anh.189768/",
+                            "__isNode": "User"
+                        },
+                        "length": 8,
+                        "offset": 981
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100083620530593",
+                            "url": "https://www.facebook.com/nct.noname.security",
+                            "profile_url": "https://www.facebook.com/nct.noname.security",
+                            "short_name": "Ng",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/nct.noname.security/",
+                            "__isNode": "User"
+                        },
+                        "length": 16,
+                        "offset": 991
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100009358117061",
+                            "url": "https://www.facebook.com/Ton.thinhh",
+                            "profile_url": "https://www.facebook.com/Ton.thinhh",
+                            "short_name": "Tôn",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/Ton.thinhh/",
+                            "__isNode": "User"
+                        },
+                        "length": 9,
+                        "offset": 1009
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "61558600462254",
+                            "url": "https://www.facebook.com/duong.tuan.anh.454512",
+                            "profile_url": "https://www.facebook.com/duong.tuan.anh.454512",
+                            "short_name": "TuấnAnh",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/duong.tuan.anh.454512/",
+                            "__isNode": "User"
+                        },
+                        "length": 13,
+                        "offset": 1020
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100001902630909",
+                            "url": "https://www.facebook.com/kjmhung.it",
+                            "profile_url": "https://www.facebook.com/kjmhung.it",
+                            "short_name": "Kim Hùng",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/kjmhung.it/",
+                            "__isNode": "User"
+                        },
+                        "length": 11,
+                        "offset": 1035
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "61578249397956",
+                            "url": "https://www.facebook.com/profile.php?id=61578249397956",
+                            "profile_url": "https://www.facebook.com/profile.php?id=61578249397956",
+                            "short_name": "Toàn",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/profile.php?id=61578249397956",
+                            "__isNode": "User"
+                        },
+                        "length": 10,
+                        "offset": 1048
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "61578353822524",
+                            "url": null,
+                            "profile_url": null,
+                            "short_name": "Hảo",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": null,
+                            "__isNode": "User"
+                        },
+                        "length": 8,
+                        "offset": 1071
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100046090848449",
+                            "url": "https://www.facebook.com/dien.anh.184881",
+                            "profile_url": "https://www.facebook.com/dien.anh.184881",
+                            "short_name": "Nguyen",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/dien.anh.184881/",
+                            "__isNode": "User"
+                        },
+                        "length": 20,
+                        "offset": 1081
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "61578636744630",
+                            "url": null,
+                            "profile_url": null,
+                            "short_name": "Nguyệt",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": null,
+                            "__isNode": "User"
+                        },
+                        "length": 11,
+                        "offset": 1132
+                    },
+                    {
+                        "entity_type": "MENTION",
+                        "entity": {
+                            "__typename": "User",
+                            "__isEntity": "User",
+                            "__isActor": "User",
+                            "id": "100093157425596",
+                            "url": "https://www.facebook.com/alex.khan.364828",
+                            "profile_url": "https://www.facebook.com/alex.khan.364828",
+                            "short_name": "Alex",
+                            "work_info": null,
+                            "__module_operation_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink_user$normalization.graphql"
+                            },
+                            "__module_component_CometComposedBlockWithEntitiesRelay_composedText": {
+                                "__dr": "ProfileGeminiWeakReferenceLink.react"
+                            },
+                            "work_foreign_entity_info": null,
+                            "is_verified": false,
+                            "mobileUrl": "https://m.facebook.com/alex.khan.364828/",
+                            "__isNode": "User"
+                        },
+                        "length": 11,
+                        "offset": 1156
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "Đình Long,\nHuynh Dang Khoa,\nLê Thảo,\nJoe Nguyen,\nLe Minh,\nĐức Nguyễn,\nSáng Tiến Nguyễn,\nTiền Bến Sạn,\nBaiciu Remus Cristian,\nHoàng Công Hải,\nNguyễn Hoàng Tuấn,\nQuân Nguyen,\nDuy Trọng,\nHoàng Sang,\nĐức,\nTôn Thất Thiện Kỳ,\nDGN Mobile,\nTrung Minh,\nVan Anh Tran,\nTrần Viết Huỳnh,\nLê Hùng,\nNguyễn Tuấn Phong,\nPhạm Hoàng An,\nNguyễn Nam,\nUngvari K. Máté,\nHùng Mét Bẩy,\nĐăng Dương,\nNguyễn Đạt,\nBảo Hoài,\nKen Lê,\nThành Vinh,\nNguyễn Bảo,\nNguyễn Thanh Sơn,\nMạnh Tiến,\nLe Van Viet,\nLê Hồng Quang,\nĐỗ Cường,\nTrần Thế Tuyên,\nThanh Quang,\nĐông Lê,\nĐoàn Thiên Thanh,\nQuốc   Phú,\nPhú Đại,\nNguyễn Thức,\nNguyen Van Hoang,\nNguyễn Thạnh,\nSoo Young,\nLopez Araceli,\nMinh Hồng,\nSelena Tran,\nNguyễn Đạt,\n⭐️Huỳnh Thắng🚀,\nTrần Quang Tuấn,\nTran Tuấn Anh,\nNguyễn Tùng Lâm,\nMinh Hoàng Trần,\nTâm Minh,\nSầm Thị Minh Luyến,\nNguyễn Đức Xuân,\nLuu Luann,\nDao Cuong,\nUyen Nguyen,\nNghiem Nghiem,\nGlenn,\nGlenn,\nAndy Nuwuen,\nHa Thien Nhan,\nnguyễn thanh hải,\nTrần Tiến Đạt 󱢏,\nTam Pham,\nPhương Tây,\nHoàng Bảo,\nTuan Anh Cao,\nLinh Anh,\nNguyễn Chí Thành,\nThịnh Tôn,\nDương TuấnAnh,\nLê Kim Hùng,\nToàn Trinh,\nĐình Bích,\nNgọc Hảo,\nNguyen Văn Điền Dung,\nLâm Vân,\nBách Tâm,\nÂu Thắng,\nThảo Nguyệt,\nThắng Lâm,\nAlex khan😈👈,\nHậu Lý,\nĐan Hậu,\nQuân Mỹ,\nHùng Quân,\nHậu Bình,\nThủy Huyền,\nNgân Bích,\nTài Vỹ,\nHương Cương,\nNguyễn Duy,\nSơn Đình"
+            }
+        ],
+        "hashtags": [],
+        "mentions": [
+            {
+                "type": "User",
+                "id": "100026133619562",
+                "name": "Đình",
+                "url": "https://www.facebook.com/inhlong.698622",
+                "length": 9,
+                "offset": 0
+            },
+            {
+                "type": "User",
+                "id": "100025053906050",
+                "name": "Khoa",
+                "url": "https://www.facebook.com/toilakhoaa",
+                "length": 15,
+                "offset": 11
+            },
+            {
+                "type": "User",
+                "id": "100053015512037",
+                "name": "Evelyn",
+                "url": "https://www.facebook.com/profile.php?id=100053015512037",
+                "length": 7,
+                "offset": 28
+            },
+            {
+                "type": "User",
+                "id": "100071531107115",
+                "name": "Joe",
+                "url": "https://www.facebook.com/profile.php?id=100071531107115",
+                "length": 10,
+                "offset": 37
+            },
+            {
+                "type": "User",
+                "id": "100018139680337",
+                "name": "Nguyễn",
+                "url": "https://www.facebook.com/le.minh.484843",
+                "length": 7,
+                "offset": 49
+            },
+            {
+                "type": "User",
+                "id": "100009293959393",
+                "name": "Sáng",
+                "url": "https://www.facebook.com/sang.tien.nguyen.809204",
+                "length": 16,
+                "offset": 70
+            },
+            {
+                "type": "User",
+                "id": "100005607631213",
+                "name": "Tiền",
+                "url": "https://www.facebook.com/tienbensan",
+                "length": 12,
+                "offset": 88
+            },
+            {
+                "type": "User",
+                "id": "100003871526162",
+                "name": "Hải",
+                "url": "https://www.facebook.com/haihc8386",
+                "length": 14,
+                "offset": 125
+            },
+            {
+                "type": "User",
+                "id": "100004547557027",
+                "name": "Hoàng Tuấn",
+                "url": "https://www.facebook.com/MRjs.IT",
+                "length": 17,
+                "offset": 141
+            },
+            {
+                "type": "User",
+                "id": "100005151182566",
+                "name": "Quân",
+                "url": "https://www.facebook.com/quan.mingquan",
+                "length": 11,
+                "offset": 160
+            },
+            {
+                "type": "User",
+                "id": "61550941993420",
+                "name": "Trọng",
+                "url": "https://www.facebook.com/duytrong.9999",
+                "length": 9,
+                "offset": 173
+            },
+            {
+                "type": "User",
+                "id": "100037676795235",
+                "name": "Đức",
+                "url": "https://www.facebook.com/bong.xcf",
+                "length": 3,
+                "offset": 196
+            },
+            {
+                "type": "User",
+                "id": "100001689024681",
+                "name": "Tôn Thất",
+                "url": "https://www.facebook.com/tonthatthienky",
+                "length": 17,
+                "offset": 201
+            },
+            {
+                "type": "User",
+                "id": "61576555653582",
+                "name": "DGN Mobile",
+                "url": "https://www.facebook.com/dgnmobilevn",
+                "length": 10,
+                "offset": 220
+            },
+            {
+                "type": "User",
+                "id": "61561584711282",
+                "name": "Trung",
+                "url": "https://www.facebook.com/profile.php?id=61561584711282",
+                "length": 10,
+                "offset": 232
+            },
+            {
+                "type": "User",
+                "id": "100000360901042",
+                "name": "Van Anh",
+                "url": "https://www.facebook.com/vanna12321",
+                "length": 12,
+                "offset": 244
+            },
+            {
+                "type": "User",
+                "id": "100005454918231",
+                "name": "Huỳnh",
+                "url": "https://www.facebook.com/huynhboo98",
+                "length": 15,
+                "offset": 258
+            },
+            {
+                "type": "User",
+                "id": "100006351870073",
+                "name": "Lê",
+                "url": "https://www.facebook.com/profile.php?id=100006351870073",
+                "length": 7,
+                "offset": 275
+            },
+            {
+                "type": "User",
+                "id": "100088005590713",
+                "name": "Phong",
+                "url": "https://www.facebook.com/nguyen.tuan.phong.338649",
+                "length": 17,
+                "offset": 284
+            },
+            {
+                "type": "User",
+                "id": "100064364799726",
+                "name": "Hoàng An",
+                "url": "https://www.facebook.com/hoangan.pham.102977",
+                "length": 13,
+                "offset": 303
+            },
+            {
+                "type": "User",
+                "id": "61552987886971",
+                "name": "Nam",
+                "url": "https://www.facebook.com/nguyen.nam.281633",
+                "length": 10,
+                "offset": 318
+            },
+            {
+                "type": "User",
+                "id": "61577941752214",
+                "name": "Máté",
+                "url": null,
+                "length": 15,
+                "offset": 330
+            },
+            {
+                "type": "User",
+                "id": "100048583330539",
+                "name": "Bẩy",
+                "url": "https://www.facebook.com/Hungmetbay",
+                "length": 12,
+                "offset": 347
+            },
+            {
+                "type": "User",
+                "id": "100005722906596",
+                "name": "Đăng Dương",
+                "url": "https://www.facebook.com/dduong.vux",
+                "length": 10,
+                "offset": 361
+            },
+            {
+                "type": "User",
+                "id": "100003333152202",
+                "name": "Đạt",
+                "url": "https://www.facebook.com/dat.tan.125",
+                "length": 10,
+                "offset": 373
+            },
+            {
+                "type": "User",
+                "id": "61568744713626",
+                "name": "Hoài",
+                "url": "https://www.facebook.com/profile.php?id=61568744713626",
+                "length": 8,
+                "offset": 385
+            },
+            {
+                "type": "User",
+                "id": "100065147602673",
+                "name": "Ken",
+                "url": "https://www.facebook.com/ken.le.663020",
+                "length": 6,
+                "offset": 395
+            },
+            {
+                "type": "User",
+                "id": "100007996908182",
+                "name": "Vinh",
+                "url": "https://www.facebook.com/nguyen.thanh.vinh.07",
+                "length": 10,
+                "offset": 403
+            },
+            {
+                "type": "User",
+                "id": "100088404355665",
+                "name": "Bảo",
+                "url": "https://www.facebook.com/daithaibao",
+                "length": 10,
+                "offset": 415
+            },
+            {
+                "type": "User",
+                "id": "100066972752519",
+                "name": "Mạnh",
+                "url": "https://www.facebook.com/minh.tam.382431",
+                "length": 9,
+                "offset": 445
+            },
+            {
+                "type": "User",
+                "id": "100084729949143",
+                "name": "Li",
+                "url": null,
+                "length": 11,
+                "offset": 456
+            },
+            {
+                "type": "User",
+                "id": "100000266384088",
+                "name": "Hồng Quang",
+                "url": "https://www.facebook.com/Quanglh268",
+                "length": 13,
+                "offset": 469
+            },
+            {
+                "type": "User",
+                "id": "100005641007549",
+                "name": "Cường",
+                "url": "https://www.facebook.com/dovancuong8",
+                "length": 8,
+                "offset": 484
+            },
+            {
+                "type": "User",
+                "id": "100083325181948",
+                "name": "Tuyên",
+                "url": "https://www.facebook.com/tranthetuyen09",
+                "length": 14,
+                "offset": 494
+            },
+            {
+                "type": "User",
+                "id": "100008051350813",
+                "name": "Thanh",
+                "url": "https://www.facebook.com/thanhquang.hoang.02",
+                "length": 11,
+                "offset": 510
+            },
+            {
+                "type": "User",
+                "id": "100005779180419",
+                "name": "Đông",
+                "url": "https://www.facebook.com/lxdlxd446",
+                "length": 7,
+                "offset": 523
+            },
+            {
+                "type": "User",
+                "id": "100000676945481",
+                "name": "Đoàn",
+                "url": "https://www.facebook.com/BlueSky0305",
+                "length": 16,
+                "offset": 532
+            },
+            {
+                "type": "User",
+                "id": "100047255649452",
+                "name": "Quốc",
+                "url": "https://www.facebook.com/kaitokidvll",
+                "length": 10,
+                "offset": 550
+            },
+            {
+                "type": "User",
+                "id": "100032991763255",
+                "name": "Kim",
+                "url": "https://www.facebook.com/kimkim2000.jp",
+                "length": 7,
+                "offset": 562
+            },
+            {
+                "type": "User",
+                "id": "100090894296783",
+                "name": "Hoang",
+                "url": "https://www.facebook.com/profile.php?id=100090894296783",
+                "length": 16,
+                "offset": 584
+            },
+            {
+                "type": "User",
+                "id": "100027132833691",
+                "name": "Thạnh",
+                "url": "https://www.facebook.com/nvthanh91",
+                "length": 12,
+                "offset": 602
+            },
+            {
+                "type": "User",
+                "id": "100068962794595",
+                "name": "Soo",
+                "url": "https://www.facebook.com/soo.young.14735",
+                "length": 9,
+                "offset": 616
+            },
+            {
+                "type": "User",
+                "id": "61577411451080",
+                "name": "Lopez",
+                "url": null,
+                "length": 13,
+                "offset": 627
+            },
+            {
+                "type": "User",
+                "id": "100047174071911",
+                "name": "Yến",
+                "url": "https://www.facebook.com/minh.hong.417751",
+                "length": 9,
+                "offset": 642
+            },
+            {
+                "type": "User",
+                "id": "100079032362800",
+                "name": "Selena",
+                "url": "https://www.facebook.com/knhvan",
+                "length": 11,
+                "offset": 653
+            },
+            {
+                "type": "User",
+                "id": "100025292600745",
+                "name": "Đạt",
+                "url": "https://www.facebook.com/datnguyen2477",
+                "length": 10,
+                "offset": 666
+            },
+            {
+                "type": "User",
+                "id": "100005596508856",
+                "name": "Thắng ✓",
+                "url": "https://www.facebook.com/huynhthang2",
+                "length": 14,
+                "offset": 678
+            },
+            {
+                "type": "User",
+                "id": "100040122139068",
+                "name": "Tuấn",
+                "url": "https://www.facebook.com/tranquangtuan308",
+                "length": 15,
+                "offset": 694
+            },
+            {
+                "type": "User",
+                "id": "100084898833123",
+                "name": "Anh",
+                "url": "https://www.facebook.com/qbin.0104",
+                "length": 13,
+                "offset": 711
+            },
+            {
+                "type": "User",
+                "id": "100082099915794",
+                "name": "Tùng Lâm",
+                "url": "https://www.facebook.com/nguyen.tung.lam.992075",
+                "length": 15,
+                "offset": 726
+            },
+            {
+                "type": "User",
+                "id": "61571192025232",
+                "name": "Trần",
+                "url": "https://www.facebook.com/minh.hoang.tran.326291",
+                "length": 15,
+                "offset": 743
+            },
+            {
+                "type": "User",
+                "id": "61556151645495",
+                "name": "Tâm",
+                "url": "https://www.facebook.com/profile.php?id=61556151645495",
+                "length": 8,
+                "offset": 760
+            },
+            {
+                "type": "User",
+                "id": "100032694100115",
+                "name": "Nguyễn",
+                "url": "https://www.facebook.com/xuan.cter",
+                "length": 15,
+                "offset": 790
+            },
+            {
+                "type": "User",
+                "id": "100073173656058",
+                "name": "Luu",
+                "url": "https://www.facebook.com/luu.luann.2024",
+                "length": 9,
+                "offset": 807
+            },
+            {
+                "type": "User",
+                "id": "633901060",
+                "name": "Dao",
+                "url": "https://www.facebook.com/daocuong",
+                "length": 9,
+                "offset": 818
+            },
+            {
+                "type": "User",
+                "id": "100008671983441",
+                "name": "Uyen",
+                "url": "https://www.facebook.com/uyen.nguyen.74601",
+                "length": 11,
+                "offset": 829
+            },
+            {
+                "type": "User",
+                "id": "100054611092772",
+                "name": "Nghiem",
+                "url": "https://www.facebook.com/nghiem.nghiem.277451",
+                "length": 13,
+                "offset": 842
+            },
+            {
+                "type": "User",
+                "id": "100071306948792",
+                "name": "Glenn",
+                "url": "https://www.facebook.com/penrithglenn",
+                "length": 5,
+                "offset": 864
+            },
+            {
+                "type": "User",
+                "id": "100089482507509",
+                "name": "Andy",
+                "url": "https://www.facebook.com/andy.k.nuwuen",
+                "length": 11,
+                "offset": 871
+            },
+            {
+                "type": "User",
+                "id": "100007578763473",
+                "name": "Huy",
+                "url": "https://www.facebook.com/TanHuy.Copyright.Info",
+                "length": 13,
+                "offset": 884
+            },
+            {
+                "type": "User",
+                "id": "100000181691599",
+                "name": "thanh hải",
+                "url": "https://www.facebook.com/haipyn",
+                "length": 16,
+                "offset": 899
+            },
+            {
+                "type": "User",
+                "id": "61552511008703",
+                "name": "Đạt 󱢏",
+                "url": "https://www.facebook.com/profile.php?id=61552511008703",
+                "length": 15,
+                "offset": 917
+            },
+            {
+                "type": "User",
+                "id": "100032131298246",
+                "name": "Tam",
+                "url": "https://www.facebook.com/tam.pham.351663",
+                "length": 8,
+                "offset": 934
+            },
+            {
+                "type": "User",
+                "id": "100009844788262",
+                "name": "Phương",
+                "url": "https://www.facebook.com/phuong.tay.441445",
+                "length": 10,
+                "offset": 944
+            },
+            {
+                "type": "User",
+                "id": "100009976143646",
+                "name": "Bảo",
+                "url": "https://www.facebook.com/nguyenhoaggbaoo",
+                "length": 9,
+                "offset": 956
+            },
+            {
+                "type": "User",
+                "id": "61572721499472",
+                "name": "Tuan Anh",
+                "url": "https://www.facebook.com/tuan.anh.cao.509204",
+                "length": 12,
+                "offset": 967
+            },
+            {
+                "type": "User",
+                "id": "100027634359785",
+                "name": "Linh",
+                "url": "https://www.facebook.com/linh.anh.189768",
+                "length": 8,
+                "offset": 981
+            },
+            {
+                "type": "User",
+                "id": "100083620530593",
+                "name": "Ng",
+                "url": "https://www.facebook.com/nct.noname.security",
+                "length": 16,
+                "offset": 991
+            },
+            {
+                "type": "User",
+                "id": "100009358117061",
+                "name": "Tôn",
+                "url": "https://www.facebook.com/Ton.thinhh",
+                "length": 9,
+                "offset": 1009
+            },
+            {
+                "type": "User",
+                "id": "61558600462254",
+                "name": "TuấnAnh",
+                "url": "https://www.facebook.com/duong.tuan.anh.454512",
+                "length": 13,
+                "offset": 1020
+            },
+            {
+                "type": "User",
+                "id": "100001902630909",
+                "name": "Kim Hùng",
+                "url": "https://www.facebook.com/kjmhung.it",
+                "length": 11,
+                "offset": 1035
+            },
+            {
+                "type": "User",
+                "id": "61578249397956",
+                "name": "Toàn",
+                "url": "https://www.facebook.com/profile.php?id=61578249397956",
+                "length": 10,
+                "offset": 1048
+            },
+            {
+                "type": "User",
+                "id": "61578353822524",
+                "name": "Hảo",
+                "url": null,
+                "length": 8,
+                "offset": 1071
+            },
+            {
+                "type": "User",
+                "id": "100046090848449",
+                "name": "Nguyen",
+                "url": "https://www.facebook.com/dien.anh.184881",
+                "length": 20,
+                "offset": 1081
+            },
+            {
+                "type": "User",
+                "id": "61578636744630",
+                "name": "Nguyệt",
+                "url": null,
+                "length": 11,
+                "offset": 1132
+            },
+            {
+                "type": "User",
+                "id": "100093157425596",
+                "name": "Alex",
+                "url": "https://www.facebook.com/alex.khan.364828",
+                "length": 11,
+                "offset": 1156
+            }
+        ],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 1,
+            "total_count": 1,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 6,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 3,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 2,
+                    "name": "Yêu thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 1,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1753801021000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1698669967454351",
+            "content_owner_id_new": "100004848287494",
+            "page_id": "544956228701006",
+            "photo_id": "2930033837168197",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "100025053906050": {
+                    "page_id": "100025053906050",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100053015512037": {
+                    "page_id": "100053015512037",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100009293959393": {
+                    "page_id": "100009293959393",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100005607631213": {
+                    "page_id": "100005607631213",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100003871526162": {
+                    "page_id": "100003871526162",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100004547557027": {
+                    "page_id": "100004547557027",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "61550941993420": {
+                    "page_id": "61550941993420",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100037676795235": {
+                    "page_id": "100037676795235",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "61576555653582": {
+                    "page_id": "61576555653582",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100000360901042": {
+                    "page_id": "100000360901042",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100005454918231": {
+                    "page_id": "100005454918231",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100088005590713": {
+                    "page_id": "100088005590713",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "61552987886971": {
+                    "page_id": "61552987886971",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100048583330539": {
+                    "page_id": "100048583330539",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100005722906596": {
+                    "page_id": "100005722906596",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100000266384088": {
+                    "page_id": "100000266384088",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100047255649452": {
+                    "page_id": "100047255649452",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100090894296783": {
+                    "page_id": "100090894296783",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100027132833691": {
+                    "page_id": "100027132833691",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100079032362800": {
+                    "page_id": "100079032362800",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100025292600745": {
+                    "page_id": "100025292600745",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100005596508856": {
+                    "page_id": "100005596508856",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100084898833123": {
+                    "page_id": "100084898833123",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100082099915794": {
+                    "page_id": "100082099915794",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100032694100115": {
+                    "page_id": "100032694100115",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100073173656058": {
+                    "page_id": "100073173656058",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100089482507509": {
+                    "page_id": "100089482507509",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100007578763473": {
+                    "page_id": "100007578763473",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100009844788262": {
+                    "page_id": "100009844788262",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100009976143646": {
+                    "page_id": "100009976143646",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100027634359785": {
+                    "page_id": "100027634359785",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100083620530593": {
+                    "page_id": "100083620530593",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100009358117061": {
+                    "page_id": "100009358117061",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "61558600462254": {
+                    "page_id": "61558600462254",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "100001902630909": {
+                    "page_id": "100001902630909",
+                    "page_id_type": "page",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "role": 16,
+                    "sl": 9
+                },
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1753801021,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1698669967454351"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=W5I0k6TFtSD0sK_PuIIzMw&_nc_ss=7a3a8&oh=00_Af1jsMfUYo6fPuquxF9TVqALkOBiCEX8W27p_g6n9tJHlw&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

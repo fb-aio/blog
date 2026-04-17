@@ -1,0 +1,212 @@
+{
+    "result": {
+        "id": "UzpfSTE0OTMxNjAwMDgwMDUzNDk6Vks6MTQ5MzE2MDAwODAwNTM0OQ==",
+        "post_id": "1493160008005349",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1493160008005349/",
+        "media": {
+            "mediaset_token": "pcb.1493160008005349",
+            "subAttachments": [
+                {
+                    "id": "2646470355524548",
+                    "url": "https://www.facebook.com/photo.php?fbid=2646470355524548&set=gm.1493160001338683&type=3",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/495061932_2842845469220368_5676272757851923489_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=o4D_IuLTNl8Q7kNvwGtfXox&_nc_oc=Adqs6sHMp2_0SO9GkN29gU7ifbdJ6e4SgeIkqVJN2ydKPe2yidh-OrW3PYo4WTKQfWk&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=PRTXED9TFIp8Pe2U21zj2w&_nc_ss=7a3a8&oh=00_Af0FJH6HyNA9kvhqPWL_1JE-wfDnKpVHess33M7wHS5Z_w&oe=69E72852",
+                    "height": 731,
+                    "width": 805,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                    "real_width": 805,
+                    "real_height": 731
+                },
+                {
+                    "id": "2646471388857778",
+                    "url": "https://www.facebook.com/photo.php?fbid=2646471388857778&set=gm.1493160004672016&type=3",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/494265766_2842845549220360_6984847964903665634_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=VUSc_-LZpl8Q7kNvwGw3wWi&_nc_oc=AdquXt_HA8QpSA6DM7297QZFuJR6L21r7oKDT3OpbiTTA-eGjkhbk4rMfBtZY_DG1rQ&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=PRTXED9TFIp8Pe2U21zj2w&_nc_ss=7a3a8&oh=00_Af3TjYt2Yidl5WZ2ykxEFQc8PuhjqFGcnsutjzYsPtsFcA&oe=69E73087",
+                    "height": 716,
+                    "width": 501,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                    "real_width": 501,
+                    "real_height": 716
+                },
+                {
+                    "id": "2646471495524434",
+                    "url": "https://www.facebook.com/photo.php?fbid=2646471495524434&set=gm.1493160011338682&type=3",
+                    "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/494608667_2842845472553701_6427289718480620175_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=Atj6kkmyd3gQ7kNvwGbKepN&_nc_oc=Ado3-t1f4SChykzF7wc5pB3PPx5aKAIblZKiTnDQ9dgwPvLHQgjdMtVZQ6T-a5huTpg&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=PRTXED9TFIp8Pe2U21zj2w&_nc_ss=7a3a8&oh=00_Af2I2pQEX7X_4ghZ6cl3htSSIEWDqCEgIWtnSZFEvnIiqw&oe=69E72991",
+                    "height": 641,
+                    "width": 605,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                    "real_width": 605,
+                    "real_height": 641
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# FB AIO MỚI: Phím tắt cho Facebook\n\nNhận thấy nhiều chức năng **khá cần thiết** nhưng facebook thường** giấu sâu** bên trong, người dùng **khó tìm** thấy hoặc **không biết** là có luôn. \n\nNên mình tổng hợp lại danh sách phím tắt cho mọi người truy cập nhanh kkk.\n\nCòn ai biết chức năng nào thường dùng của fb thì bình luận bên dứoi mình cho vào luôn nha.\n\n#fb_aio",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "FB AIO MỚI: Phím tắt cho Facebook"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fb_aio",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fb_aio",
+                            "__isNode": "Hashtag",
+                            "id": "8080904801977702"
+                        },
+                        "length": 7,
+                        "offset": 305
+                    }
+                ],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 13,
+                        "offset": 27
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 9,
+                        "offset": 62
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 7,
+                        "offset": 94
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 10,
+                        "offset": 112
+                    }
+                ],
+                "text": "\nNhận thấy nhiều chức năng khá cần thiết nhưng facebook thường giấu sâu bên trong, người dùng khó tìm thấy hoặc không biết là có luôn. \n\nNên mình tổng hợp lại danh sách phím tắt cho mọi người truy cập nhanh kkk.\n\nCòn ai biết chức năng nào thường dùng của fb thì bình luận bên dứoi mình cho vào luôn nha.\n\n#fb_aio"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 3,
+            "total_count": 7,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 4,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 4,
+                    "name": "Thích"
+                }
+            ]
+        },
+        "shares": 2,
+        "created_time": 1727415692000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1493160008005349",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2646470355524548",
+                "2646471388857778",
+                "2646471495524434"
+            ],
+            "photo_id": "2646470355524548",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1727415692,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1493160008005349"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=PRTXED9TFIp8Pe2U21zj2w&_nc_ss=7a3a8&oh=00_Af1T0vuPi9B6j3ixxdCd-pQlYQ5wzlbqJwI0myCsK5CFBA&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

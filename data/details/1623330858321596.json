@@ -1,0 +1,120 @@
+{
+    "result": {
+        "id": "UzpfSTE2MjMzMzA4NTgzMjE1OTY6Vks6MTYyMzMzMDg1ODMyMTU5Ng==",
+        "post_id": "1623330858321596",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1623330858321596/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2822547941250121",
+                "url": "https://www.facebook.com/photo/?fbid=2822547941250121&set=gm.1623330858321596&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/503636535_2880336635471251_8277944766000359913_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=ar4Jzl1L46MQ7kNvwG6aMWR&_nc_oc=AdraxouvDshaiNLdsAAdX7N_CgLJTOzWhR7IzSkoaBlpZxuH_fqIb5eqKVBTi2SolpU&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=IOjlBGKQSM3j9mfnJxr8mw&_nc_ss=7a3a8&oh=00_Af2UUefRaQ77kJdRsG8U5BhuoUkaBhnVmLnnEgR0MZLrNw&oe=69E76EA2",
+                "height": 1742,
+                "width": 997,
+                "accessibility_caption": "Không có mô tả ảnh.",
+                "accent_color": "FFF28600",
+                "real_width": 997,
+                "real_height": 1742
+            },
+            "video": null
+        },
+        "text": "Fun fact: 🤯\n\nMàu của quả quýt (Tangerine) trong tiếng anh là màu cam (Orange)\n\nCòn màu của quả cam (Orange) trong tiếng anh lại là tên là Tangerine (hay chính là màu quýt). \n\nVậy nên bằng một lý do nào đó, màu quả cam cũng có thể gọi là màu quýt 🐧\n\n- cop trên mạng -\n\n#fbaio_relax",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [
+            "#fbaio_relax"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 0,
+            "total_count": 0,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 6,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 3,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 3,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1744423586000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1623330858321596",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2822547941250121",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1744423586,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1623330858321596"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=IOjlBGKQSM3j9mfnJxr8mw&_nc_ss=7a3a8&oh=00_Af16VIn5f8vn4XELpUEIoJY0LuhibhFVPL0ddC773SRKrQ&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

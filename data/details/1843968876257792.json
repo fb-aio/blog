@@ -1,0 +1,129 @@
+{
+    "result": {
+        "id": "UzpfSTE4NDM5Njg4NzYyNTc3OTI6Vks6MTg0Mzk2ODg3NjI1Nzc5Mg==",
+        "post_id": "1843968876257792",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1843968876257792/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "4295843120700839",
+                "url": "https://www.facebook.com/photo/?fbid=4295843120700839&set=gm.1843968876257792&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/628736855_4295843124034172_9060536163689296708_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=Jq7UjLQwdcYQ7kNvwGNFF0R&_nc_oc=Adod36wzbu6RcRVj4W9azY5sP70EJl_Dv2Sf2wv2CfNvZ47eqQf7e42644rR7EONTtA&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=h92NhowHhAiaOSUY7tqv8w&_nc_ss=7a3a8&oh=00_Af3ECcThCnBiV-utetGP62Inoqd9K7S3H1eNwHVmU3aRCw&oe=69E77EC6",
+                "height": 585,
+                "width": 828,
+                "accessibility_caption": "Có thể là hình ảnh về văn bản cho biết 'Tính minh bạch của Trang Lịch sử Tên Trang chưa thay đổi Ngày tạo Thông tin Chính phủ 2 tháng 10, 2015 Khi tên thay đổi, bạn có thể biết liệu mục đích của Trang có thay đổi theo thời gian không. Việc hợp nhất Trang nghĩa là Trang đã gộp cơ sờ người theo dõi với Trang khác.'",
+                "accent_color": "FF262729",
+                "real_width": 828,
+                "real_height": 585
+            },
+            "video": null
+        },
+        "text": "Admin thêm tính năng check lịch sử đổi tên đi ạ. Giao diện mới fb nó giấu kĩ quá, tìm mãi mới ra",
+        "text_format": {},
+        "rich_message": null,
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "GroupAnonAuthorProfile",
+                "id": "1449235443259642",
+                "name": "minn☹️",
+                "__isEntity": "GroupAnonAuthorProfile",
+                "url": null,
+                "is_nickname": true
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 3,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 12,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 11,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 1,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 0,
+        "created_time": 1770439882000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1843968876257792",
+            "content_owner_id_new": "1449235443259642",
+            "photo_id": "4295843120700839",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "1449235443259642",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallAdminApprovedAnonPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1770438035,
+                        "story_name": "EntGroupMallAdminApprovedAnonPostCreationStory",
+                        "story_fbid": [
+                            "1843968876257792"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "1449235443259642",
+            "actrs": "1449235443259642",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=h92NhowHhAiaOSUY7tqv8w&_nc_ss=7a3a8&oh=00_Af2n7n8ZnlMyHT1feO0etU3VGMALcPoCpCpDbmIHvTbDpw&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}

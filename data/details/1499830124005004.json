@@ -1,0 +1,383 @@
+{
+    "result": {
+        "id": "UzpfSTE0OTk4MzAxMjQwMDUwMDQ6Vks6MTQ5OTgzMDEyNDAwNTAwNA==",
+        "post_id": "1499830124005004",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1499830124005004/",
+        "media": {
+            "mediaset_token": "pcb.1499830124005004",
+            "subAttachments": [
+                {
+                    "id": "2655718791266371",
+                    "url": "https://www.facebook.com/photo.php?fbid=2655718791266371&set=gm.1499830117338338&type=3",
+                    "uri": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/497465328_2853455758159339_8650921681696399575_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=lkjgqbabEuMQ7kNvwFoXOjT&_nc_oc=AdpOzH1lWZq1rxqy5OraSKkWPJYtuvyVgYDB5TbU_opQIfdY8qyHP4FH1AwskLxGsjg&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=roZC12d2svaFVYpDdD4dIw&_nc_ss=7a3a8&oh=00_Af08GaVNhKHW9X04Wqq-0gxC_TyNrqsNKuYwiehRCSocHw&oe=69E73851",
+                    "height": 661,
+                    "width": 773,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                    "real_width": 773,
+                    "real_height": 661
+                },
+                {
+                    "id": "2655722667932650",
+                    "url": "https://www.facebook.com/photo.php?fbid=2655722667932650&set=gm.1499830114005005&type=3",
+                    "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/495743348_2853456028159312_2643983970616495150_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=Sxy-I-B0df8Q7kNvwEVPUyS&_nc_oc=Adp-XK3eZgvXt6L-E9sxrxpCdZFGg0C-a83KItv7A7bbJhZY0R9beculacz-SBud-qs&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=roZC12d2svaFVYpDdD4dIw&_nc_ss=7a3a8&oh=00_Af2IJF4JZuZUz8fEuR5rVla6BnVi7kBEAXR-d8Zh7wa5-g&oe=69E72B03",
+                    "height": 615,
+                    "width": 247,
+                    "accessibility_caption": "Có thể là hình ảnh về điện thoại và văn bản",
+                    "real_width": 247,
+                    "real_height": 615
+                },
+                {
+                    "id": "2655723571265893",
+                    "url": "https://www.facebook.com/photo.php?fbid=2655723571265893&set=gm.1499830120671671&type=3",
+                    "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/496440984_2853456138159301_6439665569117827419_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=QF8TGl9em_AQ7kNvwH0iTEJ&_nc_oc=Adq8zA8fklUrYklcL6JKuNy5sue7v-ysU1kKSaMrJ-weu5Tq8TNBDY-gQJ0XpXK8fy8&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=roZC12d2svaFVYpDdD4dIw&_nc_ss=7a3a8&oh=00_Af1SeN-RDCmR2wK7pyzcHXTU436JHQso1f6ohm3AUyii3Q&oe=69E71D0D",
+                    "height": 319,
+                    "width": 691,
+                    "accessibility_caption": "Có thể là hình ảnh về văn bản",
+                    "real_width": 691,
+                    "real_height": 319
+                }
+            ],
+            "photo": null,
+            "video": null
+        },
+        "text": "# MỚI: Tải video/reel chất lượng cao nhất\n\n* Hỗ trợ mọi video/reel fb trong **Tải hàng loạt**\n* Tạo mới 1 chức năng chuyên dùng để **Tải video/reel** (Menu > Tiện ích > Tải video)\n* Hiện **mọi chất lượng** có thể tải, cả file audio\n* Hiện luôn **kích thước file**, cho mn so sánh trước khi tải\n\nCác file video chất lượng cao thường không có âm thanh, do fb đã tách file âm thanh riêng.\n\nMình chưa code được chức năng tự động gộp video+audio, nên mn tải về rồi tự gộp nếu cần nhé.\n\nMà đa số người dùng tải video mặc định là đủ xài rồi, đủ nét, có luôn âm thanh 😅\n\n#fb_aio",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "MỚI: Tải video/reel chất lượng cao nhất"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 13,
+                        "offset": 31
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 13,
+                        "offset": 31
+                    }
+                ],
+                "text": "Hỗ trợ mọi video/reel fb trong Tải hàng loạt"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 14,
+                        "offset": 35
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 14,
+                        "offset": 35
+                    }
+                ],
+                "text": "Tạo mới 1 chức năng chuyên dùng để Tải video/reel (Menu > Tiện ích > Tải video)"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 14,
+                        "offset": 5
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 15,
+                        "offset": 5
+                    }
+                ],
+                "text": "Hiện mọi chất lượng có thể tải, cả file audio"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 15,
+                        "offset": 10
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 15,
+                        "offset": 10
+                    }
+                ],
+                "text": "Hiện luôn kích thước file, cho mn so sánh trước khi tải"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 17,
+                        "offset": 37
+                    }
+                ],
+                "text": "Các file video chất lượng cao thường không có âm thanh, do fb đã tách file âm thanh riêng."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 14,
+                        "offset": 5
+                    },
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 6,
+                        "offset": 73
+                    }
+                ],
+                "text": "Mình chưa code được chức năng tự động gộp video+audio, nên mn tải về rồi tự gộp nếu cần nhé."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "UNDERLINE",
+                        "length": 14,
+                        "offset": 24
+                    }
+                ],
+                "text": "Mà đa số người dùng tải video mặc định là đủ xài rồi, đủ nét, có luôn âm thanh 😅"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [
+                    {
+                        "entity_type": "HASHTAG",
+                        "entity": {
+                            "__typename": "Hashtag",
+                            "__isEntity": "Hashtag",
+                            "url": "https://www.facebook.com/hashtag/fb_aio",
+                            "mobileUrl": "https://m.facebook.com/hashtag/fb_aio",
+                            "__isNode": "Hashtag",
+                            "id": "8080904801977702"
+                        },
+                        "length": 7,
+                        "offset": 0
+                    }
+                ],
+                "inline_style_ranges": [],
+                "text": "#fb_aio"
+            }
+        ],
+        "hashtags": [
+            "#fb_aio"
+        ],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 6,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 28,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 25,
+                    "name": "Thích"
+                },
+                {
+                    "id": "1678524932434102",
+                    "count": 3,
+                    "name": "Yêu thích"
+                }
+            ]
+        },
+        "shares": 6,
+        "created_time": 1728236867000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1499830124005004",
+            "content_owner_id_new": "100004848287494",
+            "photo_attachments_list": [
+                "2655718791266371",
+                "2655722667932650",
+                "2655723571265893"
+            ],
+            "photo_id": "2655718791266371",
+            "story_location": 9,
+            "story_attachment_style": "album",
+            "ent_attachement_type": "PhotoSetAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1728236867,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1499830124005004"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGk6jW-&_nc_oc=AdrCtmHSrCltToxGynBFzoEgNbXezbLaA3P7xYDCtpiKusjr2S8gIVZWmt6ArHw5_Xw&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=roZC12d2svaFVYpDdD4dIw&_nc_ss=7a3a8&oh=00_Af3YPPU67g2-oDSDiS2JnY3WOoDiyCzplrqwh9yaQY-2PQ&oe=69E73DB6"
+        },
+        "attached_post": null
+    }
+}

@@ -1,0 +1,439 @@
+{
+    "result": {
+        "id": "UzpfSTE2MTI5NzA1ODI2OTA5NTc6Vks6MTYxMjk3MDU4MjY5MDk1Nw==",
+        "post_id": "1612970582690957",
+        "url": "https://www.facebook.com/groups/fbaio/permalink/1612970582690957/",
+        "media": {
+            "subAttachments": [],
+            "photo": {
+                "id": "2807453822759533",
+                "url": "https://www.facebook.com/photo/?fbid=2807453822759533&set=gm.1612970582690957&idorvanity=1154059318582088",
+                "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/503372768_2880047585500156_4962904050840562603_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=-CibOoniB1gQ7kNvwGY5Il0&_nc_oc=Adq7cDvvK8a8HCKdiGeY2pCO89LN4q3_x74vckl69iNNmv6t3OZVcmwl9ArSsC62ZL8&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=xICzyKPxLgK4IkgIXO_ymw&_nc_ss=7a3a8&oh=00_Af2xKyhAAIi55rkHzbdW_0QpHKhAkW4-HUX6DDrplgOEBA&oe=69E7828D",
+                "height": 797,
+                "width": 1054,
+                "accessibility_caption": "Có thể là hình ảnh về ‎bản đồ và ‎văn bản cho biết '‎Search Google Maps Q ሃፃ Restaurants ١ Hotels O Things to do 岡 Museums 田 Transit Myanmar (Burma) ©Myanmar(Burma)earthquake earthquake 岡 Pharma Saye 0.50km 0.50 km 00 အမကစရေးရွှာ ة စာရေး‎'‎‎",
+                "accent_color": "FF545C57",
+                "real_width": 1054,
+                "real_height": 797
+            },
+            "video": null
+        },
+        "text": "# 1 (trong nhiều) ngôi làng nằm sát tâm chấn động đất Myanmar 🥲\n\n💥 **Động đất 7.7 độ Richter là siêu mạnh – cực kỳ nguy hiểm!**\n\nDưới đây là mô tả dễ hiểu:\n\n📊 **Thang độ Richter** đo **mức năng lượng giải phóng**, và **mỗi cấp tăng là năng lượng tăng gấp ~32 lần!**\n👉 7.7 độ ≈ mạnh gấp **hơn 1.000 lần** động đất 5.0 (thường chỉ gây rung nhẹ).\n\n* 🏚️ **Nhà cửa kiên cố**: có thể **nứt toác, sập một phần hoặc toàn bộ** nếu không thiết kế chống động đất.\n* 🛣️ **Đường xá, cầu cống**: có thể **nứt gãy, lún sụt, đổ sập**.\n* ⛰️ **Đất đá**: có thể **nứt toạc, lở đất diện rộng**, núi sụp.\n* 🏙️ **Thành phố lớn**: sẽ bị **tê liệt**, mất điện, cháy nổ, gián đoạn cứu trợ.\n* 🌊 Nếu xảy ra ở biển: có thể **gây sóng thần (tsunami)** cao từ vài mét đến hàng chục mét.\n* 👨‍👩‍👧‍👦 Hàng chục đến hàng trăm ngàn người có thể bị ảnh hưởng hoặc thương vong, tùy vào mật độ dân cư và mức độ chuẩn bị.\n\n📌 **Ví dụ thực tế**:\n* 🇹🇷 Động đất Thổ Nhĩ Kỳ 2023 (7.8 độ): hơn **50.000 người ch*t**, hàng trăm ngàn nhà sập.\n* 🇮🇩 Indonesia 2018 (7.5 độ): gây **sóng thần, hơn 4.000 người thiệt mạng**.\n\n💡 **Tóm lại**:\n👉🏻 Động đất 7.7 độ là **thảm họa cấp quốc gia**, không thể xem nhẹ.",
+        "text_format": {},
+        "rich_message": [
+            {
+                "__typename": "ComposedHeaderOneBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedHeaderOneBlockWithEntities",
+                "block_type": "HEADER_ONE",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "1 (trong nhiều) ngôi làng nằm sát tâm chấn động đất Myanmar 🥲"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 56,
+                        "offset": 3
+                    }
+                ],
+                "text": "\n💥 Động đất 7.7 độ Richter là siêu mạnh – cực kỳ nguy hiểm!\n"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "Dưới đây là mô tả dễ hiểu:"
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 16,
+                        "offset": 2
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 25,
+                        "offset": 22
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 44,
+                        "offset": 52
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 13,
+                        "offset": 117
+                    }
+                ],
+                "text": "📊 Thang độ Richter đo mức năng lượng giải phóng, và mỗi cấp tăng là năng lượng tăng gấp ~32 lần!\n👉 7.7 độ ≈ mạnh gấp hơn 1.000 lần động đất 5.0 (thường chỉ gây rung nhẹ)."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 15,
+                        "offset": 3
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 35,
+                        "offset": 27
+                    }
+                ],
+                "text": "🏚️ Nhà cửa kiên cố: có thể nứt toác, sập một phần hoặc toàn bộ nếu không thiết kế chống động đất."
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 18,
+                        "offset": 3
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 24,
+                        "offset": 30
+                    }
+                ],
+                "text": "🛣️ Đường xá, cầu cống: có thể nứt gãy, lún sụt, đổ sập."
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 6,
+                        "offset": 3
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 26,
+                        "offset": 18
+                    }
+                ],
+                "text": "⛰️ Đất đá: có thể nứt toạc, lở đất diện rộng, núi sụp."
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 13,
+                        "offset": 3
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 7,
+                        "offset": 24
+                    }
+                ],
+                "text": "🏙️ Thành phố lớn: sẽ bị tê liệt, mất điện, cháy nổ, gián đoạn cứu trợ."
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 23,
+                        "offset": 28
+                    }
+                ],
+                "text": "🌊 Nếu xảy ra ở biển: có thể gây sóng thần (tsunami) cao từ vài mét đến hàng chục mét."
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": "👨‍👩‍👧‍👦 Hàng chục đến hàng trăm ngàn người có thể bị ảnh hưởng hoặc thương vong, tùy vào mật độ dân cư và mức độ chuẩn bị."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 13,
+                        "offset": 2
+                    }
+                ],
+                "text": "📌 Ví dụ thực tế:"
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 17,
+                        "offset": 42
+                    }
+                ],
+                "text": "🇹🇷 Động đất Thổ Nhĩ Kỳ 2023 (7.8 độ): hơn 50.000 người ch*t, hàng trăm ngàn nhà sập."
+            },
+            {
+                "__typename": "ComposedUnorderedListItemBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnorderedListItemBlockWithEntities",
+                "block_type": "UNORDERED_LIST_ITEM",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 37,
+                        "offset": 32
+                    }
+                ],
+                "text": "🇮🇩 Indonesia 2018 (7.5 độ): gây sóng thần, hơn 4.000 người thiệt mạng."
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [],
+                "text": ""
+            },
+            {
+                "__typename": "ComposedUnstyledBlockWithEntities",
+                "__isComposedBlockWithEntities": "ComposedUnstyledBlockWithEntities",
+                "block_type": "UNSTYLED",
+                "data": "{}",
+                "depth": 0,
+                "media_alignment": null,
+                "media_caption": null,
+                "entity_ranges": [],
+                "inline_style_ranges": [
+                    {
+                        "inline_style": "BOLD",
+                        "length": 7,
+                        "offset": 2
+                    },
+                    {
+                        "inline_style": "BOLD",
+                        "length": 21,
+                        "offset": 33
+                    }
+                ],
+                "text": "💡 Tóm lại:\n👉🏻 Động đất 7.7 độ là thảm họa cấp quốc gia, không thể xem nhẹ."
+            }
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "actors": [
+            {
+                "__typename": "User",
+                "id": "100004848287494",
+                "name": "Hoang Tran",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/9999.hoangtran"
+            }
+        ],
+        "comments": {
+            "can_comment": false,
+            "total": 2,
+            "total_count": 3,
+            "sorting": {
+                "selected": {
+                    "title": "Tất cả bình luận",
+                    "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                    "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                },
+                "available": [
+                    {
+                        "title": "Tất cả bình luận",
+                        "description": "Hiển thị tất cả bình luận, bao gồm cả nội dung có thể là spam.",
+                        "intent_token": "CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Phù hợp nhất",
+                        "description": "Hiển thị bình luận của bạn bè và những bình luận có nhiều lượt tương tác nhất trước tiên.",
+                        "intent_token": "RANKED_FILTERED_INTENT_V1"
+                    },
+                    {
+                        "title": "Mới nhất",
+                        "description": "Hiển thị tất cả bình luận, mới nhất trước tiên.",
+                        "intent_token": "REVERSE_CHRONOLOGICAL_UNFILTERED_INTENT_V1"
+                    }
+                ]
+            }
+        },
+        "reactions": {
+            "my": null,
+            "total": 9,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 8,
+                    "name": "Thích"
+                },
+                {
+                    "id": "613557422527858",
+                    "count": 1,
+                    "name": "Thương thương"
+                }
+            ]
+        },
+        "shares": 2,
+        "created_time": 1743216752000,
+        "privacy_scope": "Nhóm công khai",
+        "copyright_violation_header": null,
+        "tracking_ids": {
+            "top_level_post_id": "1612970582690957",
+            "content_owner_id_new": "100004848287494",
+            "photo_id": "2807453822759533",
+            "story_location": 9,
+            "story_attachment_style": "photo",
+            "ent_attachement_type": "MediaAttachment",
+            "page_insights": {
+                "1154059318582088": {
+                    "page_id": "1154059318582088",
+                    "page_id_type": "group",
+                    "actor_id": "100004848287494",
+                    "dm": {
+                        "isShare": 0,
+                        "originalPostOwnerID": 0,
+                        "sharedMediaID": 0,
+                        "sharedMediaOwnerID": 0
+                    },
+                    "psn": "EntGroupMallPostCreationStory",
+                    "post_context": {
+                        "object_fbtype": 657,
+                        "publish_time": 1743216752,
+                        "story_name": "EntGroupMallPostCreationStory",
+                        "story_fbid": [
+                            "1612970582690957"
+                        ]
+                    },
+                    "role": 1,
+                    "sl": 9
+                }
+            },
+            "profile_id": "100004848287494",
+            "actrs": "100004848287494",
+            "tds_flgs": 3
+        },
+        "posted_to": {
+            "type": "Group",
+            "id": "1154059318582088",
+            "url": "https://www.facebook.com/groups/fbaio/",
+            "name": "FB AIO Extension",
+            "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/565663532_801114855981820_4333487968731823947_n.png?stp=c394.0.428.428a_cp6_dst-png_s110x80&_nc_cat=101&ccb=1-7&_nc_sid=a9d32b&_nc_ohc=EnSdNHQrpIkQ7kNvwGh_5Gp&_nc_oc=AdrTFiI6OpoiccE-6l6TeezWUXUQnPNxwmqThhbB-ptTBQUNdMluITdm1bdhMt3kqzE&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=xICzyKPxLgK4IkgIXO_ymw&_nc_ss=7a3a8&oh=00_Af0xFhTRkUGR8k1DIY4m2refbCGz3ySrBTbQm8TsaV9I-w&oe=69E775F6"
+        },
+        "attached_post": null
+    }
+}
