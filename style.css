@@ -1241,13 +1241,27 @@ mark {
     }
 
     .image-viewer-meta {
+        display: flex;
+        flex: 1 1 auto;
+        min-width: 0;
+    }
+
+    .image-viewer-kicker,
+    .image-viewer-meta strong {
         display: none;
+    }
+
+    .image-viewer-counter {
+        font-size: 0.72rem;
+        color: rgba(236, 242, 255, 0.86);
+        font-weight: 700;
+        letter-spacing: 0.04em;
     }
 
     .image-viewer-toolbar {
         justify-content: flex-end;
         gap: 0.35rem;
-        width: 100%;
+        width: auto;
     }
 
     .image-viewer-zoombar {

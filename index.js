@@ -245,10 +245,7 @@
         }
 
         var maxX = Math.max(0, (imageElement.clientWidth * scale - stageElement.clientWidth) / 2);
-        var maxY = Math.max(
-            0,
-            (imageElement.clientHeight * scale - stageElement.clientHeight) / 2
-        );
+        var maxY = Math.max(0, (imageElement.clientHeight * scale - stageElement.clientHeight) / 2);
 
         return {
             x: clamp(x, -maxX, maxX),
@@ -1352,12 +1349,8 @@
         var transform = _transform[0];
         var setTransform = _transform[1];
         var transformRef = useRef(transform);
-        var counterLabel =
-            props.index +
-            1 +
-            '/' +
-            props.items.length +
-            (currentItem.id ? ' • ' + currentItem.id : '');
+        var counterLabel = props.index + 1 + '/' + props.items.length;
+        var metaLabel = counterLabel; // + (currentItem.id ? ' • ' + currentItem.id : '');
         var scaleLabel = Math.round(transform.scale * 100) + '%';
 
         useEffect(
@@ -1442,9 +1435,7 @@
         function adjustZoom(delta) {
             var current = transformRef.current;
             var targetScale =
-                delta > 0
-                    ? current.scale * (1 + delta)
-                    : current.scale / (1 + Math.abs(delta));
+                delta > 0 ? current.scale * (1 + delta) : current.scale / (1 + Math.abs(delta));
             zoomTo(targetScale);
         }
 
@@ -1456,7 +1447,11 @@
         }
 
         function handlePointerDown(event) {
-            if (event.pointerType !== 'mouse' || event.button !== 0 || transformRef.current.scale <= 1)
+            if (
+                event.pointerType !== 'mouse' ||
+                event.button !== 0 ||
+                transformRef.current.scale <= 1
+            )
                 return;
 
             event.preventDefault();
@@ -1566,7 +1561,11 @@
         function handleTouchMove(event) {
             if (!touchRef.current) return;
 
-            if (touchRef.current.mode === 'pinch' && event.touches.length === 2 && stageRef.current) {
+            if (
+                touchRef.current.mode === 'pinch' &&
+                event.touches.length === 2 &&
+                stageRef.current
+            ) {
                 event.preventDefault();
 
                 var firstTouch = event.touches[0];
@@ -1575,7 +1574,8 @@
                 var rect = stageRef.current.getBoundingClientRect();
                 var nextScale = clamp(
                     touchRef.current.startScale *
-                        (getTouchDistance(firstTouch, secondTouch) / touchRef.current.startDistance),
+                        (getTouchDistance(firstTouch, secondTouch) /
+                            touchRef.current.startDistance),
                     IMAGE_VIEWER_MIN_SCALE,
                     IMAGE_VIEWER_MAX_SCALE
                 );
@@ -1660,7 +1660,7 @@
                         <div class="image-viewer-meta">
                             <span class="image-viewer-kicker">Image Viewer</span>
                             <strong>${props.title || 'Media Gallery'}</strong>
-                            <span>${counterLabel}</span>
+                            <span class="image-viewer-counter">${metaLabel}</span>
                         </div>
 
                         <div class="image-viewer-toolbar">
@@ -1673,7 +1673,10 @@
                                         adjustZoom(-0.22);
                                     }}
                                 >
-                                    <i class="fa-solid fa-magnifying-glass-minus" aria-hidden="true"></i>
+                                    <i
+                                        class="fa-solid fa-magnifying-glass-minus"
+                                        aria-hidden="true"
+                                    ></i>
                                 </button>
                                 <button
                                     class="image-viewer-action image-viewer-action-reset"
@@ -1692,7 +1695,10 @@
                                         adjustZoom(0.22);
                                     }}
                                 >
-                                    <i class="fa-solid fa-magnifying-glass-plus" aria-hidden="true"></i>
+                                    <i
+                                        class="fa-solid fa-magnifying-glass-plus"
+                                        aria-hidden="true"
+                                    ></i>
                                 </button>
                             </div>
 
