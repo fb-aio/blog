@@ -36,14 +36,7 @@
         <script src="https://unpkg.com/preact@10.19.6/hooks/dist/hooks.umd.js"></script>
         <script src="https://unpkg.com/htm@3.1.1/dist/htm.umd.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-        <script>
-            var h = preact.h;
-            var html = htm.bind(h);
-            var hooks = preactHooks;
-            var render = preact.render;
-        </script>
-
-        <script src="https://cdn.tailwindcss.com"></script>
+                <script src="https://cdn.tailwindcss.com"></script>
         <script>
             tailwind.config = {
                 darkMode: 'class',
@@ -65,6 +58,6 @@
     <body>
         <div id="root"></div>
 
-        <script src="./index.js"></script>
+        <script type="module" src="./src/main.js"></script>
     </body>
 </html>

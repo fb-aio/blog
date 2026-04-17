@@ -150,6 +150,17 @@ body::after {
     font-size: 0.98rem;
 }
 
+.hero-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.85rem;
+    margin-top: 1.35rem;
+}
+
+.hero-link-button {
+    min-height: 3rem;
+}
+
 .stat-card {
     display: flex;
     flex-direction: column;
@@ -221,6 +232,119 @@ body::after {
 
 .chip-muted {
     color: var(--muted);
+}
+
+.contact-hero {
+    position: relative;
+    overflow: hidden;
+}
+
+.contact-hero-grid {
+    display: grid;
+    gap: 1.25rem;
+}
+
+.contact-hero-note {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.65rem;
+    align-content: start;
+}
+
+.contact-hero-note .chip-muted {
+    color: var(--text);
+    font-weight: 600;
+    border-color: var(--line-strong);
+    background: color-mix(in srgb, var(--surface-strong) 82%, white 18%);
+}
+
+.dark .contact-hero-note .chip-muted {
+    background: color-mix(in srgb, var(--surface-strong) 84%, white 16%);
+}
+
+.contact-sections {
+    display: grid;
+    gap: 1rem;
+}
+
+.contact-section-card {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.contact-link-list {
+    display: grid;
+    gap: 0.85rem;
+}
+
+.contact-link-card {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr) auto;
+    gap: 0.95rem;
+    align-items: center;
+    padding: 1rem 1.05rem;
+    border-radius: 1.1rem;
+    border: 1px solid var(--line);
+    background: var(--surface-soft);
+    color: var(--text);
+    text-decoration: none;
+    transition:
+        transform 160ms ease,
+        border-color 160ms ease,
+        background-color 160ms ease,
+        box-shadow 160ms ease;
+}
+
+.contact-link-card:hover {
+    transform: translateY(-1px);
+    border-color: var(--line-strong);
+    background: color-mix(in srgb, var(--surface-soft) 85%, white 15%);
+    box-shadow: 0 18px 44px rgba(23, 32, 51, 0.1);
+}
+
+.dark .contact-link-card:hover {
+    background: color-mix(in srgb, var(--surface-soft) 88%, white 12%);
+}
+
+.contact-link-icon,
+.contact-link-arrow {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact-link-icon {
+    width: 2.8rem;
+    height: 2.8rem;
+    border-radius: 999px;
+    border: 1px solid var(--line);
+    background: var(--surface-strong);
+    color: var(--accent);
+    font-size: 1rem;
+}
+
+.contact-link-copy {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    min-width: 0;
+}
+
+.contact-link-copy strong {
+    font-size: 0.98rem;
+    line-height: 1.2;
+}
+
+.contact-link-copy span {
+    color: var(--muted);
+    font-size: 0.9rem;
+    line-height: 1.45;
+}
+
+.contact-link-arrow {
+    color: var(--muted);
+    font-size: 0.9rem;
 }
 
 .filter-dock {
@@ -537,6 +661,10 @@ body::after {
     height: 100%;
     object-fit: cover;
     display: block;
+}
+
+.detail-media video {
+    object-fit: contain;
 }
 
 .card-media::after {
@@ -1217,6 +1345,15 @@ mark {
 }
 
 @media (min-width: 1024px) {
+    .contact-hero-grid {
+        grid-template-columns: minmax(0, 1.45fr) minmax(220px, 0.7fr);
+        align-items: start;
+    }
+
+    .contact-sections {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
     .detail-shell {
         grid-template-columns: minmax(0, 1fr) 300px;
         align-items: start;
@@ -1229,6 +1366,23 @@ mark {
 }
 
 @media (max-width: 767px) {
+    .hero-actions {
+        flex-direction: column;
+    }
+
+    .hero-link-button {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .contact-link-card {
+        grid-template-columns: auto minmax(0, 1fr);
+    }
+
+    .contact-link-arrow {
+        display: none;
+    }
+
     .glass-panel {
         -webkit-backdrop-filter: none;
         backdrop-filter: none;
