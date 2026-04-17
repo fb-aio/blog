@@ -2,8 +2,8 @@
     color-scheme: light;
     --bg-top: #fffaf2;
     --bg-bottom: #f5ecdf;
-    --surface: rgba(255, 250, 242, 0.82);
-    --surface-strong: rgba(255, 255, 255, 0.94);
+    --surface: rgba(255, 250, 242, 1);
+    --surface-strong: rgba(255, 255, 255, 1);
     --surface-soft: rgba(255, 244, 230, 0.7);
     --line: rgba(23, 32, 51, 0.1);
     --line-strong: rgba(23, 32, 51, 0.16);
@@ -20,8 +20,8 @@
     color-scheme: dark;
     --bg-top: #0f1729;
     --bg-bottom: #111826;
-    --surface: rgba(16, 24, 38, 0.82);
-    --surface-strong: rgba(17, 24, 39, 0.92);
+    --surface: rgba(16, 24, 38, 1);
+    --surface-strong: rgba(17, 24, 39, 1);
     --surface-soft: rgba(22, 34, 54, 0.7);
     --line: rgba(226, 232, 240, 0.1);
     --line-strong: rgba(226, 232, 240, 0.14);
@@ -60,9 +60,9 @@ body::before {
     inset: 0;
     z-index: -2;
     pointer-events: none;
-    background:
+    /* background:
         radial-gradient(circle at top left, rgba(255, 255, 255, 0.55), transparent 36%),
-        radial-gradient(circle at bottom right, rgba(15, 118, 110, 0.1), transparent 28%);
+        radial-gradient(circle at bottom right, rgba(15, 118, 110, 0.1), transparent 28%); */
     opacity: 0.9;
 }
 
@@ -98,7 +98,7 @@ body::after {
     background: var(--surface);
     border: 1px solid var(--line);
     box-shadow: var(--shadow);
-    backdrop-filter: blur(18px);
+    /* backdrop-filter: blur(18px); */
 }
 
 .panel-strong {
@@ -225,21 +225,19 @@ body::after {
 
 .filter-dock {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     position: relative;
     min-height: 3rem;
 }
 
 .filter-stack {
-    position: relative;
-    z-index: 30;
+    position: sticky;
+    top: calc(env(safe-area-inset-top, 0px) + 0.75rem);
+    z-index: 40;
 }
 
 .filter-floating-shell {
-    position: fixed;
-    left: 0;
-    right: 0;
-    z-index: 40;
+    position: relative;
     pointer-events: none;
 }
 
@@ -269,6 +267,11 @@ body::after {
 }
 
 .filter-floating-card-hidden {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
     opacity: 0;
     transform: translateY(-10px) scale(0.94);
     filter: blur(4px);
@@ -289,21 +292,14 @@ body::after {
 }
 
 .filter-summary-shell {
-    padding-top: 2rem;
-    /* min-height: 7.5rem; */
-    padding-bottom: 2rem;
+    padding-top: 0.75rem;
+    padding-bottom: 0.35rem;
 }
 
 .filter-summary-content {
     transition:
         opacity 180ms ease,
         transform 220ms ease;
-}
-
-.filter-summary-hidden {
-    opacity: 0;
-    transform: translateY(-10px);
-    pointer-events: none;
 }
 
 .search-shell {
@@ -387,26 +383,36 @@ body::after {
 .filter-collapsed-button {
     position: absolute;
     top: 0;
+    left: 0;
     right: 0;
-    width: 2.7rem;
-    height: 2.7rem;
+    margin: 0 auto;
+    width: min(100%, 300px);
+    min-height: 2.7rem;
+    padding: 0.6rem 0.95rem;
     border-radius: 999px;
     border: 1px solid var(--line);
     display: inline-flex;
     align-items: center;
+    gap: 0.5rem;
     justify-content: center;
     color: var(--text);
     background: var(--surface);
-    transform-origin: top right;
+    transform-origin: top center;
     transition:
         opacity 220ms ease,
         transform 260ms cubic-bezier(0.22, 1, 0.36, 1),
         box-shadow 220ms ease;
 }
 
+.filter-collapsed-label {
+    font-size: 0.86rem;
+    font-weight: 600;
+    line-height: 1;
+}
+
 .filter-collapsed-button-hidden {
     opacity: 0;
-    transform: translateY(-8px) scale(0.78);
+    transform: translateY(-8px) scale(0.9);
     pointer-events: none;
 }
 
@@ -423,7 +429,9 @@ body::after {
 .filter-panel-popover {
     position: absolute;
     top: calc(100% + 0.7rem);
+    left: 0;
     right: 0;
+    margin: 0 auto;
     width: min(100%, 42rem);
     padding: 0.78rem;
     border-radius: 1.15rem;
@@ -677,6 +685,38 @@ body::after {
 
 .detail-topbar {
     padding-top: 1rem;
+}
+
+.detail-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 95;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    background-color: var(--surface-strong);
+    background: linear-gradient(
+        180deg,
+        color-mix(in srgb, var(--bg-top) 94%, white 6%) 0%,
+        color-mix(in srgb, var(--bg-bottom) 96%, black 4%) 100%
+    );
+}
+
+.detail-overlay-inner {
+    min-height: 100%;
+    padding-bottom: 2rem;
+}
+
+.detail-overlay .detail-topbar {
+    position: sticky;
+    top: 0;
+    z-index: 6;
+    padding-top: calc(env(safe-area-inset-top, 0px) + 0.7rem);
+    padding-bottom: 0.4rem;
+    background: linear-gradient(
+        to bottom,
+        color-mix(in srgb, var(--bg-top) 94%, white 6%) 70%,
+        transparent
+    );
 }
 
 .detail-topbar-shell {
@@ -1184,11 +1224,27 @@ mark {
 
     .detail-side {
         position: sticky;
-        top: 1.5rem;
+        top: 5.5rem;
     }
 }
 
 @media (max-width: 767px) {
+    .glass-panel {
+        -webkit-backdrop-filter: none;
+        backdrop-filter: none;
+    }
+
+    .post-card {
+        animation: none;
+    }
+
+    .scroll-top-button,
+    .image-viewer-backdrop,
+    .image-viewer-shell {
+        -webkit-backdrop-filter: none;
+        backdrop-filter: none;
+    }
+
     .scroll-top-button {
         right: 0.9rem;
         bottom: 0.9rem;
@@ -1200,9 +1256,14 @@ mark {
         width: 100%;
     }
 
+    .filter-collapsed-button {
+        width: 100%;
+        max-width: none;
+    }
+
     .filter-summary-shell {
-        /* padding-top: 5.2rem; */
-        /* min-height: 8.25rem; */
+        padding-top: 0.55rem;
+        padding-bottom: 0.2rem;
     }
 
     .filter-toolbar {
@@ -1214,14 +1275,52 @@ mark {
     }
 
     .detail-topbar-shell {
-        grid-template-columns: 1fr auto;
+        grid-template-columns: auto minmax(0, 1fr) auto;
+        gap: 0.45rem;
     }
 
     .detail-brand {
-        grid-column: 1 / -1;
-        justify-content: flex-start;
-        order: -1;
-        padding-bottom: 0.05rem;
+        grid-column: auto;
+        order: 0;
+        justify-content: center;
+        padding: 0 0.2rem;
+        min-width: 0;
+    }
+
+    .detail-brand-logo {
+        width: 1.7rem;
+        height: 1.7rem;
+        border-radius: 0.58rem;
+    }
+
+    .detail-brand-copy {
+        min-width: 0;
+    }
+
+    .detail-brand-copy strong {
+        font-size: 0.84rem;
+        line-height: 1.2;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .detail-brand-copy span {
+        display: none;
+    }
+
+    .detail-topbar-shell > .pill-button span,
+    .detail-topbar-shell > .theme-toggle span {
+        display: none;
+    }
+
+    .detail-topbar-shell > .pill-button,
+    .detail-topbar-shell > .theme-toggle {
+        width: 2.35rem;
+        height: 2.35rem;
+        padding: 0;
+        justify-content: center;
+        gap: 0;
     }
 
     .image-viewer {

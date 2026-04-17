@@ -2,6 +2,7 @@
     'use strict';
 
     var useEffect = hooks.useEffect;
+    var useMemo = hooks.useMemo;
     var useRef = hooks.useRef;
     var useState = hooks.useState;
 
@@ -12,8 +13,10 @@
     var IMAGE_EXTENSIONS = ['jpg', 'png', 'jpeg', 'webp'];
     var IMAGE_VIEWER_MIN_SCALE = 1;
     var IMAGE_VIEWER_MAX_SCALE = 4;
+    var SNAPSHOT_SCROLL_THROTTLE_MS = 200;
 
     var ALL_POSTS = [];
+    var POSTS_BY_ID = {};
     var POSTS_LOADED = false;
     var POSTS_ERROR = null;
     var LATEST_POST_TS = 0;
@@ -381,6 +384,22 @@
         }
     }
 
+    function buildSnapshotFromGridParams(params, visibleCount, scrollY) {
+        var normalized = normalizeGridParams(params || {});
+        return {
+            q: normalized.q,
+            sort: normalized.sort,
+            from: normalized.from,
+            to: normalized.to,
+            hasImage: normalized.hasImage,
+            hasVideo: normalized.hasVideo,
+            visibleCount: Math.max(Number(visibleCount || 0), GRID_BATCH_SIZE),
+            scrollY: scrollY !== undefined ? scrollY : window.scrollY,
+            hash: buildGridHash(normalized),
+            updatedAt: Date.now()
+        };
+    }
+
     function buildSnapshotFromState(state, overrides) {
         var params = normalizeGridParams({
             q: overrides && overrides.q !== undefined ? overrides.q : state.q,
@@ -393,22 +412,13 @@
                 overrides && overrides.hasVideo !== undefined ? overrides.hasVideo : state.hasVideo
         });
 
-        return {
-            q: params.q,
-            sort: params.sort,
-            from: params.from,
-            to: params.to,
-            hasImage: params.hasImage,
-            hasVideo: params.hasVideo,
-            visibleCount:
-                overrides && overrides.visibleCount !== undefined
-                    ? overrides.visibleCount
-                    : state.visibleCount,
-            scrollY:
-                overrides && overrides.scrollY !== undefined ? overrides.scrollY : window.scrollY,
-            hash: buildGridHash(params),
-            updatedAt: Date.now()
-        };
+        return buildSnapshotFromGridParams(
+            params,
+            overrides && overrides.visibleCount !== undefined
+                ? overrides.visibleCount
+                : state.visibleCount,
+            overrides && overrides.scrollY !== undefined ? overrides.scrollY : window.scrollY
+        );
     }
 
     function markdownToPlainText(text) {
@@ -451,40 +461,71 @@
         return escapeHtml(text).replace(/\n/g, '<br>');
     }
 
-    function scorePostForQuery(post, query) {
-        if (!query) return 0;
-
-        var haystack = normalizeSearchText(
-            [
-                post.title || '',
-                post.message || '',
-                post.summary || '',
-                post.content_text || ''
-            ].join(' \n ')
+    function buildPostSearchHaystack(post) {
+        return normalizeSearchText(
+            [post.title || '', post.message || '', post.summary || '', post.content_text || ''].join(
+                ' \n '
+            )
         );
+    }
 
+    function getPostSearchHaystack(post) {
+        if (post._searchHaystack !== undefined) return post._searchHaystack;
+        post._searchHaystack = buildPostSearchHaystack(post);
+        return post._searchHaystack;
+    }
+
+    function getPostTitleSearchText(post) {
+        if (post._titleSearchText !== undefined) return post._titleSearchText;
+        post._titleSearchText = normalizeSearchText(post.title || '');
+        return post._titleSearchText;
+    }
+
+    function getPostSummarySearchText(post) {
+        if (post._summarySearchText !== undefined) return post._summarySearchText;
+        post._summarySearchText = normalizeSearchText(post.summary || '');
+        return post._summarySearchText;
+    }
+
+    function getPostMessageSearchText(post) {
+        if (post._messageSearchText !== undefined) return post._messageSearchText;
+        post._messageSearchText = normalizeSearchText(post.message || '');
+        return post._messageSearchText;
+    }
+
+    function createQueryScorer(query) {
         var target = normalizeSearchText(query).trim();
-        if (!target) return 0;
+        if (!target) return null;
+        var matcher = new RegExp(target.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'g');
 
-        var matches = haystack.match(
-            new RegExp(target.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'g')
-        );
-        var count = matches ? matches.length : 0;
-        var bonus = 0;
+        return function (post) {
+            var scoreCache = post._queryScoreCache || (post._queryScoreCache = {});
+            if (scoreCache[target] !== undefined) return scoreCache[target];
 
-        if (normalizeSearchText(post.title || '').indexOf(target) !== -1) bonus += 5;
-        if (normalizeSearchText(post.summary || '').indexOf(target) !== -1) bonus += 3;
-        if (normalizeSearchText(post.message || '').indexOf(target) !== -1) bonus += 2;
+            var haystack = getPostSearchHaystack(post);
+            var matches = haystack.match(matcher);
+            var count = matches ? matches.length : 0;
+            var bonus = 0;
 
-        return count + bonus;
+            if (getPostTitleSearchText(post).indexOf(target) !== -1) bonus += 5;
+            if (getPostSummarySearchText(post).indexOf(target) !== -1) bonus += 3;
+            if (getPostMessageSearchText(post).indexOf(target) !== -1) bonus += 2;
+
+            scoreCache[target] = count + bonus;
+            return scoreCache[target];
+        };
     }
 
     function postHasImage(post) {
-        return String(post.attachments || '').indexOf('Photo:') !== -1;
+        if (post._hasImage !== undefined) return post._hasImage;
+        post._hasImage = String(post.attachments || '').indexOf('Photo:') !== -1;
+        return post._hasImage;
     }
 
     function postHasVideo(post) {
-        return String(post.attachments || '').indexOf('Video:') !== -1;
+        if (post._hasVideo !== undefined) return post._hasVideo;
+        post._hasVideo = String(post.attachments || '').indexOf('Video:') !== -1;
+        return post._hasVideo;
     }
 
     function filterPosts(posts, q, dateFrom, dateTo, hasImage, hasVideo) {
@@ -501,16 +542,7 @@
 
             if (!normalizedQuery) return true;
 
-            var haystack = normalizeSearchText(
-                [
-                    post.title || '',
-                    post.message || '',
-                    post.summary || '',
-                    post.content_text || ''
-                ].join(' \n ')
-            );
-
-            return haystack.indexOf(normalizedQuery) !== -1;
+            return getPostSearchHaystack(post).indexOf(normalizedQuery) !== -1;
         });
     }
 
@@ -522,8 +554,15 @@
         }
 
         if (sort === 'relevance' && q) {
+            var scoreForPost = createQueryScorer(q);
+            if (!scoreForPost) {
+                return posts.slice().sort(function (a, b) {
+                    return Number(b.creation_time) - Number(a.creation_time);
+                });
+            }
+
             return posts.slice().sort(function (a, b) {
-                var scoreDelta = scorePostForQuery(b, q) - scorePostForQuery(a, q);
+                var scoreDelta = scoreForPost(b) - scoreForPost(a);
                 if (scoreDelta !== 0) return scoreDelta;
                 return Number(b.creation_time) - Number(a.creation_time);
             });
@@ -541,6 +580,8 @@
     }
 
     function getPostCopy(post) {
+        if (post._copy) return post._copy;
+
         var primarySource = post.content_text || post.message || post.summary || post.title || '';
         var titleSource =
             markdownToTitleText(primarySource) || markdownToTitleText(post.title || '');
@@ -554,10 +595,11 @@
             ].join(' ')
         );
         if (!source) {
-            return {
+            post._copy = {
                 title: 'Untitled',
                 excerpt: 'Không có mô tả ngắn cho bài viết này.'
             };
+            return post._copy;
         }
 
         var title = truncateTitle(titleSource || source, 72) || truncate(source, 72) || 'Untitled';
@@ -577,10 +619,11 @@
             );
         }
 
-        return {
+        post._copy = {
             title: title,
             excerpt: excerpt
         };
+        return post._copy;
     }
 
     function getPostTitle(post) {
@@ -592,8 +635,10 @@
     }
 
     function allMedia(post) {
+        if (post._mediaList) return post._mediaList;
+
         var seen = new Set();
-        return String(post.attachments || '')
+        post._mediaList = String(post.attachments || '')
             .split(',')
             .map(function (token) {
                 return token.trim();
@@ -620,16 +665,24 @@
                     url: candidates[0]
                 };
             });
+        return post._mediaList;
     }
 
     function mediaUrl(post) {
+        if (post._cover !== undefined) return post._cover;
         var media = allMedia(post);
-        return media.length > 0 ? media[0] : null;
+        post._cover = media.length > 0 ? media[0] : null;
+        return post._cover;
     }
 
     function mediaSummary(post) {
+        if (post._mediaSummary !== undefined) return post._mediaSummary;
+
         var media = allMedia(post);
-        if (media.length === 0) return null;
+        if (media.length === 0) {
+            post._mediaSummary = null;
+            return post._mediaSummary;
+        }
 
         var photos = media.filter(function (item) {
             return item.type !== 'Video';
@@ -642,10 +695,25 @@
         if (photos) parts.push(photos + ' ảnh');
         if (videos) parts.push(videos + ' video');
 
-        return {
+        post._mediaSummary = {
             total: media.length,
             label: parts.join(' • ')
         };
+        return post._mediaSummary;
+    }
+
+    function enrichPost(post) {
+        if (!post) return post;
+        postHasImage(post);
+        postHasVideo(post);
+        getPostSearchHaystack(post);
+        getPostTitleSearchText(post);
+        getPostSummarySearchText(post);
+        getPostMessageSearchText(post);
+        getPostCopy(post);
+        mediaSummary(post);
+        mediaUrl(post);
+        return post;
     }
 
     function handleImageFallback(event, candidates) {
@@ -819,10 +887,6 @@
         );
         var filtersOpen = _open[0];
         var setFiltersOpen = _open[1];
-        var _floatingTop = useState(12);
-        var floatingTop = _floatingTop[0];
-        var setFloatingTop = _floatingTop[1];
-        var floatingTopRef = useRef(12);
         var canUseRelevance = !!props.q;
 
         useEffect(
@@ -846,31 +910,6 @@
             },
             [props.dateFrom, props.dateTo, props.sort, props.hasImage, props.hasVideo]
         );
-
-        useEffect(function () {
-            function updateFloatingTop() {
-                var hero = document.querySelector('.hero-shell');
-                var nextTop = 12;
-
-                if (hero) {
-                    var rect = hero.getBoundingClientRect();
-                    nextTop = Math.max(12, Math.round(rect.bottom + 12));
-                }
-
-                if (floatingTopRef.current === nextTop) return;
-                floatingTopRef.current = nextTop;
-                setFloatingTop(nextTop);
-            }
-
-            updateFloatingTop();
-            window.addEventListener('scroll', updateFloatingTop, { passive: true });
-            window.addEventListener('resize', updateFloatingTop);
-
-            return function () {
-                window.removeEventListener('scroll', updateFloatingTop);
-                window.removeEventListener('resize', updateFloatingTop);
-            };
-        }, []);
 
         useEffect(
             function () {
@@ -922,14 +961,13 @@
             (filtersOpen && !filtersCollapsed
                 ? 'filter-panel-popover-open'
                 : 'filter-panel-popover-closed');
-        var summaryContentClass =
-            'filter-summary-content mt-2 flex flex-col lg:flex-row lg:items-center lg:justify-between ' +
-            (filtersOpen && !filtersCollapsed ? 'filter-summary-hidden' : '');
+        var hasActiveChips = chips.length > 0;
+        var showSummaryChips = hasActiveChips && !filtersCollapsed && !filtersOpen;
 
         return html`
             <div class="filter-stack">
-                <section class="filter-floating-shell" style=${{ top: floatingTop + 'px' }}>
-                    <div class="max-w-7xl mx-auto px-4">
+                <section class="filter-floating-shell">
+                    <div class="max-w-7xl mx-auto">
                         <div class="filter-dock">
                             <button
                                 class=${collapsedButtonClass}
@@ -939,6 +977,7 @@
                                 }}
                             >
                                 <i class="fa-solid fa-magnifying-glass" aria-hidden="true"></i>
+                                <span class="filter-collapsed-label">Tìm kiếm bài viết</span>
                             </button>
 
                             <div class=${filterCardClass}>
@@ -1011,6 +1050,26 @@
                                         <span>bài viết.</span>
                                     </p>
                                 </div>
+
+                                ${showSummaryChips
+                                    ? html` <div class="filter-summary-shell">
+                                          <div class="filter-summary-content mt-2">
+                                              <div class="flex flex-wrap gap-2">
+                                                  ${chips}
+                                                  <button
+                                                      class="chip chip-action"
+                                                      onClick=${props.onClear}
+                                                  >
+                                                      <i
+                                                          class="fa-solid fa-rotate-left text-[0.76rem]"
+                                                          aria-hidden="true"
+                                                      ></i>
+                                                      <span>Reset</span>
+                                                  </button>
+                                              </div>
+                                          </div>
+                                      </div>`
+                                    : ''}
 
                                 <div
                                     class=${filterPanelPopoverClass}
@@ -1114,31 +1173,6 @@
                         </div>
                     </div>
                 </section>
-
-                <div class="filter-summary-shell">
-                    <div class=${summaryContentClass}>
-                        <div class="flex flex-wrap gap-2">
-                            ${chips.length ? chips : ''}
-                            ${chips.length
-                                ? html`<button class="chip chip-action" onClick=${props.onClear}>
-                                      <i
-                                          class="fa-solid fa-rotate-left text-[0.76rem]"
-                                          aria-hidden="true"
-                                      ></i>
-                                      <span>Reset</span>
-                                  </button>`
-                                : ''}
-                        </div>
-
-                        <p class="result-summary m-0" aria-live="polite">
-                            <span>Tìm thấy</span>
-                            <strong>${formatNumber(props.filteredCount)}</strong>
-                            <span>/</span>
-                            <strong>${formatNumber(props.totalCount)}</strong>
-                            <span>bài viết.</span>
-                        </p>
-                    </div>
-                </div>
             </div>
         `;
     }
@@ -1151,6 +1185,18 @@
         var copy = getPostCopy(post);
         var title = copy.title;
         var excerpt = copy.excerpt;
+        var highlightedTitleHtml = useMemo(
+            function () {
+                return highlightText(title, props.mark);
+            },
+            [title, props.mark]
+        );
+        var highlightedExcerptHtml = useMemo(
+            function () {
+                return highlightText(excerpt, props.mark);
+            },
+            [excerpt, props.mark]
+        );
 
         useEffect(
             function () {
@@ -1210,12 +1256,12 @@
                 <div class="p-4 flex flex-col gap-3">
                     <h3
                         class="card-title clamp-2"
-                        dangerouslySetInnerHTML=${{ __html: highlightText(title, props.mark) }}
+                        dangerouslySetInnerHTML=${{ __html: highlightedTitleHtml }}
                     ></h3>
 
                     <p
                         class="card-excerpt clamp-4 m-0"
-                        dangerouslySetInnerHTML=${{ __html: highlightText(excerpt, props.mark) }}
+                        dangerouslySetInnerHTML=${{ __html: highlightedExcerptHtml }}
                     ></p>
                 </div>
             </article>
@@ -1966,6 +2012,15 @@
         var initialGridHash = buildGridHash(initialGridParams);
         var canRestoreInitialScroll =
             route.view === 'grid' && storedSnapshot && storedSnapshot.hash === initialGridHash;
+        var hasPostMap = ALL_POSTS.length ? POSTS_BY_ID[ALL_POSTS[0].post_id] : null;
+        if (POSTS_LOADED && ALL_POSTS.length && !hasPostMap) {
+            POSTS_BY_ID = {};
+            ALL_POSTS = ALL_POSTS.map(function (post) {
+                var enriched = enrichPost(post);
+                POSTS_BY_ID[enriched.post_id] = enriched;
+                return enriched;
+            });
+        }
 
         var _state = useState({
             view: route.view,
@@ -1991,9 +2046,22 @@
         var setState = _state[1];
         var loadMoreRef = useRef(null);
         var resultsSectionRef = useRef(null);
+        var snapshotParamsRef = useRef({
+            q: initialGridParams.q,
+            sort: initialGridParams.sort,
+            from: initialGridParams.from,
+            to: initialGridParams.to,
+            hasImage: initialGridParams.hasImage,
+            hasVideo: initialGridParams.hasVideo,
+            visibleCount: canRestoreInitialScroll
+                ? Math.max(Number(storedSnapshot.visibleCount) || GRID_BATCH_SIZE, GRID_BATCH_SIZE)
+                : GRID_BATCH_SIZE
+        });
+        var snapshotWriteTimerRef = useRef(null);
         var _showScrollTop = useState(false);
         var showScrollTop = _showScrollTop[0];
         var setShowScrollTop = _showScrollTop[1];
+        var showScrollTopRef = useRef(false);
         var _imageViewer = useState({
             items: [],
             index: 0,
@@ -2022,7 +2090,12 @@
                 })
                 .then(function (text) {
                     if (cancelled) return;
-                    ALL_POSTS = parsePostsCSV(text);
+                    POSTS_BY_ID = {};
+                    ALL_POSTS = parsePostsCSV(text).map(function (post) {
+                        var enriched = enrichPost(post);
+                        POSTS_BY_ID[enriched.post_id] = enriched;
+                        return enriched;
+                    });
                     POSTS_LOADED = true;
                     LATEST_POST_TS = ALL_POSTS.reduce(function (latest, post) {
                         return Math.max(latest, Number(post.creation_time || 0));
@@ -2068,9 +2141,12 @@
                 var snapshot = readGridSnapshot();
                 var nextParams = normalizeGridParams(nextRoute.params || {});
                 var nextHash = buildGridHash(nextParams);
-                var shouldRestore = snapshot && snapshot.hash === nextHash;
 
                 setState(function (current) {
+                    var returningFromDetail = current.view === 'detail';
+                    var shouldRestore =
+                        !returningFromDetail && snapshot && snapshot.hash === nextHash;
+
                     return Object.assign({}, current, {
                         view: 'grid',
                         postId: null,
@@ -2080,13 +2156,15 @@
                         dateTo: nextParams.to,
                         hasImage: nextParams.hasImage,
                         hasVideo: nextParams.hasVideo,
-                        visibleCount: shouldRestore
-                            ? Math.max(
-                                  Number(snapshot.visibleCount) || GRID_BATCH_SIZE,
-                                  GRID_BATCH_SIZE
-                              )
-                            : GRID_BATCH_SIZE,
-                        pendingScrollRestore: !!shouldRestore,
+                        visibleCount: returningFromDetail
+                            ? current.visibleCount
+                            : shouldRestore
+                              ? Math.max(
+                                    Number(snapshot.visibleCount) || GRID_BATCH_SIZE,
+                                    GRID_BATCH_SIZE
+                                )
+                              : GRID_BATCH_SIZE,
+                        pendingScrollRestore: returningFromDetail ? false : !!shouldRestore,
                         lastGridHash: nextHash
                     });
                 });
@@ -2101,9 +2179,14 @@
         useEffect(
             function () {
                 if (state.view !== 'detail') return;
-                window.scrollTo(0, 0);
+                var originalOverflow = document.body.style.overflow;
+                document.body.style.overflow = 'hidden';
+
+                return function () {
+                    document.body.style.overflow = originalOverflow;
+                };
             },
-            [state.view, state.postId]
+            [state.view]
         );
 
         useEffect(
@@ -2202,27 +2285,25 @@
 
         useEffect(
             function () {
+                snapshotParamsRef.current = {
+                    q: state.q,
+                    sort: state.sort,
+                    from: state.dateFrom,
+                    to: state.dateTo,
+                    hasImage: state.hasImage,
+                    hasVideo: state.hasVideo,
+                    visibleCount: state.visibleCount
+                };
+
                 if (state.view !== 'grid') return;
 
-                writeGridSnapshot(buildSnapshotFromState(state));
-
-                var ticking = false;
-                function onScroll() {
-                    if (ticking) return;
-                    ticking = true;
-
-                    window.requestAnimationFrame(function () {
-                        ticking = false;
-                        writeGridSnapshot(
-                            buildSnapshotFromState(state, { scrollY: window.scrollY })
-                        );
-                    });
-                }
-
-                window.addEventListener('scroll', onScroll, { passive: true });
-                return function () {
-                    window.removeEventListener('scroll', onScroll);
-                };
+                writeGridSnapshot(
+                    buildSnapshotFromGridParams(
+                        snapshotParamsRef.current,
+                        snapshotParamsRef.current.visibleCount,
+                        window.scrollY
+                    )
+                );
             },
             [
                 state.view,
@@ -2238,13 +2319,75 @@
 
         useEffect(
             function () {
+                if (state.view !== 'grid') return;
+
+                function flushSnapshot() {
+                    snapshotWriteTimerRef.current = null;
+                    var params = snapshotParamsRef.current;
+                    writeGridSnapshot(
+                        buildSnapshotFromGridParams(params, params.visibleCount, window.scrollY)
+                    );
+                }
+
+                function scheduleSnapshotWrite() {
+                    if (snapshotWriteTimerRef.current !== null) return;
+                    snapshotWriteTimerRef.current = window.setTimeout(
+                        flushSnapshot,
+                        SNAPSHOT_SCROLL_THROTTLE_MS
+                    );
+                }
+
+                function flushSnapshotImmediately() {
+                    if (snapshotWriteTimerRef.current !== null) {
+                        window.clearTimeout(snapshotWriteTimerRef.current);
+                        snapshotWriteTimerRef.current = null;
+                    }
+                    flushSnapshot();
+                }
+
+                function onScroll() {
+                    scheduleSnapshotWrite();
+                }
+
+                function onVisibilityChange() {
+                    if (document.visibilityState !== 'hidden') return;
+                    flushSnapshotImmediately();
+                }
+
+                window.addEventListener('scroll', onScroll, { passive: true });
+                window.addEventListener('pagehide', flushSnapshotImmediately);
+                document.addEventListener('visibilitychange', onVisibilityChange);
+
+                return function () {
+                    window.removeEventListener('scroll', onScroll);
+                    window.removeEventListener('pagehide', flushSnapshotImmediately);
+                    document.removeEventListener('visibilitychange', onVisibilityChange);
+                    flushSnapshotImmediately();
+                };
+            },
+            [state.view]
+        );
+
+        useEffect(
+            function () {
+                showScrollTopRef.current = showScrollTop;
+            },
+            [showScrollTop]
+        );
+
+        useEffect(
+            function () {
                 if (state.view !== 'grid') {
+                    showScrollTopRef.current = false;
                     setShowScrollTop(false);
                     return;
                 }
 
                 function updateScrollTopVisibility() {
-                    setShowScrollTop(window.scrollY > 960);
+                    var nextVisible = window.scrollY > 960;
+                    if (nextVisible === showScrollTopRef.current) return;
+                    showScrollTopRef.current = nextVisible;
+                    setShowScrollTop(nextVisible);
                 }
 
                 updateScrollTopVisibility();
@@ -2257,30 +2400,50 @@
             [state.view]
         );
 
-        var filteredPosts = state.gridLoaded
-            ? sortPosts(
-                  filterPosts(
-                      ALL_POSTS,
-                      state.q,
-                      state.dateFrom,
-                      state.dateTo,
-                      state.hasImage,
-                      state.hasVideo
-                  ),
-                  state.sort,
-                  state.q
-              )
-            : [];
+        var filteredPosts = useMemo(
+            function () {
+                if (!state.gridLoaded) return [];
+                return sortPosts(
+                    filterPosts(
+                        ALL_POSTS,
+                        state.q,
+                        state.dateFrom,
+                        state.dateTo,
+                        state.hasImage,
+                        state.hasVideo
+                    ),
+                    state.sort,
+                    state.q
+                );
+            },
+            [
+                state.gridLoaded,
+                state.q,
+                state.sort,
+                state.dateFrom,
+                state.dateTo,
+                state.hasImage,
+                state.hasVideo
+            ]
+        );
 
         var filteredCount = filteredPosts.length;
-        var visiblePosts = filteredPosts.slice(0, state.visibleCount);
+        var visiblePosts = useMemo(
+            function () {
+                return filteredPosts.slice(0, state.visibleCount);
+            },
+            [filteredPosts, state.visibleCount]
+        );
         var shownCount = visiblePosts.length;
         var hasMore = shownCount < filteredCount;
-        var currentPost = state.gridLoaded
-            ? ALL_POSTS.find(function (post) {
-                  return post.post_id === state.postId;
-              }) || null
-            : null;
+        var currentPost =
+            state.gridLoaded && state.postId
+                ? POSTS_BY_ID[state.postId] ||
+                  ALL_POSTS.find(function (post) {
+                      return post.post_id === state.postId;
+                  }) ||
+                  null
+                : null;
         useEffect(
             function () {
                 if (!hasMore || state.view !== 'grid' || !loadMoreRef.current) return;
@@ -2318,18 +2481,22 @@
                     ? options.visibleCount
                     : GRID_BATCH_SIZE;
 
-            writeGridSnapshot({
+            snapshotParamsRef.current = {
                 q: normalized.q,
                 sort: normalized.sort,
                 from: normalized.from,
                 to: normalized.to,
                 hasImage: normalized.hasImage,
                 hasVideo: normalized.hasVideo,
-                visibleCount: nextVisibleCount,
-                scrollY: shouldPreserveScroll ? window.scrollY : 0,
-                hash: nextHash,
-                updatedAt: Date.now()
-            });
+                visibleCount: nextVisibleCount
+            };
+            writeGridSnapshot(
+                buildSnapshotFromGridParams(
+                    snapshotParamsRef.current,
+                    nextVisibleCount,
+                    shouldPreserveScroll ? window.scrollY : 0
+                )
+            );
 
             setHash(nextHash, true);
             setState(function (current) {
@@ -2376,25 +2543,16 @@
         }
 
         function openPost(postId) {
-            var snapshot = writeGridSnapshot(
-                buildSnapshotFromState(state, {
-                    scrollY: window.scrollY,
-                    visibleCount: state.visibleCount
-                })
-            );
-
             setState(function (current) {
                 return Object.assign({}, current, {
-                    lastGridHash: snapshot
-                        ? snapshot.hash
-                        : buildGridHash({
-                              q: current.q,
-                              sort: current.sort,
-                              from: current.dateFrom,
-                              to: current.dateTo,
-                              hasImage: current.hasImage,
-                              hasVideo: current.hasVideo
-                          })
+                    lastGridHash: buildGridHash({
+                        q: current.q,
+                        sort: current.sort,
+                        from: current.dateFrom,
+                        to: current.dateTo,
+                        hasImage: current.hasImage,
+                        hasVideo: current.hasVideo
+                    })
                 });
             });
 
@@ -2402,19 +2560,16 @@
         }
 
         function goBackToGrid() {
-            var snapshot = readGridSnapshot();
             var targetHash =
-                snapshot && snapshot.hash
-                    ? snapshot.hash
-                    : state.lastGridHash ||
-                      buildGridHash({
-                          q: state.q,
-                          sort: state.sort,
-                          from: state.dateFrom,
-                          to: state.dateTo,
-                          hasImage: state.hasImage,
-                          hasVideo: state.hasVideo
-                      });
+                state.lastGridHash ||
+                buildGridHash({
+                    q: state.q,
+                    sort: state.sort,
+                    from: state.dateFrom,
+                    to: state.dateTo,
+                    hasImage: state.hasImage,
+                    hasVideo: state.hasVideo
+                });
 
             setHash(targetHash, false);
         }
@@ -2473,26 +2628,17 @@
 
         return html`
             <div class="min-h-screen">
-                ${state.view === 'grid'
-                    ? html` <${Header}
-                          totalCount=${state.gridLoaded ? ALL_POSTS.length : 0}
-                          latestTs=${LATEST_POST_TS}
-                          isDark=${state.themeMode === 'dark'}
-                          onToggleTheme=${toggleTheme}
-                          onHome=${function () {
-                              window.scrollTo({ top: 0, behavior: 'smooth' });
-                          }}
-                      />`
-                    : html` <${DetailTopbar}
-                          isDark=${state.themeMode === 'dark'}
-                          onBack=${goBackToGrid}
-                          onHome=${goBackToGrid}
-                          onToggleTheme=${toggleTheme}
-                      />`}
+                <${Header}
+                    totalCount=${state.gridLoaded ? ALL_POSTS.length : 0}
+                    latestTs=${LATEST_POST_TS}
+                    isDark=${state.themeMode === 'dark'}
+                    onToggleTheme=${toggleTheme}
+                    onHome=${function () {
+                        window.scrollTo({ top: 0, behavior: 'smooth' });
+                    }}
+                />
 
-                <main
-                    class="max-w-7xl mx-auto px-4 py-6 ${state.view === 'detail' ? 'hidden' : ''}"
-                >
+                <main class="max-w-7xl mx-auto px-4 py-6">
                     ${state.error
                         ? html` <div class="glass-panel rounded-[2rem] p-8 text-center">
                               <div class="eyebrow">Dataset Error</div>
@@ -2684,15 +2830,25 @@
                       </button>`
                     : ''}
 
-                <div class="${state.view === 'detail' ? '' : 'hidden'}">
-                    <${PostDetail}
-                        loading=${!state.gridLoaded && !state.error}
-                        post=${currentPost}
-                        postId=${state.postId}
-                        onBack=${goBackToGrid}
-                        onOpenImageViewer=${openImageViewer}
-                    />
-                </div>
+                ${state.view === 'detail'
+                    ? html` <div class="detail-overlay" role="dialog" aria-modal="true">
+                          <div class="detail-overlay-inner">
+                              <${DetailTopbar}
+                                  isDark=${state.themeMode === 'dark'}
+                                  onBack=${goBackToGrid}
+                                  onHome=${goBackToGrid}
+                                  onToggleTheme=${toggleTheme}
+                              />
+                              <${PostDetail}
+                                  loading=${!state.gridLoaded && !state.error}
+                                  post=${currentPost}
+                                  postId=${state.postId}
+                                  onBack=${goBackToGrid}
+                                  onOpenImageViewer=${openImageViewer}
+                              />
+                          </div>
+                      </div>`
+                    : ''}
 
                 <${ImageViewer}
                     open=${!!imageViewer.items.length}
