@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 
-import { buildGridHash, normalizeGridParams, parseHash } from '../src/utils/routing.js';
+import { buildGridHash, normalizeGridParams, parseHash, setHash } from '../src/utils/routing.js';
 
 test('normalizeGridParams coerces query and boolean flags', function () {
     assert.deepEqual(normalizeGridParams({ q: '  abc  ', hasImage: '1', hasVideo: 'true' }), {
@@ -53,4 +53,52 @@ test('parseHash handles grid search routes', function () {
         },
         rawHash: '#search?q=test&sort=oldest&img=1'
     });
+});
+
+test('setHash pushes history without writing location.hash directly', function () {
+    const previousLocation = globalThis.location;
+    const previousHistory = globalThis.history;
+    const previousWindow = globalThis.window;
+    const previousHashChangeEvent = globalThis.HashChangeEvent;
+
+    let pushedURL = null;
+    let dispatchedType = null;
+
+    globalThis.location = {
+        pathname: '/',
+        search: '',
+        href: 'https://blog.fbaio.org/#post/123'
+    };
+    globalThis.history = {
+        state: { ok: true },
+        pushState(state, title, url) {
+            pushedURL = url;
+            globalThis.location.href = 'https://blog.fbaio.org' + url;
+        },
+        replaceState() {}
+    };
+    globalThis.HashChangeEvent = class HashChangeEvent {
+        constructor(type, init) {
+            this.type = type;
+            this.oldURL = init.oldURL;
+            this.newURL = init.newURL;
+        }
+    };
+    globalThis.window = {
+        dispatchEvent(event) {
+            dispatchedType = event.type;
+        }
+    };
+
+    try {
+        setHash('#', false);
+        assert.equal(pushedURL, '/#');
+        assert.equal(dispatchedType, 'hashchange');
+        assert.equal(globalThis.location.href, 'https://blog.fbaio.org/#');
+    } finally {
+        globalThis.location = previousLocation;
+        globalThis.history = previousHistory;
+        globalThis.window = previousWindow;
+        globalThis.HashChangeEvent = previousHashChangeEvent;
+    }
 });

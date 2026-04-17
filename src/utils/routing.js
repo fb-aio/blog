@@ -72,10 +72,29 @@ export function parseHash(rawHash) {
 
 export function setHash(hash, replace) {
     const nextHash = hash || '#';
-    const url = globalThis.location.pathname + globalThis.location.search + nextHash;
+    const locationObject = globalThis.location;
+    const historyObject = globalThis.history;
+    const url = locationObject.pathname + locationObject.search + nextHash;
+
     if (replace) {
-        globalThis.history.replaceState(globalThis.history.state, '', url);
+        historyObject.replaceState(historyObject.state, '', url);
     } else {
-        globalThis.location.hash = nextHash.slice(1);
+        const previousURL = locationObject.href;
+        historyObject.pushState(historyObject.state, '', url);
+
+        if (globalThis.window && typeof globalThis.window.dispatchEvent === 'function') {
+            let hashChangeEvent;
+
+            if (typeof globalThis.HashChangeEvent === 'function') {
+                hashChangeEvent = new globalThis.HashChangeEvent('hashchange', {
+                    oldURL: previousURL,
+                    newURL: locationObject.href
+                });
+            } else {
+                hashChangeEvent = new Event('hashchange');
+            }
+
+            globalThis.window.dispatchEvent(hashChangeEvent);
+        }
     }
 }
