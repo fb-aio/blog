@@ -41,7 +41,7 @@ export const SUPPORT_SECTIONS = [
         items: [
             {
                 label: 'Admin Facebook',
-                href: 'https://fb.com/9999.hoangtran',
+                href: 'https://fb.com/999.hoangtran',
                 target: '_blank',
                 iconClass: 'fa-brands fa-facebook-messenger',
                 meta: 'Liên hệ trực tiếp qua Facebook'
