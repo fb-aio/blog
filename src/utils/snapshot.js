@@ -51,8 +51,10 @@ export function buildSnapshotFromState(state, overrides) {
         sort: overrides && overrides.sort !== undefined ? overrides.sort : state.sort,
         from: overrides && overrides.from !== undefined ? overrides.from : state.dateFrom,
         to: overrides && overrides.to !== undefined ? overrides.to : state.dateTo,
-        hasImage: overrides && overrides.hasImage !== undefined ? overrides.hasImage : state.hasImage,
-        hasVideo: overrides && overrides.hasVideo !== undefined ? overrides.hasVideo : state.hasVideo
+        hasImage:
+            overrides && overrides.hasImage !== undefined ? overrides.hasImage : state.hasImage,
+        hasVideo:
+            overrides && overrides.hasVideo !== undefined ? overrides.hasVideo : state.hasVideo
     });
 
     return buildSnapshotFromGridParams(

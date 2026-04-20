@@ -1,5 +1,54 @@
 [
     {
+        "id": "912967938234833",
+        "post_id": "912967938234833",
+        "story_id": "UzpfSTkxMjk2NzkzODIzNDgzMzpWSzo5MTI5Njc5MzgyMzQ4MzM=",
+        "actor": {
+            "id": "100082499383506",
+            "name": "Hoang Tran",
+            "url": "https://www.facebook.com/999.hoangtran",
+            "signals": []
+        },
+        "creation_time": 1776441344000,
+        "cursor": "",
+        "url": "https://www.facebook.com/groups/fbaio2/permalink/912967938234833/",
+        "message": "Nhóm FB AIO mới, mọi bài viết bên nhóm cũ dưới còm nhé 🥹",
+        "title": "",
+        "summary": "",
+        "privacy": {
+            "id": "",
+            "scope": "OPEN",
+            "can_edit": false
+        },
+        "can_delete": false,
+        "comments": {
+            "total": 4
+        },
+        "reactions": {
+            "total": 2,
+            "top": [
+                {
+                    "id": "1635855486666999",
+                    "count": 1,
+                    "name": "Thích"
+                },
+                {
+                    "id": "115940658764963",
+                    "count": 1,
+                    "name": "Haha"
+                }
+            ]
+        },
+        "shares": {
+            "total": 1
+        },
+        "content": {
+            "text": null,
+            "attachments": []
+        },
+        "recent": 0
+    },
+    {
         "id": "1893793864608626",
         "post_id": "1893793864608626",
         "story_id": "UzpfSTEwMDAwNDg0ODI4NzQ5NDpWSzoxODkzNzkzODY0NjA4NjI2",
@@ -47,15 +96,11 @@
                     "id": "1298875898875626",
                     "type": "Video",
                     "title": "",
-                    "thumbnail": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t15.5256-10/670965957_1969755667242454_5327263022740636540_n.jpg?stp=c0.448.1080.563a_dst-jpg_s1080x563_tt6&_nc_cat=104&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=J_MhtgvtCK4Q7kNvwEtMbpe&_nc_oc=Adq717rjOsO3sTekQLthacb0CSO-OBTBJsUQYiIx_FN0AwCnKR9k7ZDagE0Saqx-yrs&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=mlHUMuHaeDHjnt_PkN0x2A&_nc_ss=7a3a8&oh=00_Af0UYUtby839tpRSdcsBu5yCIWxcq-SpVZz0SQVfFMdM4w&oe=69E684EB",
-                    "total_count": 1
-                },
-                {
-                    "id": "1298875898875626",
-                    "type": "Video",
-                    "title": "",
-                    "thumbnail": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t15.5256-10/670965957_1969755667242454_5327263022740636540_n.jpg?stp=c0.448.1080.563a_dst-jpg_s1080x563_tt6&_nc_cat=104&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=J_MhtgvtCK4Q7kNvwEtMbpe&_nc_oc=Adq717rjOsO3sTekQLthacb0CSO-OBTBJsUQYiIx_FN0AwCnKR9k7ZDagE0Saqx-yrs&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=mlHUMuHaeDHjnt_PkN0x2A&_nc_ss=7a3a8&oh=00_Af0UYUtby839tpRSdcsBu5yCIWxcq-SpVZz0SQVfFMdM4w&oe=69E684EB",
-                    "total_count": 1
+                    "thumbnail": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t15.5256-10/670965957_1969755667242454_5327263022740636540_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=50ce42&_nc_ohc=J_MhtgvtCK4Q7kNvwFfEZE0&_nc_oc=AdriGtUuu6luK9a5LotYP6HxgajdK-8Y2idX6QT2YOZ_vEci-6xVKYhOFyRzoR4k3gw&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=JlgZr-LVK5LDTwBbLVCx4w&_nc_ss=7a3a8&oh=00_Af3urWTLVIh1fmbC0k9mxW5JmiZV4EQ37nTWG1u7nhvLvw&oe=69E72DAB",
+                    "total_count": 1,
+                    "url": "https://www.facebook.com/reel/1298875898875626/",
+                    "source_post_id": "122124307413079032",
+                    "source_path": "root.attached_post.media.video"
                 }
             ]
         },
@@ -268,16 +313,13 @@
                 {
                     "id": "1413733167458126",
                     "type": "Photo",
-                    "title": null,
-                    "thumbnail": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/659372261_1413733170791459_2712844042820635379_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=13d280&_nc_ohc=opOBNeDU4m4Q7kNvwF6m0iK&_nc_oc=AdqY5IxHk2aeB172PpIFLiG9lnlON3MS4O7WnheHdvtiPAzrCoukxdenP6Phj0uBWkI&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=FQhDde5aySMOhLvH52xIxQ&_nc_ss=7a3a8&oh=00_Af3x5QaC3Tsd3emYDBWP6cf_ISH2hbzgqC0LAg88OrapdQ&oe=69E67EF0",
-                    "total_count": 1
-                },
-                {
-                    "id": "1413733167458126",
-                    "type": "Photo",
-                    "title": null,
-                    "thumbnail": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/659372261_1413733170791459_2712844042820635379_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=13d280&_nc_ohc=opOBNeDU4m4Q7kNvwF6m0iK&_nc_oc=AdqY5IxHk2aeB172PpIFLiG9lnlON3MS4O7WnheHdvtiPAzrCoukxdenP6Phj0uBWkI&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=FQhDde5aySMOhLvH52xIxQ&_nc_ss=7a3a8&oh=00_Af3x5QaC3Tsd3emYDBWP6cf_ISH2hbzgqC0LAg88OrapdQ&oe=69E67EF0",
-                    "total_count": 1
+                    "thumbnail": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/659372261_1413733170791459_2712844042820635379_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=13d280&_nc_ohc=opOBNeDU4m4Q7kNvwELw0xF&_nc_oc=AdpYYsJIxoh8H2BWpvkBMM4HBtlg_tUExZ9zIrF9x9kP_x3dEvremI22k3IogUVjg4I&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=Q7rsWhYWmztQxXC0snrMXg&_nc_ss=7a3a8&oh=00_Af1LjkUJnwWfBXCeDn6xNspTxH-KsO8NmIQrXN0p--KMoA&oe=69E727B0",
+                    "total_count": 1,
+                    "title": "Có thể là hình ảnh về điện thoại và văn bản cho biết 'VIP Tham gi 3 ngày DATA Người tham gia ần danh Chuyên mọi loại data Data doanh nghiệ giám đóc Data Bác si, hân viên yue Data vay nóng/ nóng/nquôi, tín dụng, tiết kiệm Data BHXH, BHYT Khám chữa bệnh Data đông cac loại Data sinhmên, sinh phụ huynı học sinh Data điện lực full mã Data Kh sở hữu ô tô, Aop hoặc y ô tô Data Kh spa Data Kh mua hàng điện máy.....'",
+                    "url": "https://www.facebook.com/photo/?fbid=1413733167458126&set=a.249070910591030",
+                    "uri": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/659372261_1413733170791459_2712844042820635379_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=13d280&_nc_ohc=opOBNeDU4m4Q7kNvwELw0xF&_nc_oc=AdpYYsJIxoh8H2BWpvkBMM4HBtlg_tUExZ9zIrF9x9kP_x3dEvremI22k3IogUVjg4I&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=Q7rsWhYWmztQxXC0snrMXg&_nc_ss=7a3a8&oh=00_Af1LjkUJnwWfBXCeDn6xNspTxH-KsO8NmIQrXN0p--KMoA&oe=69E727B0",
+                    "source_post_id": "1413737014124408",
+                    "source_path": "root.attached_post.media.photo"
                 }
             ]
         },
@@ -377,9 +419,13 @@
                 {
                     "id": "3169780579860187",
                     "type": "Photo",
-                    "title": null,
-                    "thumbnail": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/657465703_3169780583193520_3016965538418833355_n.jpg?stp=dst-jpg_p1080x2048_tt6&_nc_cat=105&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=jfD5Ei8CiP8Q7kNvwF7JNqU&_nc_oc=Adq7pUHJzBabxK2J8wm1H0XaLYkSnI1KDcJWZHAeXTGaQMdPTE8LtJo5tFLaW7zTEcg&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=F-sbHEhSPaxhkMH61QT6bQ&_nc_ss=7a3a8&oh=00_Af1oEwJNSMDKT_ZQHOl9QXW7PudFIncSXtW-mOOBOYcJZQ&oe=69E6701B",
-                    "total_count": 1
+                    "thumbnail": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/657465703_3169780583193520_3016965538418833355_n.jpg?stp=dst-jpg_p1080x2048_tt6&_nc_cat=105&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=jfD5Ei8CiP8Q7kNvwFBMDG4&_nc_oc=AdqvYs60B_ruFnYHCOUkjvX85xQk59u7aT8oO180zhckHvi4L3n9o84MBMYndrQHa20&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=CqNHpmaojfJpSQ2cXWyccQ&_nc_ss=7a3a8&oh=00_Af2Y3pQ6spfNLIMyME1HrF_Ph7UHlONJdMnTOgFAdCBjww&oe=69E718DB",
+                    "total_count": 1,
+                    "title": "Có thể là hình ảnh về điện thoại và văn bản cho biết '14:56 168 KBis 6 3 Tim nội dung liên quan E ETranghú|FBAIO hú|FBAIO Tìm kiếm fb-aio.github.io Incognito F FBAIO FB AIO Mới thiệu ο Video Chrome Firefox hr ၅ြိ) Tìm tương tự> 236 24 extension này có khá nhiều người SỬ dụng 63 11 Mai Trung Đức 4 giờ trước Họ làm điều này với devtool như thế nào? #coding #programming #tren.. #tren...thêm thêm Tìm kiếm devtools Thêm bình luận...'",
+                    "url": "https://www.facebook.com/photo/?fbid=3169780579860187&set=gm.1882067492447930&idorvanity=1154059318582088",
+                    "uri": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/657465703_3169780583193520_3016965538418833355_n.jpg?stp=dst-jpg_p1080x2048_tt6&_nc_cat=105&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=jfD5Ei8CiP8Q7kNvwFBMDG4&_nc_oc=AdqvYs60B_ruFnYHCOUkjvX85xQk59u7aT8oO180zhckHvi4L3n9o84MBMYndrQHa20&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=CqNHpmaojfJpSQ2cXWyccQ&_nc_ss=7a3a8&oh=00_Af2Y3pQ6spfNLIMyME1HrF_Ph7UHlONJdMnTOgFAdCBjww&oe=69E718DB",
+                    "source_post_id": "1882067492447930",
+                    "source_path": "root.media.photo"
                 }
             ]
         },
@@ -591,9 +637,13 @@
                 {
                     "id": "3164742687030643",
                     "type": "Photo",
-                    "title": null,
-                    "thumbnail": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/657158242_3164742690363976_7599335487834273984_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=egC-_BE_d2sQ7kNvwGOEXOs&_nc_oc=Adrizx14MVQThomFbmBdT1Lb4-qHft0o-FCvkbkF2a8C_uXFe6v7r4aFXTRk5YFlQXA&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=_2GQ20v_B2BcavZuN2kBlg&_nc_ss=7a3a8&oh=00_Af3_GafiY2a-HfdLNNpoVj_Dn6gP_IhX2rBOjm-iEuo11g&oe=69E6874E",
-                    "total_count": 1
+                    "thumbnail": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/657158242_3164742690363976_7599335487834273984_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=egC-_BE_d2sQ7kNvwEkVJ1X&_nc_oc=AdrYNvpKsZs8U73FOsbM7USmd8B6KIE8YJ7kvqFEDOh0bVroXePZitpDaBWcP04WcXs&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=TfHHbNbOtjRIADnhlEkmkw&_nc_ss=7a3a8&oh=00_Af04V6sOqx_gx6Eycwh9poHll2MJe1XPYEKGPFZEhSJXmw&oe=69E7300E",
+                    "total_count": 1,
+                    "title": "Có thể là đồ họa về văn bản cho biết 'github. github.com/tw93/Mole README 83 Contributing MIT license Security Mole stars 43k verson Deep clean and optimize your Mac. l-windows license T commit activity 261/month follow TW93 chat egram COMPLET Potentiol ecloinable spoce: .96GB changes Cotegories e nade) ree space NOW: 173Gi CLEANUP COMPLETE! 5.33GB Space freed: That's Files ~19 Free space now: 172Gi 4K movies worth of space! leaned: 1215902 Categories processed: 93 COMPLETE! 33GB eaned: 815844 ree space now: 41Gi wort space! rocessed: 38 Mole Clean Your Mac. That' Files CLEANUP COMPLETE! freed: 40GB Free space now: 87Gi Like ~10 movies worth space! leaned: 505096 Categories processed: 46'",
+                    "url": "https://www.facebook.com/photo/?fbid=3164742687030643&set=gm.1878161359505210&idorvanity=1154059318582088",
+                    "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/657158242_3164742690363976_7599335487834273984_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=egC-_BE_d2sQ7kNvwEkVJ1X&_nc_oc=AdrYNvpKsZs8U73FOsbM7USmd8B6KIE8YJ7kvqFEDOh0bVroXePZitpDaBWcP04WcXs&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=TfHHbNbOtjRIADnhlEkmkw&_nc_ss=7a3a8&oh=00_Af04V6sOqx_gx6Eycwh9poHll2MJe1XPYEKGPFZEhSJXmw&oe=69E7300E",
+                    "source_post_id": "1878161359505210",
+                    "source_path": "root.media.photo"
                 }
             ]
         },
@@ -833,16 +883,13 @@
                 {
                     "id": "1339264818018880",
                     "type": "Photo",
-                    "title": null,
-                    "thumbnail": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/656022352_1339033071375388_2977664852374602643_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=izCmisiMsOcQ7kNvwFMvq77&_nc_oc=AdoBzk7Ahr5Co3EBaQ5yrCQiBm7EL4omY7ssI9VWS0xih7cI8SrenMIVL0Wrx1LXTw8&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=lmvJIToQ9mmkxc6z73pgjw&_nc_ss=7a3a8&oh=00_Af0lb3Uuaet8KnVMweKDJ2YVPAn48ihxezCehmhaj1BPhw&oe=69E661C9",
-                    "total_count": 1
-                },
-                {
-                    "id": "1339264818018880",
-                    "type": "Photo",
-                    "title": null,
-                    "thumbnail": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/656022352_1339033071375388_2977664852374602643_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=izCmisiMsOcQ7kNvwFMvq77&_nc_oc=AdoBzk7Ahr5Co3EBaQ5yrCQiBm7EL4omY7ssI9VWS0xih7cI8SrenMIVL0Wrx1LXTw8&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=lmvJIToQ9mmkxc6z73pgjw&_nc_ss=7a3a8&oh=00_Af0lb3Uuaet8KnVMweKDJ2YVPAn48ihxezCehmhaj1BPhw&oe=69E661C9",
-                    "total_count": 1
+                    "thumbnail": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/656022352_1339033071375388_2977664852374602643_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=izCmisiMsOcQ7kNvwHNSzFZ&_nc_oc=AdoOzn3OD5Vz8IBMddJBpYULENwZpIH2rlTGeTZrOzMuLLmk3Rc1TVXGMT0sax37pLA&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=XTAirUnsn8hB5zrOGzjc5Q&_nc_ss=7a3a8&oh=00_Af0vvHM1Ig0yAMQ6OfTGxhGorVxBlriTaGdKD2x5b1Ieaw&oe=69E742C9",
+                    "total_count": 1,
+                    "title": "Có thể là hình vẽ ngẫu hứng về văn bản",
+                    "url": "https://www.facebook.com/photo/?fbid=1339264818018880&set=a.540564697888900",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/656022352_1339033071375388_2977664852374602643_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=izCmisiMsOcQ7kNvwHNSzFZ&_nc_oc=AdoOzn3OD5Vz8IBMddJBpYULENwZpIH2rlTGeTZrOzMuLLmk3Rc1TVXGMT0sax37pLA&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=XTAirUnsn8hB5zrOGzjc5Q&_nc_ss=7a3a8&oh=00_Af0vvHM1Ig0yAMQ6OfTGxhGorVxBlriTaGdKD2x5b1Ieaw&oe=69E742C9",
+                    "source_post_id": "1339264871352208",
+                    "source_path": "root.attached_post.media.photo"
                 }
             ]
         },
@@ -895,9 +942,13 @@
                 {
                     "id": "3157327407772171",
                     "type": "Photo",
-                    "title": null,
-                    "thumbnail": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/651181032_3157327411105504_168877287249581663_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=W1t9ShoXu8AQ7kNvwEQny9X&_nc_oc=AdpbYCAlQygvoyCK_A4uvApW1OkVXbHqW9PexrIEuKiYk7DaSjG5e_HVBilluWFGnrY&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=7zyDdxmIjvS89rCFQjOZ7g&_nc_ss=7a3a8&oh=00_Af138cLHb_bqFYPVfLkOUblA2fWu_WLwcHmXTvMDdWMpbg&oe=69E65C67",
-                    "total_count": 1
+                    "thumbnail": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/651181032_3157327411105504_168877287249581663_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=W1t9ShoXu8AQ7kNvwE0iKX7&_nc_oc=AdqdoH4AK-L7WR9MBAK39VzpBbxJMzvWYv7C18IDVkj5U2XhVy0tEtJ1uJeK6wj2-lU&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=4QEuT2z41az3pSx4ZRH-eQ&_nc_ss=7a3a8&oh=00_Af3l28Ea36juugyeDIbrdVEG1fLjuGx9QQCzokgHdEfqdg&oe=69E73D67",
+                    "total_count": 1,
+                    "title": "Có thể là hình ảnh về ‎điện thoại và ‎văn bản cho biết '‎1 2 build-your-own-x awesome 475.2k 3 445.6k 4 freeCodeCamp public-apis 5 438.2k צהאריר atirv free-programming-books 6 410.4k 384k 7 developer-roadmap 350.9k 8 system-design-primer 338.9k 9 coding-interview-university openclaw 337.8k 10 313.8k 11 awesome-python 287.2k 12 awesome-selfhosted 996.ICU 280k 13 275.8k 14 a0 project-based-learning react 260.9k 15 linux 243.9k 16 Python 222.8k 17 218.6k 18 vue the-book-of-secret-knoewe... 210.1k 19 OSSU 210k 20 computer-science 202.3k javascript-algorithms 195.8k‎'‎‎",
+                    "url": "https://www.facebook.com/photo/?fbid=3157327407772171&set=gm.1872463840074962&idorvanity=1154059318582088",
+                    "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/651181032_3157327411105504_168877287249581663_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=W1t9ShoXu8AQ7kNvwE0iKX7&_nc_oc=AdqdoH4AK-L7WR9MBAK39VzpBbxJMzvWYv7C18IDVkj5U2XhVy0tEtJ1uJeK6wj2-lU&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=4QEuT2z41az3pSx4ZRH-eQ&_nc_ss=7a3a8&oh=00_Af3l28Ea36juugyeDIbrdVEG1fLjuGx9QQCzokgHdEfqdg&oe=69E73D67",
+                    "source_post_id": "1872463840074962",
+                    "source_path": "root.media.photo"
                 }
             ]
         },
@@ -1062,16 +1113,13 @@
                 {
                     "id": "3422508214571341",
                     "type": "Photo",
-                    "title": null,
-                    "thumbnail": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/650626056_3422508217904674_2792067258224111034_n.jpg?stp=dst-jpg_s2048x2048_tt6&_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=gqT9A0KVWrIQ7kNvwHTIm6b&_nc_oc=Adokj58QSfrtzw0_1urzPjBk88uxOZWeKzIP_bs9PxENj2-SPykJSHZqxsyarnkBbVo&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=7zyDdxmIjvS89rCFQjOZ7g&_nc_ss=7a3a8&oh=00_Af2vYz6uFGyh_125QS2ZSax_KuavOVA71lXLV0Gsd1c4hg&oe=69E684A2",
-                    "total_count": 1
-                },
-                {
-                    "id": "3422508214571341",
-                    "type": "Photo",
-                    "title": null,
-                    "thumbnail": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/650626056_3422508217904674_2792067258224111034_n.jpg?stp=dst-jpg_s2048x2048_tt6&_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=gqT9A0KVWrIQ7kNvwHTIm6b&_nc_oc=Adokj58QSfrtzw0_1urzPjBk88uxOZWeKzIP_bs9PxENj2-SPykJSHZqxsyarnkBbVo&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=7zyDdxmIjvS89rCFQjOZ7g&_nc_ss=7a3a8&oh=00_Af2vYz6uFGyh_125QS2ZSax_KuavOVA71lXLV0Gsd1c4hg&oe=69E684A2",
-                    "total_count": 1
+                    "thumbnail": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/650626056_3422508217904674_2792067258224111034_n.jpg?stp=dst-jpg_s2048x2048_tt6&_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=Z5XN063L1TcQ7kNvwH3hI9G&_nc_oc=AdoIO6IBRarEygwVjV0xjRZNpj56l9UyZqUyTIJEybkgn30i2q9wl6g5IQRk--NExh4&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=c7acQAmxpHM6715wE0S0wg&_nc_ss=7a3a8&oh=00_Af37PjqV2zaElhLGpkujFbsM9bwoeVK7k8pCoXBdDo-MJA&oe=69E72D62",
+                    "total_count": 1,
+                    "title": "Có thể là đồ họa về văn bản",
+                    "url": "https://www.facebook.com/photo/?fbid=3422508214571341&set=a.314237938731733",
+                    "uri": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/650626056_3422508217904674_2792067258224111034_n.jpg?stp=dst-jpg_s2048x2048_tt6&_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=Z5XN063L1TcQ7kNvwH3hI9G&_nc_oc=AdoIO6IBRarEygwVjV0xjRZNpj56l9UyZqUyTIJEybkgn30i2q9wl6g5IQRk--NExh4&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=c7acQAmxpHM6715wE0S0wg&_nc_ss=7a3a8&oh=00_Af37PjqV2zaElhLGpkujFbsM9bwoeVK7k8pCoXBdDo-MJA&oe=69E72D62",
+                    "source_post_id": "3422510497904446",
+                    "source_path": "root.attached_post.media.photo"
                 }
             ]
         },
@@ -1322,9 +1370,13 @@
                 {
                     "id": "25208532552156597",
                     "type": "Photo",
-                    "title": null,
-                    "thumbnail": "https://scontent.fsgn2-8.fna.fbcdn.net/v/t39.30808-6/650035559_25208532568823262_2672721335237924998_n.png?stp=cp6_dst-png&_nc_cat=102&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=E77xQ1TtyCgQ7kNvwE2BnCR&_nc_oc=AdrR8qjQmlTgVh4hw7AWJJwq5FSRmrowR2p2GR_Et3V2p1NqP3ENHJm3KUn-nUIApyQ&_nc_zt=23&_nc_ht=scontent.fsgn2-8.fna&_nc_gid=w6gsLMfZPdNDi12HTI-Q3A&_nc_ss=7a3a8&oh=00_Af1oggdkZ8JxkGQnzH5r6Oytl1fFIfZ8XWpCSKU4P0k74g&oe=69E6590A",
-                    "total_count": 1
+                    "thumbnail": "https://scontent.fsgn2-8.fna.fbcdn.net/v/t39.30808-6/650035559_25208532568823262_2672721335237924998_n.png?stp=cp6_dst-png&_nc_cat=102&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=E77xQ1TtyCgQ7kNvwGgaJJU&_nc_oc=Ado9elaEYTSKQ9oPZSA5RriN-1MEarmfaZrovrJCdOqOWKWDmyiVdghgx-N_Phgk8iA&_nc_zt=23&_nc_ht=scontent.fsgn2-8.fna&_nc_gid=3GRPuYhZYExdJDCxVGthBA&_nc_ss=7a3a8&oh=00_Af1hQrrJXnWchW7AIpPOtYsQzKYQc3fEJ1TaR1wedYjWdQ&oe=69E73A0A",
+                    "total_count": 1,
+                    "title": "Có thể là hình ảnh về văn bản",
+                    "url": "https://www.facebook.com/photo/?fbid=25208532552156597&set=gm.1868195957168417&idorvanity=1154059318582088",
+                    "uri": "https://scontent.fsgn2-8.fna.fbcdn.net/v/t39.30808-6/650035559_25208532568823262_2672721335237924998_n.png?stp=cp6_dst-png&_nc_cat=102&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=E77xQ1TtyCgQ7kNvwGgaJJU&_nc_oc=Ado9elaEYTSKQ9oPZSA5RriN-1MEarmfaZrovrJCdOqOWKWDmyiVdghgx-N_Phgk8iA&_nc_zt=23&_nc_ht=scontent.fsgn2-8.fna&_nc_gid=3GRPuYhZYExdJDCxVGthBA&_nc_ss=7a3a8&oh=00_Af1hQrrJXnWchW7AIpPOtYsQzKYQc3fEJ1TaR1wedYjWdQ&oe=69E73A0A",
+                    "source_post_id": "1868195957168417",
+                    "source_path": "root.media.photo"
                 }
             ]
         },
@@ -1377,9 +1429,13 @@
                 {
                     "id": "3151574191680826",
                     "type": "Photo",
-                    "title": null,
-                    "thumbnail": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/649252769_3151574198347492_4196642501049332692_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=107&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=SNggOeHuUUkQ7kNvwEl_pFN&_nc_oc=AdrVkqgVbCYzUY4OfuS3LstYyGm23DoVIqBVqKqyJTu5DJ__3WkTDJZfHAEZWQH_Vik&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=ctQuNv02jjFtYUcgDGZ5NQ&_nc_ss=7a3a8&oh=00_Af1q0Xrx1VhzbnHwdafMLVbxPZEiH36R9FKvuYHhNz6P1A&oe=69E68C6D",
-                    "total_count": 1
+                    "thumbnail": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/649252769_3151574198347492_4196642501049332692_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=107&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=SNggOeHuUUkQ7kNvwEIR0Ba&_nc_oc=AdoPcM5Au-Z_AOjvQwpO3ngJ0BsG-UiYKzlMNkDhZRm86Z3l3QSQaR0l3aOx5I566Dk&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=96gmjo3d4vJkdZRMkBGB_w&_nc_ss=7a3a8&oh=00_Af3pFMYlViXgY_EuGWmzoVjMhOxr69OeFJBic4TiHg1LOQ&oe=69E7352D",
+                    "total_count": 1,
+                    "title": "Có thể là đồ họa về văn bản cho biết 'Ghi chú của Ghichúcủatôi tôi X FBAIO FBAIOfreeAPI free API ĐăchiasévőiBâtkyai ai Đã chia sẻ vői ỞiBất Hết hạr uc sau1 Héthanlúcsau17giờnüa nữa Xόa ghi Xóaghichú chú Ghichúmới Ghi chú mới'",
+                    "url": "https://www.facebook.com/photo/?fbid=3151574191680826&set=gm.1868157283838951&idorvanity=1154059318582088",
+                    "uri": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/649252769_3151574198347492_4196642501049332692_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=107&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=SNggOeHuUUkQ7kNvwEIR0Ba&_nc_oc=AdoPcM5Au-Z_AOjvQwpO3ngJ0BsG-UiYKzlMNkDhZRm86Z3l3QSQaR0l3aOx5I566Dk&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=96gmjo3d4vJkdZRMkBGB_w&_nc_ss=7a3a8&oh=00_Af3pFMYlViXgY_EuGWmzoVjMhOxr69OeFJBic4TiHg1LOQ&oe=69E7352D",
+                    "source_post_id": "1868157283838951",
+                    "source_path": "root.media.photo"
                 }
             ]
         },
@@ -1512,16 +1568,13 @@
                 {
                     "id": "26230082856623207",
                     "type": "Photo",
-                    "title": null,
-                    "thumbnail": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/641192915_26230082863289873_7830749909430995904_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=7b2446&_nc_ohc=P1Gq_dUqskoQ7kNvwGagyxs&_nc_oc=AdqTGPfzm9yIqu2_5ZIy47FUZEb3wUK5W-sfJAFeFoENImNgm29DMuAJkrNFiN3Uafk&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=ctQuNv02jjFtYUcgDGZ5NQ&_nc_ss=7a3a8&oh=00_Af3mp3OQjjntNQ_ggRKanVQjh6zVqAN5pnAClBf0wf7QBw&oe=69E677A9",
-                    "total_count": 1
-                },
-                {
-                    "id": "26230082856623207",
-                    "type": "Photo",
-                    "title": null,
-                    "thumbnail": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/641192915_26230082863289873_7830749909430995904_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=7b2446&_nc_ohc=P1Gq_dUqskoQ7kNvwGagyxs&_nc_oc=AdqTGPfzm9yIqu2_5ZIy47FUZEb3wUK5W-sfJAFeFoENImNgm29DMuAJkrNFiN3Uafk&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=ctQuNv02jjFtYUcgDGZ5NQ&_nc_ss=7a3a8&oh=00_Af3mp3OQjjntNQ_ggRKanVQjh6zVqAN5pnAClBf0wf7QBw&oe=69E677A9",
-                    "total_count": 1
+                    "thumbnail": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/641192915_26230082863289873_7830749909430995904_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=7b2446&_nc_ohc=P1Gq_dUqskoQ7kNvwF-AwqZ&_nc_oc=AdoMG9IBOksvq5lpoS4Vmhmbixb85SceDJVcxV2k6T3r0dyMPm6K4QLnsUdBvg_HNlA&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=BuOSniBpYvdJWJcxZ-K-MA&_nc_ss=7a3a8&oh=00_Af2iMO6i3hWmbP4TZA_znx-gl7_qnbtHcYIYw2YkqdYUdw&oe=69E72069",
+                    "total_count": 1,
+                    "title": "Có thể là đồ họa về văn bản cho biết 'HƯỚNG DẦN SỬ DỤNG CLAUDE A HIỆU QUẢ Dành cho CEO, Manager, Marketer và người làm Business ਮੇ code. ስ đúng. Bùi Việt 123HO5T.Vn Tháng2 2026 MỤC LỤC Phẩn uduy đúng trưác khi dùng AI Thiết Claude Phẩn Cũng cách hoạt dận Phản Phẩn Giới ลู Công 4C Phán thuật Brainstorm: toản Business dất từng bước Phần 5kills Claude 8: Claude làm việc theo Phăn ch nắng cao: Phần ลก Những Phần pho hạc thực SePa Ay'",
+                    "url": "https://www.facebook.com/photo/?fbid=26230082856623207&set=a.330002700391244",
+                    "uri": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/641192915_26230082863289873_7830749909430995904_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=7b2446&_nc_ohc=P1Gq_dUqskoQ7kNvwF-AwqZ&_nc_oc=AdoMG9IBOksvq5lpoS4Vmhmbixb85SceDJVcxV2k6T3r0dyMPm6K4QLnsUdBvg_HNlA&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=BuOSniBpYvdJWJcxZ-K-MA&_nc_ss=7a3a8&oh=00_Af2iMO6i3hWmbP4TZA_znx-gl7_qnbtHcYIYw2YkqdYUdw&oe=69E72069",
+                    "source_post_id": "26230099599954866",
+                    "source_path": "root.attached_post.media.photo"
                 }
             ]
         },
@@ -1574,16 +1627,13 @@
                 {
                     "id": "4175123299392540",
                     "type": "Photo",
-                    "title": null,
-                    "thumbnail": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/640295843_4175123302725873_1223067585055909377_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=zzdZfB4WDoUQ7kNvwFfiX0A&_nc_oc=Adqkl2vZG3KEPa3H_AQndhocetXt6lG-STR3aeeu_zLw-vCFYDRDXjxZegtkEHjd5R0&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=LbTw72xGc3TkcUUzhCEqWA&_nc_ss=7a3a8&oh=00_Af3GZ0wPteiaTN_nVivDkokx9lIBd-yZNsgkIjyVLzJUfA&oe=69E688B9",
-                    "total_count": 1
-                },
-                {
-                    "id": "4175123299392540",
-                    "type": "Photo",
-                    "title": null,
-                    "thumbnail": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/640295843_4175123302725873_1223067585055909377_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=zzdZfB4WDoUQ7kNvwFfiX0A&_nc_oc=Adqkl2vZG3KEPa3H_AQndhocetXt6lG-STR3aeeu_zLw-vCFYDRDXjxZegtkEHjd5R0&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=LbTw72xGc3TkcUUzhCEqWA&_nc_ss=7a3a8&oh=00_Af3GZ0wPteiaTN_nVivDkokx9lIBd-yZNsgkIjyVLzJUfA&oe=69E688B9",
-                    "total_count": 1
+                    "thumbnail": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/640295843_4175123302725873_1223067585055909377_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=zzdZfB4WDoUQ7kNvwFe13SE&_nc_oc=AdoW82GsWF7iMiTh75gyOZTxg0LfAbU1vqxu85wI2YBo8iOIhpcnI0GrJmSgp4nmd-w&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=7247Vk6qAyolYEoNSk028Q&_nc_ss=7a3a8&oh=00_Af2OtupSBi5dgW-luprKetIyKLv_Z6YY1i3NGvfY5EtGzA&oe=69E73179",
+                    "total_count": 1,
+                    "title": "Có thể là đồ họa về văn bản cho biết 'Knowns Features Story Demo Installation Team Docs Changelog Get Started V0.12: Search What your AI should have knowns. Give your AI persistent memory of your project context. No more repeating yourself. ON Product Hunt 96 B npm V0.12.1 GitHub Stars 95 AI Workflow YouHorkontask42 42 You Work on task AI Reading task Add user 土 Knowns V0.12.1 Anewversion Anewversionisava Savailabl able uthentication\" View changelog'",
+                    "url": "https://www.facebook.com/photo/?fbid=4175123299392540&set=gm.1945939522983344&idorvanity=1736980107212621",
+                    "uri": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/640295843_4175123302725873_1223067585055909377_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=zzdZfB4WDoUQ7kNvwFe13SE&_nc_oc=AdoW82GsWF7iMiTh75gyOZTxg0LfAbU1vqxu85wI2YBo8iOIhpcnI0GrJmSgp4nmd-w&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=7247Vk6qAyolYEoNSk028Q&_nc_ss=7a3a8&oh=00_Af2OtupSBi5dgW-luprKetIyKLv_Z6YY1i3NGvfY5EtGzA&oe=69E73179",
+                    "source_post_id": "1945939522983344",
+                    "source_path": "root.attached_post.media.photo"
                 }
             ]
         },
@@ -1636,16 +1686,13 @@
                 {
                     "id": "25899700456324721",
                     "type": "Photo",
-                    "title": null,
-                    "thumbnail": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/639413443_25899700472991386_2001947615248761173_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=Mo7tmL969zIQ7kNvwFxZV2d&_nc_oc=AdpXIXkcyis-3GxKpGobSTgXbSShQTWWrb7nL0Db8UjaL1Se_Dfx9Eea5BSSPcZ5rII&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=LbTw72xGc3TkcUUzhCEqWA&_nc_ss=7a3a8&oh=00_Af2SkAUMiXuPfZ_5aIzlYd9feMxO7esJbSu-oX8Opghe0Q&oe=69E65FB4",
-                    "total_count": 1
-                },
-                {
-                    "id": "25899700456324721",
-                    "type": "Photo",
-                    "title": null,
-                    "thumbnail": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/639413443_25899700472991386_2001947615248761173_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=Mo7tmL969zIQ7kNvwFxZV2d&_nc_oc=AdpXIXkcyis-3GxKpGobSTgXbSShQTWWrb7nL0Db8UjaL1Se_Dfx9Eea5BSSPcZ5rII&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=LbTw72xGc3TkcUUzhCEqWA&_nc_ss=7a3a8&oh=00_Af2SkAUMiXuPfZ_5aIzlYd9feMxO7esJbSu-oX8Opghe0Q&oe=69E65FB4",
-                    "total_count": 1
+                    "thumbnail": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/639413443_25899700472991386_2001947615248761173_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=Mo7tmL969zIQ7kNvwHWv7VW&_nc_oc=AdqVqEX8RSD79CXyP136ZusWajPvZQ0mhJMklPH815p0GLpxAH2T3TQwt2BtSoui_eA&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=5kMpF-1aN8KldQTDyCYj1A&_nc_ss=7a3a8&oh=00_Af11OhdhpswGS96hO24EiE1Y1dA0-JOhGo79aOO2LlX-ZA&oe=69E740B4",
+                    "total_count": 1,
+                    "title": "Có thể là hình ảnh về văn bản cho biết 'Default plan goes steps architectural don\" just building ambiguity decisions) keep pushing Strategy exploration, and per context window clean subagent focused subagents via subagents Loop that Review prevent same mistake start mistake relevant pattern drops Before between without proving engineer works when relevant this? Demand Elegance there \"Knowing everything obvious ement more elegant way?\" the elegant solution\" presenting Bug bug tests for tests olding them Managenent told Firstak **Verify Check **Explain starting checkable itens *#Document **Capture Lessons step Principles after corrections *Simplicity Firsta* Laziness** *Minimat Make every change temporary touch Changes should possible. Impact minima developer standards. Avoid introducing'",
+                    "url": "https://www.facebook.com/photo/?fbid=25899700456324721&set=gm.2089834038470824&idorvanity=1569314343856132",
+                    "uri": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/639413443_25899700472991386_2001947615248761173_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=Mo7tmL969zIQ7kNvwHWv7VW&_nc_oc=AdqVqEX8RSD79CXyP136ZusWajPvZQ0mhJMklPH815p0GLpxAH2T3TQwt2BtSoui_eA&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=5kMpF-1aN8KldQTDyCYj1A&_nc_ss=7a3a8&oh=00_Af11OhdhpswGS96hO24EiE1Y1dA0-JOhGo79aOO2LlX-ZA&oe=69E740B4",
+                    "source_post_id": "2089834038470824",
+                    "source_path": "root.attached_post.media.photo"
                 }
             ]
         },

@@ -8,6 +8,8 @@ import {
     truncateTitle
 } from '../utils/text.js';
 
+const FACEBOOK_GROUP_PERMALINK_PREFIX = 'https://www.facebook.com/groups/1154059318582088/permalink/';
+
 function parseCSVLine(line) {
     const result = [];
     let current = '';
@@ -68,9 +70,13 @@ export function renderMarkdown(text) {
 
 export function buildPostSearchHaystack(post) {
     return normalizeSearchText(
-        [post.title || '', post.message || '', post.summary || '', post.content_text || ''].join(
-            ' \n '
-        )
+        [
+            post.title || '',
+            post.message || '',
+            post.summary || '',
+            post.content_text || '',
+            post.hashtags || ''
+        ].join(' \n ')
     );
 }
 
@@ -171,13 +177,39 @@ export function sortPosts(posts, sort, q) {
         });
     }
 
+    if (sort === 'reactions' || sort === 'comments' || sort === 'shares') {
+        return posts.slice().sort(function (a, b) {
+            const metricDelta = getPostEngagement(b)[sort] - getPostEngagement(a)[sort];
+            if (metricDelta !== 0) return metricDelta;
+            return Number(b.creation_time) - Number(a.creation_time);
+        });
+    }
+
     return posts.slice().sort(function (a, b) {
         return Number(b.creation_time) - Number(a.creation_time);
     });
 }
 
+function normalizeMetricValue(value) {
+    const parsed = Number(value);
+    return Number.isFinite(parsed) && parsed > 0 ? parsed : 0;
+}
+
+export function getPostEngagement(post) {
+    if (post._engagement !== undefined) return post._engagement;
+
+    post._engagement = {
+        reactions: normalizeMetricValue(post.reactions),
+        comments: normalizeMetricValue(post.comments),
+        shares: normalizeMetricValue(post.shares)
+    };
+    return post._engagement;
+}
+
 function getPrimaryPostText(post) {
-    return markdownToPlainText(post.content_text || post.message || post.summary || post.title || '');
+    return markdownToPlainText(
+        post.content_text || post.message || post.summary || post.title || ''
+    );
 }
 
 export function getPostCopy(post) {
@@ -187,7 +219,9 @@ export function getPostCopy(post) {
     const titleSource = markdownToTitleText(primarySource) || markdownToTitleText(post.title || '');
     const source = getPrimaryPostText(post) || markdownToPlainText(post.title || '');
     const backup = markdownToPlainText(
-        [post.summary || '', post.message || '', post.content_text || '', post.title || ''].join(' ')
+        [post.summary || '', post.message || '', post.content_text || '', post.title || ''].join(
+            ' '
+        )
     );
 
     if (!source) {
@@ -225,6 +259,21 @@ export function getPostTitle(post) {
 
 export function getPostExcerpt(post) {
     return getPostCopy(post).excerpt;
+}
+
+export function getPostPermalink(post) {
+    if (!post) return '';
+    if (post._permalink !== undefined) return post._permalink;
+
+    const explicitUrl = String(post.url || '').trim();
+    if (explicitUrl) {
+        post._permalink = explicitUrl;
+        return post._permalink;
+    }
+
+    const postId = String(post.post_id || '').trim();
+    post._permalink = postId ? FACEBOOK_GROUP_PERMALINK_PREFIX + postId + '/' : '';
+    return post._permalink;
 }
 
 export function allMedia(post) {
@@ -305,6 +354,8 @@ export function enrichPost(post) {
     getPostSummarySearchText(post);
     getPostMessageSearchText(post);
     getPostCopy(post);
+    getPostEngagement(post);
+    getPostPermalink(post);
     mediaSummary(post);
     mediaUrl(post);
     return post;

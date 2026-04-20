@@ -381,8 +381,14 @@ body::after {
 }
 
 .filter-floating-card {
-    position: relative;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
     width: min(100%, 42rem);
+    overflow: visible;
+    z-index: 1;
     transform-origin: top right;
     transition:
         opacity 220ms ease,
@@ -391,11 +397,6 @@ body::after {
 }
 
 .filter-floating-card-hidden {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    margin: 0 auto;
     opacity: 0;
     transform: translateY(-10px) scale(0.94);
     filter: blur(4px);
@@ -416,7 +417,7 @@ body::after {
 }
 
 .filter-summary-shell {
-    padding-top: 0.75rem;
+    padding-top: 0.35rem;
     padding-bottom: 0.35rem;
 }
 
@@ -521,6 +522,7 @@ body::after {
     justify-content: center;
     color: var(--text);
     background: var(--surface);
+    overflow: visible;
     transform-origin: top center;
     transition:
         opacity 220ms ease,
@@ -528,10 +530,29 @@ body::after {
         box-shadow 220ms ease;
 }
 
+.filter-collapsed-button-active {
+    box-shadow:
+        0 18px 30px rgba(15, 23, 42, 0.08),
+        0 0 0 1px rgba(219, 68, 68, 0.08);
+}
+
 .filter-collapsed-label {
     font-size: 0.86rem;
     font-weight: 600;
     line-height: 1;
+}
+
+.filter-collapsed-indicator {
+    position: absolute;
+    top: 0.48rem;
+    right: 0.58rem;
+    width: 0.62rem;
+    height: 0.62rem;
+    border-radius: 999px;
+    background: #ef4444;
+    box-shadow:
+        0 0 0 3px var(--surface),
+        0 6px 14px rgba(239, 68, 68, 0.32);
 }
 
 .filter-collapsed-button-hidden {
@@ -552,7 +573,7 @@ body::after {
 
 .filter-panel-popover {
     position: absolute;
-    top: calc(100% + 0.7rem);
+    top: calc(100% + 0.5rem);
     left: 0;
     right: 0;
     margin: 0 auto;
@@ -1416,7 +1437,7 @@ mark {
     }
 
     .filter-summary-shell {
-        padding-top: 0.55rem;
+        padding-top: 0.2rem;
         padding-bottom: 0.2rem;
     }
 

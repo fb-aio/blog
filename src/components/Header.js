@@ -14,10 +14,7 @@ function Header(props) {
                         class="pill-button inline-flex items-center gap-2 rounded-full px-4 py-2 text-sm font-semibold"
                         onClick=${props.onHome}
                     >
-                        <i
-                            class="fa-solid fa-house-chimney text-[0.82rem]"
-                            aria-hidden="true"
-                        ></i>
+                        <i class="fa-solid fa-house-chimney text-[0.82rem]" aria-hidden="true"></i>
                         <span>FB AIO Blog</span>
                     </button>
 
@@ -47,8 +44,8 @@ function Header(props) {
                             FB AIO Blog
                         </h1>
                         <p class="hero-copy">
-                            Chỗ để lướt lại các bài viết, ghi chú và mẹo dùng FB AIO. Tìm nhanh
-                            thứ bạn cần, thấy bài nào hay thì mở ra đọc sâu hơn.
+                            Chỗ để lướt lại các bài viết, ghi chú và mẹo dùng FB AIO. Tìm nhanh thứ
+                            bạn cần, thấy bài nào hay thì mở ra đọc sâu hơn.
                         </p>
 
                         <div class="hero-actions">
@@ -80,12 +77,16 @@ function Header(props) {
                         <div class="grid grid-cols-2 gap-3">
                             <div class="stat-card">
                                 <span class="stat-label">Tổng bài viết</span>
-                                <strong class="stat-value">${formatNumber(props.totalCount)}</strong>
+                                <strong class="stat-value"
+                                    >${formatNumber(props.totalCount)}</strong
+                                >
                             </div>
                             <div class="stat-card">
                                 <span class="stat-label">Bài mới nhất</span>
                                 <strong class="stat-value"
-                                    >${props.latestTs ? formatDateShort(props.latestTs) : '...'}</strong
+                                    >${props.latestTs
+                                        ? formatDateShort(props.latestTs)
+                                        : '...'}</strong
                                 >
                             </div>
                         </div>
