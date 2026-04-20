@@ -1,4 +1,5 @@
 import { html, useEffect, useState } from '../runtime.js';
+import { QUICK_FILTERS } from '../config/quickFilters.js';
 import { formatNumber } from '../utils/text.js';
 
 var SORT_LABELS = {
@@ -7,7 +8,8 @@ var SORT_LABELS = {
     relevance: 'Liên quan',
     reactions: 'Nhiều cảm xúc',
     comments: 'Nhiều bình luận',
-    shares: 'Nhiều chia sẻ'
+    shares: 'Nhiều chia sẻ',
+    media: 'Nhiều media'
 };
 
 function getSortLabel(sort) {
@@ -18,9 +20,7 @@ function FilterBar(props) {
     var _draft = useState(props.q || '');
     var draftQuery = _draft[0];
     var setDraftQuery = _draft[1];
-    var _collapsed = useState(false);
-    var filtersCollapsed = _collapsed[0];
-    var setFiltersCollapsed = _collapsed[1];
+    var filtersCollapsed = !!props.filtersCollapsed;
     var _open = useState(
         !!(
             props.dateFrom ||
@@ -120,7 +120,7 @@ function FilterBar(props) {
                                 ? 'Mở tìm kiếm và bộ lọc. Đang có bộ lọc hoặc tìm kiếm được áp dụng'
                                 : 'Mở tìm kiếm và bộ lọc'}
                             onClick=${function () {
-                                setFiltersCollapsed(false);
+                                props.onExpandFilters();
                             }}
                         >
                             <i class="fa-solid fa-magnifying-glass" aria-hidden="true"></i>
@@ -178,7 +178,7 @@ function FilterBar(props) {
                                     class="pill-button filter-collapse-button inline-flex items-center justify-center"
                                     aria-label="Thu gọn thanh tìm kiếm và bộ lọc"
                                     onClick=${function () {
-                                        setFiltersCollapsed(true);
+                                        props.onCollapseFilters();
                                     }}
                                 >
                                     <i
@@ -226,6 +226,28 @@ function FilterBar(props) {
                                 aria-hidden=${!filtersOpen || filtersCollapsed}
                             >
                                 <div class="filter-panel">
+                                    <div class="quick-filter-row quick-filter-row-inline">
+                                        ${QUICK_FILTERS.map(function (item) {
+                                            var isActive = props.sort === item.sort;
+                                            return html`<button
+                                                key=${item.id}
+                                                class=${'quick-filter-chip' +
+                                                (isActive ? ' quick-filter-chip-active' : '')}
+                                                type="button"
+                                                aria-pressed=${isActive}
+                                                onClick=${function () {
+                                                    props.onQuickFilter(item);
+                                                }}
+                                            >
+                                                <i
+                                                    class=${item.iconClass + ' text-[0.76rem]'}
+                                                    aria-hidden="true"
+                                                ></i>
+                                                <span>${item.label}</span>
+                                            </button>`;
+                                        })}
+                                    </div>
+
                                     <div
                                         class="mini-grid md:grid-cols-[150px_repeat(2,minmax(0,1fr))] md:grid"
                                     >
@@ -246,6 +268,7 @@ function FilterBar(props) {
                                                 <option value="reactions">Nhiều cảm xúc</option>
                                                 <option value="comments">Nhiều bình luận</option>
                                                 <option value="shares">Nhiều chia sẻ</option>
+                                                <option value="media">Nhiều media</option>
                                                 <option
                                                     value="relevance"
                                                     disabled=${!canUseRelevance}

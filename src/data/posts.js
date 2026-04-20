@@ -185,6 +185,14 @@ export function sortPosts(posts, sort, q) {
         });
     }
 
+    if (sort === 'media') {
+        return posts.slice().sort(function (a, b) {
+            const mediaDelta = getPostMediaCount(b) - getPostMediaCount(a);
+            if (mediaDelta !== 0) return mediaDelta;
+            return Number(b.creation_time) - Number(a.creation_time);
+        });
+    }
+
     return posts.slice().sort(function (a, b) {
         return Number(b.creation_time) - Number(a.creation_time);
     });
@@ -343,6 +351,11 @@ export function mediaSummary(post) {
         label: parts.join(' • ')
     };
     return post._mediaSummary;
+}
+
+function getPostMediaCount(post) {
+    const summary = mediaSummary(post);
+    return summary ? summary.total : 0;
 }
 
 export function enrichPost(post) {

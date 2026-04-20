@@ -358,6 +358,7 @@ body::after {
     position: sticky;
     top: calc(env(safe-area-inset-top, 0px) + 0.75rem);
     z-index: 40;
+    padding-bottom: 1.5rem;
 }
 
 .filter-floating-shell {
@@ -564,6 +565,71 @@ body::after {
 .filter-collapsed-button-visible {
     opacity: 1;
     transform: translateY(0) scale(1);
+}
+
+.quick-filter-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.55rem;
+}
+
+.quick-filter-row-inline {
+    justify-content: flex-start;
+}
+
+.quick-filter-row-external {
+    width: min(100%, 42rem);
+    margin: 0 auto 1.15rem;
+    padding: 0 0.2rem;
+}
+
+.quick-filter-chip {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+    min-height: 2.2rem;
+    padding: 0.56rem 0.88rem;
+    border-radius: 999px;
+    border: 1px solid var(--line);
+    background: rgba(255, 250, 242, 0.9);
+    color: var(--text);
+    font: inherit;
+    font-size: 0.8rem;
+    font-weight: 600;
+    line-height: 1;
+    white-space: nowrap;
+    box-shadow: 0 12px 24px rgba(23, 32, 51, 0.08);
+    transition:
+        transform 180ms ease,
+        border-color 180ms ease,
+        background-color 180ms ease,
+        color 180ms ease,
+        box-shadow 180ms ease;
+}
+
+.dark .quick-filter-chip {
+    background: rgba(16, 24, 38, 0.94);
+}
+
+.quick-filter-chip:hover {
+    transform: translateY(-1px);
+    border-color: rgba(219, 92, 68, 0.24);
+}
+
+.quick-filter-chip-active {
+    background: linear-gradient(135deg, var(--accent-soft), rgba(15, 118, 110, 0.08));
+    border-color: rgba(219, 92, 68, 0.32);
+    color: var(--accent);
+    box-shadow:
+        0 16px 34px rgba(23, 32, 51, 0.1),
+        0 0 0 1px rgba(219, 92, 68, 0.08);
+}
+
+.dark .quick-filter-chip-active {
+    background: linear-gradient(135deg, rgba(255, 143, 94, 0.18), rgba(94, 234, 212, 0.1));
+    border-color: rgba(255, 143, 94, 0.28);
 }
 
 .filter-panel {
@@ -1434,6 +1500,25 @@ mark {
     .filter-collapsed-button {
         width: 100%;
         max-width: none;
+    }
+
+    .quick-filter-row {
+        width: 100%;
+        gap: 0.42rem;
+    }
+
+    .quick-filter-row-inline {
+        justify-content: flex-start;
+    }
+
+    .quick-filter-row-external {
+        margin-bottom: 1rem;
+        padding: 0;
+    }
+
+    .quick-filter-chip {
+        padding: 0.52rem 0.76rem;
+        font-size: 0.76rem;
     }
 
     .filter-summary-shell {

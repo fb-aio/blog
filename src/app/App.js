@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from '../runtime.js';
 import { GRID_BATCH_SIZE, SNAPSHOT_SCROLL_THROTTLE_MS } from '../config/constants.js';
+import { QUICK_FILTERS } from '../config/quickFilters.js';
 import { enrichPost, filterPosts, getPostTitle, parsePostsCSV, sortPosts } from '../data/posts.js';
 import { buildGridHash, normalizeGridParams, parseHash, setHash } from '../utils/routing.js';
 import { buildSnapshotFromGridParams, readGridSnapshot, writeGridSnapshot } from '../utils/snapshot.js';
@@ -82,6 +83,9 @@ if (window.marked && window.marked.setOptions) {
         var _showScrollTop = useState(false);
         var showScrollTop = _showScrollTop[0];
         var setShowScrollTop = _showScrollTop[1];
+        var _filtersCollapsed = useState(true);
+        var filtersCollapsed = _filtersCollapsed[0];
+        var setFiltersCollapsed = _filtersCollapsed[1];
         var showScrollTopRef = useRef(false);
         var _imageViewer = useState({
             items: [],
@@ -713,6 +717,7 @@ if (window.marked && window.marked.setOptions) {
                         ? html` <${FilterBar}
                                   q=${state.q}
                                   sort=${state.sort}
+                                  filtersCollapsed=${filtersCollapsed}
                                   dateFrom=${state.dateFrom}
                                   dateTo=${state.dateTo}
                                   hasImage=${state.hasImage}
@@ -752,6 +757,25 @@ if (window.marked && window.marked.setOptions) {
                                           },
                                           scrollToGridOptions
                                       );
+                                  }}
+                                  onQuickFilter=${function (preset) {
+                                      applyGridState(
+                                          {
+                                              q: state.q,
+                                              sort: preset.sort,
+                                              from: state.dateFrom,
+                                              to: state.dateTo,
+                                              hasImage: state.hasImage,
+                                              hasVideo: state.hasVideo
+                                          },
+                                          scrollToGridOptions
+                                      );
+                                  }}
+                                  onExpandFilters=${function () {
+                                      setFiltersCollapsed(false);
+                                  }}
+                                  onCollapseFilters=${function () {
+                                      setFiltersCollapsed(true);
                                   }}
                                   onDateFrom=${function (value) {
                                       applyGridState(
@@ -819,6 +843,38 @@ if (window.marked && window.marked.setOptions) {
                                       );
                                   }}
                               />
+
+                              <div class="quick-filter-row quick-filter-row-external">
+                                  ${QUICK_FILTERS.map(function (item) {
+                                      var isActive = state.sort === item.sort;
+                                      return html`<button
+                                          key=${item.id}
+                                          class=${'quick-filter-chip' +
+                                          (isActive ? ' quick-filter-chip-active' : '')}
+                                          type="button"
+                                          aria-pressed=${isActive}
+                                          onClick=${function () {
+                                              applyGridState(
+                                                  {
+                                                      q: state.q,
+                                                      sort: item.sort,
+                                                      from: state.dateFrom,
+                                                      to: state.dateTo,
+                                                      hasImage: state.hasImage,
+                                                      hasVideo: state.hasVideo
+                                                  },
+                                                  scrollToGridOptions
+                                              );
+                                          }}
+                                      >
+                                          <i
+                                              class=${item.iconClass + ' text-[0.76rem]'}
+                                              aria-hidden="true"
+                                          ></i>
+                                          <span>${item.label}</span>
+                                      </button>`;
+                                  })}
+                              </div>
 
                               <section ref=${resultsSectionRef} class="mt-5 sm:mt-6">
                                   ${state.gridLoaded

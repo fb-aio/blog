@@ -96,3 +96,10 @@ test('sortPosts supports engagement-based ranking', function () {
         ['2', '3', '1']
     );
 });
+
+test('sortPosts supports media-based ranking', function () {
+    assert.deepEqual(
+        sortPosts(POSTS, 'media').map(function (post) { return post.post_id; }),
+        ['1', '3', '2']
+    );
+});
