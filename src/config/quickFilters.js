@@ -2,12 +2,18 @@ export var QUICK_FILTERS = [
     {
         id: 'best-posts',
         label: 'Xịn nhất',
-        iconClass: 'fa-solid fa-heart',
+        iconClass: 'fa-solid fa-star',
+        sort: 'engagement'
+    },
+    {
+        id: 'most-likes',
+        label: 'Nhiều like',
+        iconClass: 'fa-solid fa-thumbs-up',
         sort: 'reactions'
     },
     {
         id: 'most-comments',
-        label: 'Nhiều bình luận',
+        label: 'Nhiều comment',
         iconClass: 'fa-regular fa-comment',
         sort: 'comments'
     },

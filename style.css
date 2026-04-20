@@ -358,7 +358,6 @@ body::after {
     position: sticky;
     top: calc(env(safe-area-inset-top, 0px) + 0.75rem);
     z-index: 40;
-    padding-bottom: 1.5rem;
 }
 
 .filter-floating-shell {
@@ -580,7 +579,7 @@ body::after {
 
 .quick-filter-row-external {
     width: min(100%, 42rem);
-    margin: 0 auto 1.15rem;
+    margin: 1rem auto 1.5rem;
     padding: 0 0.2rem;
 }
 

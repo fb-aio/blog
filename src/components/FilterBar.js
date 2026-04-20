@@ -5,8 +5,9 @@ import { formatNumber } from '../utils/text.js';
 var SORT_LABELS = {
     newest: 'Mới nhất',
     oldest: 'Cũ nhất',
+    engagement: 'Xịn nhất',
     relevance: 'Liên quan',
-    reactions: 'Nhiều cảm xúc',
+    reactions: 'Nhiều like',
     comments: 'Nhiều bình luận',
     shares: 'Nhiều chia sẻ',
     media: 'Nhiều media'
@@ -263,9 +264,10 @@ function FilterBar(props) {
                                                     props.onSort(event.target.value);
                                                 }}
                                             >
+                                                <option value="engagement">Xịn nhất</option>
                                                 <option value="newest">Mới nhất</option>
                                                 <option value="oldest">Cũ nhất</option>
-                                                <option value="reactions">Nhiều cảm xúc</option>
+                                                <option value="reactions">Nhiều like</option>
                                                 <option value="comments">Nhiều bình luận</option>
                                                 <option value="shares">Nhiều chia sẻ</option>
                                                 <option value="media">Nhiều media</option>

@@ -97,6 +97,13 @@ test('sortPosts supports engagement-based ranking', function () {
     );
 });
 
+test('sortPosts supports best-post ranking by combined engagement', function () {
+    assert.deepEqual(
+        sortPosts(POSTS, 'engagement').map(function (post) { return post.post_id; }),
+        ['2', '3', '1']
+    );
+});
+
 test('sortPosts supports media-based ranking', function () {
     assert.deepEqual(
         sortPosts(POSTS, 'media').map(function (post) { return post.post_id; }),

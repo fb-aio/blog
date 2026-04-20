@@ -185,6 +185,14 @@ export function sortPosts(posts, sort, q) {
         });
     }
 
+    if (sort === 'engagement') {
+        return posts.slice().sort(function (a, b) {
+            const engagementDelta = getPostEngagementScore(b) - getPostEngagementScore(a);
+            if (engagementDelta !== 0) return engagementDelta;
+            return Number(b.creation_time) - Number(a.creation_time);
+        });
+    }
+
     if (sort === 'media') {
         return posts.slice().sort(function (a, b) {
             const mediaDelta = getPostMediaCount(b) - getPostMediaCount(a);
@@ -356,6 +364,11 @@ export function mediaSummary(post) {
 function getPostMediaCount(post) {
     const summary = mediaSummary(post);
     return summary ? summary.total : 0;
+}
+
+function getPostEngagementScore(post) {
+    const engagement = getPostEngagement(post);
+    return engagement.reactions + engagement.comments + engagement.shares;
 }
 
 export function enrichPost(post) {
