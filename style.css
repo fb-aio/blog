@@ -38,6 +38,15 @@
     box-sizing: border-box;
 }
 
+ol li {
+    list-style: decimal;
+    margin-left: 15px;
+}
+ul li {
+    list-style: disc;
+    margin-left: 15px;
+}
+
 html {
     background:
         radial-gradient(circle at top left, rgba(219, 92, 68, 0.18), transparent 28%),
@@ -647,6 +656,8 @@ body::after {
     border-radius: 1.15rem;
     border: 1px solid var(--line);
     box-shadow: var(--shadow);
+    max-height: calc(100vh - 150px);
+    overflow-y: auto;
     transform-origin: top right;
     transition:
         opacity 220ms ease,
@@ -1452,13 +1463,14 @@ mark {
 }
 
 @media (max-width: 767px) {
-    .hero-actions {
+    /* .hero-actions {
         flex-direction: column;
-    }
+    } */
 
     .hero-link-button {
-        width: 100%;
+        /* width: 100%; */
         justify-content: center;
+        flex: 1;
     }
 
     .contact-link-card {

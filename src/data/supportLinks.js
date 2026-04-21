@@ -59,6 +59,13 @@ export const SUPPORT_SECTIONS = [
                 target: '_blank',
                 iconClass: 'fa-brands fa-telegram',
                 meta: 'Trao đổi qua Telegram'
+            },
+            {
+                label: 'Admin Email',
+                href: 'mailto:99.hoangtran@gmail.com',
+                target: '_blank',
+                iconClass: 'fa-solid fa-at',
+                meta: 'Trao đổi qua Email'
             }
         ]
     },
