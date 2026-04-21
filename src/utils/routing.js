@@ -1,7 +1,9 @@
+import { DEFAULT_GRID_SORT } from '../config/constants.js';
+
 export function normalizeGridParams(params) {
     return {
         q: (params && params.q ? String(params.q) : '').trim(),
-        sort: params && params.sort ? String(params.sort) : 'newest',
+        sort: params && params.sort ? String(params.sort) : DEFAULT_GRID_SORT,
         from: params && params.from ? String(params.from) : '',
         to: params && params.to ? String(params.to) : '',
         hasImage: !!(
@@ -20,7 +22,7 @@ export function buildGridHash(params) {
     const qs = new URLSearchParams();
 
     if (normalized.q) qs.set('q', normalized.q);
-    if (normalized.sort && normalized.sort !== 'newest') qs.set('sort', normalized.sort);
+    if (normalized.sort && normalized.sort !== DEFAULT_GRID_SORT) qs.set('sort', normalized.sort);
     if (normalized.from) qs.set('from', normalized.from);
     if (normalized.to) qs.set('to', normalized.to);
     if (normalized.hasImage) qs.set('img', '1');
@@ -55,7 +57,7 @@ export function parseHash(rawHash) {
         const searchParams = new URLSearchParams(trimmed.slice(7));
         params = normalizeGridParams({
             q: searchParams.get('q') || '',
-            sort: searchParams.get('sort') || 'newest',
+            sort: searchParams.get('sort') || DEFAULT_GRID_SORT,
             from: searchParams.get('from') || '',
             to: searchParams.get('to') || '',
             hasImage: searchParams.get('img') || '',

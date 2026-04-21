@@ -1,5 +1,9 @@
 import { useEffect, useMemo, useRef, useState } from '../runtime.js';
-import { GRID_BATCH_SIZE, SNAPSHOT_SCROLL_THROTTLE_MS } from '../config/constants.js';
+import {
+    DEFAULT_GRID_SORT,
+    GRID_BATCH_SIZE,
+    SNAPSHOT_SCROLL_THROTTLE_MS
+} from '../config/constants.js';
 import { QUICK_FILTERS } from '../config/quickFilters.js';
 import { enrichPost, filterPosts, getPostTitle, parsePostsCSV, sortPosts } from '../data/posts.js';
 import { buildGridHash, normalizeGridParams, parseHash, setHash } from '../utils/routing.js';
@@ -726,7 +730,7 @@ function App() {
                                           sort: query
                                               ? state.sort
                                               : state.sort === 'relevance'
-                                                ? 'newest'
+                                                ? DEFAULT_GRID_SORT
                                                 : state.sort,
                                           from: state.dateFrom,
                                           to: state.dateTo,
@@ -742,7 +746,7 @@ function App() {
                                           q: state.q,
                                           sort:
                                               sortValue === 'relevance' && !state.q
-                                                  ? 'newest'
+                                                  ? DEFAULT_GRID_SORT
                                                   : sortValue,
                                           from: state.dateFrom,
                                           to: state.dateTo,
@@ -827,7 +831,7 @@ function App() {
                                   applyGridState(
                                       {
                                           q: '',
-                                          sort: 'newest',
+                                          sort: DEFAULT_GRID_SORT,
                                           from: '',
                                           to: '',
                                           hasImage: false,
@@ -880,7 +884,7 @@ function App() {
                                             applyGridState(
                                                 {
                                                     q: '',
-                                                    sort: 'newest',
+                                                    sort: DEFAULT_GRID_SORT,
                                                     from: '',
                                                     to: '',
                                                     hasImage: false,

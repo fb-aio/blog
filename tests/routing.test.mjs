@@ -1,12 +1,13 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 
+import { DEFAULT_GRID_SORT } from '../src/config/constants.js';
 import { buildGridHash, normalizeGridParams, parseHash, setHash } from '../src/utils/routing.js';
 
 test('normalizeGridParams coerces query and boolean flags', function () {
     assert.deepEqual(normalizeGridParams({ q: '  abc  ', hasImage: '1', hasVideo: 'true' }), {
         q: 'abc',
-        sort: 'newest',
+        sort: DEFAULT_GRID_SORT,
         from: '',
         to: '',
         hasImage: true,
@@ -15,7 +16,7 @@ test('normalizeGridParams coerces query and boolean flags', function () {
 });
 
 test('buildGridHash omits default values', function () {
-    assert.equal(buildGridHash({ q: '', sort: 'newest' }), '#');
+    assert.equal(buildGridHash({ q: '', sort: DEFAULT_GRID_SORT }), '#');
 });
 
 test('buildGridHash includes active filters', function () {
@@ -52,6 +53,21 @@ test('parseHash handles grid search routes', function () {
             hasVideo: false
         },
         rawHash: '#search?q=test&sort=oldest&img=1'
+    });
+});
+
+test('parseHash defaults grid routes to engagement sort', function () {
+    assert.deepEqual(parseHash('#'), {
+        view: 'grid',
+        params: {
+            q: '',
+            sort: DEFAULT_GRID_SORT,
+            from: '',
+            to: '',
+            hasImage: false,
+            hasVideo: false
+        },
+        rawHash: '#'
     });
 });
 

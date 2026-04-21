@@ -1,4 +1,5 @@
 import { html, useEffect, useState } from '../runtime.js';
+import { DEFAULT_GRID_SORT } from '../config/constants.js';
 import { QUICK_FILTERS } from '../config/quickFilters.js';
 import { formatNumber } from '../utils/text.js';
 
@@ -26,7 +27,7 @@ function FilterBar(props) {
         !!(
             props.dateFrom ||
             props.dateTo ||
-            props.sort !== 'newest' ||
+            props.sort !== DEFAULT_GRID_SORT ||
             props.hasImage ||
             props.hasVideo
         )
@@ -47,7 +48,7 @@ function FilterBar(props) {
             if (
                 props.dateFrom ||
                 props.dateTo ||
-                props.sort !== 'newest' ||
+                props.sort !== DEFAULT_GRID_SORT ||
                 props.hasImage ||
                 props.hasVideo
             ) {
@@ -83,7 +84,7 @@ function FilterBar(props) {
         chips.push(
             html`<span class="chip"><span>Đến</span><strong>${props.dateTo}</strong></span>`
         );
-    if (props.sort !== 'newest')
+    if (props.sort !== DEFAULT_GRID_SORT)
         chips.push(
             html`<span class="chip"
                 ><span>Sắp xếp</span><strong>${getSortLabel(props.sort)}</strong></span
