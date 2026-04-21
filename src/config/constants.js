@@ -7,4 +7,5 @@ export const GRID_BATCH_SIZE = 18;
 export const IMAGE_EXTENSIONS = ['jpg', 'png', 'jpeg', 'webp'];
 export const IMAGE_VIEWER_MIN_SCALE = 1;
 export const IMAGE_VIEWER_MAX_SCALE = 4;
+export const SEARCH_INPUT_DEBOUNCE_MS = 320;
 export const SNAPSHOT_SCROLL_THROTTLE_MS = 200;

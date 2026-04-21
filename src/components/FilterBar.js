@@ -1,5 +1,5 @@
-import { html, useEffect, useState } from '../runtime.js';
-import { DEFAULT_GRID_SORT } from '../config/constants.js';
+import { html, useEffect, useRef, useState } from '../runtime.js';
+import { DEFAULT_GRID_SORT, SEARCH_INPUT_DEBOUNCE_MS } from '../config/constants.js';
 import { QUICK_FILTERS } from '../config/quickFilters.js';
 import { formatNumber } from '../utils/text.js';
 
@@ -22,6 +22,7 @@ function FilterBar(props) {
     var _draft = useState(props.q || '');
     var draftQuery = _draft[0];
     var setDraftQuery = _draft[1];
+    var lastSubmittedDraftRef = useRef(props.q || '');
     var filtersCollapsed = !!props.filtersCollapsed;
     var _open = useState(
         !!(
@@ -38,7 +39,15 @@ function FilterBar(props) {
 
     useEffect(
         function () {
-            setDraftQuery(props.q || '');
+            var nextQuery = props.q || '';
+            var lastSubmittedDraft = lastSubmittedDraftRef.current || '';
+
+            if (nextQuery === lastSubmittedDraft || nextQuery === lastSubmittedDraft.trim()) {
+                return;
+            }
+
+            setDraftQuery(nextQuery);
+            lastSubmittedDraftRef.current = nextQuery;
         },
         [props.q]
     );
@@ -63,8 +72,9 @@ function FilterBar(props) {
             if (draftQuery === (props.q || '')) return;
 
             var timer = window.setTimeout(function () {
+                lastSubmittedDraftRef.current = draftQuery;
                 props.onSearch(draftQuery);
-            }, 180);
+            }, SEARCH_INPUT_DEBOUNCE_MS);
 
             return function () {
                 window.clearTimeout(timer);
