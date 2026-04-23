@@ -112,6 +112,8 @@ class PostsToolTests(unittest.TestCase):
             "creation_time": 123,
             "url": "https://fb.com/example",
             "message": "Xin chao",
+            "title": "Xin chao",
+            "summary": "Mo ta them",
             "content": {
                 "attachments": [{"id": "att-1", "type": "Photo"}],
                 "text": "Noi dung",
@@ -129,7 +131,11 @@ class PostsToolTests(unittest.TestCase):
         row = posts_tool.build_csv_row(post, detail_payload)
 
         self.assertNotIn("url", row)
+        self.assertNotIn("title", row)
+        self.assertNotIn("summary", row)
+        self.assertEqual(row["message"], "Xin chao\\n\\nMo ta them")
         self.assertEqual(row["attachments"], "Photo:att-1")
+        self.assertEqual(row["thumbhash"], "")
         self.assertEqual(row["reactions"], "12")
         self.assertEqual(row["comments"], "3")
         self.assertEqual(row["shares"], "4")
@@ -157,6 +163,47 @@ class PostsToolTests(unittest.TestCase):
         row = posts_tool.build_csv_row(post, detail_payload)
 
         self.assertEqual(row["attachments"], "Photo:new-att")
+
+    def test_update_csv_thumbhashes_merges_message_columns_and_rewrites_schema(self) -> None:
+        original_generate_thumbhash = posts_tool.generate_thumbhash
+
+        def fake_generate_thumbhash(path):
+            return f"hash:{path.name}"
+
+        posts_tool.generate_thumbhash = fake_generate_thumbhash
+
+        try:
+            with tempfile.TemporaryDirectory() as temp_dir:
+                base = Path(temp_dir)
+                csv_path = base / "posts.min.csv"
+                media_dir = base / "media"
+                media_dir.mkdir()
+                (media_dir / "p1_att-1.jpg").write_bytes(b"fake-image")
+                csv_path.write_text(
+                    "\n".join(
+                        [
+                            "post_id,creation_time,message,title,summary,attachments,content_text,reactions,comments,shares,hashtags",
+                            'p1,123,"Xin chao","Xin chao","Mo ta them",Photo:att-1,,1,2,3,#tag',
+                        ]
+                    )
+                    + "\n",
+                    encoding="utf-8",
+                )
+
+                rows, hashed_rows = posts_tool.update_csv_thumbhashes(
+                    csv_path,
+                    media_dir=media_dir,
+                )
+                saved_rows = posts_tool.load_csv_rows(csv_path)
+        finally:
+            posts_tool.generate_thumbhash = original_generate_thumbhash
+
+        self.assertEqual(hashed_rows, 1)
+        self.assertEqual(rows[0]["message"], "Xin chao\\n\\nMo ta them")
+        self.assertEqual(rows[0]["thumbhash"], "hash:p1_att-1.jpg")
+        self.assertNotIn("title", saved_rows[0])
+        self.assertNotIn("summary", saved_rows[0])
+        self.assertEqual(saved_rows[0]["thumbhash"], "hash:p1_att-1.jpg")
 
     def test_build_post_from_detail_payload_creates_posts_json_shape(self) -> None:
         payload = {

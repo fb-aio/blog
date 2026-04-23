@@ -6,9 +6,7 @@ import { filterPosts, parsePostsCSV, sortPosts } from '../src/data/posts.js';
 const POSTS = [
     {
         post_id: '1',
-        title: 'Hướng dẫn ảnh đẹp',
-        summary: 'Tổng hợp',
-        message: 'Ảnh và video',
+        message: 'Hướng dẫn ảnh đẹp\n\nẢnh và video',
         content_text: '',
         hashtags: '#fbaio_share',
         attachments: 'Photo:1,Video:2',
@@ -19,9 +17,7 @@ const POSTS = [
     },
     {
         post_id: '2',
-        title: 'Mẹo automation',
-        summary: 'Không có media',
-        message: 'Text only',
+        message: 'Mẹo automation\n\nText only',
         content_text: '',
         hashtags: '#automation',
         attachments: '',
@@ -32,9 +28,7 @@ const POSTS = [
     },
     {
         post_id: '3',
-        title: 'Video walkthrough',
-        summary: 'Chỉ có video',
-        message: 'video demo',
+        message: 'Video walkthrough\n\nvideo demo',
         content_text: '',
         hashtags: '#video',
         attachments: 'Video:7',
@@ -46,12 +40,12 @@ const POSTS = [
 ];
 
 test('parsePostsCSV parses quoted values and escaped newlines', function () {
-    const csv = 'post_id,title,message\n1,"Xin chào","Dòng 1\\nDòng 2"';
+    const csv = 'post_id,message,thumbhash\n1,"Xin chào\\n\\nDòng 1\\nDòng 2","AQID"';
     assert.deepEqual(parsePostsCSV(csv), [
         {
             post_id: '1',
-            title: 'Xin chào',
-            message: 'Dòng 1\nDòng 2'
+            message: 'Xin chào\n\nDòng 1\nDòng 2',
+            thumbhash: 'AQID'
         }
     ]);
 });

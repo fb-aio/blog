@@ -1,4 +1,5 @@
 import { IMAGE_EXTENSIONS, PLACEHOLDER_SVG } from '../config/constants.js';
+import { thumbHashToDataURL } from '../vendor/thumbhash.js';
 import {
     escapeHtml,
     markdownToPlainText,
@@ -74,10 +75,10 @@ export function buildPostSearchHaystack(post) {
     return normalizeSearchText(
         [
             post.post_id || '',
-            post.title || '',
             post.message || '',
-            post.summary || '',
             post.content_text || '',
+            post.title || '',
+            post.summary || '',
             post.hashtags || ''
         ].join(' \n ')
     );
@@ -91,13 +92,13 @@ export function getPostSearchHaystack(post) {
 
 export function getPostTitleSearchText(post) {
     if (post._titleSearchText !== undefined) return post._titleSearchText;
-    post._titleSearchText = normalizeSearchText(post.title || '');
+    post._titleSearchText = normalizeSearchText(getPostCopy(post).title || post.title || '');
     return post._titleSearchText;
 }
 
 export function getPostSummarySearchText(post) {
     if (post._summarySearchText !== undefined) return post._summarySearchText;
-    post._summarySearchText = normalizeSearchText(post.summary || '');
+    post._summarySearchText = normalizeSearchText(getPostCopy(post).excerpt || post.summary || '');
     return post._summarySearchText;
 }
 
@@ -105,6 +106,29 @@ export function getPostMessageSearchText(post) {
     if (post._messageSearchText !== undefined) return post._messageSearchText;
     post._messageSearchText = normalizeSearchText(post.message || '');
     return post._messageSearchText;
+}
+
+export function getPostThumbhashDataUrl(post) {
+    if (post._thumbhashDataUrl !== undefined) return post._thumbhashDataUrl;
+
+    const encoded = String(post.thumbhash || '').trim();
+    if (!encoded) {
+        post._thumbhashDataUrl = '';
+        return post._thumbhashDataUrl;
+    }
+
+    try {
+        const binary = atob(encoded);
+        const hash = new Uint8Array(binary.length);
+        for (let index = 0; index < binary.length; index += 1) {
+            hash[index] = binary.charCodeAt(index);
+        }
+        post._thumbhashDataUrl = thumbHashToDataURL(hash);
+    } catch (_) {
+        post._thumbhashDataUrl = '';
+    }
+
+    return post._thumbhashDataUrl;
 }
 
 export function createQueryScorer(query) {
@@ -411,6 +435,7 @@ export function enrichPost(post) {
     getPostPermalink(post);
     mediaSummary(post);
     mediaUrl(post);
+    getPostThumbhashDataUrl(post);
     return post;
 }
 

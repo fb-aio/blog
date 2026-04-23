@@ -1200,7 +1200,6 @@ function PostDetail(props) {
                         textFormat=${textFormat}
                     />
                     <${DetailTextSection} label="Ghi chú thêm" value=${additionalNote} />
-                    <${DetailTextSection} label="Tóm tắt" value=${post.summary || ''} />
                     <${DetailTextSection}
                         label="Nội dung bài gốc"
                         value=${shouldShowAttachedPostText ? attachedPostText : ''}

@@ -18,3 +18,11 @@ Format:
 ```
 
 Each key is a `post_id`. The value is markdown text and will be shown in the post detail page under `Ghi chú`.
+
+## Thumbhash
+
+`data/posts.min.csv` now stores a `thumbhash` column for grid placeholders. Generate or refresh it from local media files with:
+
+```bash
+python3 scripts/posts_tool.py thumbhash-csv --csv-path data/posts.min.csv --media-dir media
+```

@@ -4,11 +4,15 @@
 from __future__ import annotations
 
 import argparse
+import base64
 import csv
 import json
 import mimetypes
 import random
+import struct
+import subprocess
 import sys
+import tempfile
 import time
 from collections import OrderedDict
 from copy import deepcopy
@@ -37,9 +41,8 @@ CSV_FIELDS = [
     "post_id",
     "creation_time",
     "message",
-    "title",
-    "summary",
     "attachments",
+    "thumbhash",
     "content_text",
     "reactions",
     "comments",
@@ -537,6 +540,318 @@ def compact_text_for_csv(value: Any) -> str:
     return str(value or "").replace("\r\n", "\n").replace("\r", "\n").replace("\n", "\\n")
 
 
+def expand_compact_csv_text(value: Any) -> str:
+    return str(value or "").replace("\\n", "\n")
+
+
+def normalize_comparable_text(value: Any) -> str:
+    text = expand_compact_csv_text(value).strip()
+    if not text:
+        return ""
+    return " ".join(text.split()).casefold()
+
+
+def merge_unique_text_parts(*values: Any) -> str:
+    merged: list[str] = []
+    seen: set[str] = set()
+    for value in values:
+        text = as_str(expand_compact_csv_text(value))
+        if not text:
+            continue
+        normalized = normalize_comparable_text(text)
+        if not normalized or normalized in seen:
+            continue
+        seen.add(normalized)
+        merged.append(text)
+    return "\n\n".join(merged)
+
+
+def combine_post_message(post: dict[str, Any]) -> str:
+    return merge_unique_text_parts(
+        post.get("message"),
+        post.get("title"),
+        post.get("summary"),
+    )
+
+
+def parse_attachment_tokens(value: Any) -> list[tuple[str, str]]:
+    tokens: list[tuple[str, str]] = []
+    for token in str(value or "").split(","):
+        item = token.strip()
+        if not item or ":" not in item:
+            continue
+        attachment_type, attachment_id = item.split(":", 1)
+        attachment_type = attachment_type.strip()
+        attachment_id = attachment_id.strip()
+        if attachment_type and attachment_id:
+            tokens.append((attachment_type, attachment_id))
+    return tokens
+
+
+def find_thumb_image_path(post_id: str, attachments_csv: Any, media_dir: Path) -> Path | None:
+    for _, attachment_id in parse_attachment_tokens(attachments_csv):
+        stem = f"{post_id}_{attachment_id}"
+        for suffix in (
+            ".jpg",
+            ".jpeg",
+            ".png",
+            ".webp",
+            ".gif",
+            ".bmp",
+            ".heic",
+            ".heif",
+            ".avif",
+        ):
+            candidate = media_dir / f"{stem}{suffix}"
+            if candidate.exists():
+                return candidate
+    return None
+
+
+def generate_thumbhash(image_path: Path) -> str:
+    if not image_path.exists():
+        return ""
+    width, height, rgba = rasterize_image_to_rgba(image_path)
+    thumbhash = rgba_to_thumbhash(width, height, rgba)
+    return base64.b64encode(bytes(thumbhash)).decode("ascii")
+
+
+def rasterize_image_to_rgba(image_path: Path) -> tuple[int, int, list[int]]:
+    with tempfile.TemporaryDirectory() as temp_dir:
+        output_path = Path(temp_dir) / "thumbhash.bmp"
+        result = subprocess.run(
+            [
+                "sips",
+                "-s",
+                "format",
+                "bmp",
+                "--resampleHeightWidthMax",
+                "100",
+                str(image_path),
+                "--out",
+                str(output_path),
+            ],
+            capture_output=True,
+            check=False,
+            text=True,
+        )
+        if result.returncode != 0:
+            stderr = result.stderr.strip() or result.stdout.strip() or "sips failed"
+            raise RuntimeError(f"Failed to rasterize {image_path.name}: {stderr}")
+        return load_bmp_rgba(output_path)
+
+
+def load_bmp_rgba(path: Path) -> tuple[int, int, list[int]]:
+    payload = path.read_bytes()
+    if payload[:2] != b"BM":
+        raise RuntimeError(f"Unsupported BMP header in {path}")
+
+    pixel_offset = struct.unpack_from("<I", payload, 10)[0]
+    dib_size = struct.unpack_from("<I", payload, 14)[0]
+    if dib_size < 40:
+        raise RuntimeError(f"Unsupported BMP DIB header in {path}")
+
+    width = struct.unpack_from("<i", payload, 18)[0]
+    raw_height = struct.unpack_from("<i", payload, 22)[0]
+    planes = struct.unpack_from("<H", payload, 26)[0]
+    bits_per_pixel = struct.unpack_from("<H", payload, 28)[0]
+    compression = struct.unpack_from("<I", payload, 30)[0]
+    if planes != 1 or bits_per_pixel not in {24, 32} or compression not in {0, 3}:
+        raise RuntimeError(
+            f"Unsupported BMP format in {path}: planes={planes} bpp={bits_per_pixel} compression={compression}"
+        )
+
+    height = abs(raw_height)
+    top_down = raw_height < 0
+    bytes_per_pixel = bits_per_pixel // 8
+    row_stride = ((width * bytes_per_pixel + 3) // 4) * 4
+    rgba: list[int] = [0] * (width * height * 4)
+
+    for row in range(height):
+        source_row = row if top_down else height - 1 - row
+        row_offset = pixel_offset + source_row * row_stride
+        for col in range(width):
+            pixel_offset_in_row = row_offset + col * bytes_per_pixel
+            blue = payload[pixel_offset_in_row]
+            green = payload[pixel_offset_in_row + 1]
+            red = payload[pixel_offset_in_row + 2]
+            alpha = payload[pixel_offset_in_row + 3] if bytes_per_pixel == 4 else 255
+            output_index = (row * width + col) * 4
+            rgba[output_index:output_index + 4] = [red, green, blue, alpha]
+
+    return width, height, rgba
+
+
+def rgba_to_thumbhash(width: int, height: int, rgba: list[int]) -> list[int]:
+    if width > 100 or height > 100:
+        raise ValueError(f"{width}x{height} doesn't fit in 100x100")
+
+    avg_r = 0.0
+    avg_g = 0.0
+    avg_b = 0.0
+    avg_a = 0.0
+    pixels = width * height
+
+    for index in range(pixels):
+        offset = index * 4
+        alpha = rgba[offset + 3] / 255.0
+        avg_r += alpha * rgba[offset] / 255.0
+        avg_g += alpha * rgba[offset + 1] / 255.0
+        avg_b += alpha * rgba[offset + 2] / 255.0
+        avg_a += alpha
+
+    if avg_a:
+        avg_r /= avg_a
+        avg_g /= avg_a
+        avg_b /= avg_a
+
+    has_alpha = avg_a < pixels
+    l_limit = 5 if has_alpha else 7
+    lx = max(1, round(l_limit * width / max(width, height)))
+    ly = max(1, round(l_limit * height / max(width, height)))
+    l_channel: list[float] = [0.0] * pixels
+    p_channel: list[float] = [0.0] * pixels
+    q_channel: list[float] = [0.0] * pixels
+    a_channel: list[float] = [0.0] * pixels
+
+    for index in range(pixels):
+        offset = index * 4
+        alpha = rgba[offset + 3] / 255.0
+        red = avg_r * (1 - alpha) + alpha * rgba[offset] / 255.0
+        green = avg_g * (1 - alpha) + alpha * rgba[offset + 1] / 255.0
+        blue = avg_b * (1 - alpha) + alpha * rgba[offset + 2] / 255.0
+        l_channel[index] = (red + green + blue) / 3
+        p_channel[index] = (red + green) / 2 - blue
+        q_channel[index] = red - green
+        a_channel[index] = alpha
+
+    def encode_channel(channel: list[float], nx: int, ny: int) -> tuple[float, list[float], float]:
+        dc = 0.0
+        ac: list[float] = []
+        scale = 0.0
+        fx = [0.0] * width
+
+        for cy in range(ny):
+            for cx in range(nx):
+                if cx * ny >= nx * (ny - cy):
+                    continue
+                value = 0.0
+                for x in range(width):
+                    fx[x] = math.cos(math.pi / width * cx * (x + 0.5))
+                for y in range(height):
+                    fy = math.cos(math.pi / height * cy * (y + 0.5))
+                    for x in range(width):
+                        value += channel[x + y * width] * fx[x] * fy
+                value /= width * height
+                if cx or cy:
+                    ac.append(value)
+                    scale = max(scale, abs(value))
+                else:
+                    dc = value
+
+        if scale:
+            for index, value in enumerate(ac):
+                ac[index] = 0.5 + 0.5 / scale * value
+
+        return dc, ac, scale
+
+    import math
+
+    l_dc, l_ac, l_scale = encode_channel(l_channel, max(3, lx), max(3, ly))
+    p_dc, p_ac, p_scale = encode_channel(p_channel, 3, 3)
+    q_dc, q_ac, q_scale = encode_channel(q_channel, 3, 3)
+    if has_alpha:
+        a_dc, a_ac, a_scale = encode_channel(a_channel, 5, 5)
+    else:
+        a_dc, a_ac, a_scale = 1.0, [], 0.0
+
+    is_landscape = width > height
+    header24 = (
+        round(63 * l_dc)
+        | (round(31.5 + 31.5 * p_dc) << 6)
+        | (round(31.5 + 31.5 * q_dc) << 12)
+        | (round(31 * l_scale) << 18)
+        | (int(has_alpha) << 23)
+    )
+    header16 = (
+        (ly if is_landscape else lx)
+        | (round(63 * p_scale) << 3)
+        | (round(63 * q_scale) << 9)
+        | (int(is_landscape) << 15)
+    )
+    hash_bytes = [
+        header24 & 255,
+        (header24 >> 8) & 255,
+        header24 >> 16,
+        header16 & 255,
+        header16 >> 8,
+    ]
+
+    ac_start = 6 if has_alpha else 5
+    ac_index = 0
+    if has_alpha:
+        hash_bytes.append(round(15 * a_dc) | (round(15 * a_scale) << 4))
+
+    channels = [l_ac, p_ac, q_ac, a_ac] if has_alpha else [l_ac, p_ac, q_ac]
+    for channel in channels:
+        for value in channel:
+            output_index = ac_start + (ac_index >> 1)
+            while len(hash_bytes) <= output_index:
+                hash_bytes.append(0)
+            hash_bytes[output_index] |= round(15 * value) << ((ac_index & 1) << 2)
+            ac_index += 1
+
+    return hash_bytes
+
+
+def compute_row_thumbhash(
+    row: dict[str, str],
+    *,
+    media_dir: Path | None,
+    thumbhash_cache: dict[Path, str] | None = None,
+) -> str:
+    if not media_dir:
+        return ""
+    post_id = as_str(row.get("post_id")) or ""
+    image_path = find_thumb_image_path(post_id, row.get("attachments"), media_dir)
+    if not image_path:
+        return ""
+
+    cache = thumbhash_cache if thumbhash_cache is not None else {}
+    if image_path not in cache:
+        cache[image_path] = generate_thumbhash(image_path)
+    return cache[image_path]
+
+
+def normalize_csv_row(
+    row: dict[str, Any],
+    *,
+    media_dir: Path | None = None,
+    thumbhash_cache: dict[Path, str] | None = None,
+) -> dict[str, str]:
+    normalized = {
+        "post_id": str(row.get("post_id") or ""),
+        "creation_time": str(row.get("creation_time") or ""),
+        "message": compact_text_for_csv(
+            merge_unique_text_parts(row.get("message"), row.get("title"), row.get("summary"))
+        ),
+        "attachments": str(row.get("attachments") or ""),
+        "thumbhash": str(row.get("thumbhash") or ""),
+        "content_text": compact_text_for_csv(expand_compact_csv_text(row.get("content_text"))),
+        "reactions": str(row.get("reactions") or "0"),
+        "comments": str(row.get("comments") or "0"),
+        "shares": str(row.get("shares") or "0"),
+        "hashtags": str(row.get("hashtags") or ""),
+    }
+    if media_dir:
+        normalized["thumbhash"] = compute_row_thumbhash(
+            normalized,
+            media_dir=media_dir,
+            thumbhash_cache=thumbhash_cache,
+        )
+    return normalized
+
+
 def detail_metadata_from_payload(payload: Any | None) -> dict[str, str]:
     if not payload:
         return {
@@ -657,6 +972,82 @@ def build_post_from_detail_payload(post_id: str, payload: Any) -> dict[str, Any]
     }
 
 
+def merge_post_attachments(
+    existing_attachments: Any,
+    detail_attachments: list[dict[str, Any]],
+) -> tuple[list[dict[str, Any]], int]:
+    merged: list[dict[str, Any]] = []
+    seen_ids: set[str] = set()
+
+    if isinstance(existing_attachments, list):
+        for item in existing_attachments:
+            if not isinstance(item, dict):
+                continue
+            attachment_id = as_str(item.get("id"))
+            if attachment_id:
+                seen_ids.add(attachment_id)
+            merged.append(deepcopy(item))
+
+    added = 0
+    for attachment in detail_attachments:
+        attachment_id = as_str(attachment.get("id"))
+        if not attachment_id or attachment_id in seen_ids:
+            continue
+        seen_ids.add(attachment_id)
+        merged.append(deepcopy(attachment))
+        added += 1
+
+    return merged, added
+
+
+def sync_posts_with_details(
+    posts: list[dict[str, Any]],
+    details_dir: Path,
+) -> tuple[list[dict[str, Any]], int, int]:
+    synced_posts: list[dict[str, Any]] = []
+    changed_posts = 0
+    added_attachments = 0
+
+    for index, post in enumerate(posts, start=1):
+        post_copy = deepcopy(post)
+        post_id = normalize_post_id(post_copy, index)
+        detail_payload = load_optional_detail_payload(details_dir, post_id)
+        if not detail_payload:
+            synced_posts.append(post_copy)
+            continue
+
+        detail_attachments = extract_unique_detail_attachments(detail_payload)
+        content = post_copy.get("content")
+        if not isinstance(content, dict):
+            content = {}
+            post_copy["content"] = content
+
+        merged_attachments, added = merge_post_attachments(
+            content.get("attachments"),
+            detail_attachments,
+        )
+        if added > 0:
+            content["attachments"] = merged_attachments
+            changed_posts += 1
+            added_attachments += added
+
+        synced_posts.append(post_copy)
+
+    return synced_posts, changed_posts, added_attachments
+
+
+def upsert_post(posts: list[dict[str, Any]], post_record: dict[str, Any]) -> list[dict[str, Any]]:
+    post_id = as_str(post_record.get("post_id") or post_record.get("id")) or ""
+    remaining = [
+        deepcopy(post)
+        for post in posts
+        if normalize_post_id(post, 0) != post_id
+    ]
+    updated_posts = [deepcopy(post_record)] + remaining
+    updated_posts.sort(key=lambda item: int(item.get("creation_time") or 0), reverse=True)
+    return updated_posts
+
+
 def build_csv_row(post: dict[str, Any], detail_payload: Any | None) -> dict[str, str]:
     post_id = as_str(post.get("post_id") or post.get("id")) or ""
     content = post.get("content") if isinstance(post.get("content"), dict) else {}
@@ -665,10 +1056,9 @@ def build_csv_row(post: dict[str, Any], detail_payload: Any | None) -> dict[str,
     return {
         "post_id": post_id,
         "creation_time": str(post.get("creation_time") or ""),
-        "message": compact_text_for_csv(post.get("message")),
-        "title": compact_text_for_csv(post.get("title")),
-        "summary": compact_text_for_csv(post.get("summary")),
+        "message": compact_text_for_csv(combine_post_message(post)),
         "attachments": compact_attachments_csv_str(attachments),
+        "thumbhash": "",
         "content_text": compact_text_for_csv(content.get("text") if isinstance(content, dict) else ""),
         "reactions": metadata["reactions"],
         "comments": metadata["comments"],
@@ -677,12 +1067,25 @@ def build_csv_row(post: dict[str, Any], detail_payload: Any | None) -> dict[str,
     }
 
 
-def build_csv_rows(posts: Iterable[dict[str, Any]], *, details_dir: Path | None = None) -> list[dict[str, str]]:
+def build_csv_rows(
+    posts: Iterable[dict[str, Any]],
+    *,
+    details_dir: Path | None = None,
+    media_dir: Path | None = None,
+) -> list[dict[str, str]]:
     rows: list[dict[str, str]] = []
+    thumbhash_cache: dict[Path, str] = {}
     for index, post in enumerate(posts, start=1):
         post_id = normalize_post_id(post, index)
         detail_payload = load_optional_detail_payload(details_dir, post_id) if details_dir else None
-        rows.append(build_csv_row(post, detail_payload))
+        row = build_csv_row(post, detail_payload)
+        if media_dir:
+            row["thumbhash"] = compute_row_thumbhash(
+                row,
+                media_dir=media_dir,
+                thumbhash_cache=thumbhash_cache,
+            )
+        rows.append(row)
     return rows
 
 
@@ -692,6 +1095,14 @@ def write_csv_rows(path: Path, rows: list[dict[str, str]]) -> None:
         writer = csv.DictWriter(handle, fieldnames=CSV_FIELDS, lineterminator="\n")
         writer.writeheader()
         writer.writerows(rows)
+
+
+def load_csv_rows(path: Path) -> list[dict[str, str]]:
+    if not path.exists():
+        return []
+    with path.open("r", encoding="utf-8", newline="") as handle:
+        reader = csv.DictReader(handle)
+        return [dict(row) for row in reader]
 
 
 def load_manifest(path: Path) -> dict[str, Any]:
@@ -1259,11 +1670,46 @@ def run_export_csv(
     posts_path: Path,
     details_dir: Path | None,
     output_csv: Path,
+    media_dir: Path | None = DEFAULT_MEDIA_DIR,
 ) -> int:
     posts = load_posts_export(posts_path)
-    rows = build_csv_rows(posts, details_dir=details_dir)
+    rows = build_csv_rows(posts, details_dir=details_dir, media_dir=media_dir)
     write_csv_rows(output_csv, rows)
     print(f"[OK] Exported {len(rows)} rows -> {output_csv}")
+    return 0
+
+
+def update_csv_thumbhashes(
+    csv_path: Path,
+    *,
+    media_dir: Path | None = DEFAULT_MEDIA_DIR,
+) -> tuple[list[dict[str, str]], int]:
+    rows = load_csv_rows(csv_path)
+    thumbhash_cache: dict[Path, str] = {}
+    normalized_rows: list[dict[str, str]] = []
+    hashed_rows = 0
+
+    for row in rows:
+        normalized = normalize_csv_row(
+            row,
+            media_dir=media_dir,
+            thumbhash_cache=thumbhash_cache,
+        )
+        if normalized["thumbhash"]:
+            hashed_rows += 1
+        normalized_rows.append(normalized)
+
+    write_csv_rows(csv_path, normalized_rows)
+    return normalized_rows, hashed_rows
+
+
+def run_update_csv_thumbhashes(
+    *,
+    csv_path: Path,
+    media_dir: Path | None,
+) -> int:
+    rows, hashed_rows = update_csv_thumbhashes(csv_path, media_dir=media_dir)
+    print(f"[OK] Updated {len(rows)} rows -> {csv_path} (thumbhash={hashed_rows})")
     return 0
 
 
@@ -1321,6 +1767,10 @@ def run_backup_post(
     if dry_run:
         print(f"[DRY RUN] Skipped writing {csv_output_path}")
         return 0
+
+    existing_posts = load_posts_export(posts_path)
+    updated_posts = upsert_post(existing_posts, post_record)
+    dump_json(posts_path, updated_posts)
 
     log_info("Step 4/4: regenerate compact CSV")
     return run_export_csv(
@@ -1390,6 +1840,7 @@ def run_interactive_menu() -> int:
     print("2. Download post media")
     print("3. Build compact CSV from posts.json + details")
     print("4. Backup single post into details + media + posts.min.csv (không sửa posts.json)")
+    print("5. Update thumbhashes in posts.min.csv")
     print("0. Exit")
 
     choice = prompt_text("Chọn chức năng", "1")
@@ -1459,6 +1910,12 @@ def run_interactive_menu() -> int:
             dry_run=prompt_text("Dry run? y/N", "n").lower() == "y",
         )
 
+    if choice == "5":
+        return run_update_csv_thumbhashes(
+            csv_path=DEFAULT_CSV_PATH,
+            media_dir=DEFAULT_MEDIA_DIR,
+        )
+
     print(f"Unknown choice: {choice}")
     return 1
 
@@ -1501,7 +1958,17 @@ def build_parser() -> argparse.ArgumentParser:
     csv_parser.add_argument("--posts-path", default=str(DEFAULT_POSTS_PATH))
     csv_parser.add_argument("--details-dir", default=str(DEFAULT_DETAILS_DIR))
     csv_parser.add_argument("--skip-details", action="store_true")
+    csv_parser.add_argument("--media-dir", default=str(DEFAULT_MEDIA_DIR))
+    csv_parser.add_argument("--skip-media", action="store_true")
     csv_parser.add_argument("--output-csv", default=str(DEFAULT_CSV_PATH))
+
+    thumbhash_parser = subparsers.add_parser(
+        "thumbhash-csv",
+        help="Update thumbhash values in an existing posts.min.csv file.",
+    )
+    thumbhash_parser.add_argument("--csv-path", default=str(DEFAULT_CSV_PATH))
+    thumbhash_parser.add_argument("--media-dir", default=str(DEFAULT_MEDIA_DIR))
+    thumbhash_parser.add_argument("--skip-media", action="store_true")
 
     backup_parser = subparsers.add_parser(
         "backup-post",
@@ -1567,10 +2034,19 @@ def main(argv: list[str] | None = None) -> int:
 
     if args.command == "csv":
         details_dir = None if args.skip_details else Path(args.details_dir).expanduser().resolve()
+        media_dir = None if args.skip_media else Path(args.media_dir).expanduser().resolve()
         return run_export_csv(
             posts_path=Path(args.posts_path).expanduser().resolve(),
             details_dir=details_dir,
+            media_dir=media_dir,
             output_csv=Path(args.output_csv).expanduser().resolve(),
+        )
+
+    if args.command == "thumbhash-csv":
+        media_dir = None if args.skip_media else Path(args.media_dir).expanduser().resolve()
+        return run_update_csv_thumbhashes(
+            csv_path=Path(args.csv_path).expanduser().resolve(),
+            media_dir=media_dir,
         )
 
     if args.command == "backup-post":

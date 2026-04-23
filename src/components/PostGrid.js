@@ -3,6 +3,7 @@ import { GRID_BATCH_SIZE, PLACEHOLDER_SVG } from '../config/constants.js';
 import {
     getPostCopy,
     getPostEngagement,
+    getPostThumbhashDataUrl,
     handleImageFallback,
     mediaSummary,
     mediaUrl
@@ -15,6 +16,7 @@ function PostCard(props) {
     var post = props.post;
     var imgRef = useRef(null);
     var cover = mediaUrl(post);
+    var thumbhashPlaceholder = getPostThumbhashDataUrl(post) || PLACEHOLDER_SVG;
     var mediaMeta = mediaSummary(post);
     var copy = getPostCopy(post);
     var engagement = getPostEngagement(post);
@@ -67,7 +69,7 @@ function PostCard(props) {
                           ref=${imgRef}
                           data-src=${cover.url}
                           data-fallback-index="0"
-                          src=${PLACEHOLDER_SVG}
+                          src=${thumbhashPlaceholder}
                           loading="lazy"
                           alt=${title}
                           onerror=${function (event) {

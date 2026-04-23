@@ -101,6 +101,8 @@ CSV output sẽ:
 - compact dữ liệu từ `posts.json`
 - inject `reactions`, `comments`, `shares`, `hashtags` từ detail file nếu có
 - sync ngược attachment từ `data/details` vào `posts.json` trước khi build CSV
+- merge text duy nhất từ `message`, `title`, `summary` vào một cột `message`
+- generate `thumbhash` từ thumbnail có sẵn trong `media/` nếu tìm thấy
 - bỏ field `url`
 
 CLI tương đương:
@@ -109,7 +111,16 @@ CLI tương đương:
 python3 scripts/posts_tool.py csv \
   --posts-path data/posts.json \
   --details-dir data/details \
+  --media-dir media \
   --output-csv data/posts.min.csv
+```
+
+Refresh thumbhash cho CSV hiện có:
+
+```bash
+python3 scripts/posts_tool.py thumbhash-csv \
+  --csv-path data/posts.min.csv \
+  --media-dir media
 ```
 
 ## 4. Backup single post
