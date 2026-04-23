@@ -26,12 +26,12 @@ DEFAULT_DETAILS_DIR = ROOT_DIR / "data" / "details"
 DEFAULT_MEDIA_DIR = ROOT_DIR / "media"
 DEFAULT_CSV_PATH = ROOT_DIR / "data" / "posts.min.csv"
 DEFAULT_DETAILS_MANIFEST = DEFAULT_DETAILS_DIR / "_manifest.json"
-DEFAULT_MEDIA_MANIFEST_NAME = "download_manifest.json"
 DEFAULT_API_ENDPOINT = "https://api.fbaio.xyz/call"
 DEFAULT_DETAIL_API_ENDPOINT = DEFAULT_API_ENDPOINT
 DEFAULT_DETAIL_API_NAME = "get_fb_post_info"
 DEFAULT_MEDIA_API_ENDPOINT = DEFAULT_API_ENDPOINT
 DEFAULT_MEDIA_API_NAME = "get_fb_video_info"
+DEFAULT_PHOTO_API_NAME = "get_largest_photo"
 DEFAULT_CLIENT_ID = "YOUR_CLIENT_ID"
 CSV_FIELDS = [
     "post_id",
@@ -104,8 +104,6 @@ class AttachmentJob:
 @dataclass
 class ResumeState:
     output_dir: Path
-    manifest_path: Path
-    jobs: dict[str, dict[str, str]] = field(default_factory=dict)
     files_by_stem: dict[str, set[str]] = field(default_factory=dict)
 
 
@@ -121,10 +119,6 @@ def read_posts_list(path: Path) -> list[dict[str, Any]]:
     if not path.exists():
         return []
     return load_posts_export(path)
-
-
-def write_posts_list(path: Path, posts: list[dict[str, Any]]) -> None:
-    dump_json(path, posts)
 
 
 def log_info(message: str) -> None:
@@ -234,6 +228,16 @@ def unwrap_response(payload: Any) -> Any:
 def infer_attachment_type(node: dict[str, Any], hinted_type: str | None = None) -> str:
     if hinted_type:
         return hinted_type
+
+    url_candidates = (
+        node.get("url"),
+        get_nested(node, "video", "url"),
+        get_nested(node, "video", "playable_url"),
+    )
+    for candidate in url_candidates:
+        text = as_http_url(candidate)
+        if text and "/videos/" in text.lower():
+            return "Video"
 
     raw_type = first_text(node.get("type"), node.get("__typename"))
     if raw_type:
@@ -421,46 +425,6 @@ def extract_unique_detail_attachments(payload: Any) -> list[dict[str, Any]]:
                 merged[key] = value
         by_id[attachment_id] = merged
     return list(by_id.values())
-
-
-def merge_attachment_payloads(existing: dict[str, Any], incoming: dict[str, Any]) -> dict[str, Any]:
-    merged = deepcopy(existing)
-    for key, value in incoming.items():
-        if value not in (None, "", [], {}):
-            merged[key] = value
-    return merged
-
-
-def merge_attachments(
-    existing_items: list[Any],
-    extracted_items: list[dict[str, Any]],
-) -> tuple[list[dict[str, Any]], int, int]:
-    by_id: OrderedDict[str, dict[str, Any]] = OrderedDict()
-    deduped_existing = 0
-
-    for item in existing_items:
-        if not isinstance(item, dict):
-            continue
-        attachment_id = as_str(item.get("id"))
-        if not attachment_id:
-            continue
-        normalized_existing = {key: value for key, value in item.items() if value is not None}
-        if attachment_id in by_id:
-            deduped_existing += 1
-            by_id[attachment_id] = merge_attachment_payloads(by_id[attachment_id], normalized_existing)
-            continue
-        by_id[attachment_id] = normalized_existing
-
-    added = 0
-    for item in extracted_items:
-        attachment_id = item["id"]
-        if attachment_id in by_id:
-            by_id[attachment_id] = merge_attachment_payloads(by_id[attachment_id], item)
-        else:
-            by_id[attachment_id] = deepcopy(item)
-            added += 1
-
-    return list(by_id.values()), added, deduped_existing
 
 
 def extract_post_json_attachments(post: dict[str, Any], post_id: str) -> list[dict[str, Any]]:
@@ -693,65 +657,6 @@ def build_post_from_detail_payload(post_id: str, payload: Any) -> dict[str, Any]
     }
 
 
-def enrich_post_with_detail(post: dict[str, Any], detail_payload: Any) -> tuple[dict[str, Any], bool, int]:
-    detail_attachments = extract_unique_detail_attachments(detail_payload)
-    if not detail_attachments:
-        return post, False, 0
-
-    enriched_post = deepcopy(post)
-    content = enriched_post.get("content")
-    if not isinstance(content, dict):
-        content = {}
-        enriched_post["content"] = content
-
-    merged_attachments, added, _deduped_existing = merge_attachments(
-        content.get("attachments") if isinstance(content.get("attachments"), list) else [],
-        detail_attachments,
-    )
-
-    if merged_attachments == content.get("attachments"):
-        return enriched_post, False, added
-
-    content["attachments"] = merged_attachments
-    return enriched_post, True, added
-
-
-def upsert_post(posts: list[dict[str, Any]], new_post: dict[str, Any]) -> list[dict[str, Any]]:
-    post_id = as_str(new_post.get("post_id") or new_post.get("id")) or ""
-    remaining = [
-        post
-        for post in posts
-        if (as_str(post.get("post_id") or post.get("id")) or "") != post_id
-    ]
-    remaining.append(new_post)
-    remaining.sort(key=lambda post: int(post.get("creation_time") or 0), reverse=True)
-    return remaining
-
-
-def sync_posts_with_details(posts: list[dict[str, Any]], details_dir: Path | None) -> tuple[list[dict[str, Any]], int, int]:
-    if not details_dir:
-        return posts, 0, 0
-
-    changed = 0
-    added_attachments = 0
-    synced_posts: list[dict[str, Any]] = []
-
-    for index, post in enumerate(posts, start=1):
-        post_id = normalize_post_id(post, index)
-        detail_payload = load_optional_detail_payload(details_dir, post_id)
-        if not detail_payload:
-            synced_posts.append(post)
-            continue
-
-        enriched_post, did_change, added = enrich_post_with_detail(post, detail_payload)
-        if did_change:
-            changed += 1
-        added_attachments += added
-        synced_posts.append(enriched_post)
-
-    return synced_posts, changed, added_attachments
-
-
 def build_csv_row(post: dict[str, Any], detail_payload: Any | None) -> dict[str, str]:
     post_id = as_str(post.get("post_id") or post.get("id")) or ""
     content = post.get("content") if isinstance(post.get("content"), dict) else {}
@@ -918,62 +823,60 @@ def fetch_video_api_fields(api_config: APIConfig, attachment_id: str) -> tuple[s
     )
 
 
+def fetch_photo_api_uri(
+    endpoint: str,
+    client_id: str,
+    photo_id: str,
+    api_name: str = DEFAULT_PHOTO_API_NAME,
+) -> str:
+    payload = {
+        "id": client_id,
+        "apiname": api_name,
+        "apiparams": {"photo_id": photo_id},
+    }
+    api_payload = api_request_json(endpoint, payload)
+    if not isinstance(api_payload, dict):
+        raise RuntimeError("Photo API response is not an object.")
+
+    payload_root = api_payload.get("result") if isinstance(api_payload.get("result"), dict) else api_payload
+    if not isinstance(payload_root, dict):
+        raise RuntimeError("Photo API response does not contain a usable result object.")
+
+    candidates = (
+        payload_root.get("uri"),
+        payload_root.get("url"),
+        payload_root.get("src"),
+        get_nested(payload_root, "image", "uri"),
+        get_nested(payload_root, "image", "url"),
+        get_nested(payload_root, "photo", "uri"),
+        get_nested(payload_root, "photo", "url"),
+    )
+    refreshed_url = first_http_url(*candidates)
+    if not refreshed_url:
+        raise RuntimeError("Photo API response does not contain a usable image URL.")
+    return refreshed_url
+
+
 def ensure_output_dir(path: Path, create: bool) -> Path:
     if create:
         path.mkdir(parents=True, exist_ok=True)
     return path
 
 
-def load_manifest_jobs(manifest_path: Path) -> dict[str, dict[str, str]]:
-    jobs: dict[str, dict[str, str]] = {}
-    if not manifest_path.exists():
-        return jobs
-    try:
-        payload = json.loads(manifest_path.read_text(encoding="utf-8"))
-    except json.JSONDecodeError:
-        return jobs
-    raw_jobs = payload.get("jobs", {}) if isinstance(payload, dict) else {}
-    if not isinstance(raw_jobs, dict):
-        return jobs
-    for stem, artifacts in raw_jobs.items():
-        if isinstance(stem, str) and isinstance(artifacts, dict):
-            jobs[stem] = {
-                kind: filename
-                for kind, filename in artifacts.items()
-                if isinstance(kind, str) and isinstance(filename, str)
-            }
-    return jobs
-
-
-def load_resume_state(output_dir: Path, manifest_name: str) -> ResumeState:
-    manifest_path = output_dir / manifest_name
-    jobs = load_manifest_jobs(manifest_path)
+def load_resume_state(output_dir: Path) -> ResumeState:
     files_by_stem: dict[str, set[str]] = {}
     if output_dir.exists():
         for path in output_dir.iterdir():
-            if not path.is_file() or path.name == manifest_name:
+            if not path.is_file():
                 continue
             files_by_stem.setdefault(path.stem, set()).add(path.suffix.lower())
     return ResumeState(
         output_dir=output_dir,
-        manifest_path=manifest_path,
-        jobs=jobs,
         files_by_stem=files_by_stem,
     )
 
 
-def persist_resume_state(state: ResumeState) -> None:
-    payload = {"jobs": state.jobs}
-    state.manifest_path.write_text(
-        json.dumps(payload, indent=2, sort_keys=True, ensure_ascii=False) + "\n",
-        encoding="utf-8",
-    )
-
-
 def artifact_exists(state: ResumeState, stem: str, kind: str) -> bool:
-    manifest_file = state.jobs.get(stem, {}).get(kind)
-    if manifest_file and (state.output_dir / manifest_file).exists():
-        return True
     suffixes = state.files_by_stem.get(stem, set())
     if kind in {"image", "thumbnail"}:
         return bool(suffixes & IMAGE_FILE_EXTENSIONS)
@@ -983,9 +886,7 @@ def artifact_exists(state: ResumeState, stem: str, kind: str) -> bool:
 
 
 def record_artifact(state: ResumeState, stem: str, kind: str, path: Path) -> None:
-    state.jobs.setdefault(stem, {})[kind] = path.name
     state.files_by_stem.setdefault(stem, set()).add(path.suffix.lower())
-    persist_resume_state(state)
 
 
 def infer_extension_from_url(url: str) -> str | None:
@@ -1076,15 +977,29 @@ def process_media_job(
     attachment_type = job.attachment_type.lower()
 
     if attachment_type in IMAGE_TYPES:
-        if artifact_exists(resume_state, job.stem, "image"):
-            return "skipped-existing", "image already downloaded"
-        if mode == "videos":
-            return "skipped", "image job skipped in videos mode"
-        if not job.thumbnail_url:
-            return "skipped", "missing thumbnail URL"
-        saved_path = download_binary(job.thumbnail_url, output_dir, job.stem, ".jpg")
-        record_artifact(resume_state, job.stem, "image", saved_path)
-        return "downloaded", str(saved_path)
+        try:
+            if artifact_exists(resume_state, job.stem, "image"):
+                return "skipped-existing", "image already downloaded"
+            if mode == "videos":
+                return "skipped", "image job skipped in videos mode"
+            if not job.thumbnail_url:
+                return "skipped", "missing thumbnail URL"
+            image_url = job.thumbnail_url
+            try:
+                saved_path = download_binary(image_url, output_dir, job.stem, ".jpg")
+                detail = str(saved_path)
+            except Exception as exc:  # noqa: BLE001
+                refreshed_url = fetch_photo_api_uri(
+                    api_config.endpoint,
+                    api_config.client_id,
+                    job.attachment_id,
+                )
+                saved_path = download_binary(refreshed_url, output_dir, job.stem, ".jpg")
+                detail = f"{saved_path} (refreshed via {DEFAULT_PHOTO_API_NAME} after: {exc})"
+            record_artifact(resume_state, job.stem, "image", saved_path)
+            return "downloaded", detail
+        except Exception as exc:  # noqa: BLE001
+            return "skipped", f"image download failed: {exc}"
 
     if attachment_type in VIDEO_TYPES:
         try:
@@ -1274,7 +1189,6 @@ def run_download_media(
     mode: str = "all",
     api_delay_min: float = 2.0,
     api_delay_max: float = 5.0,
-    manifest_name: str = DEFAULT_MEDIA_MANIFEST_NAME,
     dry_run: bool = False,
     posts_override: list[dict[str, Any]] | None = None,
 ) -> int:
@@ -1289,14 +1203,11 @@ def run_download_media(
         jobs = jobs[:limit]
 
     output_dir = ensure_output_dir(output_dir, create=not dry_run)
-    resume_state = load_resume_state(output_dir, manifest_name)
-    if not dry_run:
-        persist_resume_state(resume_state)
+    resume_state = load_resume_state(output_dir)
 
     print(f"Output directory: {output_dir}")
     print(f"Mode: {mode}")
     print(f"Attachments queued: {len(jobs)}")
-    print(f"Manifest: {resume_state.manifest_path}")
 
     if dry_run:
         for job in jobs:
@@ -1350,14 +1261,7 @@ def run_export_csv(
     output_csv: Path,
 ) -> int:
     posts = load_posts_export(posts_path)
-    synced_posts, changed_posts, added_attachments = sync_posts_with_details(posts, details_dir)
-    if details_dir and (changed_posts > 0 or synced_posts != posts):
-        log_info(
-            f"Syncing posts.json from details: changed_posts={changed_posts} "
-            f"added_attachments={added_attachments}"
-        )
-        write_posts_list(posts_path, synced_posts)
-    rows = build_csv_rows(synced_posts, details_dir=details_dir)
+    rows = build_csv_rows(posts, details_dir=details_dir)
     write_csv_rows(output_csv, rows)
     print(f"[OK] Exported {len(rows)} rows -> {output_csv}")
     return 0
@@ -1394,19 +1298,9 @@ def run_backup_post(
         dry_run=dry_run,
     )
 
-    log_info("Step 2/4: build post record and upsert posts.json")
+    log_info("Step 2/4: build temporary post record for media/csv")
     post_record = build_post_from_detail_payload(normalized_post_id, payload)
-    current_posts = read_posts_list(posts_path)
-    next_posts = upsert_post(current_posts, post_record)
-
-    if not dry_run:
-        log_info(f"Writing posts dataset -> {posts_path}")
-        write_posts_list(posts_path, next_posts)
-
-    print(
-        f"[OK] Upserted post {normalized_post_id} into {posts_path} "
-        f"(source={detail_source}, total_posts={len(next_posts)})"
-    )
+    print(f"[OK] Cached detail for post {normalized_post_id} (source={detail_source})")
 
     log_info("Step 3/4: download media for this post")
     media_result = run_download_media(
@@ -1495,7 +1389,7 @@ def run_interactive_menu() -> int:
     print("1. Download post detail info")
     print("2. Download post media")
     print("3. Build compact CSV from posts.json + details")
-    print("4. Backup single post into details + media + posts.json + posts.min.csv")
+    print("4. Backup single post into details + media + posts.min.csv (không sửa posts.json)")
     print("0. Exit")
 
     choice = prompt_text("Chọn chức năng", "1")
@@ -1509,8 +1403,8 @@ def run_interactive_menu() -> int:
             DEFAULT_CLIENT_ID,
         )
         return run_download_details(
-            posts_path=prompt_required_path("Path tới posts.json", DEFAULT_POSTS_PATH),
-            details_dir=prompt_required_path("Output details dir", DEFAULT_DETAILS_DIR),
+            posts_path=DEFAULT_POSTS_PATH,
+            details_dir=DEFAULT_DETAILS_DIR,
             api_config=build_detail_api_config(endpoint, client_id),
             limit=prompt_int("Limit số post (để trống = tất cả)", None),
             force_refresh=prompt_text("Force refresh cache? y/N", "n").lower() == "y",
@@ -1526,9 +1420,9 @@ def run_interactive_menu() -> int:
             DEFAULT_CLIENT_ID,
         )
         return run_download_media(
-            posts_path=prompt_required_path("Path tới posts.json", DEFAULT_POSTS_PATH),
-            details_dir=prompt_optional_path("Path tới details dir", DEFAULT_DETAILS_DIR),
-            output_dir=prompt_required_path("Media output dir", DEFAULT_MEDIA_DIR),
+            posts_path=DEFAULT_POSTS_PATH,
+            details_dir=DEFAULT_DETAILS_DIR,
+            output_dir=DEFAULT_MEDIA_DIR,
             api_config=build_media_api_config(endpoint, client_id),
             limit=prompt_int("Limit số attachment (để trống = tất cả)", None),
             mode=prompt_text("Mode images/videos/all", "all"),
@@ -1539,9 +1433,9 @@ def run_interactive_menu() -> int:
 
     if choice == "3":
         return run_export_csv(
-            posts_path=prompt_required_path("Path tới posts.json", DEFAULT_POSTS_PATH),
-            details_dir=prompt_optional_path("Path tới details dir", DEFAULT_DETAILS_DIR),
-            output_csv=prompt_required_path("Output CSV path", DEFAULT_CSV_PATH),
+            posts_path=DEFAULT_POSTS_PATH,
+            details_dir=DEFAULT_DETAILS_DIR,
+            output_csv=DEFAULT_CSV_PATH,
         )
 
     if choice == "4":
@@ -1551,10 +1445,10 @@ def run_interactive_menu() -> int:
         )
         return run_backup_post(
             post_id=prompt_text("Post id"),
-            posts_path=prompt_required_path("Path tới posts.json", DEFAULT_POSTS_PATH),
-            details_dir=prompt_required_path("Details output dir", DEFAULT_DETAILS_DIR),
-            media_output_dir=prompt_required_path("Media output dir", DEFAULT_MEDIA_DIR),
-            csv_output_path=prompt_required_path("Output CSV path", DEFAULT_CSV_PATH),
+            posts_path=DEFAULT_POSTS_PATH,
+            details_dir=DEFAULT_DETAILS_DIR,
+            media_output_dir=DEFAULT_MEDIA_DIR,
+            csv_output_path=DEFAULT_CSV_PATH,
             detail_api_config=build_detail_api_config(endpoint, client_id),
             media_api_config=build_media_api_config(endpoint, client_id),
             force_refresh_detail=prompt_text("Force refresh detail cache? y/N", "n").lower() == "y",
@@ -1601,7 +1495,6 @@ def build_parser() -> argparse.ArgumentParser:
     media_parser.add_argument("--mode", choices=("images", "videos", "all"), default="all")
     media_parser.add_argument("--api-delay-min", type=float, default=2.0)
     media_parser.add_argument("--api-delay-max", type=float, default=5.0)
-    media_parser.add_argument("--manifest-name", default=DEFAULT_MEDIA_MANIFEST_NAME)
     media_parser.add_argument("--dry-run", action="store_true")
 
     csv_parser = subparsers.add_parser("csv", help="Build compact CSV from posts.json and details.")
@@ -1612,7 +1505,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     backup_parser = subparsers.add_parser(
         "backup-post",
-        help="Backup one post end-to-end into details, media, posts.json, and posts.min.csv.",
+        help="Backup one post into details, media, and posts.min.csv without modifying posts.json.",
     )
     backup_parser.add_argument("post_id")
     backup_parser.add_argument("--posts-path", default=str(DEFAULT_POSTS_PATH))
@@ -1669,7 +1562,6 @@ def main(argv: list[str] | None = None) -> int:
             mode=args.mode,
             api_delay_min=args.api_delay_min,
             api_delay_max=args.api_delay_max,
-            manifest_name=args.manifest_name,
             dry_run=args.dry_run,
         )
 

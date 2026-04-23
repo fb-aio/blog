@@ -63,7 +63,9 @@ export function parsePostsCSV(text) {
 export function renderMarkdown(text) {
     if (!text) return '';
     if (globalThis.window?.marked?.parse) {
-        return globalThis.window.marked.parse(String(text));
+        return globalThis.window.marked
+            .parse(String(text))
+            .replace(/<a\b(?![^>]*\btarget=)([^>]*)>/gi, '<a$1 target="_blank" rel="noopener noreferrer">');
     }
     return escapeHtml(text).replace(/\n/g, '<br>');
 }
@@ -71,6 +73,7 @@ export function renderMarkdown(text) {
 export function buildPostSearchHaystack(post) {
     return normalizeSearchText(
         [
+            post.post_id || '',
             post.title || '',
             post.message || '',
             post.summary || '',
@@ -309,17 +312,17 @@ export function allMedia(post) {
             const type = parts[0];
             const id = parts[1];
             const base = 'media/' + post.post_id + '_' + id + '.';
-            const candidates =
-                type === 'Video'
-                    ? [base + 'mp4']
-                    : IMAGE_EXTENSIONS.map(function (ext) {
-                          return base + ext;
-                      });
+            const imageCandidates = IMAGE_EXTENSIONS.map(function (ext) {
+                return base + ext;
+            });
+            const candidates = type === 'Video' ? [base + 'mp4'] : imageCandidates;
+            const previewCandidates = imageCandidates;
 
             return {
                 type,
                 id,
                 candidates,
+                previewCandidates,
                 url: candidates[0]
             };
         });
@@ -330,7 +333,31 @@ export function allMedia(post) {
 export function mediaUrl(post) {
     if (post._cover !== undefined) return post._cover;
     const media = allMedia(post);
-    post._cover = media.length > 0 ? media[0] : null;
+    if (media.length === 0) {
+        post._cover = null;
+        return post._cover;
+    }
+
+    const seen = new Set();
+    const previewCandidates = media
+        .flatMap(function (item) {
+            return item.previewCandidates || item.candidates || [];
+        })
+        .filter(function (candidate) {
+            return candidate && !seen.has(candidate) && seen.add(candidate);
+        });
+
+    if (previewCandidates.length === 0) {
+        post._cover = null;
+        return post._cover;
+    }
+
+    post._cover = {
+        type: 'Preview',
+        id: media[0].id,
+        candidates: previewCandidates,
+        url: previewCandidates[0]
+    };
     return post._cover;
 }
 

@@ -66,6 +66,11 @@ test('filterPosts matches hashtags through the shared search haystack', function
     assert.deepEqual(filtered.map(function (post) { return post.post_id; }), ['2']);
 });
 
+test('filterPosts matches post ids through the shared search haystack', function () {
+    const filtered = filterPosts(POSTS, '2', '', '', false, false);
+    assert.deepEqual(filtered.map(function (post) { return post.post_id; }), ['2']);
+});
+
 test('sortPosts sorts by oldest and newest deterministically', function () {
     assert.deepEqual(
         sortPosts(POSTS, 'oldest').map(function (post) { return post.post_id; }),
