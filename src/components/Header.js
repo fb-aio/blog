@@ -59,6 +59,18 @@ function Header(props) {
                                 <span>Extension</span>
                             </a>
 
+                            ${window.self === window.top
+                                ? html`<a
+                                      class="pill-button hero-link-button inline-flex items-center gap-2 rounded-full px-4 py-3 text-sm font-semibold no-underline"
+                                      href="https://fbaio.org/#/desktop"
+                                      target="_blank"
+                                      rel="noopener noreferrer"
+                                  >
+                                      <i class="fa-solid fa-desktop" aria-hidden="true"></i>
+                                      <span>AIO Desktop</span>
+                                  </a>`
+                                : null}
+
                             <button
                                 class="pill-button hero-link-button inline-flex items-center gap-2 rounded-full px-4 py-3 text-sm font-semibold"
                                 type="button"
