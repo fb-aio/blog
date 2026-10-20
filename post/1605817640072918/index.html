@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chia sẻ cách thu:ốc tik.tok của FB AIO 👀 | Social AIO Blog</title>
+<meta name="description" content="Vài tháng trước (10/2024) mình có viết bài chia sẻ, cho thấy api tik khó xơi như nào, rất nhiều lớp bảo mật. Sau 3 tháng (01/2025) mình đã tìm ra cách 🗿…">
+<link rel="canonical" href="https://blog.fbaio.org/post/1605817640072918/">
+<link rel="icon" type="image/png" href="/logo.png">
+<meta property="og:site_name" content="Social AIO Blog">
+<meta property="og:locale" content="vi_VN">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Chia sẻ cách thu:ốc tik.tok của FB AIO 👀 | Social AIO Blog">
+<meta property="og:description" content="Vài tháng trước (10/2024) mình có viết bài chia sẻ, cho thấy api tik khó xơi như nào, rất nhiều lớp bảo mật. Sau 3 tháng (01/2025) mình đã tìm ra cách 🗿…">
+<meta property="og:url" content="https://blog.fbaio.org/post/1605817640072918/">
+<meta property="article:published_time" content="2025-03-19T00:12:34+07:00">
+<meta property="og:image" content="https://blog.fbaio.org/media/1605817640072918_2796380507200198.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BlogPosting", "headline": "Chia sẻ cách thu:ốc tik.tok của FB AIO 👀", "description": "Vài tháng trước (10/2024) mình có viết bài chia sẻ, cho thấy api tik khó xơi như nào, rất nhiều lớp bảo mật. Sau 3 tháng (01/2025) mình đã tìm ra cách 🗿…", "datePublished": "2025-03-19T00:12:34+07:00", "dateModified": "2025-03-19T00:12:34+07:00", "inLanguage": "vi", "mainEntityOfPage": "https://blog.fbaio.org/post/1605817640072918/", "url": "https://blog.fbaio.org/post/1605817640072918/", "author": {"@type": "Organization", "name": "Social AIO", "url": "https://fbaio.org"}, "publisher": {"@type": "Organization", "name": "Social AIO", "url": "https://fbaio.org", "logo": {"@type": "ImageObject", "url": "https://blog.fbaio.org/logo.png"}}, "image": ["https://blog.fbaio.org/media/1605817640072918_2796380507200198.jpg"]}</script>
+<link rel="stylesheet" href="/post/post.css">
+</head>
+<body>
+<header class="top"><div class="wrap">
+<a class="brand" href="/post/"><img src="/logo.png" alt="Social AIO" width="28" height="28"><span>Social AIO Blog</span></a>
+<nav class="links"><a href="/post/">Tất cả bài viết</a><a href="https://fbaio.org/">Social AIO</a></nav>
+</div></header>
+<main><div class="wrap"><article>
+<h1>Chia sẻ cách thu:ốc tik.tok của FB AIO 👀</h1>
+<div class="meta"><time datetime="2025-03-19T00:12:34+07:00">19/03/2025</time> · Social AIO Blog</div>
+<div class="body">
+<p>Vài tháng trước (10/2024) mình có viết bài chia sẻ, cho thấy api tik khó xơi như nào, rất nhiều lớp bảo mật.</p>
+<p>Sau 3 tháng (01/2025) mình đã tìm ra cách 🗿 (chạy trên trình duyệt)</p>
+<p>────────────────</p>
+<h2>Bước 1: Tìm cách hoạt động của Tik</h2>
+<ol><li>🛜 Check network để biết api nào được gọi</li><li>🎛 Tìm xem các params api gửi đi xuất hiện ở đâu trong code</li><li>🐞 Debug để biết các params đó có giá trị gì, được tạo ra như nào</li></ol>
+<p>Sau hồi lâu tìm hiểu, mình nhận ra tik đã ghi đè lại hàm <strong>window.fetch, </strong>tự điền thêm các tham số bảo mật vào (xem hình).</p>
+<p>Mình thử gọi <strong>fetch</strong> trực tiếp trong <strong>Console</strong>, mà không kèm theo params x_bogus, ai dè gọi được thật 🤡</p>
+<p>Vậy là có thể gọi mọi api, chỉ cần gọi từ đúng website tik là được 🤔</p>
+<p>────────────────</p>
+<h2>Bước 2: Tìm cách gọi API Tik từ FB AIO</h2>
+<p>Làm sao để gọi api tik, từ FB AIO, nhưng vẫn có tham số bảo mật như khi gọi từ tik?</p>
+<p>Dễ thôi, 3 bước: 😎</p>
+<ol><li>✅ Mở website tik từ FB AIO bằng <strong>window.open </strong></li><li>✉️ Bắn message từ FB AIO sang tik, yêu cầu gọi api, với params được truyền qua</li><li>🏃Bên tik nhận message và thực thi hàm <strong>fetch</strong> (phải setup sẵn code lắng nghe message bằng extension)</li><li>✨ Trả kết quả từ tik về lại FB AIO</li></ol>
+<p>Có data rồi thì FB AIO chỉ cần hiển thị ra giao diện nữa là xong</p>
+<p>────────────────</p>
+<h2>Bước 3: Mở rộng</h2>
+<p>Mình nhận ra cách này có thể áp dụng cho nhiều trang web khác.</p>
+<p>Từ đó mình làm thêm chức năng cho:</p>
+<ul><li>✅ Duck race</li><li>✅ GGDrive video/pdf</li><li>✅ Bilibili video</li></ul>
+<p>Mình xin hết. Ai có câu hỏi cứ để dưới còm nhé 🔥</p>
+<p>#fb_aio</p>
+</div>
+<div class="media"><figure><img src="/media/1605817640072918_2796380507200198.jpg" alt="Chia sẻ cách thu:ốc tik.tok của FB AIO 👀 – hình 1" loading="lazy" decoding="async"></figure>
+<figure><img src="/media/1605817640072918_2796379997200249.jpg" alt="Chia sẻ cách thu:ốc tik.tok của FB AIO 👀 – hình 2" loading="lazy" decoding="async"></figure>
+<figure><img src="/media/1605817640072918_2796380050533577.jpg" alt="Chia sẻ cách thu:ốc tik.tok của FB AIO 👀 – hình 3" loading="lazy" decoding="async"></figure>
+<figure><img src="/media/1605817640072918_2796382317200017.jpg" alt="Chia sẻ cách thu:ốc tik.tok của FB AIO 👀 – hình 4" loading="lazy" decoding="async"></figure>
+<figure><img src="/media/1605817640072918_2796450577193191.jpg" alt="Chia sẻ cách thu:ốc tik.tok của FB AIO 👀 – hình 5" loading="lazy" decoding="async"></figure></div>
+<div class="cta">
+<a class="btn primary" href="/#post/1605817640072918">Xem trên blog (kèm bình luận)</a>
+<a class="btn" href="https://fbaio.org/">Dùng Social AIO tại fbaio.org</a>
+</div>
+</article></div></main>
+<footer><div class="wrap">
+Social AIO – bộ công cụ tự động hoá và tải dữ liệu cho Facebook, Instagram, TikTok, Threads. <a href="https://fbaio.org/">Dùng thử tại fbaio.org</a> · <a href="/">Blog (bản đầy đủ)</a>
+</div></footer>
+</body>
+</html>

@@ -38,3 +38,15 @@ python3 scripts/posts_tool.py thumbhash-csv --csv-path data/posts.min.csv --medi
 
 **VI:** Xem app này cùng nhiều công cụ, trò chơi miễn phí khác trong **[AIO Desktop](https://fbaio.org/#/desktop)** — màn hình kiểu Windows/macOS của Social AIO. [▶ Mở AIO Desktop](https://fbaio.org/#/desktop)
 <!-- aio-desktop:end -->
+
+## Trang tĩnh cho SEO (`/post/<id>/`, `sitemap.xml`, `robots.txt`)
+
+SPA dùng hash route nên Google không index từng bài. Script sinh bản HTML tĩnh cho các bài mà web app/extension trỏ tới:
+
+```bash
+python3 scripts/build_static_posts.py                # sinh lại từ scripts/static-post-ids.txt
+python3 scripts/build_static_posts.py --refresh-ids  # quét repo cha (src/, submodules/extension) lấy lại danh sách id
+python3 scripts/build_static_posts.py --all          # sinh cho mọi bài có dữ liệu
+```
+
+Kết quả: `post/<id>/index.html`, `post/index.html` (mục lục), `post/post.css`, `sitemap.xml`, `robots.txt`. Mỗi lần chạy xoá và tạo lại thư mục `post/` - không sửa tay. Khi thêm/sửa bài hoặc thêm link `blog.fbaio.org/#post/<id>` mới trong app: chạy lại rồi commit các file sinh ra.

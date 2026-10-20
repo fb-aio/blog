@@ -3,9 +3,25 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>FB AIO Blog</title>
+        <title>Social AIO Blog – Hướng dẫn &amp; thông báo</title>
+        <meta
+            name="description"
+            content="Blog Social AIO: hướng dẫn dùng các công cụ tải dữ liệu, tự động hoá và tiện ích cho Facebook, Instagram, TikTok, Threads, cùng thông báo cập nhật."
+        />
+        <link rel="canonical" href="https://blog.fbaio.org/" />
+        <meta property="og:site_name" content="Social AIO Blog" />
+        <meta property="og:title" content="Social AIO Blog" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://blog.fbaio.org/" />
         <link rel="icon" type="image/png" href="./logo.png" />
 
+        <script>
+            // Link /post/<id> chưa có trang tĩnh (SPA fallback) -> chuyển về route hash của SPA
+            (function () {
+                var m = location.pathname.match(/^\/post\/(\d+)\/?$/);
+                if (m) location.replace('/#post/' + m[1]);
+            })();
+        </script>
         <script>
             (function () {
                 var savedTheme = localStorage.getItem('theme');
@@ -57,6 +73,7 @@
 
     <body>
         <div id="root"></div>
+        <noscript><p><a href="/post/">Social AIO Blog – xem danh sách bài viết</a></p></noscript>
 
         <script type="module" src="./src/main.js"></script>
     </body>
