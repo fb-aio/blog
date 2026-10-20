@@ -47,6 +47,12 @@ SPA dùng hash route nên Google không index từng bài. Script sinh bản HTM
 python3 scripts/build_static_posts.py                # sinh lại từ scripts/static-post-ids.txt
 python3 scripts/build_static_posts.py --refresh-ids  # quét repo cha (src/, submodules/extension) lấy lại danh sách id
 python3 scripts/build_static_posts.py --all          # sinh cho mọi bài có dữ liệu
+python3 scripts/build_static_posts.py --linked-only  # chỉ các id trong static-post-ids.txt
+python3 scripts/build_static_posts.py --links        # quét lại ánh xạ bài -> route app (xem dưới)
 ```
+
+Mặc định = id trong `static-post-ids.txt` ∪ mọi bài có >= 300 ký tự text (bỏ markdown); bài thông báo ngắn bị bỏ qua (tránh thin content).
+
+**Ánh xạ bài → route app** (`--links`): (1) nguồn: file trong `src/` chứa link `blog.fbaio.org/#post/<id>` được map sang route qua `src/routes/menus.ts` (import `@screens/...` + `path:`; thư mục `BulkDownloader/<nền tảng>/` thêm `?platform=`); (2) nội dung: bài có link `fbaio.org/#/<route>`, `facebook-all-in-one.com/#/...`, `fb-aio.github.io/#/...`. Ghi ra `scripts/post-routes.json` (blog, dùng khi build) và `../../scripts/landing-pages/blog-links.json` (repo cha: `{route: [{id,title}]}`, mới nhất trước, tối đa 8/route). Route có query trong `PAGES` (vd `/bulk-downloader?platform=Facebook`) cũng nhận bài của route gốc, trừ bài đã gắn nền tảng khác. Hộp "Công cụ liên quan" (trỏ `https://fbaio.org/tinh-nang/<slug>/`) lấy từ `../../scripts/landing-pages/landing-blog.json` — chính danh sách bài mà `generate.js` của repo cha đã chọn cho mục "Bài hướng dẫn" (lọc theo `route` hoặc regex `blog` trong `pages.js`) → link luôn hai chiều. Thứ tự khi thêm landing page/bài mới: `build_static_posts.py --links` → `node scripts/landing-pages/generate.js` (repo cha) → `build_static_posts.py`.
 
 Kết quả: `post/<id>/index.html`, `post/index.html` (mục lục), `post/post.css`, `sitemap.xml`, `robots.txt`. Mỗi lần chạy xoá và tạo lại thư mục `post/` - không sửa tay. Khi thêm/sửa bài hoặc thêm link `blog.fbaio.org/#post/<id>` mới trong app: chạy lại rồi commit các file sinh ra.
